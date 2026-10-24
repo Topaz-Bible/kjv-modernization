@@ -1,8 +1,8 @@
 # Every word the modernized KJV changes
 
-The Topaz Bible's “Modernize spelling” option changes **40,164** of the KJV's **931,532** words (about 4.3%). It uses 1,078 word rules and 61 single-verse exceptions. The underlying text never changes: switch the option off and every word is back to the King James text.
+The Topaz Bible's “Modernize spelling” option changes **40,626** of the KJV's **931,532** words (about 4.4%). It uses 1,161 word rules and 61 single-verse exceptions. The underlying text never changes: switch the option off and every word is back to the King James text.
 
-Counts are how many times each change happens in the KJV, Apocrypha included. Generated from KJV package 1.4-primary.20261023.120.2.
+Counts are how many times each change happens in the KJV, Apocrypha included. Generated from KJV package 1.4-primary.20261023.120.3.
 
 ## At a glance
 
@@ -11,9 +11,9 @@ Counts are how many times each change happens in the KJV, Apocrypha included. Ge
 | Pronouns (thou, thee, ye, thy, thine, mine) | 8 | 22,406 |
 | Helping verbs and irregular forms (hath, doth, art, shalt…) | 16 | 8,770 |
 | Third-person “-eth” verbs (believeth → believes) | 687 | 5,759 |
-| Second-person “-est” verbs (thou knowest → you know) | 341 | 1,482 |
-| Old past tenses (spake → spoke, bare → bore) | 10 | 1,048 |
-| Old spellings (shew → show) | 16 | 652 |
+| Second-person “-est” verbs (thou knowest → you know) | 340 | 1,469 |
+| Old past tenses (spake → spoke, bare → bore) | 22 | 1,139 |
+| Old spellings (shew → show) | 88 | 1,036 |
 | Single-verse exceptions | 61 | 47 changed, the rest kept as written |
 
 ## Pronouns (thou, thee, ye, thy, thine, mine)
@@ -64,12 +64,24 @@ Past tenses that English later regularized. “Bare” becomes “bore” everyw
 | bare | bore |  | 191 |
 | sware | swore |  | 85 |
 | brake | broke |  | 77 |
+| digged | dug |  | 38 |
 | gat | got |  | 31 |
 | clave | cleaved |  | 14 |
 | drave | drove |  | 13 |
+| astonied | astonished |  | 10 |
+| forgat | forgot |  | 9 |
+| herdmen | herdsmen |  | 8 |
+| trode | trod |  | 8 |
+| forbad | forbade |  | 5 |
 | holpen | helped |  | 5 |
+| strawed | strewed |  | 5 |
+| lien | lain |  | 3 |
+| chode | chided |  | 2 |
 | strake | struck |  | 2 |
+| herdman | herdsman |  | 1 |
+| shaked | shook |  | 1 |
 | shapen | shaped |  | 1 |
+| strowed | strewed |  | 1 |
 
 ## Old spellings (shew → show)
 
@@ -79,20 +91,92 @@ Same word, modern spelling.
 |---|---|---|---:|
 | shew | show |  | 305 |
 | shewed | showed |  | 180 |
+| carcase | carcass |  | 35 |
+| brasen | brazen |  | 29 |
 | alway | always |  | 27 |
+| recompence | recompense |  | 25 |
 | sheweth | shows |  | 25 |
 | musick | music |  | 24 |
+| carcases | carcasses |  | 23 |
+| jubile | jubilee |  | 22 |
+| intreat | entreat |  | 20 |
+| intreated | entreated |  | 20 |
 | shewbread | showbread |  | 20 |
 | shewing | showing |  | 19 |
+| basons | basins |  | 18 |
+| stedfast | steadfast |  | 15 |
 | stablish | establish |  | 13 |
 | throughly | thoroughly |  | 12 |
+| morter | mortar |  | 11 |
+| stedfastly | steadfastly |  | 11 |
+| hungred | hungered |  | 9 |
+| inclosed | enclosed |  | 8 |
+| plaister | plaster |  | 8 |
 | cloke | cloak |  | 7 |
+| subtilty | subtlety |  | 7 |
+| sycomore | sycamore |  | 7 |
+| rereward | rearward |  | 6 |
+| subtil | subtle |  | 6 |
+| bason | basin |  | 5 |
+| expences | expenses |  | 5 |
 | graffed | grafted |  | 5 |
+| lothe | loathe |  | 5 |
 | publick | public |  | 5 |
 | stablished | established |  | 5 |
+| cieled | ceiled |  | 4 |
+| cummin | cumin |  | 4 |
+| grisled | grizzled |  | 4 |
+| spue | spew |  | 4 |
+| subtilly | subtly |  | 4 |
+| unsatiable | insatiable |  | 4 |
+| lothed | loathed |  | 3 |
+| payed | paid |  | 3 |
+| pourtrayed | portrayed |  | 3 |
+| spunge | sponge |  | 3 |
+| asswage | assuage |  | 2 |
+| asswaged | assuaged |  | 2 |
+| chesnut | chestnut |  | 2 |
+| clifts | clefts |  | 2 |
+| cuckow | cuckoo |  | 2 |
+| havock | havoc |  | 2 |
+| ospray | osprey |  | 2 |
+| pransings | prancings |  | 2 |
 | publickly | publicly |  | 2 |
+| recompences | recompenses |  | 2 |
+| repayed | repaid |  | 2 |
 | stablisheth | establishes |  | 2 |
+| stedfastness | steadfastness |  | 2 |
+| villany | villainy |  | 2 |
+| broided | braided |  | 1 |
+| chapt | chapped |  | 1 |
+| cieling | ceiling |  | 1 |
+| clift | cleft |  | 1 |
+| controul | control |  | 1 |
+| expence | expense |  | 1 |
+| fetcht | fetched |  | 1 |
 | graff | graft |  | 1 |
+| handywork | handiwork |  | 1 |
+| inclose | enclose |  | 1 |
+| inclosing | enclosing |  | 1 |
+| intreaties | entreaties |  | 1 |
+| intreating | entreating |  | 1 |
+| intreaty | entreaty |  | 1 |
+| jailor | jailer |  | 1 |
+| loaden | laden |  | 1 |
+| lothing | loathing |  | 1 |
+| lowring | lowering |  | 1 |
+| magick | magic |  | 1 |
+| marishes | marshes |  | 1 |
+| mastick | mastic |  | 1 |
+| mixt | mixed |  | 1 |
+| pourtray | portray |  | 1 |
+| pransing | prancing |  | 1 |
+| putrifying | putrefying |  | 1 |
+| ribband | ribbon |  | 1 |
+| slipt | slipped |  | 1 |
+| spued | spewed |  | 1 |
+| stript | stripped |  | 1 |
+| sycomores | sycamores |  | 1 |
 
 ## Second-person “-est” verbs (thou knowest → you know)
 
@@ -435,7 +519,6 @@ The verb ending that went with “thou”. With “thou” becoming “you”, t
 | weepest | weep |  | 4 |
 | wentest | went |  | 14 |
 | winkest | wink |  | 1 |
-| wist | knew |  | 13 |
 | withdrawest | withdraw |  | 1 |
 | withheldest | withheld |  | 1 |
 | woundedst | wounded |  | 1 |

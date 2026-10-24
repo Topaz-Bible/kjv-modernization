@@ -4,12 +4,12 @@
 
 *thou → you · hath → has · believeth → believes · thou knowest → you know · spake → spoke · shew → show*
 
-The King James text itself is never edited. These rules are a display layer: the reader shows the modern form of a word in place of the old one, and switching the option off brings back the original word for word. The changes are to word *forms* only. Words whose *meaning* has shifted ("let" for *hinder*, "prevent" for *go before*) are left alone, because changing them would be translation.
+The King James text itself is never edited. These rules are a display layer: the reader shows the modern form of a word in place of the old one, and switching the option off brings back the original word for word. The changes are to word *forms* only. Archaic *words* (wist, wot, sith, betwixt) and words whose *meaning* has shifted ("let" for *hinder*, "prevent" for *go before*) are left alone, because changing them would be translation.
 
 | | |
 |---:|---|
-| **40,164** | words changed, out of 931,532 in the KJV (4.3%) |
-| **1,078** | word rules |
+| **40,626** | words changed, out of 931,532 in the KJV (4.3%) |
+| **1,161** | word rules |
 | **61** | single-verse exceptions |
 
 ## What's here
@@ -56,7 +56,7 @@ The King James text itself is never edited. These rules are a display layer: the
 
 ## Versions
 
-Each release names the Topaz KJV package it was built from. See [CHANGELOG.md](CHANGELOG.md). The current files come from package `1.4-primary.20261023.120.2`.
+Each release names the Topaz KJV package it was built from. See [CHANGELOG.md](CHANGELOG.md). The current files come from package `1.4-primary.20261023.120.3`.
 
 ## Corrections
 

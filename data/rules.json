@@ -2,7 +2,7 @@
  "name": "Topaz Bible — KJV Modernized Word Forms",
  "licence": "CC0-1.0",
  "source_profile": "eng.bible.kjv.modernized",
- "package_version": "1.4-primary.20261023.120.2",
+ "package_version": "1.4-primary.20261023.120.3",
  "mode": "display_only",
  "matching": {
   "token_field": "t",
@@ -34,8 +34,8 @@
  },
  "stats": {
   "tokens_in_kjv": 931532,
-  "tokens_changed": 40164,
-  "rules": 1078,
+  "tokens_changed": 40626,
+  "rules": 1161,
   "location_overrides": 61
  },
  "rules": [
@@ -8730,17 +8730,6 @@
    }
   },
   {
-   "id": "verb-wist-to-knew",
-   "enabled": true,
-   "category": "verb",
-   "match": {
-    "text": "wist"
-   },
-   "replace": {
-    "text": "knew"
-   }
-  },
-  {
    "id": "verb-commandedst-to-commanded",
    "enabled": true,
    "category": "verb",
@@ -9703,6 +9692,798 @@
    },
    "replace": {
     "text": "grafted"
+   }
+  },
+  {
+   "id": "spelling-intreat-to-entreat",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "intreat"
+   },
+   "replace": {
+    "text": "entreat"
+   }
+  },
+  {
+   "id": "spelling-intreated-to-entreated",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "intreated"
+   },
+   "replace": {
+    "text": "entreated"
+   }
+  },
+  {
+   "id": "spelling-intreaty-to-entreaty",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "intreaty"
+   },
+   "replace": {
+    "text": "entreaty"
+   }
+  },
+  {
+   "id": "spelling-intreaties-to-entreaties",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "intreaties"
+   },
+   "replace": {
+    "text": "entreaties"
+   }
+  },
+  {
+   "id": "spelling-intreating-to-entreating",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "intreating"
+   },
+   "replace": {
+    "text": "entreating"
+   }
+  },
+  {
+   "id": "spelling-brasen-to-brazen",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "brasen"
+   },
+   "replace": {
+    "text": "brazen"
+   }
+  },
+  {
+   "id": "spelling-stedfast-to-steadfast",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "stedfast"
+   },
+   "replace": {
+    "text": "steadfast"
+   }
+  },
+  {
+   "id": "spelling-stedfastly-to-steadfastly",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "stedfastly"
+   },
+   "replace": {
+    "text": "steadfastly"
+   }
+  },
+  {
+   "id": "spelling-stedfastness-to-steadfastness",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "stedfastness"
+   },
+   "replace": {
+    "text": "steadfastness"
+   }
+  },
+  {
+   "id": "spelling-recompence-to-recompense",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "recompence"
+   },
+   "replace": {
+    "text": "recompense"
+   }
+  },
+  {
+   "id": "spelling-recompences-to-recompenses",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "recompences"
+   },
+   "replace": {
+    "text": "recompenses"
+   }
+  },
+  {
+   "id": "spelling-bason-to-basin",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "bason"
+   },
+   "replace": {
+    "text": "basin"
+   }
+  },
+  {
+   "id": "spelling-basons-to-basins",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "basons"
+   },
+   "replace": {
+    "text": "basins"
+   }
+  },
+  {
+   "id": "spelling-jubile-to-jubilee",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "jubile"
+   },
+   "replace": {
+    "text": "jubilee"
+   }
+  },
+  {
+   "id": "spelling-subtil-to-subtle",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "subtil"
+   },
+   "replace": {
+    "text": "subtle"
+   }
+  },
+  {
+   "id": "spelling-subtilly-to-subtly",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "subtilly"
+   },
+   "replace": {
+    "text": "subtly"
+   }
+  },
+  {
+   "id": "spelling-subtilty-to-subtlety",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "subtilty"
+   },
+   "replace": {
+    "text": "subtlety"
+   }
+  },
+  {
+   "id": "spelling-morter-to-mortar",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "morter"
+   },
+   "replace": {
+    "text": "mortar"
+   }
+  },
+  {
+   "id": "spelling-inclose-to-enclose",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "inclose"
+   },
+   "replace": {
+    "text": "enclose"
+   }
+  },
+  {
+   "id": "spelling-inclosed-to-enclosed",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "inclosed"
+   },
+   "replace": {
+    "text": "enclosed"
+   }
+  },
+  {
+   "id": "spelling-inclosing-to-enclosing",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "inclosing"
+   },
+   "replace": {
+    "text": "enclosing"
+   }
+  },
+  {
+   "id": "spelling-lothe-to-loathe",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "lothe"
+   },
+   "replace": {
+    "text": "loathe"
+   }
+  },
+  {
+   "id": "spelling-lothed-to-loathed",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "lothed"
+   },
+   "replace": {
+    "text": "loathed"
+   }
+  },
+  {
+   "id": "spelling-lothing-to-loathing",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "lothing"
+   },
+   "replace": {
+    "text": "loathing"
+   }
+  },
+  {
+   "id": "spelling-hungred-to-hungered",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "hungred"
+   },
+   "replace": {
+    "text": "hungered"
+   }
+  },
+  {
+   "id": "spelling-plaister-to-plaster",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "plaister"
+   },
+   "replace": {
+    "text": "plaster"
+   }
+  },
+  {
+   "id": "spelling-sycomore-to-sycamore",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "sycomore"
+   },
+   "replace": {
+    "text": "sycamore"
+   }
+  },
+  {
+   "id": "spelling-sycomores-to-sycamores",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "sycomores"
+   },
+   "replace": {
+    "text": "sycamores"
+   }
+  },
+  {
+   "id": "spelling-expence-to-expense",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "expence"
+   },
+   "replace": {
+    "text": "expense"
+   }
+  },
+  {
+   "id": "spelling-expences-to-expenses",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "expences"
+   },
+   "replace": {
+    "text": "expenses"
+   }
+  },
+  {
+   "id": "spelling-rereward-to-rearward",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "rereward"
+   },
+   "replace": {
+    "text": "rearward"
+   }
+  },
+  {
+   "id": "spelling-cieled-to-ceiled",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "cieled"
+   },
+   "replace": {
+    "text": "ceiled"
+   }
+  },
+  {
+   "id": "spelling-cieling-to-ceiling",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "cieling"
+   },
+   "replace": {
+    "text": "ceiling"
+   }
+  },
+  {
+   "id": "spelling-payed-to-paid",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "payed"
+   },
+   "replace": {
+    "text": "paid"
+   }
+  },
+  {
+   "id": "spelling-repayed-to-repaid",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "repayed"
+   },
+   "replace": {
+    "text": "repaid"
+   }
+  },
+  {
+   "id": "spelling-spue-to-spew",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "spue"
+   },
+   "replace": {
+    "text": "spew"
+   }
+  },
+  {
+   "id": "spelling-spued-to-spewed",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "spued"
+   },
+   "replace": {
+    "text": "spewed"
+   }
+  },
+  {
+   "id": "spelling-asswage-to-assuage",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "asswage"
+   },
+   "replace": {
+    "text": "assuage"
+   }
+  },
+  {
+   "id": "spelling-asswaged-to-assuaged",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "asswaged"
+   },
+   "replace": {
+    "text": "assuaged"
+   }
+  },
+  {
+   "id": "spelling-cummin-to-cumin",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "cummin"
+   },
+   "replace": {
+    "text": "cumin"
+   }
+  },
+  {
+   "id": "spelling-grisled-to-grizzled",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "grisled"
+   },
+   "replace": {
+    "text": "grizzled"
+   }
+  },
+  {
+   "id": "spelling-pourtray-to-portray",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "pourtray"
+   },
+   "replace": {
+    "text": "portray"
+   }
+  },
+  {
+   "id": "spelling-pourtrayed-to-portrayed",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "pourtrayed"
+   },
+   "replace": {
+    "text": "portrayed"
+   }
+  },
+  {
+   "id": "spelling-unsatiable-to-insatiable",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "unsatiable"
+   },
+   "replace": {
+    "text": "insatiable"
+   }
+  },
+  {
+   "id": "spelling-clift-to-cleft",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "clift"
+   },
+   "replace": {
+    "text": "cleft"
+   }
+  },
+  {
+   "id": "spelling-clifts-to-clefts",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "clifts"
+   },
+   "replace": {
+    "text": "clefts"
+   }
+  },
+  {
+   "id": "spelling-pransing-to-prancing",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "pransing"
+   },
+   "replace": {
+    "text": "prancing"
+   }
+  },
+  {
+   "id": "spelling-pransings-to-prancings",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "pransings"
+   },
+   "replace": {
+    "text": "prancings"
+   }
+  },
+  {
+   "id": "spelling-spunge-to-sponge",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "spunge"
+   },
+   "replace": {
+    "text": "sponge"
+   }
+  },
+  {
+   "id": "spelling-mixt-to-mixed",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "mixt"
+   },
+   "replace": {
+    "text": "mixed"
+   }
+  },
+  {
+   "id": "spelling-slipt-to-slipped",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "slipt"
+   },
+   "replace": {
+    "text": "slipped"
+   }
+  },
+  {
+   "id": "spelling-stript-to-stripped",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "stript"
+   },
+   "replace": {
+    "text": "stripped"
+   }
+  },
+  {
+   "id": "spelling-chesnut-to-chestnut",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "chesnut"
+   },
+   "replace": {
+    "text": "chestnut"
+   }
+  },
+  {
+   "id": "spelling-cuckow-to-cuckoo",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "cuckow"
+   },
+   "replace": {
+    "text": "cuckoo"
+   }
+  },
+  {
+   "id": "spelling-havock-to-havoc",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "havock"
+   },
+   "replace": {
+    "text": "havoc"
+   }
+  },
+  {
+   "id": "spelling-ospray-to-osprey",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "ospray"
+   },
+   "replace": {
+    "text": "osprey"
+   }
+  },
+  {
+   "id": "spelling-villany-to-villainy",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "villany"
+   },
+   "replace": {
+    "text": "villainy"
+   }
+  },
+  {
+   "id": "spelling-broided-to-braided",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "broided"
+   },
+   "replace": {
+    "text": "braided"
+   }
+  },
+  {
+   "id": "spelling-chapt-to-chapped",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "chapt"
+   },
+   "replace": {
+    "text": "chapped"
+   }
+  },
+  {
+   "id": "spelling-controul-to-control",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "controul"
+   },
+   "replace": {
+    "text": "control"
+   }
+  },
+  {
+   "id": "spelling-fetcht-to-fetched",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "fetcht"
+   },
+   "replace": {
+    "text": "fetched"
+   }
+  },
+  {
+   "id": "spelling-handywork-to-handiwork",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "handywork"
+   },
+   "replace": {
+    "text": "handiwork"
+   }
+  },
+  {
+   "id": "spelling-jailor-to-jailer",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "jailor"
+   },
+   "replace": {
+    "text": "jailer"
+   }
+  },
+  {
+   "id": "spelling-loaden-to-laden",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "loaden"
+   },
+   "replace": {
+    "text": "laden"
+   }
+  },
+  {
+   "id": "spelling-lowring-to-lowering",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "lowring"
+   },
+   "replace": {
+    "text": "lowering"
+   }
+  },
+  {
+   "id": "spelling-magick-to-magic",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "magick"
+   },
+   "replace": {
+    "text": "magic"
+   }
+  },
+  {
+   "id": "spelling-marishes-to-marshes",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "marishes"
+   },
+   "replace": {
+    "text": "marshes"
+   }
+  },
+  {
+   "id": "spelling-mastick-to-mastic",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "mastick"
+   },
+   "replace": {
+    "text": "mastic"
+   }
+  },
+  {
+   "id": "spelling-putrifying-to-putrefying",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "putrifying"
+   },
+   "replace": {
+    "text": "putrefying"
+   }
+  },
+  {
+   "id": "spelling-ribband-to-ribbon",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "ribband"
+   },
+   "replace": {
+    "text": "ribbon"
+   }
+  },
+  {
+   "id": "spelling-carcase-to-carcass",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "carcase"
+   },
+   "replace": {
+    "text": "carcass"
+   }
+  },
+  {
+   "id": "spelling-carcases-to-carcasses",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "carcases"
+   },
+   "replace": {
+    "text": "carcasses"
    }
   },
   {
@@ -12007,6 +12788,138 @@
      "thou"
     ]
    }
+  },
+  {
+   "id": "verb-digged-to-dug",
+   "enabled": true,
+   "category": "verb",
+   "match": {
+    "text": "digged"
+   },
+   "replace": {
+    "text": "dug"
+   }
+  },
+  {
+   "id": "verb-astonied-to-astonished",
+   "enabled": true,
+   "category": "verb",
+   "match": {
+    "text": "astonied"
+   },
+   "replace": {
+    "text": "astonished"
+   }
+  },
+  {
+   "id": "verb-forgat-to-forgot",
+   "enabled": true,
+   "category": "verb",
+   "match": {
+    "text": "forgat"
+   },
+   "replace": {
+    "text": "forgot"
+   }
+  },
+  {
+   "id": "verb-herdman-to-herdsman",
+   "enabled": true,
+   "category": "verb",
+   "match": {
+    "text": "herdman"
+   },
+   "replace": {
+    "text": "herdsman"
+   }
+  },
+  {
+   "id": "verb-herdmen-to-herdsmen",
+   "enabled": true,
+   "category": "verb",
+   "match": {
+    "text": "herdmen"
+   },
+   "replace": {
+    "text": "herdsmen"
+   }
+  },
+  {
+   "id": "verb-trode-to-trod",
+   "enabled": true,
+   "category": "verb",
+   "match": {
+    "text": "trode"
+   },
+   "replace": {
+    "text": "trod"
+   }
+  },
+  {
+   "id": "verb-strawed-to-strewed",
+   "enabled": true,
+   "category": "verb",
+   "match": {
+    "text": "strawed"
+   },
+   "replace": {
+    "text": "strewed"
+   }
+  },
+  {
+   "id": "verb-strowed-to-strewed",
+   "enabled": true,
+   "category": "verb",
+   "match": {
+    "text": "strowed"
+   },
+   "replace": {
+    "text": "strewed"
+   }
+  },
+  {
+   "id": "verb-forbad-to-forbade",
+   "enabled": true,
+   "category": "verb",
+   "match": {
+    "text": "forbad"
+   },
+   "replace": {
+    "text": "forbade"
+   }
+  },
+  {
+   "id": "verb-lien-to-lain",
+   "enabled": true,
+   "category": "verb",
+   "match": {
+    "text": "lien"
+   },
+   "replace": {
+    "text": "lain"
+   }
+  },
+  {
+   "id": "verb-chode-to-chided",
+   "enabled": true,
+   "category": "verb",
+   "match": {
+    "text": "chode"
+   },
+   "replace": {
+    "text": "chided"
+   }
+  },
+  {
+   "id": "verb-shaked-to-shook",
+   "enabled": true,
+   "category": "verb",
+   "match": {
+    "text": "shaked"
+   },
+   "replace": {
+    "text": "shook"
+   }
   }
  ],
  "location_overrides": [
@@ -13019,6 +13932,7 @@
   "verb-mayest-to-may": 128,
   "verb-shalt-to-shall": 1759,
   "verb-eatest-to-eat": 3,
+  "spelling-subtil-to-subtle": 6,
   "pronoun-ye-to-you": 4279,
   "verb-doth-to-does": 249,
   "verb-art-to-are": 611,
@@ -13036,6 +13950,7 @@
   "verb-findeth-to-finds": 31,
   "verb-slayeth-to-slays": 7,
   "verb-repenteth-to-repents": 5,
+  "spelling-asswaged-to-assuaged": 2,
   "verb-spake-to-spoke": 629,
   "verb-remaineth-to-remains": 44,
   "verb-liveth-to-lives": 112,
@@ -13043,46 +13958,58 @@
   "verb-comest-to-come": 33,
   "verb-goest-to-go": 49,
   "spelling-throughly-to-thoroughly": 12,
+  "spelling-morter-to-mortar": 11,
   "spelling-shew-to-show": 305,
   "verb-curseth-to-curses": 13,
   "verb-didst-to-did": 172,
   "verb-saidst-to-said": 25,
+  "verb-herdmen-to-herdsmen": 8,
   "pronoun-thyself-to-yourself": 277,
   "verb-wilt-to-will": 269,
   "possessive-thine-default-to-your": 1047,
   "verb-seest-to-see": 47,
   "possessive-mine-before-listed-word-to-my": 641,
   "possessive-thine-after-punctuation-to-yours": 39,
+  "spelling-carcases-to-carcasses": 23,
   "verb-pleaseth-to-pleases": 12,
   "verb-camest-to-came": 31,
   "verb-seeth-to-sees": 64,
+  "spelling-fetcht-to-fetched": 1,
   "spelling-shewed-to-showed": 180,
   "verb-gat-to-got": 31,
   "verb-sawest-to-saw": 44,
   "verb-aileth-to-ails": 9,
+  "verb-digged-to-dug": 38,
   "verb-sware-to-swore": 85,
   "verb-lovest-to-love": 15,
   "verb-clave-to-cleaved": 14,
   "verb-fearest-to-fear": 3,
   "verb-saith-to-says": 1304,
+  "spelling-intreat-to-entreat": 20,
   "verb-standest-to-stand": 8,
   "verb-cometh-to-comes": 322,
   "verb-proceedeth-to-proceeds": 11,
   "verb-walketh-to-walks": 41,
+  "spelling-intreated-to-entreated": 20,
+  "verb-lien-to-lain": 3,
   "verb-toucheth-to-touches": 41,
   "verb-loveth-to-loves": 78,
   "verb-badest-to-bad": 1,
   "verb-blesseth-to-blesses": 9,
+  "spelling-subtilty-to-subtlety": 7,
   "verb-liest-to-lie": 5,
   "verb-wouldest-to-would": 49,
   "verb-knowest-to-know": 108,
   "verb-hadst-to-had": 32,
+  "spelling-chesnut-to-chestnut": 2,
+  "spelling-grisled-to-grizzled": 4,
   "verb-doeth-to-does": 107,
   "verb-anointedst-to-anointed": 1,
   "verb-vowedst-to-vowed": 1,
   "verb-longedst-to-longed": 2,
   "verb-findest-to-find": 4,
   "override-thine-standalone-gen-31-32-to-yours": 1,
+  "verb-chode-to-chided": 2,
   "verb-meeteth-to-meets": 4,
   "verb-asketh-to-asks": 13,
   "verb-breaketh-to-breaks": 25,
@@ -13093,7 +14020,9 @@
   "verb-longeth-to-longs": 4,
   "verb-fleddest-to-fled": 2,
   "verb-seekest-to-seek": 9,
+  "spelling-stript-to-stripped": 1,
   "verb-wotteth-to-wots": 1,
+  "verb-forgat-to-forgot": 9,
   "verb-canst-to-can": 68,
   "spelling-sheweth-to-shows": 25,
   "verb-drinketh-to-drinks": 20,
@@ -13115,11 +14044,13 @@
   "verb-dealest-to-deal": 2,
   "verb-bringeth-to-brings": 95,
   "verb-refuseth-to-refuses": 9,
+  "spelling-lothe-to-loathe": 5,
   "verb-exaltest-to-exalt": 1,
   "verb-brake-to-broke": 77,
   "verb-groweth-to-grows": 15,
   "verb-sitteth-to-sits": 46,
   "verb-eateth-to-eats": 59,
+  "spelling-bason-to-basin": 5,
   "verb-openeth-to-opens": 23,
   "verb-criest-to-cry": 5,
   "verb-drave-to-drove": 13,
@@ -13128,7 +14059,6 @@
   "verb-stretchedst-to-stretched": 1,
   "verb-healeth-to-heals": 5,
   "verb-heareth-to-hears": 57,
-  "verb-wist-to-knew": 13,
   "verb-commandeth-to-commands": 16,
   "verb-smotest-to-smote": 2,
   "verb-sittest-to-sit": 12,
@@ -13145,9 +14075,11 @@
   "verb-hateth-to-hates": 40,
   "verb-blindeth-to-blinds": 1,
   "verb-perverteth-to-perverts": 5,
+  "spelling-basons-to-basins": 18,
   "spelling-shewbread-to-showbread": 20,
   "spelling-alway-to-always": 27,
   "verb-coupleth-to-couples": 2,
+  "spelling-brasen-to-brazen": 29,
   "verb-covereth-to-covers": 28,
   "verb-dresseth-to-dresses": 1,
   "verb-lighteth-to-lights": 3,
@@ -13158,8 +14090,12 @@
   "verb-defileth-to-defiles": 10,
   "verb-broughtest-to-brought": 18,
   "verb-swarest-to-swore": 5,
+  "verb-strawed-to-strewed": 5,
   "verb-sayest-to-say": 41,
+  "spelling-clift-to-cleft": 1,
   "verb-brakest-to-broke": 5,
+  "spelling-inclosed-to-enclosed": 8,
+  "spelling-carcase-to-carcass": 35,
   "verb-sweareth-to-swears": 13,
   "verb-appertaineth-to-appertains": 6,
   "verb-offereth-to-offers": 18,
@@ -13168,6 +14104,8 @@
   "verb-parteth-to-parts": 4,
   "verb-cheweth-to-chews": 8,
   "verb-divideth-to-divides": 10,
+  "spelling-ospray-to-osprey": 2,
+  "spelling-cuckow-to-cuckoo": 2,
   "verb-beareth-to-bears": 29,
   "verb-spreadeth-to-spreads": 15,
   "verb-looketh-to-looks": 39,
@@ -13178,11 +14116,14 @@
   "verb-pertaineth-to-pertains": 7,
   "verb-owneth-to-owns": 2,
   "verb-seemeth-to-seems": 31,
+  "spelling-plaister-to-plaster": 8,
   "verb-rideth-to-rides": 7,
   "verb-killeth-to-kills": 25,
   "verb-hunteth-to-hunts": 1,
   "verb-catcheth-to-catches": 4,
   "verb-vomiteth-to-vomits": 1,
+  "spelling-spue-to-spew": 4,
+  "spelling-spued-to-spewed": 1,
   "verb-dwelleth-to-dwells": 68,
   "verb-turneth-to-turns": 40,
   "verb-committeth-to-commits": 19,
@@ -13191,6 +14132,7 @@
   "verb-profaneth-to-profanes": 1,
   "verb-reapest-to-reap": 2,
   "verb-blasphemeth-to-blasphemes": 5,
+  "spelling-jubile-to-jubilee": 22,
   "verb-buyest-to-buy": 2,
   "verb-pursueth-to-pursues": 8,
   "verb-valuest-to-value": 1,
@@ -13203,12 +14145,15 @@
   "verb-belongeth-to-belongs": 23,
   "verb-forbeareth-to-forbears": 3,
   "verb-oppresseth-to-oppresses": 5,
+  "spelling-rereward-to-rearward": 6,
+  "spelling-mixt-to-mixed": 1,
   "verb-layest-to-lay": 3,
   "verb-enviest-to-envy": 1,
   "verb-standeth-to-stands": 36,
   "verb-preparest-to-prepare": 3,
   "verb-sinneth-to-sins": 26,
   "verb-reproacheth-to-reproaches": 8,
+  "spelling-ribband-to-ribbon": 1,
   "verb-gathereth-to-gathers": 22,
   "verb-purifieth-to-purifies": 2,
   "verb-loatheth-to-loathes": 2,
@@ -13224,6 +14169,7 @@
   "verb-lacketh-to-lacks": 5,
   "verb-inheriteth-to-inherits": 1,
   "verb-possesseth-to-possesses": 2,
+  "verb-forbad-to-forbade": 5,
   "verb-passest-to-pass": 5,
   "verb-flieth-to-flies": 5,
   "verb-mightest-to-might": 23,
@@ -13285,6 +14231,7 @@
   "override-thine-standalone-deu-30-4-to-yours": 1,
   "verb-stirreth-to-stirs": 8,
   "verb-fluttereth-to-flutters": 1,
+  "spelling-recompence-to-recompense": 25,
   "verb-coucheth-to-couches": 1,
   "verb-enlargeth-to-enlarges": 4,
   "verb-teareth-to-tears": 6,
@@ -13293,11 +14240,13 @@
   "verb-buildeth-to-builds": 12,
   "verb-marchedst-to-marched": 1,
   "verb-abodest-to-abode": 1,
+  "spelling-pransings-to-prancings": 2,
   "verb-talkest-to-talk": 3,
   "verb-lappeth-to-laps": 2,
   "verb-boweth-to-bows": 4,
   "verb-calledst-to-called": 5,
   "verb-cheereth-to-cheers": 2,
+  "verb-trode-to-trod": 8,
   "verb-passedst-to-passed": 1,
   "verb-bearest-to-bear": 13,
   "verb-spakest-to-spoke": 16,
@@ -13310,6 +14259,7 @@
   "verb-grieveth-to-grieves": 3,
   "verb-lodgest-to-lodge": 1,
   "verb-diest-to-die": 1,
+  "spelling-stedfastly-to-steadfastly": 11,
   "verb-hearest-to-hear": 13,
   "verb-wroughtest-to-wrought": 1,
   "verb-winnoweth-to-winnows": 1,
@@ -13328,6 +14278,7 @@
   "spelling-musick-to-music": 24,
   "verb-seeketh-to-seeks": 47,
   "verb-slewest-to-slew": 1,
+  "spelling-subtilly-to-subtly": 4,
   "verb-hideth-to-hides": 20,
   "verb-huntest-to-hunt": 2,
   "verb-pisseth-to-pisses": 6,
@@ -13363,12 +14314,14 @@
   "verb-oughtest-to-ought": 5,
   "verb-barest-to-bore": 3,
   "verb-springeth-to-springs": 4,
+  "spelling-cieling-to-ceiling": 1,
   "verb-keepest-to-keep": 5,
   "verb-promisedst-to-promised": 3,
   "verb-prayeth-to-prays": 10,
   "verb-afflictest-to-afflict": 1,
   "verb-calleth-to-calls": 35,
   "verb-exceedeth-to-exceeds": 1,
+  "spelling-sycomore-to-sycamore": 7,
   "verb-feignest-to-feign": 2,
   "verb-sleepeth-to-sleeps": 7,
   "verb-ariseth-to-arises": 13,
@@ -13391,14 +14344,17 @@
   "verb-understandeth-to-understands": 12,
   "verb-reignest-to-reign": 1,
   "verb-triest-to-try": 3,
+  "spelling-cieled-to-ceiled": 4,
   "verb-shewest-to-show": 8,
   "verb-exceedest-to-exceed": 1,
   "spelling-stablished-to-established": 5,
   "verb-rulest-to-rule": 2,
   "verb-prepareth-to-prepares": 5,
+  "verb-strowed-to-strewed": 1,
   "verb-humbledst-to-humbled": 1,
   "verb-prospereth-to-prospers": 4,
   "verb-runneth-to-runs": 12,
+  "verb-astonied-to-astonished": 10,
   "verb-commandedst-to-commanded": 9,
   "verb-performeth-to-performs": 4,
   "verb-preservest-to-preserve": 2,
@@ -13456,6 +14412,7 @@
   "verb-mockest-to-mock": 1,
   "verb-exacteth-to-exacts": 1,
   "verb-deserveth-to-deserves": 1,
+  "spelling-stedfast-to-steadfast": 15,
   "verb-shutteth-to-shuts": 8,
   "verb-withholdeth-to-withholds": 4,
   "verb-looseth-to-looses": 2,
@@ -13493,6 +14450,7 @@
   "verb-strengtheneth-to-strengthens": 8,
   "verb-inhabiteth-to-inhabits": 3,
   "verb-emboldeneth-to-emboldens": 1,
+  "spelling-asswage-to-assuage": 2,
   "verb-gnasheth-to-gnashes": 3,
   "verb-sharpeneth-to-sharpens": 3,
   "verb-pleadeth-to-pleads": 3,
@@ -13517,6 +14475,7 @@
   "verb-cutteth-to-cuts": 7,
   "verb-weigheth-to-weighs": 3,
   "verb-comforteth-to-comforts": 5,
+  "spelling-clifts-to-clefts": 2,
   "verb-opposest-to-oppose": 1,
   "verb-liftest-to-lift": 5,
   "verb-causest-to-cause": 2,
@@ -13584,6 +14543,7 @@
   "verb-maintainest-to-maintain": 1,
   "verb-fillest-to-fill": 1,
   "verb-subdueth-to-subdues": 3,
+  "spelling-handywork-to-handiwork": 1,
   "verb-preventest-to-prevent": 1,
   "verb-inhabitest-to-inhabit": 1,
   "verb-restoreth-to-restores": 2,
@@ -13671,6 +14631,7 @@
   "verb-coveredst-to-covered": 2,
   "verb-watereth-to-waters": 5,
   "verb-openest-to-open": 2,
+  "verb-shaked-to-shook": 1,
   "verb-usest-to-use": 1,
   "verb-waketh-to-wakes": 4,
   "verb-dasheth-to-dashes": 2,
@@ -13688,6 +14649,7 @@
   "verb-travelleth-to-travells": 2,
   "verb-winketh-to-winks": 3,
   "verb-soweth-to-sows": 18,
+  "spelling-payed-to-paid": 3,
   "verb-wrongeth-to-wrongs": 1,
   "verb-rebuketh-to-rebukes": 4,
   "verb-scornest-to-scorn": 2,
@@ -13704,6 +14666,7 @@
   "verb-proclaimeth-to-proclaims": 1,
   "verb-seduceth-to-seduces": 1,
   "verb-roasteth-to-roasts": 2,
+  "spelling-repayed-to-repaid": 2,
   "verb-spareth-to-spares": 4,
   "verb-plucketh-to-plucks": 1,
   "verb-perceivest-to-perceive": 2,
@@ -13721,6 +14684,7 @@
   "verb-justifieth-to-justifies": 5,
   "verb-begetteth-to-begets": 3,
   "verb-intermeddleth-to-intermeddls": 1,
+  "spelling-intreaties-to-entreaties": 1,
   "verb-sticketh-to-sticks": 4,
   "verb-fretteth-to-frets": 1,
   "verb-deferreth-to-defers": 1,
@@ -13760,8 +14724,11 @@
   "verb-droppeth-to-drops": 1,
   "verb-observeth-to-observes": 1,
   "verb-knocketh-to-knocks": 4,
+  "spelling-inclose-to-enclose": 1,
+  "spelling-putrifying-to-putrefying": 1,
   "verb-fadeth-to-fades": 8,
   "verb-abhorrest-to-abhor": 3,
+  "spelling-sycomores-to-sycamores": 1,
   "verb-heweth-to-hews": 3,
   "verb-comfortedst-to-comforted": 1,
   "verb-mustereth-to-musters": 1,
@@ -13774,9 +14741,12 @@
   "verb-endeth-to-ends": 1,
   "verb-swimmeth-to-swims": 1,
   "verb-stayeth-to-stays": 2,
+  "spelling-cummin-to-cumin": 4,
   "verb-dreameth-to-dreams": 2,
+  "spelling-villany-to-villainy": 2,
   "override-bare-adjective-isa-32-11-18": 1,
   "verb-spoilest-to-spoil": 1,
+  "spelling-recompences-to-recompenses": 2,
   "verb-smootheth-to-smooths": 1,
   "verb-declareth-to-declares": 7,
   "verb-observest-to-observe": 1,
@@ -13786,6 +14756,7 @@
   "verb-frustrateth-to-frustrates": 1,
   "verb-striveth-to-strives": 3,
   "verb-stoopeth-to-stoops": 1,
+  "spelling-loaden-to-laden": 1,
   "override-bare-adjective-isa-47-2-11": 1,
   "verb-stinketh-to-stinks": 2,
   "verb-wakeneth-to-wakens": 2,
@@ -13815,6 +14786,8 @@
   "verb-glorieth-to-glories": 4,
   "verb-rejoicest-to-rejoice": 1,
   "override-bare-adjective-jer-13-22-28": 1,
+  "spelling-chapt-to-chapped": 1,
+  "spelling-lothed-to-loathed": 3,
   "verb-hatcheth-to-hatches": 1,
   "verb-closest-to-close": 1,
   "verb-prophesieth-to-prophesies": 7,
@@ -13833,10 +14806,14 @@
   "verb-affecteth-to-affects": 1,
   "verb-drewest-to-drew": 2,
   "verb-remainest-to-remain": 3,
+  "spelling-pourtray-to-portray": 1,
+  "spelling-pourtrayed-to-portrayed": 3,
+  "spelling-lothing-to-loathing": 1,
   "override-bare-adjective-ezk-16-7-41": 1,
   "verb-pouredst-to-poured": 1,
   "verb-deckedst-to-decked": 2,
   "override-bare-adjective-ezk-16-22-23": 1,
+  "spelling-unsatiable-to-insatiable": 4,
   "verb-hirest-to-hire": 1,
   "override-bare-adjective-ezk-16-39-44": 1,
   "verb-lotheth-to-lothes": 1,
@@ -13853,6 +14830,7 @@
   "verb-swimmest-to-swim": 1,
   "verb-devourest-to-devour": 1,
   "verb-meanest-to-mean-after-thou": 1,
+  "spelling-marishes-to-marshes": 1,
   "verb-appointeth-to-appoints": 1,
   "verb-altereth-to-alters": 2,
   "verb-servest-to-serve": 2,
@@ -13863,12 +14841,14 @@
   "override-bare-adjective-jol-1-7-17": 1,
   "verb-formeth-to-forms": 2,
   "verb-createth-to-creates": 1,
+  "verb-herdman-to-herdsman": 1,
   "verb-repentest-to-repent": 2,
   "verb-halteth-to-halts": 2,
   "verb-dishonoureth-to-dishonours": 6,
   "verb-pardoneth-to-pardons": 2,
   "verb-revengeth-to-revenges": 3,
   "verb-imagineth-to-imagines": 3,
+  "spelling-pransing-to-prancing": 1,
   "verb-readeth-to-reads": 4,
   "verb-ladeth-to-lades": 1,
   "spelling-stablisheth-to-establishes": 2,
@@ -13877,6 +14857,7 @@
   "verb-voweth-to-vows": 1,
   "verb-enforceth-to-enforces": 1,
   "verb-conquereth-to-conquers": 1,
+  "spelling-expences-to-expenses": 5,
   "verb-sufferest-to-suffer": 3,
   "verb-labourest-to-labour": 1,
   "verb-disquietest-to-disquiet": 1,
@@ -13892,6 +14873,7 @@
   "verb-quaketh-to-quakes": 1,
   "verb-occupieth-to-occupies": 2,
   "verb-envieth-to-envies": 4,
+  "spelling-intreating-to-entreating": 1,
   "verb-burieth-to-buries": 1,
   "verb-hurteth-to-hurts": 1,
   "verb-strake-to-struck": 2,
@@ -13923,12 +14905,14 @@
   "verb-feddest-to-fed": 1,
   "verb-abateth-to-abates": 2,
   "verb-nourisheth-to-nourishes": 5,
+  "spelling-magick-to-magic": 1,
   "verb-forecasteth-to-forecasts": 1,
   "verb-raineth-to-rains": 1,
   "verb-rooteth-to-roots": 1,
   "verb-angereth-to-angers": 2,
   "verb-requiteth-to-requites": 2,
   "verb-attendeth-to-attends": 1,
+  "spelling-controul-to-control": 1,
   "verb-ploweth-to-plows": 2,
   "verb-prayest-to-pray": 5,
   "verb-bestoweth-to-bestows": 1,
@@ -13945,6 +14929,7 @@
   "verb-vieweth-to-views": 1,
   "verb-nurtureth-to-nurtures": 1,
   "verb-tempteth-to-tempts": 2,
+  "spelling-expence-to-expense": 1,
   "verb-resisteth-to-resists": 5,
   "verb-promiseth-to-promises": 1,
   "verb-displeaseth-to-displeases": 1,
@@ -13993,14 +14978,19 @@
   "verb-clotheth-to-clothes": 1,
   "verb-endurest-to-endure": 1,
   "verb-offendeth-to-offends": 2,
+  "spelling-mastick-to-mastic": 1,
   "verb-maintaineth-to-maintains": 1,
+  "spelling-havock-to-havoc": 2,
+  "spelling-slipt-to-slipped": 1,
   "verb-succoureth-to-succours": 1,
   "verb-bordereth-to-borders": 1,
   "verb-demandest-to-demand": 1,
+  "spelling-inclosing-to-enclosing": 1,
   "verb-defendeth-to-defends": 1,
   "verb-beateth-to-beats": 2,
   "verb-forbiddeth-to-forbids": 2,
   "verb-wisheth-to-wishes": 1,
+  "spelling-hungred-to-hungered": 9,
   "yea-g3483-mat-5-37-6": 1,
   "yea-g3483-mat-5-37-7": 1,
   "nay-g3756-mat-5-37-8": 1,
@@ -14011,6 +15001,7 @@
   "verb-dureth-to-dures": 1,
   "nay-g3756-mat-13-29-4": 1,
   "yea-g3483-mat-13-51-15": 1,
+  "spelling-lowring-to-lowering": 1,
   "verb-savourest-to-savour": 2,
   "verb-owest-to-owe": 4,
   "verb-callest-to-call": 3,
@@ -14022,6 +15013,7 @@
   "verb-delayeth-to-delays": 2,
   "verb-reckoneth-to-reckons": 1,
   "verb-dippeth-to-dips": 2,
+  "spelling-spunge-to-sponge": 3,
   "verb-seweth-to-sews": 1,
   "verb-troublest-to-trouble": 1,
   "verb-foameth-to-foams": 2,
@@ -14071,6 +15063,7 @@
   "yea-g3483-act-5-8-19": 1,
   "verb-diddest-to-did": 1,
   "verb-persecutest-to-persecute": 6,
+  "spelling-jailor-to-jailer": 1,
   "nay-g3756-act-16-37-28": 1,
   "spelling-publickly-to-publicly": 2,
   "verb-preacheth-to-preaches": 3,
@@ -14117,6 +15110,7 @@
   "nay-g3756-2co-1-19-26": 1,
   "yea-g3483-2co-1-19-31": 1,
   "yea-g3483-2co-1-20-10": 1,
+  "spelling-intreaty-to-entreaty": 1,
   "verb-purposeth-to-purposes": 1,
   "verb-ministereth-to-ministers": 2,
   "verb-supplieth-to-supplies": 2,
@@ -14124,7 +15118,9 @@
   "verb-disannulleth-to-disannulls": 1,
   "verb-travailest-to-travail": 1,
   "verb-cherisheth-to-cherishes": 2,
+  "spelling-stedfastness-to-steadfastness": 2,
   "verb-opposeth-to-opposes": 1,
+  "spelling-broided-to-braided": 1,
   "verb-warreth-to-wars": 1,
   "verb-entangleth-to-entangles": 1,
   "verb-greeteth-to-greets": 1,

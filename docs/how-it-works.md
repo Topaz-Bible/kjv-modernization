@@ -95,6 +95,6 @@ A word's position is its number among the verse's words, counting from 1, with p
 ## Caveats for reuse
 
 - **Tokenization.** Overrides are keyed to Topaz's tokenization of the KJV, meaning token positions within a verse. Rules keyed only on word text work on any KJV text that splits words the same way. Overrides need the same tokenization or a remapping.
-- **Regenerating.** `tools/build_lists.py` rebuilds every list from the KJV package and reports any rule that never fires (there are none in 1.4-primary.20261023.120.2).
+- **Regenerating.** `tools/build_lists.py` rebuilds every list from the KJV package and reports any rule that never fires (there are none in 1.4-primary.20261023.120.3).
 - **Base text.** The KJV is in the public domain outside the United Kingdom. Inside the UK it is under Crown rights, administered by the Queen's (King's) Printer under letters patent.
 - **Licence.** These files are dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Use them for anything, with no attribution required, though a link back to topaz.bible is appreciated.
