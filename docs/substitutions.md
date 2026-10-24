@@ -1,8 +1,8 @@
 # Every word the modernized KJV changes
 
-The Topaz Bible's “Modernize spelling” option changes **40,158** of the KJV's **931,532** words (about 4.3%). It uses 1,076 word rules and 61 single-verse exceptions. The underlying text never changes: switch the option off and every word is back to the King James text.
+The Topaz Bible's “Modernize spelling” option changes **40,164** of the KJV's **931,532** words (about 4.3%). It uses 1,078 word rules and 61 single-verse exceptions. The underlying text never changes: switch the option off and every word is back to the King James text.
 
-Counts are how many times each change happens in the KJV, Apocrypha included. Generated from KJV package 1.4-primary.20261021.101.1.
+Counts are how many times each change happens in the KJV, Apocrypha included. Generated from KJV package 1.4-primary.20261023.120.2.
 
 ## At a glance
 
@@ -13,7 +13,7 @@ Counts are how many times each change happens in the KJV, Apocrypha included. Ge
 | Third-person “-eth” verbs (believeth → believes) | 687 | 5,759 |
 | Second-person “-est” verbs (thou knowest → you know) | 341 | 1,482 |
 | Old past tenses (spake → spoke, bare → bore) | 10 | 1,048 |
-| Old spellings (shew → show) | 14 | 646 |
+| Old spellings (shew → show) | 16 | 652 |
 | Single-verse exceptions | 61 | 47 changed, the rest kept as written |
 
 ## Pronouns (thou, thee, ye, thy, thine, mine)
@@ -87,10 +87,12 @@ Same word, modern spelling.
 | stablish | establish |  | 13 |
 | throughly | thoroughly |  | 12 |
 | cloke | cloak |  | 7 |
+| graffed | grafted |  | 5 |
 | publick | public |  | 5 |
 | stablished | established |  | 5 |
 | publickly | publicly |  | 2 |
 | stablisheth | establishes |  | 2 |
+| graff | graft |  | 1 |
 
 ## Second-person “-est” verbs (thou knowest → you know)
 

@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.1.0 — 2026-10-24
+
+Built from Topaz KJV package `1.4-primary.20261023.120.2`.
+
+- graff → graft and graffed → grafted (Romans 11, 6 words). "Graff" is the older spelling of the same word.
+- 1,078 word rules and 61 single-verse exceptions; 40,164 words change.
+
 ## 1.0.0 — 2026-10-21
 
 First public release, built from Topaz KJV package `1.4-primary.20261021.101.1`.

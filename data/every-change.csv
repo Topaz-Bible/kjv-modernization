@@ -37865,6 +37865,7 @@ ROM,11,10,16,alway,always,spelling-alway-to-always
 ROM,11,13,18,mine,my,possessive-mine-before-listed-word-to-my
 ROM,11,17,11,thou,you,pronoun-thou-to-you
 ROM,11,17,17,wert,were,verb-wert-to-were
+ROM,11,17,18,graffed,grafted,spelling-graffed-to-grafted
 ROM,11,17,25,partakest,partake,verb-partakest-to-partake
 ROM,11,18,8,thou,you,pronoun-thou-to-you
 ROM,11,18,10,thou,you,pronoun-thou-to-you
@@ -37872,6 +37873,7 @@ ROM,11,18,11,bearest,bear,verb-bearest-to-bear
 ROM,11,18,18,thee,you,pronoun-thee-to-you
 ROM,11,19,1,Thou,You,pronoun-thou-to-you
 ROM,11,19,2,wilt,will,verb-wilt-to-will
+ROM,11,19,14,graffed,grafted,spelling-graffed-to-grafted
 ROM,11,20,10,thou,you,pronoun-thou-to-you
 ROM,11,20,11,standest,stand,verb-standest-to-stand
 ROM,11,21,16,thee,you,pronoun-thee-to-you
@@ -37879,9 +37881,13 @@ ROM,11,22,16,thee,you,pronoun-thee-to-you
 ROM,11,22,19,thou,you,pronoun-thou-to-you
 ROM,11,22,25,thou,you,pronoun-thou-to-you
 ROM,11,22,27,shalt,shall,verb-shalt-to-shall
+ROM,11,23,13,graffed,grafted,spelling-graffed-to-grafted
+ROM,11,23,20,graff,graft,spelling-graff-to-graft
 ROM,11,24,3,thou,you,pronoun-thou-to-you
 ROM,11,24,4,wert,were,verb-wert-to-were
 ROM,11,24,17,wert,were,verb-wert-to-were
+ROM,11,24,18,graffed,grafted,spelling-graffed-to-grafted
+ROM,11,24,38,graffed,grafted,spelling-graffed-to-grafted
 ROM,11,25,7,ye,you,pronoun-ye-to-you
 ROM,11,25,15,ye,you,pronoun-ye-to-you
 ROM,11,30,3,ye,you,pronoun-ye-to-you

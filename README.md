@@ -8,8 +8,8 @@ The King James text itself is never edited. These rules are a display layer: the
 
 | | |
 |---:|---|
-| **40,158** | words changed, out of 931,532 in the KJV (4.3%) |
-| **1,076** | word rules |
+| **40,164** | words changed, out of 931,532 in the KJV (4.3%) |
+| **1,078** | word rules |
 | **61** | single-verse exceptions |
 
 ## What's here
@@ -56,7 +56,7 @@ The King James text itself is never edited. These rules are a display layer: the
 
 ## Versions
 
-Each release names the Topaz KJV package it was built from. See [CHANGELOG.md](CHANGELOG.md). The current files come from package `1.4-primary.20261021.101.1`.
+Each release names the Topaz KJV package it was built from. See [CHANGELOG.md](CHANGELOG.md). The current files come from package `1.4-primary.20261023.120.2`.
 
 ## Corrections
 

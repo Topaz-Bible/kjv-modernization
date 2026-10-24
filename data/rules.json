@@ -2,7 +2,7 @@
  "name": "Topaz Bible — KJV Modernized Word Forms",
  "licence": "CC0-1.0",
  "source_profile": "eng.bible.kjv.modernized",
- "package_version": "1.4-primary.20261021.101.1",
+ "package_version": "1.4-primary.20261023.120.2",
  "mode": "display_only",
  "matching": {
   "token_field": "t",
@@ -34,8 +34,8 @@
  },
  "stats": {
   "tokens_in_kjv": 931532,
-  "tokens_changed": 40158,
-  "rules": 1076,
+  "tokens_changed": 40164,
+  "rules": 1078,
   "location_overrides": 61
  },
  "rules": [
@@ -9684,6 +9684,28 @@
    }
   },
   {
+   "id": "spelling-graff-to-graft",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "graff"
+   },
+   "replace": {
+    "text": "graft"
+   }
+  },
+  {
+   "id": "spelling-graffed-to-grafted",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "graffed"
+   },
+   "replace": {
+    "text": "grafted"
+   }
+  },
+  {
    "id": "verb-gat-to-got",
    "enabled": true,
    "category": "verb",
@@ -14068,7 +14090,9 @@
   "verb-commendeth-to-commends": 4,
   "verb-willeth-to-wills": 1,
   "verb-repliest-to-reply": 1,
+  "spelling-graffed-to-grafted": 5,
   "verb-partakest-to-partake": 1,
+  "spelling-graff-to-graft": 1,
   "verb-exhorteth-to-exhorts": 1,
   "verb-alloweth-to-allows": 1,
   "verb-doubteth-to-doubts": 1,
