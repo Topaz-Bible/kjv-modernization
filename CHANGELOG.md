@@ -4,7 +4,7 @@
 
 Built from Topaz KJV package `1.4-primary.20261023.120.3`.
 
-- **83 new spelling and verb-form rules** (462 more words change):
+- **84 new spelling and verb-form rules** (462 more words change):
   - Spellings: intreat → entreat, brasen → brazen, stedfast → steadfast, recompence → recompense, bason → basin, jubile → jubilee, subtil → subtle, morter → mortar, inclose → enclose, lothe → loathe, carcase → carcass, plaister → plaster, sycomore → sycamore, and about 40 more.
   - Old verb forms, matching spake → spoke: digged → dug, astonied → astonished, forgat → forgot, trode → trod, forbad → forbade, lien → lain, chode → chided, shaked → shook, strawed → strewed.
 - **Removed wist → knew.** "Wist" is the past tense of a different verb (*wit*), so replacing it was a word change, not a spelling update. It now stays, like "wot".
