@@ -278,6 +278,43 @@ def merge(regions, K):
     return out
 
 
+def fit_woj(regions, K):
+    """Fit quotes of Jesus to the KJV's own red letters, which say where His words start and stop.
+
+    One unbroken stretch of red letters is one speech, so it gets one quote: from its first red word to
+    its last ("Verily I say unto you, “Except…" → "“Verily…"; "“And he said unto them, What man…" →
+    "What man…"). Two halves the BSB match left ("“There is no”", "“There is no man…”") become one.
+    A quote whose red words are broken by the narrator ("(he saith to the sick of the palsy,)") keeps
+    its edges, trimmed to red words. Returns the regions left.
+    """
+    runs = {}
+    for r in regions:
+        if '_s' not in r or r['level'] != 1 or r.get('term'):
+            continue
+        kl = K[r['chapter']]
+        red = lambda i: 'woj' in kl[i].f
+        s, e = r['_s'], r['_e']
+        if sum(red(i) for i in range(s, e + 1)) * 2 <= e - s + 1:
+            continue
+        while not red(s):
+            s += 1
+        while not red(e):
+            e -= 1
+        if not all(red(i) for i in range(s, e + 1)):
+            r['_s'], r['_e'] = s, e
+            continue
+        while s > 0 and red(s - 1):
+            s -= 1
+        while e < len(kl) - 1 and red(e + 1):
+            e += 1
+        runs.setdefault((r['chapter'], s, e), []).append(r)
+    gone = set()
+    for (ch, s, e), rs in runs.items():
+        rs[0]['_s'], rs[0]['_e'] = s, e
+        gone.update(id(r) for r in rs[1:])
+    return [r for r in regions if id(r) not in gone]
+
+
 def check(r, K, all_regions):
     kl = K[r['chapter']]
     s, e = r['_s'], r['_e']
@@ -380,6 +417,7 @@ def main():
         regions = carry_over(bk, B, K)
         snap(regions, K)
         regions = merge(regions, K)
+        regions = fit_woj(regions, K)
         for r in regions:
             if '_s' in r:
                 check(r, K, regions)

@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+- **Quotes of Jesus follow the red letters.** One unbroken stretch of the KJV's words of Jesus is one
+  speech and gets one quote, first red word to last: *“Verily I say unto you, Except ye be converted…”*,
+  not *Verily I say unto you, “Except…”*. Halves left by the BSB match are joined. Red-letter
+  disagreements fall from 82 to 4 (narrator asides inside His words, left for later); 46 more quotes ship.
 - **Words now written as one** ([`words/joins.csv`](words/joins.csv)): *to day* → *today*, *for ever*
   → *forever* and 15 more pairs, 912 places, as `join` token edits that close up the space.
   "Jesus Christ the same yesterday, and today, and forever" (Hebrews 13:8).
