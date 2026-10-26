@@ -95,5 +95,7 @@ breaks in ("(he saith to the sick of the palsy,)"), each red stretch gets its ow
 
 [`reviewed.csv`](reviewed.csv) records a decision per region (`book`, `start`, `end`): `ship` puts a
 region in the KJVm whatever its tier; `drop` keeps it out; `fix` moves its edges to `fix_start`/`fix_end`
-and ships it (a quote within a quote waits for the nested review). The categories are reviewed smallest first,
+and ships it (a quote within a quote waits for the nested review); `add` puts in a quote the matching
+never found (the BSB's words too far from the KJV's: "Why are you staring at one another?" for "Why
+do ye look one upon another?"). The categories are reviewed smallest first,
 nested quotes last.

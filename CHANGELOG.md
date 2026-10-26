@@ -2,6 +2,12 @@
 
 ## Unreleased
 
+- **The 200 quotes the BSB match couldn't place:** 162 are halves of a quote the KJV already has (the BSB
+  splits “Here,” she said, “…”); 13 are Psalm tune names the KJV leaves untranslated ("upon
+  Shoshannim"); 44 short replies are found by the KJV's own speech tag ("And he said, “Here am I.”"),
+  each read, 6 fixed or dropped by hand; 18 more added by hand (`add` in `quotes/reviewed.csv`). Left
+  without marks: Genesis 4:8 (the KJV has no words of Cain), and BSB term quotes the KJV words
+  differently ("let your yea be yea").
 - **Quotes of Jesus follow the red letters.** One unbroken stretch of the KJV's words of Jesus is one
   speech and gets one quote, first red word to last: *“Verily I say unto you, Except ye be converted…”*,
   not *Verily I say unto you, “Except…”*. Halves left by the BSB match are joined. Where the

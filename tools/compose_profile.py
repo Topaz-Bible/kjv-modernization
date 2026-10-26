@@ -144,7 +144,10 @@ def main():
             # Edges set by hand. A quote within a quote waits for its outer one (the nested review).
             r = {**r, 'start': row['fix_start'], 'end': row['fix_end']}
             decision = 'ship' if r['level'] == 1 else None
-        if decision != 'ship' and (r['tier'] not in QUOTE_TIERS or 'overlaps another quote' in r['checks']):
+        # Quotes the KJV's own speech tag found (no BSB anchor) were read one by one; the wrong ones
+        # are dropped or fixed in reviewed.csv.
+        found = r['checks'] == ['found by the KJV speech tag (no BSB anchor)']
+        if decision != 'ship' and not found and (r['tier'] not in QUOTE_TIERS or 'overlaps another quote' in r['checks']):
             continue
         if r.get('term'):
             shipped.append(r)
@@ -154,6 +157,12 @@ def main():
             start = f'{cv}:{int(n) + 1:03}'
         quotes[r['book']].append({'start': start, 'end': r['end'], 'level': r['level']})
 
+    # Quotes the BSB has that no rule could place in the KJV, added by hand.
+    for x in reviewed.values():
+        if x['decision'] == 'add':
+            quotes[x['book']].append({'start': x['start'], 'end': x['end'], 'level': 1})
+    for rs in quotes.values():
+        rs.sort(key=lambda q: q['start'])
     edits += term_edits(shipped)
     edits += join_edits(quotes)
     m['token_edits'] = edits

@@ -355,6 +355,39 @@ def split_narrator(regions, K):
     return sorted(out, key=lambda r: (r.get('chapter', 0), r.get('_s', -1)))
 
 
+def recover(regions, K):
+    """Quotes the BSB has where no word could anchor them ("Here I am," for "Here am I"; "Look," for
+    "Behold"): the KJV's own speech tag in that verse finds them. From the capital after an uncovered
+    "said," the quote runs to the end of the speech: it stops at a sentence end followed by narration
+    ("…than with them. And they pressed sore upon the man"), and runs on into the next verse when a
+    verse ends mid-sentence. Flagged, so they wait for a look before they ship."""
+    covered = collections.defaultdict(set)
+    for r in regions:
+        if '_s' in r:
+            covered[r['chapter']].update(range(r['_s'], r['_e'] + 1))
+    found = []
+    for r in regions:
+        if '_s' in r or r['level'] != 1:
+            continue
+        ch, v = r['chapter'], int(r['bsb'][0][4:7])
+        kl = K.get(ch)
+        if not kl:
+            continue
+        for i, w in enumerate(kl):
+            if (w.v != v or i + 1 >= len(kl) or kl[i + 1].v != v or not SPEECH.match(w.t)
+                    or not OPEN_PUNCT.search(w.a) or not kl[i + 1].t[:1].isupper() or i + 1 in covered[ch]):
+                continue
+            s = e = i + 1
+            # These are short replies ("Here am I.", "Go up."): the quote ends at the first sentence end,
+            # or at ": and" ("A troop cometh: and she called his name Gad"), or runs on into the next
+            # verse when this one ends mid-sentence.
+            while e + 1 < len(kl) and e + 1 not in covered[ch] and not STOP.search(kl[e].a) and not and_after(kl, e):
+                e += 1
+            covered[ch].update(range(s, e + 1))
+            found.append({**r, 'checks': ['found by the KJV speech tag (no BSB anchor)'], '_s': s, '_e': e})
+    return regions + found
+
+
 def fit_woj(regions, K):
     """Fit quotes of Jesus to the KJV's own red letters, which say where His words start and stop.
 
@@ -510,6 +543,7 @@ def main():
         regions = merge(regions, K)
         regions = fit_woj(regions, K)
         regions = split_narrator(regions, K)
+        regions = recover(regions, K)
         for r in regions:
             if '_s' in r:
                 check(r, K, regions)
