@@ -19,6 +19,13 @@ verse:
 - **Judas → Judah** only for the patriarch (Matthew 1:2–3). Judas Iscariot and the others stay.
 - **Aram → Ram** in Luke 3:33 is confirmed by hand. The BSB follows a different Greek text there.
 
+## The genealogies
+
+60 of the 201 changes fall in the genealogies of Jesus (Matthew 1:1–17, Luke 3:23–38): Phares → Pharez,
+Booz → Boaz, Ozias → Uzziah, Mathusala → Methuselah and so on. They are marked `"genealogy": true`
+so they can be changed or kept as a group. The BSB, NKJV, ESV and NIV all use the Old Testament forms
+there too. Whether Topaz changes them is still open.
+
 ## Files
 
 - [`changes.md`](changes.md): every change, and every shared name left alone.
