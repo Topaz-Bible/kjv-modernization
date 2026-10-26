@@ -22,6 +22,7 @@ The King James text itself is never edited. These rules are a display layer: the
 | [`data/rules.csv`](data/rules.csv) | The same rules, one row each, for spreadsheets |
 | [`docs/how-it-works.md`](docs/how-it-works.md) | How matching works, how the rules were made, caveats for reuse |
 | [`tools/build_lists.py`](tools/build_lists.py) | Rebuilds every file above from a Topaz KJV package (Python 3, no dependencies) |
+| [`quotes/`](quotes/README.md) | **Draft, not yet released.** Quotation marks for the KJV, carried over from the BSB and sorted for review |
 
 ## Three ways to use it
 
