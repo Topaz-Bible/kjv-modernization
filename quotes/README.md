@@ -72,14 +72,21 @@ was said". The 1611 translators kept ὅτι as the word "that", and set the nex
 they did for any speech. So the capital marks the start of the saying, not the subject. It does the
 job that quotation marks do now.
 
-How the KJVm handles it (`tools/compose_profile.py`):
+How the KJVm handles it (`tools/compose_profile.py`, decisions in [`reviewed.csv`](reviewed.csv)):
 
-- **Indirect speech** ("saying, That it was needful to circumcise them", Acts 15:5): lowercase
-  "that", no marks.
-- **Direct speech** ("Of whom it was said, That in Isaac shall thy seed be called", Hebrews 11:18):
-  lowercase "that", and open the quote after it: *it was said, that "in Isaac shall thy seed be
-  called."*
+- **Saying-"that"** (ὅτι, כִּי, אֲשֶׁר after a comma, colon or semicolon: 47 places): lowercase
+  "that", and **no quotation marks**, whether the words after it read as direct or indirect speech.
+  *He said, that John the Baptist was risen from the dead* (Mark 6:14); *Verily I say unto thee, that
+  this night… thou shalt deny me thrice* (Matthew 26:34). Marks after a "that" would read
+  `said, that “…”`, and the red letters still show where Jesus speaks. 21 regions are dropped this way.
+- **"That" meaning "what"** ("That thou doest, do quickly", John 13:27; "That which cometh out of the
+  man", Mark 7:20): a quote like any other, shipped.
 
-Either way every word stays. In the KJVm "That" is lowercased where the Greek is ὅτι or the Hebrew is
-כִּי or אֲשֶׁר and it follows a comma, colon or semicolon (47 places). A quote that opened on it opens
-on the next word instead. The regions are still flagged `opens with a capital "That"` in tier 4 here.
+Every word stays either way. Genesis 42:14 opens on "That" too, but holds a quote within the quote; it
+waits for the nested ones.
+
+## Reviewed regions
+
+[`reviewed.csv`](reviewed.csv) records a decision per region (`book`, `start`, `end`): `ship` puts a
+region in the KJVm whatever its tier; `drop` keeps it out. The categories are reviewed smallest first,
+nested quotes last.

@@ -9,7 +9,10 @@ The word rules already live in mod.json. This adds, from this repository's layer
                             "called the light Day" → “day”: a quoted term is lowercased where the BSB has
                             it lowercase and the KJV uses the word lowercase elsewhere (quotes or a capital,
                             not both)
-  quote_regions  {book: [{start, end, level}]}         (quotes/kjv-quotes.json, tiers 1–2 until the rest are reviewed)
+                   join     "To day" → "Today": no space before the second word (words/joins.csv); the
+                            two words stay two tokens, so each keeps its own Strong's number and tap
+  quote_regions  {book: [{start, end, level}]}         (quotes/kjv-quotes.json, tiers 1–2 until the rest are reviewed,
+                                                        plus the ones quotes/reviewed.csv ships, less the ones it drops)
 
 A quote that opens on a lowercased "that" opens on the next word instead:
 it was said, that “in Isaac shall thy seed be called.”
@@ -19,7 +22,7 @@ Everything else in mod.json is left byte-for-byte as it was.
 Run:  python3 tools/compose_profile.py [path/to/eng.bible.kjv.mod.json] [path/to/packages]
       (defaults: ../topaz/packages/eng.bible.kjv/eng.bible.kjv.mod.json and ../topaz-bible/assets/packages)
 """
-import json, re, sys, zipfile, collections
+import csv, json, re, sys, zipfile, collections
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
@@ -87,6 +90,35 @@ def term_edits(regions):
     return out
 
 
+def join_edits(quotes):
+    """Word pairs written as one word today ("to day" → "today"), set close up in the KJVm.
+
+    Not where punctuation, a line break or a quotation mark falls between the two words.
+    """
+
+    pairs = {(r['first'], r['second']) for r in csv.DictReader(open(REPO / 'words' / 'joins.csv'))}
+    marks = collections.defaultdict(set)
+    for bk, rs in quotes.items():
+        for r in rs:
+            marks[bk] |= {r['start'], r['end']}
+    kjv = zipfile.ZipFile(PKG / 'eng.bible.kjv.zip')
+    out = []
+    for b in json.loads(kjv.read('manifest.json'))['books']:
+        bk = b['book_id']
+        for c in json.loads(kjv.read(f'{bk}.json'))['chapters']:
+            for v in c['verses']:
+                T = v['tokens']
+                breaks = {m['position'] for m in v.get('markers', []) if m['type'] != 'heading'}
+                for a, t in zip(T, T[1:]):
+                    if (a['t'].lower(), t['t']) not in pairs or a.get('a') or t.get('b') or t['n'] in breaks:
+                        continue
+                    loc = lambda x: f"{c['chapter']:03}.{v['verse']:03}:{x['n']:03}"
+                    if loc(a) in marks[bk] or loc(t) in marks[bk]:
+                        continue
+                    out.append(edit(bk, c['chapter'], v['verse'], t['n'], t['t'], t['t'], 'join'))
+    return out
+
+
 def main():
     raw = MOD.read_text()
     m = json.loads(raw)
@@ -100,9 +132,14 @@ def main():
     lowered = {(e['location']['book_id'], f"{e['location']['chapter']:03}.{e['location']['verse']:03}:{e['location']['token']:03}")
                for e in thats}
 
+
+    reviewed = {(x['book'], x['start'], x['end']): x['decision'] for x in csv.DictReader(open(REPO / 'quotes' / 'reviewed.csv'))}
     quotes, shipped = collections.defaultdict(list), []
     for r in json.load(open(REPO / 'quotes' / 'kjv-quotes.json'))['regions']:
-        if r['tier'] not in QUOTE_TIERS or 'overlaps another quote' in r['checks']:
+        decision = reviewed.get((r['book'], r.get('start'), r.get('end')))
+        if decision == 'drop':
+            continue
+        if decision != 'ship' and (r['tier'] not in QUOTE_TIERS or 'overlaps another quote' in r['checks']):
             continue
         if r.get('term'):
             shipped.append(r)
@@ -113,6 +150,7 @@ def main():
         quotes[r['book']].append({'start': start, 'end': r['end'], 'level': r['level']})
 
     edits += term_edits(shipped)
+    edits += join_edits(quotes)
     m['token_edits'] = edits
     m['quote_regions'] = dict(quotes)
     out = json.dumps(m, indent=2, ensure_ascii=False) + '\n'

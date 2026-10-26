@@ -23,6 +23,15 @@ The King James text itself is never edited. These rules are a display layer: the
 | [`how-it-works.md`](how-it-works.md) | How matching works, how the rules were made, caveats for reuse |
 | [`../tools/build_lists.py`](../tools/build_lists.py) | Rebuilds every file above from a Topaz KJV package (Python 3, no dependencies) |
 
+## Words now written as one
+
+[`joins.csv`](joins.csv) lists word pairs the KJV prints as two words that are one word today: *to day*
+→ *today*, *for ever* → *forever*, *any thing* → *anything*, *strong hold* → *stronghold* (17 pairs,
+912 places). The KJVm closes up the space between them; the two words stay two words in the data, each
+with its own Strong's number. Left out on purpose: *every one* and *any more* (often still "each one",
+"any longer"), *in ward* ("in custody"), *head stone* (now a grave marker), *high way*, *up on*. Not
+where punctuation, a line break or a quotation mark falls between the two.
+
 ## Three ways to use it
 
 1. **Read it.** [`substitutions.md`](substitutions.md) lists every change.
