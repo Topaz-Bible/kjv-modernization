@@ -89,8 +89,7 @@ waits for the nested ones.
 
 The KJV marks Jesus' words itself (red letters), so `tools/build_quotes.py` fits each quote of His to
 them: one unbroken red stretch is one quote, from its first red word to its last. Where the narrator
-breaks in ("(he saith to the sick of the palsy,)") the quote keeps the BSB's edges, trimmed to red words;
-those 4 are still flagged `runs past the words of Jesus`.
+breaks in ("(he saith to the sick of the palsy,)"), each red stretch gets its own quote.
 
 ## Reviewed regions
 
