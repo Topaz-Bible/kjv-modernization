@@ -404,7 +404,8 @@ def mid_sentence(r, K, regions):
     kl, s = K[r['chapter']], r['_s']
     if s == 0 or r.get('woj') or kl[s - 1].v != kl[s].v or kl[s - 1].a.strip() != ',':
         return
-    covered = {i for o in regions if o is not r and '_s' in o and o['chapter'] == r['chapter'] for i in range(o['_s'], o['_e'] + 1)}
+    covered = {i for o in regions if o is not r and '_s' in o and o['chapter'] == r['chapter'] and o['level'] >= r['level']
+               for i in range(o['_s'], o['_e'] + 1)}
     narr = NARRATOR[(r['book'], r['chapter'])]
     best, i = None, s - 1
     while i > 0 and kl[i - 1].v == kl[s].v and s - i < 12 and i not in covered and i not in narr \
@@ -413,6 +414,13 @@ def mid_sentence(r, K, regions):
                 and any(INTRO.match(kl[x].t) for x in range(max(0, i - 8), i) if kl[x].v == kl[i].v)):
             best = i
         i -= 1
+    if best is not None and r['level'] > 1:
+        # Inside another quote: never back to the outer quote's own opening, nor onto the outer
+        # speaker's "O Lord God," ("thou hast said unto me, O Lord God, ‘Buy thee the field…’").
+        parents = [o['_s'] for o in regions if '_s' in o and o['chapter'] == r['chapter'] and o['level'] == r['level'] - 1
+                   and o['_s'] <= s <= o['_e']]
+        if kl[best].t == 'O' or not parents or best <= max(parents):
+            best = None
     if best is not None and narrator_tag(kl, best, s - 1) is None:
         r['_s'] = best
         r['checks'] = []
@@ -426,7 +434,7 @@ def open_earlier(regions, K):
     when no other quote and no narrator's tag lies between. The moved quote is checked afresh."""
     gone = set()
     for r in regions:
-        if '_s' in r and not r['checks'] and r['level'] == 1:
+        if '_s' in r and not r['checks']:
             mid_sentence(r, K, regions)
         if '_s' not in r or r['checks'] != [START] or r['level'] != 1:
             continue
@@ -740,6 +748,10 @@ LOWER_WORDS = set()
 NARRATOR = collections.defaultdict(set)
 
 
+NEST_VERB = re.compile(r'(said|saidst|saith|say|sayest|saying|answer|answered|spake|speak|spoken|cry|cried|asked|'
+                       r'written|commanded|commandeth|sware|swear|sworn|is|tell|told|reported|shout|proclaim|call|called|calleth)$', re.I)
+
+
 def nested_groups(regions, K):
     """Mark a quote with quotes inside it ("as it is written, ‘…’") ready to ship as one group when
     every quote in it passes its checks, no quote of its own level sits inside or around it, it doesn't
@@ -754,7 +766,7 @@ def nested_groups(regions, K):
         if (not inner or any(o['level'] == 1 and (r['_s'] <= o['_s'] <= r['_e'] or o['_s'] <= r['_s'] <= o['_e']) for o in same)
                 or any(o['checks'] or o['_s'] == r['_s'] or not ANY_PUNCT.search(kl[o['_e']].a)
                        or not (OPEN_PUNCT.search(kl[o['_s'] - 1].a)
-                               and any(INTRO.match(kl[i].t) or kl[i].t == 'is' for i in range(max(0, o['_s'] - 6), o['_s'])))
+                               and any(NEST_VERB.match(kl[i].t) for i in range(max(0, o['_s'] - 10), o['_s'])))
                        for o in inner)):
             continue
         for o in [r] + inner:

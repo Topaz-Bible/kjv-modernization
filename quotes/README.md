@@ -110,6 +110,6 @@ quote is never shown without its outer quote.
 [`reviewed.csv`](reviewed.csv) records a decision per region (`book`, `start`, `end`): `ship` puts a
 region in the KJVm whatever its tier; `drop` keeps it out; `fix` moves its edges to `fix_start`/`fix_end`
 and ships it (a quote within a quote waits for the nested review); `add` puts in a quote the matching
-never found (the BSB's words too far from the KJV's: "Why are you staring at one another?" for "Why
+never found (at `level` 2 when it sits inside another quote) (the BSB's words too far from the KJV's: "Why are you staring at one another?" for "Why
 do ye look one upon another?"). The categories are reviewed smallest first,
 nested quotes last.

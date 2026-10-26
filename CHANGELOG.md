@@ -2,6 +2,15 @@
 
 ## Unreleased
 
+- **Quotes within quotes, second batch.** 56 more speeches ship with their inner quotes (154 single, 2
+  double): messengers' words ("go, tell thy lord, ‘Behold, Elijah is here.’"), "Thus saith the Lord"
+  inside a prophet's speech, the parables of the trees (Judges 9) and the virgins and talents
+  (Matthew 25). An inner quote that opened inside its own sentence now opens with it ("a voice saying
+  unto me, ‘Saul, Saul, why persecutest thou me?’"), but never back past its outer quote's opening or
+  onto the speaker's own "O Lord God,". By hand: the curses at Ebal (Deuteronomy 27) are each their own
+  quote, as is each "Amen."; Psalm 75:4 and Jeremiah 3:4 end the inner saying at its clause; Isaiah
+  45:24 ("Surely, shall one say, in the Lord…") stays unmarked. `reviewed.csv` gains a `level` column for
+  added quotes within quotes.
 - **Quotes within quotes, first batch.** 473 speeches that quote someone else ("as it is written, ‘He
   gave them bread from heaven to eat.’", "say unto Ahab, ‘Prepare thy chariot…’") ship with their
   inner quotes: 706 single-quoted, 8 double again inside those. A group ships whole only when every

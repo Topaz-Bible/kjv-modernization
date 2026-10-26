@@ -135,7 +135,14 @@ def main():
 
     reviewed = {(x['book'], x['start'], x['end']): x for x in csv.DictReader(open(REPO / 'quotes' / 'reviewed.csv'))}
     quotes, shipped = collections.defaultdict(list), []
-    for r in json.load(open(REPO / 'quotes' / 'kjv-quotes.json'))['regions']:
+    regions = json.load(open(REPO / 'quotes' / 'kjv-quotes.json'))['regions']
+    # A speech shipped by hand takes the quotes inside it along.
+    by_hand = collections.defaultdict(list)
+    for r in regions:
+        row = reviewed.get((r['book'], r.get('start'), r.get('end')))
+        if row and row['decision'] in ('ship', 'fix') and r['level'] == 1:
+            by_hand[r['book']].append((row['fix_start'] or r['start'], row['fix_end'] or r['end']))
+    for r in regions:
         row = reviewed.get((r['book'], r.get('start'), r.get('end')))
         decision = row and row['decision']
         if decision == 'drop':
@@ -147,7 +154,8 @@ def main():
         # Quotes the KJV's own speech tag found (no BSB anchor) were read one by one; the wrong ones
         # are dropped or fixed in reviewed.csv.
         found = r['checks'] == ['found by the KJV speech tag (no BSB anchor)']
-        if decision != 'ship' and not found and not r.get('nested') and (r['tier'] not in QUOTE_TIERS or 'overlaps another quote' in r['checks']):
+        inside = r['level'] > 1 and any(a <= r.get('start', '') and r.get('end', '~') <= b for a, b in by_hand[r['book']])
+        if decision != 'ship' and not found and not r.get('nested') and not inside and (r['tier'] not in QUOTE_TIERS or 'overlaps another quote' in r['checks']):
             continue
         if r.get('term'):
             shipped.append(r)
@@ -157,10 +165,10 @@ def main():
             start = f'{cv}:{int(n) + 1:03}'
         quotes[r['book']].append({'start': start, 'end': r['end'], 'level': r['level']})
 
-    # Quotes the BSB has that no rule could place in the KJV, added by hand.
+    # Quotes the BSB has that no rule could place in the KJV, added by hand (level 1 unless the row says).
     for x in reviewed.values():
         if x['decision'] == 'add':
-            quotes[x['book']].append({'start': x['start'], 'end': x['end'], 'level': 1})
+            quotes[x['book']].append({'start': x['start'], 'end': x['end'], 'level': int(x.get('level') or 1)})
     for bk, rs in quotes.items():
         # Of two quotes of one level that overlap, the longer stays; a quote within a quote ships only
         # inside its outer one, never as a lone ‘…’.
