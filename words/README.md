@@ -8,8 +8,8 @@ The King James text itself is never edited. These rules are a display layer: the
 
 | | |
 |---:|---|
-| **41,069** | words changed, out of 931,532 in the KJV (4.4%) |
-| **1,167** | word rules |
+| **41,100** | words changed, out of 931,532 in the KJV (4.4%) |
+| **1,168** | word rules |
 | **61** | single-verse exceptions |
 
 ## What's here

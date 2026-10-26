@@ -4,10 +4,11 @@
 
 Word lists built from Topaz KJV package `1.4-primary.20261025.139.1` with the 1.3.0 rules applied. The Topaz app picks the rules up with its next KJV package.
 
-- **Here, there and where** (443 more words change):
+- **Here, there and where** (474 more words change):
   - hither → here, thither → there, whither → where, everywhere
   - after "from" only: from thence → from there, from whence → from where, from hence → from here
-  - Left as written: hence, thence and whence on their own (they'd need two words), hitherto, thitherward and whithersoever.
+  - whithersoever → wherever
+  - Left as written: hence, thence and whence on their own (they'd need two words), hitherto and thitherward.
 - **One folder per layer.** The word lists moved from `data/` and `docs/` into [`words/`](words/). Draft layers for quotation marks, Old Testament names and pronouns for God sit beside them, unreleased.
 
 ## 1.2.0 — 2026-10-24

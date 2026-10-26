@@ -34,8 +34,8 @@
  },
  "stats": {
   "tokens_in_kjv": 931532,
-  "tokens_changed": 41069,
-  "rules": 1167,
+  "tokens_changed": 41100,
+  "rules": 1168,
   "location_overrides": 61
  },
  "rules": [
@@ -13001,6 +13001,17 @@
    "replace": {
     "text": "here"
    }
+  },
+  {
+   "id": "direction-whithersoever-to-wherever",
+   "enabled": true,
+   "category": "direction",
+   "match": {
+    "text": "whithersoever"
+   },
+   "replace": {
+    "text": "wherever"
+   }
   }
  ],
  "location_overrides": [
@@ -14322,6 +14333,7 @@
   "verb-coucheth-to-couches": 1,
   "verb-enlargeth-to-enlarges": 4,
   "verb-teareth-to-tears": 6,
+  "direction-whithersoever-to-wherever": 31,
   "verb-commandest-to-command": 4,
   "verb-overfloweth-to-overflows": 1,
   "verb-buildeth-to-builds": 12,

@@ -21,10 +21,8 @@ verse:
 
 ## The genealogies
 
-60 of the 201 changes fall in the genealogies of Jesus (Matthew 1:1–17, Luke 3:23–38): Phares → Pharez,
-Booz → Boaz, Ozias → Uzziah, Mathusala → Methuselah and so on. They are marked `"genealogy": true`
-so they can be changed or kept as a group. The BSB, NKJV, ESV and NIV all use the Old Testament forms
-there too. Whether Topaz changes them is still open.
+The genealogies of Jesus (Matthew 1, Luke 3) change too, as in the BSB, NKJV, ESV and NIV: Phares → Pharez,
+Booz → Boaz, Ozias → Uzziah, Mathusala → Methuselah.
 
 ## Files
 

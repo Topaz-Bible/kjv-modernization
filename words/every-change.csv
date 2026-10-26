@@ -7971,6 +7971,7 @@ JOS,1,7,10,mayest,may,verb-mayest-to-may
 JOS,1,7,24,thee,you,pronoun-thee-to-you
 JOS,1,7,38,thou,you,pronoun-thou-to-you
 JOS,1,7,39,mayest,may,verb-mayest-to-may
+JOS,1,7,41,whithersoever,wherever,direction-whithersoever-to-wherever
 JOS,1,7,42,thou,you,pronoun-thou-to-you
 JOS,1,7,43,goest,go,verb-goest-to-go
 JOS,1,8,11,thy,your,possessive-thy-to-your
@@ -7987,6 +7988,7 @@ JOS,1,9,5,thee,you,pronoun-thee-to-you
 JOS,1,9,18,thou,you,pronoun-thou-to-you
 JOS,1,9,23,thy,your,possessive-thy-to-your
 JOS,1,9,27,thee,you,pronoun-thee-to-you
+JOS,1,9,28,whithersoever,wherever,direction-whithersoever-to-wherever
 JOS,1,9,29,thou,you,pronoun-thou-to-you
 JOS,1,9,30,goest,go,verb-goest-to-go
 JOS,1,11,17,ye,you,pronoun-ye-to-you
@@ -8000,6 +8002,7 @@ JOS,1,15,26,giveth,gives,verb-giveth-to-gives
 JOS,1,15,29,ye,you,pronoun-ye-to-you
 JOS,1,16,8,thou,you,pronoun-thou-to-you
 JOS,1,16,9,commandest,command,verb-commandest-to-command
+JOS,1,16,15,whithersoever,wherever,direction-whithersoever-to-wherever
 JOS,1,16,16,thou,you,pronoun-thou-to-you
 JOS,1,16,17,sendest,send,verb-sendest-to-send
 JOS,1,17,15,thee,you,pronoun-thee-to-you
@@ -8398,6 +8401,7 @@ JDG,2,2,13,ye,you,pronoun-ye-to-you
 JDG,2,2,20,ye,you,pronoun-ye-to-you
 JDG,2,2,28,ye,you,pronoun-ye-to-you
 JDG,2,4,12,spake,spoke,verb-spake-to-spoke
+JDG,2,15,1,Whithersoever,Wherever,direction-whithersoever-to-wherever
 JDG,2,20,18,hath,has,verb-hath-to-has
 JDG,3,7,15,forgat,forgot,verb-forgat-to-forgot
 JDG,3,18,18,bare,bore,verb-bare-to-bore
@@ -9434,6 +9438,7 @@ RUT,4,15,35,hath,has,verb-hath-to-has
 1SA,14,45,11,hath,has,verb-hath-to-has
 1SA,14,45,23,liveth,lives,verb-liveth-to-lives
 1SA,14,45,38,hath,has,verb-hath-to-has
+1SA,14,47,39,whithersoever,wherever,direction-whithersoever-to-wherever
 1SA,15,1,12,thee,you,pronoun-thee-to-you
 1SA,15,1,24,thou,you,pronoun-thou-to-you
 1SA,15,2,2,saith,says,verb-saith-to-says
@@ -9582,6 +9587,7 @@ RUT,4,15,35,hath,has,verb-hath-to-has
 1SA,17,58,9,thou,you,pronoun-thou-to-you
 1SA,17,58,10,thou,you,pronoun-thou-to-you
 1SA,17,58,21,thy,your,possessive-thy-to-your
+1SA,18,5,5,whithersoever,wherever,direction-whithersoever-to-wherever
 1SA,18,6,44,musick,music,spelling-musick-to-music
 1SA,18,7,13,hath,has,verb-hath-to-has
 1SA,18,17,15,thee,you,pronoun-thee-to-you
@@ -9790,6 +9796,7 @@ RUT,4,15,35,hath,has,verb-hath-to-has
 1SA,23,11,28,thee,you,pronoun-thee-to-you
 1SA,23,11,30,thy,your,possessive-thy-to-your
 1SA,23,12,26,thee,you,pronoun-thee-to-you
+1SA,23,13,19,whithersoever,wherever,direction-whithersoever-to-wherever
 1SA,23,17,18,thee,you,pronoun-thee-to-you
 1SA,23,17,20,thou,you,pronoun-thou-to-you
 1SA,23,17,21,shalt,shall,verb-shalt-to-shall
@@ -10294,6 +10301,7 @@ RUT,4,15,35,hath,has,verb-hath-to-has
 2SA,7,8,12,saith,says,verb-saith-to-says
 2SA,7,8,19,thee,you,pronoun-thee-to-you
 2SA,7,9,5,thee,you,pronoun-thee-to-you
+2SA,7,9,6,whithersoever,wherever,direction-whithersoever-to-wherever
 2SA,7,9,7,thou,you,pronoun-thou-to-you
 2SA,7,9,8,wentest,went,verb-wentest-to-went
 2SA,7,9,14,thine,your,possessive-thine-default-to-your
@@ -10377,7 +10385,9 @@ RUT,4,15,35,hath,has,verb-hath-to-has
 2SA,7,29,27,hast,have,verb-hast-to-have
 2SA,7,29,32,thy,your,possessive-thy-to-your
 2SA,7,29,38,thy,your,possessive-thy-to-your
+2SA,8,6,24,whithersoever,wherever,direction-whithersoever-to-wherever
 2SA,8,13,3,gat,got,verb-gat-to-got
+2SA,8,14,26,whithersoever,wherever,direction-whithersoever-to-wherever
 2SA,9,1,19,shew,show,spelling-shew-to-show
 2SA,9,2,28,Art,Are,verb-art-to-are
 2SA,9,2,29,thou,you,pronoun-thou-to-you
@@ -11067,6 +11077,7 @@ RUT,4,15,35,hath,has,verb-hath-to-has
 1KI,2,3,39,mayest,may,verb-mayest-to-may
 1KI,2,3,44,thou,you,pronoun-thou-to-you
 1KI,2,3,45,doest,do,verb-doest-to-do
+1KI,2,3,47,whithersoever,wherever,direction-whithersoever-to-wherever
 1KI,2,3,48,thou,you,pronoun-thou-to-you
 1KI,2,3,49,turnest,turn,verb-turnest-to-turn
 1KI,2,3,50,thyself,yourself,pronoun-thyself-to-yourself
@@ -11369,6 +11380,7 @@ RUT,4,15,35,hath,has,verb-hath-to-has
 1KI,8,43,35,thy,your,possessive-thy-to-your
 1KI,8,43,53,thy,your,possessive-thy-to-your
 1KI,8,44,2,thy,your,possessive-thy-to-your
+1KI,8,44,11,whithersoever,wherever,direction-whithersoever-to-wherever
 1KI,8,44,12,thou,you,pronoun-thou-to-you
 1KI,8,44,13,shalt,shall,verb-shalt-to-shall
 1KI,8,44,26,thou,you,pronoun-thou-to-you
@@ -12389,6 +12401,7 @@ RUT,4,15,35,hath,has,verb-hath-to-has
 2KI,18,4,16,brake,broke,verb-brake-to-broke
 2KI,18,4,20,brasen,brazen,spelling-brasen-to-brazen
 2KI,18,6,3,clave,cleaved,verb-clave-to-cleaved
+2KI,18,7,10,whithersoever,wherever,direction-whithersoever-to-wherever
 2KI,18,14,23,thou,you,pronoun-thou-to-you
 2KI,18,14,24,puttest,put,verb-puttest-to-put
 2KI,18,19,7,ye,you,pronoun-ye-to-you
@@ -12710,6 +12723,7 @@ RUT,4,15,35,hath,has,verb-hath-to-has
 1CH,17,7,29,thou,you,pronoun-thou-to-you
 1CH,17,7,30,shouldest,should,verb-shouldest-to-should
 1CH,17,8,6,thee,you,pronoun-thee-to-you
+1CH,17,8,7,whithersoever,wherever,direction-whithersoever-to-wherever
 1CH,17,8,8,thou,you,pronoun-thou-to-you
 1CH,17,8,9,hast,have,verb-hast-to-have
 1CH,17,8,16,thine,your,possessive-thine-default-to-your
@@ -12783,7 +12797,9 @@ RUT,4,15,35,hath,has,verb-hath-to-has
 1CH,17,27,23,thou,you,pronoun-thou-to-you
 1CH,17,27,24,blessest,bless,verb-blessest-to-bless
 1CH,18,3,14,stablish,establish,spelling-stablish-to-establish
+1CH,18,6,21,whithersoever,wherever,direction-whithersoever-to-wherever
 1CH,18,8,19,brasen,brazen,spelling-brasen-to-brazen
+1CH,18,13,19,whithersoever,wherever,direction-whithersoever-to-wherever
 1CH,19,2,6,shew,show,spelling-shew-to-show
 1CH,19,2,17,shewed,showed,spelling-shewed-to-showed
 1CH,19,3,12,Thinkest,Think,verb-thinkest-to-think
@@ -13893,6 +13909,7 @@ EST,3,8,24,thy,your,possessive-thy-to-your
 EST,3,11,12,thee,you,pronoun-thee-to-you
 EST,3,11,22,seemeth,seems,verb-seemeth-to-seems
 EST,3,11,25,thee,you,pronoun-thee-to-you
+EST,4,3,5,whithersoever,wherever,direction-whithersoever-to-wherever
 EST,4,8,22,shew,show,spelling-shew-to-show
 EST,4,10,3,spake,spoke,verb-spake-to-spoke
 EST,4,13,10,thyself,yourself,pronoun-thyself-to-yourself
@@ -13947,6 +13964,7 @@ EST,7,9,31,standeth,stands,verb-standeth-to-stands
 EST,8,3,3,spake,spoke,verb-spake-to-spoke
 EST,8,8,2,ye,you,pronoun-ye-to-you
 EST,8,8,9,liketh,likes,verb-liketh-to-likes
+EST,8,17,9,whithersoever,wherever,direction-whithersoever-to-wherever
 EST,9,12,42,thy,your,possessive-thy-to-your
 EST,9,12,49,thee,you,pronoun-thee-to-you
 EST,9,12,53,thy,your,possessive-thy-to-your
@@ -19164,6 +19182,7 @@ PRO,17,5,2,mocketh,mocks,verb-mocketh-to-mocks
 PRO,17,5,5,reproacheth,reproaches,verb-reproacheth-to-reproaches
 PRO,17,7,3,becometh,becomes,verb-becometh-to-becomes
 PRO,17,8,14,hath,has,verb-hath-to-has
+PRO,17,8,16,whithersoever,wherever,direction-whithersoever-to-wherever
 PRO,17,8,18,turneth,turns,verb-turneth-to-turns
 PRO,17,8,20,prospereth,prospers,verb-prospereth-to-prospers
 PRO,17,9,3,covereth,covers,verb-covereth-to-covers
@@ -19290,6 +19309,7 @@ PRO,20,26,4,scattereth,scatters,verb-scattereth-to-scatters
 PRO,20,26,8,bringeth,brings,verb-bringeth-to-brings
 PRO,20,30,6,cleanseth,cleanses,verb-cleanseth-to-cleanses
 PRO,21,1,17,turneth,turns,verb-turneth-to-turns
+PRO,21,1,19,whithersoever,wherever,direction-whithersoever-to-wherever
 PRO,21,2,15,pondereth,ponders,verb-pondereth-to-ponders
 PRO,21,10,6,desireth,desires,verb-desireth-to-desires
 PRO,21,10,10,findeth,finds,verb-findeth-to-finds
@@ -24618,6 +24638,7 @@ LAM,5,22,3,hast,have,verb-hast-to-have
 LAM,5,22,7,thou,you,pronoun-thou-to-you
 LAM,5,22,8,art,are,verb-art-to-are
 EZK,1,12,8,whither,where,direction-whither-to-where
+EZK,1,20,1,Whithersoever,Wherever,direction-whithersoever-to-wherever
 EZK,1,20,9,thither,there,direction-thither-to-there
 EZK,1,28,57,spake,spoke,verb-spake-to-spoke
 EZK,2,1,11,thy,your,possessive-thy-to-your
@@ -25620,6 +25641,7 @@ EZK,21,14,1,Thou,You,pronoun-thou-to-you
 EZK,21,14,9,thine,your,possessive-thine-default-to-your
 EZK,21,14,38,entereth,enters,verb-entereth-to-enters
 EZK,21,16,2,thee,you,pronoun-thee-to-you
+EZK,21,16,16,whithersoever,wherever,direction-whithersoever-to-wherever
 EZK,21,16,17,thy,your,possessive-thy-to-your
 EZK,21,17,5,mine,my,possessive-mine-before-listed-word-to-my
 EZK,21,19,2,thou,you,pronoun-thou-to-you
@@ -26742,6 +26764,7 @@ EZK,47,6,9,hast,have,verb-hast-to-have
 EZK,47,6,10,thou,you,pronoun-thou-to-you
 EZK,47,9,11,liveth,lives,verb-liveth-to-lives
 EZK,47,9,13,moveth,moves,verb-moveth-to-moves
+EZK,47,9,14,whithersoever,wherever,direction-whithersoever-to-wherever
 EZK,47,9,36,thither,there,direction-thither-to-there
 EZK,47,9,47,whither,where,direction-whither-to-where
 EZK,47,9,50,cometh,comes,verb-cometh-to-comes
@@ -32386,6 +32409,7 @@ SIR,31,10,24,hath,has,verb-hath-to-has
 SIR,31,12,2,thou,you,pronoun-thou-to-you
 SIR,31,13,21,weepeth,weeps,verb-weepeth-to-weeps
 SIR,31,14,3,thine,your,possessive-thine-default-to-your
+SIR,31,14,5,whithersoever,wherever,direction-whithersoever-to-wherever
 SIR,31,14,7,looketh,looks,verb-looketh-to-looks
 SIR,31,15,3,thy,your,possessive-thy-to-your
 SIR,31,15,6,thyself,yourself,pronoun-thyself-to-yourself
@@ -33552,6 +33576,7 @@ MAN,1,1,400,thine,your,possessive-thine-default-to-your
 1MA,6,27,18,shalt,shall,verb-shalt-to-shall
 1MA,6,27,19,thou,you,pronoun-thou-to-you
 1MA,6,34,13,shewed,showed,spelling-shewed-to-showed
+1MA,6,36,12,whithersoever,wherever,direction-whithersoever-to-wherever
 1MA,7,6,17,thy,your,possessive-thy-to-your
 1MA,7,7,7,thou,you,pronoun-thou-to-you
 1MA,7,7,8,trustest,trust,verb-trustest-to-trust
@@ -34231,6 +34256,7 @@ MAT,8,13,13,hast,have,verb-hast-to-have
 MAT,8,13,20,thee,you,pronoun-thee-to-you
 MAT,8,17,19,bare,bore,verb-bare-to-bore
 MAT,8,19,14,thee,you,pronoun-thee-to-you
+MAT,8,19,15,whithersoever,wherever,direction-whithersoever-to-wherever
 MAT,8,19,16,thou,you,pronoun-thou-to-you
 MAT,8,19,17,goest,go,verb-goest-to-go
 MAT,8,20,3,saith,says,verb-saith-to-says
@@ -35190,6 +35216,7 @@ MRK,6,38,9,ye,you,pronoun-ye-to-you
 MRK,6,41,21,brake,broke,verb-brake-to-broke
 MRK,6,48,24,cometh,comes,verb-cometh-to-comes
 MRK,6,50,16,saith,says,verb-saith-to-says
+MRK,6,56,2,whithersoever,wherever,direction-whithersoever-to-wherever
 MRK,7,4,33,brasen,brazen,spelling-brasen-to-brazen
 MRK,7,5,11,thy,your,possessive-thy-to-your
 MRK,7,6,8,hath,has,verb-hath-to-has
@@ -35938,6 +35965,7 @@ LUK,9,54,14,thou,you,pronoun-thou-to-you
 LUK,9,55,9,Ye,You,pronoun-ye-to-you
 LUK,9,55,16,ye,you,pronoun-ye-to-you
 LUK,9,57,23,thee,you,pronoun-thee-to-you
+LUK,9,57,24,whithersoever,wherever,direction-whithersoever-to-wherever
 LUK,9,57,25,thou,you,pronoun-thou-to-you
 LUK,9,57,26,goest,go,verb-goest-to-go
 LUK,9,58,21,hath,has,verb-hath-to-has
@@ -39246,6 +39274,7 @@ ROM,16,25,9,stablish,establish,spelling-stablish-to-establish
 1CO,16,2,20,hath,has,verb-hath-to-has
 1CO,16,3,6,ye,you,pronoun-ye-to-you
 1CO,16,6,15,ye,you,pronoun-ye-to-you
+1CO,16,6,22,whithersoever,wherever,direction-whithersoever-to-wherever
 1CO,16,10,16,worketh,works,verb-worketh-to-works
 1CO,16,13,2,ye,you,pronoun-ye-to-you
 1CO,16,15,5,ye,you,pronoun-ye-to-you
@@ -40306,6 +40335,7 @@ JAS,2,22,1,Seest,See,verb-seest-to-see
 JAS,2,22,2,thou,you,pronoun-thou-to-you
 JAS,2,23,7,saith,says,verb-saith-to-says
 JAS,2,24,1,Ye,You,pronoun-ye-to-you
+JAS,3,4,27,whithersoever,wherever,direction-whithersoever-to-wherever
 JAS,3,4,30,listeth,lists,verb-listeth-to-lists
 JAS,3,5,10,boasteth,boasts,verb-boasteth-to-boasts
 JAS,3,5,21,kindleth,kindles,verb-kindleth-to-kindles
@@ -40940,6 +40970,7 @@ REV,13,13,9,maketh,makes,verb-maketh-to-makes
 REV,13,14,2,deceiveth,deceives,verb-deceiveth-to-deceives
 REV,13,16,3,causeth,causes,verb-causeth-to-causes
 REV,13,18,7,hath,has,verb-hath-to-has
+REV,14,4,21,whithersoever,wherever,direction-whithersoever-to-wherever
 REV,14,4,23,goeth,goes,verb-goeth-to-goes
 REV,14,11,7,ascendeth,ascends,verb-ascendeth-to-ascends
 REV,14,11,30,receiveth,receives,verb-receiveth-to-receives

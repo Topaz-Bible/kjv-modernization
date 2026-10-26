@@ -1166,6 +1166,7 @@ direction-whither-to-where,rule,direction,direction,whither,where,,,,126,1163
 direction-thence-after-from-to-there,rule,direction,direction,thence,there,after “from”,"{""previous_text_in"": [""from""]}",,97,1164
 direction-whence-after-from-to-where,rule,direction,direction,whence,where,after “from”,"{""previous_text_in"": [""from""]}",,37,1165
 direction-hence-after-from-to-here,rule,direction,direction,hence,here,after “from”,"{""previous_text_in"": [""from""]}",,7,1166
+direction-whithersoever-to-wherever,rule,direction,direction,whithersoever,wherever,,,,31,1167
 override-thine-standalone-gen-31-32-to-yours,override,pronoun,override,thine,yours,,,GEN 31:32 #18,1,
 override-thine-first-deu-15-3-to-yours,override,pronoun,override,thine,yours,,,DEU 15:3 #13,1,
 override-thine-standalone-deu-30-4-to-yours,override,pronoun,override,thine,yours,,,DEU 30:4 #4,1,

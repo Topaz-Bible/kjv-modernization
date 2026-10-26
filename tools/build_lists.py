@@ -192,7 +192,7 @@ INTRO = {
     'auxiliary': 'The most common archaic forms. They follow the pronoun change: “thou art” becomes “you are”, “thou shalt” becomes “you shall”.',
     'old_past_tense': 'Past tenses that English later regularized. “Bare” becomes “bore” everywhere except the 14 verses where it is the adjective (“naked and bare”); those are listed under single-verse exceptions.',
     'spelling': 'Same word, modern spelling.',
-    'direction': 'Old English had separate words for “to here” (hither) and “from here” (hence). Today “here”, “there” and “where” do all three jobs. “Hither”, “thither” and “whither” always change. “Hence”, “thence” and “whence” change only after “from”, where the “from” is already written (“from thence” → “from there”); on their own they would need two words, so they stay, as does “hitherto”.',
+    'direction': 'Old English had separate words for “to here” (hither) and “from here” (hence). Today “here”, “there” and “where” do all three jobs. “Hither”, “thither”, “whither” and “whithersoever” always change. “Hence”, “thence” and “whence” change only after “from”, where the “from” is already written (“from thence” → “from there”); on their own they would need two words, so they stay, as do “hitherto” and “thitherward”.',
     'second_person_est': 'The verb ending that went with “thou”. With “thou” becoming “you”, the verb loses its ending: “thou knowest” becomes “you know”, “thou mightest” becomes “you might”.',
     'third_person_eth': 'The old “-eth” ending, the forerunner of today’s “-s”: “he believeth” becomes “he believes”. Words that only look like these are left alone: nouns (priest, harvest), superlatives (greatest, eldest), ordinals (twentieth) and names (Nazareth, Japheth).',
 }

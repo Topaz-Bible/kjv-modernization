@@ -453,8 +453,7 @@
    "verse": 2,
    "word": 11,
    "kjv": "Judas",
-   "modernized": "Judah",
-   "genealogy": true
+   "modernized": "Judah"
   },
   {
    "book": "MAT",
@@ -462,8 +461,7 @@
    "verse": 3,
    "word": 2,
    "kjv": "Judas",
-   "modernized": "Judah",
-   "genealogy": true
+   "modernized": "Judah"
   },
   {
    "book": "MAT",
@@ -471,8 +469,7 @@
    "verse": 3,
    "word": 4,
    "kjv": "Phares",
-   "modernized": "Pharez",
-   "genealogy": true
+   "modernized": "Pharez"
   },
   {
    "book": "MAT",
@@ -480,8 +477,7 @@
    "verse": 3,
    "word": 6,
    "kjv": "Zara",
-   "modernized": "Zarah",
-   "genealogy": true
+   "modernized": "Zarah"
   },
   {
    "book": "MAT",
@@ -489,8 +485,7 @@
    "verse": 3,
    "word": 8,
    "kjv": "Thamar",
-   "modernized": "Tamar",
-   "genealogy": true
+   "modernized": "Tamar"
   },
   {
    "book": "MAT",
@@ -498,8 +493,7 @@
    "verse": 3,
    "word": 10,
    "kjv": "Phares",
-   "modernized": "Pharez",
-   "genealogy": true
+   "modernized": "Pharez"
   },
   {
    "book": "MAT",
@@ -507,8 +501,7 @@
    "verse": 3,
    "word": 12,
    "kjv": "Esrom",
-   "modernized": "Hezron",
-   "genealogy": true
+   "modernized": "Hezron"
   },
   {
    "book": "MAT",
@@ -516,8 +509,7 @@
    "verse": 3,
    "word": 14,
    "kjv": "Esrom",
-   "modernized": "Hezron",
-   "genealogy": true
+   "modernized": "Hezron"
   },
   {
    "book": "MAT",
@@ -525,8 +517,7 @@
    "verse": 3,
    "word": 16,
    "kjv": "Aram",
-   "modernized": "Ram",
-   "genealogy": true
+   "modernized": "Ram"
   },
   {
    "book": "MAT",
@@ -534,8 +525,7 @@
    "verse": 4,
    "word": 2,
    "kjv": "Aram",
-   "modernized": "Ram",
-   "genealogy": true
+   "modernized": "Ram"
   },
   {
    "book": "MAT",
@@ -543,8 +533,7 @@
    "verse": 4,
    "word": 4,
    "kjv": "Aminadab",
-   "modernized": "Amminadab",
-   "genealogy": true
+   "modernized": "Amminadab"
   },
   {
    "book": "MAT",
@@ -552,8 +541,7 @@
    "verse": 4,
    "word": 6,
    "kjv": "Aminadab",
-   "modernized": "Amminadab",
-   "genealogy": true
+   "modernized": "Amminadab"
   },
   {
    "book": "MAT",
@@ -561,8 +549,7 @@
    "verse": 4,
    "word": 8,
    "kjv": "Naasson",
-   "modernized": "Nahshon",
-   "genealogy": true
+   "modernized": "Nahshon"
   },
   {
    "book": "MAT",
@@ -570,8 +557,7 @@
    "verse": 4,
    "word": 10,
    "kjv": "Naasson",
-   "modernized": "Nahshon",
-   "genealogy": true
+   "modernized": "Nahshon"
   },
   {
    "book": "MAT",
@@ -579,8 +565,7 @@
    "verse": 5,
    "word": 4,
    "kjv": "Booz",
-   "modernized": "Boaz",
-   "genealogy": true
+   "modernized": "Boaz"
   },
   {
    "book": "MAT",
@@ -588,8 +573,7 @@
    "verse": 5,
    "word": 6,
    "kjv": "Rachab",
-   "modernized": "Rahab",
-   "genealogy": true
+   "modernized": "Rahab"
   },
   {
    "book": "MAT",
@@ -597,8 +581,7 @@
    "verse": 5,
    "word": 8,
    "kjv": "Booz",
-   "modernized": "Boaz",
-   "genealogy": true
+   "modernized": "Boaz"
   },
   {
    "book": "MAT",
@@ -606,8 +589,7 @@
    "verse": 6,
    "word": 21,
    "kjv": "Urias",
-   "modernized": "Uriah",
-   "genealogy": true
+   "modernized": "Uriah"
   },
   {
    "book": "MAT",
@@ -615,8 +597,7 @@
    "verse": 7,
    "word": 4,
    "kjv": "Roboam",
-   "modernized": "Rehoboam",
-   "genealogy": true
+   "modernized": "Rehoboam"
   },
   {
    "book": "MAT",
@@ -624,8 +605,7 @@
    "verse": 7,
    "word": 6,
    "kjv": "Roboam",
-   "modernized": "Rehoboam",
-   "genealogy": true
+   "modernized": "Rehoboam"
   },
   {
    "book": "MAT",
@@ -633,8 +613,7 @@
    "verse": 7,
    "word": 8,
    "kjv": "Abia",
-   "modernized": "Abijah",
-   "genealogy": true
+   "modernized": "Abijah"
   },
   {
    "book": "MAT",
@@ -642,8 +621,7 @@
    "verse": 7,
    "word": 10,
    "kjv": "Abia",
-   "modernized": "Abijah",
-   "genealogy": true
+   "modernized": "Abijah"
   },
   {
    "book": "MAT",
@@ -651,8 +629,7 @@
    "verse": 8,
    "word": 4,
    "kjv": "Josaphat",
-   "modernized": "Jehoshaphat",
-   "genealogy": true
+   "modernized": "Jehoshaphat"
   },
   {
    "book": "MAT",
@@ -660,8 +637,7 @@
    "verse": 8,
    "word": 6,
    "kjv": "Josaphat",
-   "modernized": "Jehoshaphat",
-   "genealogy": true
+   "modernized": "Jehoshaphat"
   },
   {
    "book": "MAT",
@@ -669,8 +645,7 @@
    "verse": 8,
    "word": 12,
    "kjv": "Ozias",
-   "modernized": "Uzziah",
-   "genealogy": true
+   "modernized": "Uzziah"
   },
   {
    "book": "MAT",
@@ -678,8 +653,7 @@
    "verse": 9,
    "word": 2,
    "kjv": "Ozias",
-   "modernized": "Uzziah",
-   "genealogy": true
+   "modernized": "Uzziah"
   },
   {
    "book": "MAT",
@@ -687,8 +661,7 @@
    "verse": 9,
    "word": 4,
    "kjv": "Joatham",
-   "modernized": "Jotham",
-   "genealogy": true
+   "modernized": "Jotham"
   },
   {
    "book": "MAT",
@@ -696,8 +669,7 @@
    "verse": 9,
    "word": 6,
    "kjv": "Joatham",
-   "modernized": "Jotham",
-   "genealogy": true
+   "modernized": "Jotham"
   },
   {
    "book": "MAT",
@@ -705,8 +677,7 @@
    "verse": 9,
    "word": 8,
    "kjv": "Achaz",
-   "modernized": "Ahaz",
-   "genealogy": true
+   "modernized": "Ahaz"
   },
   {
    "book": "MAT",
@@ -714,8 +685,7 @@
    "verse": 9,
    "word": 10,
    "kjv": "Achaz",
-   "modernized": "Ahaz",
-   "genealogy": true
+   "modernized": "Ahaz"
   },
   {
    "book": "MAT",
@@ -723,8 +693,7 @@
    "verse": 9,
    "word": 12,
    "kjv": "Ezekias",
-   "modernized": "Hezekiah",
-   "genealogy": true
+   "modernized": "Hezekiah"
   },
   {
    "book": "MAT",
@@ -732,8 +701,7 @@
    "verse": 10,
    "word": 2,
    "kjv": "Ezekias",
-   "modernized": "Hezekiah",
-   "genealogy": true
+   "modernized": "Hezekiah"
   },
   {
    "book": "MAT",
@@ -741,8 +709,7 @@
    "verse": 10,
    "word": 4,
    "kjv": "Manasses",
-   "modernized": "Manasseh",
-   "genealogy": true
+   "modernized": "Manasseh"
   },
   {
    "book": "MAT",
@@ -750,8 +717,7 @@
    "verse": 10,
    "word": 6,
    "kjv": "Manasses",
-   "modernized": "Manasseh",
-   "genealogy": true
+   "modernized": "Manasseh"
   },
   {
    "book": "MAT",
@@ -759,8 +725,7 @@
    "verse": 10,
    "word": 12,
    "kjv": "Josias",
-   "modernized": "Josiah",
-   "genealogy": true
+   "modernized": "Josiah"
   },
   {
    "book": "MAT",
@@ -768,8 +733,7 @@
    "verse": 11,
    "word": 2,
    "kjv": "Josias",
-   "modernized": "Josiah",
-   "genealogy": true
+   "modernized": "Josiah"
   },
   {
    "book": "MAT",
@@ -777,8 +741,7 @@
    "verse": 11,
    "word": 4,
    "kjv": "Jechonias",
-   "modernized": "Jeconiah",
-   "genealogy": true
+   "modernized": "Jeconiah"
   },
   {
    "book": "MAT",
@@ -786,8 +749,7 @@
    "verse": 12,
    "word": 8,
    "kjv": "Jechonias",
-   "modernized": "Jeconiah",
-   "genealogy": true
+   "modernized": "Jeconiah"
   },
   {
    "book": "MAT",
@@ -795,8 +757,7 @@
    "verse": 12,
    "word": 14,
    "kjv": "Zorobabel",
-   "modernized": "Zerubbabel",
-   "genealogy": true
+   "modernized": "Zerubbabel"
   },
   {
    "book": "MAT",
@@ -804,8 +765,7 @@
    "verse": 13,
    "word": 2,
    "kjv": "Zorobabel",
-   "modernized": "Zerubbabel",
-   "genealogy": true
+   "modernized": "Zerubbabel"
   },
   {
    "book": "MAT",
@@ -1221,8 +1181,7 @@
    "verse": 27,
    "word": 18,
    "kjv": "Zorobabel",
-   "modernized": "Zerubbabel",
-   "genealogy": true
+   "modernized": "Zerubbabel"
   },
   {
    "book": "LUK",
@@ -1230,8 +1189,7 @@
    "verse": 30,
    "word": 12,
    "kjv": "Juda",
-   "modernized": "Judah",
-   "genealogy": true
+   "modernized": "Judah"
   },
   {
    "book": "LUK",
@@ -1239,8 +1197,7 @@
    "verse": 32,
    "word": 18,
    "kjv": "Booz",
-   "modernized": "Boaz",
-   "genealogy": true
+   "modernized": "Boaz"
   },
   {
    "book": "LUK",
@@ -1248,8 +1205,7 @@
    "verse": 32,
    "word": 30,
    "kjv": "Naasson",
-   "modernized": "Nahshon",
-   "genealogy": true
+   "modernized": "Nahshon"
   },
   {
    "book": "LUK",
@@ -1257,8 +1213,7 @@
    "verse": 33,
    "word": 6,
    "kjv": "Aminadab",
-   "modernized": "Amminadab",
-   "genealogy": true
+   "modernized": "Amminadab"
   },
   {
    "book": "LUK",
@@ -1266,8 +1221,7 @@
    "verse": 33,
    "word": 12,
    "kjv": "Aram",
-   "modernized": "Ram",
-   "genealogy": true
+   "modernized": "Ram"
   },
   {
    "book": "LUK",
@@ -1275,8 +1229,7 @@
    "verse": 33,
    "word": 18,
    "kjv": "Esrom",
-   "modernized": "Hezron",
-   "genealogy": true
+   "modernized": "Hezron"
   },
   {
    "book": "LUK",
@@ -1284,8 +1237,7 @@
    "verse": 33,
    "word": 24,
    "kjv": "Phares",
-   "modernized": "Pharez",
-   "genealogy": true
+   "modernized": "Pharez"
   },
   {
    "book": "LUK",
@@ -1293,8 +1245,7 @@
    "verse": 33,
    "word": 30,
    "kjv": "Juda",
-   "modernized": "Judah",
-   "genealogy": true
+   "modernized": "Judah"
   },
   {
    "book": "LUK",
@@ -1302,8 +1253,7 @@
    "verse": 34,
    "word": 24,
    "kjv": "Thara",
-   "modernized": "Terah",
-   "genealogy": true
+   "modernized": "Terah"
   },
   {
    "book": "LUK",
@@ -1311,8 +1261,7 @@
    "verse": 34,
    "word": 30,
    "kjv": "Nachor",
-   "modernized": "Nahor",
-   "genealogy": true
+   "modernized": "Nahor"
   },
   {
    "book": "LUK",
@@ -1320,8 +1269,7 @@
    "verse": 35,
    "word": 6,
    "kjv": "Saruch",
-   "modernized": "Serug",
-   "genealogy": true
+   "modernized": "Serug"
   },
   {
    "book": "LUK",
@@ -1329,8 +1277,7 @@
    "verse": 35,
    "word": 12,
    "kjv": "Ragau",
-   "modernized": "Reu",
-   "genealogy": true
+   "modernized": "Reu"
   },
   {
    "book": "LUK",
@@ -1338,8 +1285,7 @@
    "verse": 35,
    "word": 18,
    "kjv": "Phalec",
-   "modernized": "Peleg",
-   "genealogy": true
+   "modernized": "Peleg"
   },
   {
    "book": "LUK",
@@ -1347,8 +1293,7 @@
    "verse": 35,
    "word": 24,
    "kjv": "Heber",
-   "modernized": "Eber",
-   "genealogy": true
+   "modernized": "Eber"
   },
   {
    "book": "LUK",
@@ -1356,8 +1301,7 @@
    "verse": 35,
    "word": 30,
    "kjv": "Sala",
-   "modernized": "Salah",
-   "genealogy": true
+   "modernized": "Salah"
   },
   {
    "book": "LUK",
@@ -1365,8 +1309,7 @@
    "verse": 36,
    "word": 18,
    "kjv": "Sem",
-   "modernized": "Shem",
-   "genealogy": true
+   "modernized": "Shem"
   },
   {
    "book": "LUK",
@@ -1374,8 +1317,7 @@
    "verse": 36,
    "word": 24,
    "kjv": "Noe",
-   "modernized": "Noah",
-   "genealogy": true
+   "modernized": "Noah"
   },
   {
    "book": "LUK",
@@ -1383,8 +1325,7 @@
    "verse": 37,
    "word": 6,
    "kjv": "Mathusala",
-   "modernized": "Methuselah",
-   "genealogy": true
+   "modernized": "Methuselah"
   },
   {
    "book": "LUK",
@@ -1392,8 +1333,7 @@
    "verse": 37,
    "word": 24,
    "kjv": "Maleleel",
-   "modernized": "Mahalaleel",
-   "genealogy": true
+   "modernized": "Mahalaleel"
   },
   {
    "book": "LUK",
@@ -2123,8 +2063,7 @@
    "verse": 1,
    "word": 7,
    "kjv": "Jesus",
-   "modernized": "Joshua",
-   "genealogy": true
+   "modernized": "Joshua"
   },
   {
    "book": "MAT",
@@ -2132,8 +2071,7 @@
    "verse": 16,
    "word": 13,
    "kjv": "Jesus",
-   "modernized": "Joshua",
-   "genealogy": true
+   "modernized": "Joshua"
   },
   {
    "book": "MAT",
@@ -4365,8 +4303,7 @@
    "verse": 23,
    "word": 2,
    "kjv": "Jesus",
-   "modernized": "Joshua",
-   "genealogy": true
+   "modernized": "Joshua"
   },
   {
    "book": "LUK",
@@ -4374,8 +4311,7 @@
    "verse": 26,
    "word": 30,
    "kjv": "Juda",
-   "modernized": "Judah",
-   "genealogy": true
+   "modernized": "Judah"
   },
   {
    "book": "LUK",

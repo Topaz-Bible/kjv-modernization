@@ -64,14 +64,6 @@ SHARED = {'Jonas', 'Juda', 'Judas', 'Jesus', 'Aram', 'Heber', 'Sala', 'Zara', 'A
 # Shared names where the BSB follows a different Greek text and so can't confirm the person.
 CONFIRMED = {('LUK', 3, 33, 'Aram')}  # "which was the son of Aram": Ram of Ruth 4:19 (BSB "Admin, … Arni")
 
-# The two genealogies of Jesus. Their names are marked, so they can be changed or kept as a group.
-GENEALOGIES = [('MAT', 1, 1, 17), ('LUK', 3, 23, 38)]
-
-
-def in_genealogy(bk, ch, v):
-    return any(bk == b and ch == c and lo <= v <= hi for b, c, lo, hi in GENEALOGIES)
-
-
 kjv = zipfile.ZipFile(PKG / 'eng.bible.kjv.zip')
 bsb = zipfile.ZipFile(PKG / 'eng.bible.bsb.zip')
 manifest = json.loads(kjv.read('manifest.json'))
@@ -94,8 +86,6 @@ for bk in NT_BOOKS:
                 ot, b = by_form[base]
                 row = {'book': bk, 'chapter': c['chapter'], 'verse': v['verse'], 'word': t['n'],
                        'kjv': t['t'], 'modernized': ot + (poss or '')}
-                if in_genealogy(bk, c['chapter'], v['verse']):
-                    row['genealogy'] = True
                 if (base not in SHARED or b in bsb_words.get((c['chapter'], v['verse']), ())
                         or (bk, c['chapter'], v['verse'], base) in CONFIRMED):
                     changes.append(row)
@@ -113,12 +103,10 @@ lines = [f'# Old Testament names in the New Testament\n',
          f'{len(changes)} words changed; {len(skipped)} left alone because the BSB names someone else there.\n',
          '| KJV New Testament | KJV Old Testament | Changed |', '|---|---|---:|']
 lines += [f'| {nt} | {ot} | {counts[nt]} |' for nt, ot, _ in NAMES if counts[nt]]
-lines += ['\n## Every change\n', 'Changes inside the genealogies of Matthew 1:1–17 and Luke 3:23–38 are marked *(genealogy)*.\n']
-lines += [f"- {r['book']} {r['chapter']}:{r['verse']} {r['kjv']} → {r['modernized']}{' *(genealogy)*' if r.get('genealogy') else ''}"
-          for r in changes]
+lines += ['\n## Every change\n'] + [f"- {r['book']} {r['chapter']}:{r['verse']} {r['kjv']} → {r['modernized']}" for r in changes]
 lines += ['\n## Left alone\n'] + [f"- {r['book']} {r['chapter']}:{r['verse']} {r['kjv']}" for r in skipped
                                    if not r['kjv'].startswith('Jesus')]
 lines += [f"- “Jesus” everywhere except the verses above ({sum(r['kjv'].startswith('Jesus') for r in skipped)} places)"]
 (OUT / 'changes.md').write_text('\n'.join(lines) + '\n')
-print(len(changes), 'changed', len(skipped), 'skipped;', sum('genealogy' in r for r in changes), 'in the genealogies')
+print(len(changes), 'changed', len(skipped), 'skipped')
 print(collections.Counter(r['kjv'] for r in skipped if not r['kjv'].startswith('Jesus')).most_common(30))
