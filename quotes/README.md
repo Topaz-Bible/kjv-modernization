@@ -105,11 +105,16 @@ when all of them pass their checks and each inner quote opens on a speech verb w
 `kjv-quotes.json`. An inner quote ends at the end of its own clause, not the sentence. A quote within a
 quote is never shown without its outer quote.
 
+A quote that runs over several paragraphs is one region. Some Bibles print a fresh opening mark at
+each new paragraph of a long quote, without closing the last; whether to do that is left to the app
+that draws the marks. The regions only say where each quote starts and stops, and how deep it is.
+
 ## Reviewed regions
 
 [`reviewed.csv`](reviewed.csv) records a decision per region (`book`, `start`, `end`): `ship` puts a
 region in the KJVm whatever its tier; `drop` keeps it out; `fix` moves its edges to `fix_start`/`fix_end`
 and ships it (a quote within a quote waits for the nested review); `add` puts in a quote the matching
-never found (at `level` 2 when it sits inside another quote) (the BSB's words too far from the KJV's: "Why are you staring at one another?" for "Why
+never found (at `level` 2 or 3 when it sits inside another quote). On the other
+decisions, a `level` limits the row to the quote at that level, where an outer and inner quote share edges (the BSB's words too far from the KJV's: "Why are you staring at one another?" for "Why
 do ye look one upon another?"). The categories are reviewed smallest first,
 nested quotes last.

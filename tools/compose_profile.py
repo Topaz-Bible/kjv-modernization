@@ -133,20 +133,29 @@ def main():
                for e in thats}
 
 
-    reviewed = {(x['book'], x['start'], x['end']): x for x in csv.DictReader(open(REPO / 'quotes' / 'reviewed.csv'))}
+    # A row applies to every region with its edges, or, with a level, only to the region at that level
+    # (an outer and inner quote can share edges). An added row with the same edges replaces the region.
+    reviewed = {(x['book'], x['start'], x['end'], 'add' if x['decision'] == 'add' else x.get('level') or ''): x
+                for x in csv.DictReader(open(REPO / 'quotes' / 'reviewed.csv'))}
+
+    def review(r):
+        k = (r['book'], r.get('start'), r.get('end'))
+        if k + ('add',) in reviewed:
+            return reviewed[k + ('add',)]
+        return reviewed.get(k + (str(r['level']),)) or reviewed.get(k + ('',))
+
     quotes, shipped = collections.defaultdict(list), []
     regions = json.load(open(REPO / 'quotes' / 'kjv-quotes.json'))['regions']
     # A speech shipped by hand takes the quotes inside it along.
     by_hand = collections.defaultdict(list)
     for r in regions:
-        row = reviewed.get((r['book'], r.get('start'), r.get('end')))
+        row = review(r)
         if row and row['decision'] in ('ship', 'fix') and r['level'] == 1:
             by_hand[r['book']].append((row['fix_start'] or r['start'], row['fix_end'] or r['end']))
     for r in regions:
-        row = reviewed.get((r['book'], r.get('start'), r.get('end')))
+        row = review(r)
         decision = row and row['decision']
         if decision in ('drop', 'add'):
-            # An added row with the same edges replaces the generated region.
             continue
         if decision == 'fix':
             # Edges set by hand. A quote within a quote waits for its outer one (the nested review).
@@ -169,6 +178,7 @@ def main():
     # Quotes the BSB has that no rule could place in the KJV, added by hand (level 1 unless the row says).
     for x in reviewed.values():
         if x['decision'] == 'add':
+            assert not (x['fix_start'] or x['fix_end']), f"add row with fix edges: {x}"
             quotes[x['book']].append({'start': x['start'], 'end': x['end'], 'level': int(x.get('level') or 1)})
     for bk, rs in quotes.items():
         # Of two quotes of one level that overlap, the longer stays; a quote within a quote ships only

@@ -2,6 +2,15 @@
 
 ## Unreleased
 
+- **Quotes within quotes, the held groups.** The last 53 groups the rules couldn't settle were read by
+  hand. Where the outer and inner quote opened on the same word, the inner one now opens after its own
+  tag ("It is written, ‘My house shall be called the house of prayer;’ but ye have made it a den of
+  thieves."), or the outer one opens back at its speaker ("Ye are idle, ye are idle: therefore ye say,
+  ‘Let us go…’"). A narrator's tag inside a quote splits it ("“All this,” said David, “the Lord made me
+  understand…”", "“…north,” saith the Lord: “for I have spread you abroad…”"). Three deep, by hand:
+  Absalom's message (2 Samuel 14:32) and Zedekiah's question (Jeremiah 32:3–5). Deborah's song ships
+  with its inner calls. A `reviewed.csv` row with a `level` now applies only to the quote at that
+  level, since an outer and inner quote can share edges.
 - **Quotes within quotes, third batch.** 119 more speeches ship with their inner quotes (226 single, 5
   double), among them the Sermon on the Mount, Elihu, and the Lord's sayings in Jeremiah and Ezekiel.
   A speech that opened on its inner quote's first word now opens with its speaker ("And he said unto the

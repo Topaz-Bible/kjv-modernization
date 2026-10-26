@@ -247,7 +247,6 @@ DEU,027.024:015,027.025:011,fix,"""Amen."" is the people's answer; the next curs
 DEU,027.025:001,027.025:011,add,the next curse,,,2
 DEU,027.025:018,027.026:015,fix,"""Amen."" is the people's answer; the next curse is its own quote",027.025:018,027.025:018,
 DEU,027.026:001,027.026:015,add,the next curse,,,2
-JER,032.003:017,032.005:029,drop,"Zedekiah's question (""Wherefore dost thou prophesy, and say,"") is the outer quote: three levels, held",,,
 GEN,002.023:004,002.023:027,ship,nested review: outer quote and its inner quotes read by hand,,,
 JDG,009.002:001,009.002:050,ship,nested review: outer quote and its inner quotes read by hand,,,
 1SA,003.011:007,003.014:026,ship,nested review: outer quote and its inner quotes read by hand,,,
@@ -392,3 +391,97 @@ EZK,006.002:001,006.014:035,ship,nested review: outer quote and its inner quotes
 MRK,013.005:008,013.037:011,ship,nested review: outer quote and its inner quotes read by hand,,,
 MRK,013.024:001,013.025:017,drop,not a quote within the quote: the speaker's own words (nested review),,,
 LUK,017.020:021,017.021:018,ship,nested review: outer quote and its inner quotes read by hand,,,
+GEN,020.011:004,020.013:044,ship,"nested review: Abraham's answer, his thought inside it",,,
+GEN,020.011:004,020.011:025,fix,"nested review: the thought is ""Surely the fear of God…""",020.011:007,020.011:025,2
+GEN,038.022:008,038.022:027,ship,"nested review: one quote; ""said, that"" is reported speech",,,
+EXO,005.010:019,005.011:019,ship,nested review: the officers' message,,,1
+EXO,005.010:019,005.011:019,fix,"nested review: Pharaoh's words follow ""Thus saith Pharaoh,""",005.010:022,005.011:019,2
+EXO,005.017:004,005.017:011,fix,"nested review: Pharaoh's speech opens ""Ye are idle""",005.017:004,005.018:021,
+EXO,005.017:013,005.018:021,drop,"nested review: joined to ""Ye are idle"" before it",,,1
+EXO,007.019:007,007.019:066,ship,nested review: the Lord to Moses,,,
+EXO,007.019:007,007.019:044,fix,"nested review: the words for Aaron follow ""Say unto Aaron,"", to the verse end",007.019:010,007.019:066,2
+EXO,008.005:007,008.005:037,ship,nested review: the Lord to Moses,,,1
+EXO,008.005:007,008.005:037,fix,"nested review: the words for Aaron follow ""Say unto Aaron,""",008.005:010,008.005:037,2
+EXO,008.016:007,008.016:031,ship,nested review: the Lord to Moses,,,1
+EXO,008.016:007,008.016:031,fix,"nested review: the words for Aaron follow ""Say unto Aaron,""",008.016:010,008.016:031,2
+2SA,014.032:023,014.032:059,fix,"nested review: Absalom's answer opens ""Behold, I sent unto thee""",014.032:005,014.032:059,1
+2SA,014.032:011,014.032:039,add,"nested review: ""Come hither… there still:"" what Absalom sent",,,2
+2SA,014.032:023,014.032:039,add,"nested review: ""Wherefore am I come from Geshur?…"" what Joab was to say: three deep",,,3
+1KI,001.024:011,001.027:031,fix,"nested review: Nathan's speech opens ""My lord, O king""",001.024:004,001.027:031,
+1KI,020.011:009,020.011:026,ship,nested review: the king's answer,,,1
+1KI,020.011:009,020.011:026,fix,"nested review: the message follows ""Tell him,""",020.011:011,020.011:026,2
+1KI,020.014:013,020.014:023,fix,"nested review: the prophet's answer opens ""Thus saith the Lord""",020.014:009,020.014:023,1
+2KI,004.043:017,004.043:025,fix,"nested review: Elisha's answer runs on: ""for thus saith the Lord, ‘They shall eat…’""",004.043:017,004.043:035,
+2KI,004.043:029,004.043:035,drop,"nested review: joined to ""Give the people"" before it",,,1
+2KI,007.004:004,007.004:051,fix,"nested review: the lepers' speech: ""Why sit we here until we die?"" to ""we shall but die.""",007.003:020,007.004:060,
+2KI,007.004:004,007.004:021,fix,"nested review: what they might say: ""We will enter into the city,""",007.004:004,007.004:009,
+2CH,024.020:024,024.020:038,fix,nested review: Zechariah's words run to the verse end,024.020:024,024.020:049,1
+2CH,024.020:024,024.020:038,fix,"nested review: God's question follows ""Thus saith God,""",024.020:027,024.020:038,2
+JER,001.007:007,001.008:014,ship,nested review: the Lord to Jeremiah,,,
+JER,001.007:007,001.007:012,fix,"nested review: the saying is ""I am a child:""",001.007:009,001.007:012,
+JER,006.016:005,006.020:030,ship,"nested review: the Lord's words after ""Thus saith the Lord,""",,,
+JER,006.016:005,006.016:033,drop,"nested review: the Lord's own words, not a quote within them",,,
+JER,022.018:022,022.023:029,fix,"nested review: the Lord's words open ""They shall not lament""",022.018:015,022.023:029,
+MAL,001.012:010,001.013:015,fix,"nested review: the Lord's words open ""But ye have profaned it""",001.012:001,001.013:015,
+MAT,004.004:006,004.004:027,ship,nested review: Jesus' answer,,,1
+MAT,004.004:006,004.004:027,fix,"nested review: the Scripture follows ""It is written,""",004.004:009,004.004:027,2
+MAT,019.004:008,019.006:020,ship,nested review: Jesus' answer,,,
+MAT,019.004:008,019.004:024,fix,"nested review: ""that he which made them…"" is reported; the quoted words are ""made them male and female,""",019.004:020,019.004:024,
+MAT,021.013:005,021.013:025,ship,nested review: Jesus' words,,,1
+MAT,021.013:005,021.013:025,fix,"nested review: the Scripture is ""My house… prayer;"", then Jesus' own ""but ye have made it…""",021.013:008,021.013:016,2
+MAT,022.037:005,022.040:011,ship,nested review: Jesus' answer opens on the commandment itself,,,
+MAT,028.013:002,028.014:015,ship,nested review: the elders' instructions,,,
+MAT,028.013:002,028.013:015,fix,"nested review: what the soldiers were to say follows ""Say ye,""",028.013:004,028.013:015,
+LUK,004.004:006,004.004:022,ship,nested review: Jesus' answer,,,1
+LUK,004.004:006,004.004:022,drop,"nested review: saying-""that"" (ὅτι, lowered): no inner marks",,,2
+LUK,008.010:004,008.018:030,ship,nested review: Jesus' answer,,,
+LUK,008.010:004,008.010:034,fix,"nested review: the quoted words are ""seeing they might not see…""",008.010:024,008.010:034,
+LUK,010.027:005,010.027:035,ship,nested review: the lawyer's answer opens on the commandment itself,,,
+LUK,019.046:004,019.046:022,ship,nested review: Jesus' words,,,1
+LUK,019.046:004,019.046:022,fix,"nested review: the Scripture is ""My house is the house of prayer:""",019.046:007,019.046:013,2
+PSA,087.004:001,087.004:024,ship,nested review: one quote (inner copy removed),,,
+EZK,037.016:001,037.028:024,ship,nested review: the Lord to Ezekiel,,,
+EZK,037.016:001,037.016:023,fix,"nested review: the writing is ""For Judah…""",037.016:014,037.016:023,
+JHN,019.021:011,019.021:027,ship,nested review: the priests to Pilate,,,
+JHN,019.021:011,019.021:017,fix,"nested review: the title is ""The King of the Jews;""",019.021:013,019.021:017,
+JER,014.013:013,014.013:033,drop,"nested review: joined to ""Ah, Lord God!"" before it; stays as the inner quote",,,1
+GEN,038.016:011,038.016:047,fix,"nested review: Judah's words end before the narrator's ""(for he knew not…)""",038.016:011,038.016:021,
+GEN,038.016:036,038.016:047,ship,nested review: Tamar's answer,,,
+RUT,004.003:007,004.004:054,ship,nested review: Boaz to the kinsman,,,
+RUT,004.004:008,004.004:054,drop,"nested review: inside Boaz's speech: the quote within it is ""Buy it… my people."" (added)",,,
+RUT,004.004:008,004.004:019,add,nested review: what Boaz meant to tell him,,,2
+RUT,004.011:001,004.012:028,fix,"nested review: the people's words open ""We are witnesses.""",004.011:014,004.012:028,
+RUT,004.011:014,004.011:016,drop,nested review: joined to the blessing after it,,,
+1SA,026.014:007,026.014:031,fix,"nested review: Abner's answer: ""Who art thou that criest to the king?""",026.014:024,026.014:031,
+1SA,026.014:015,026.014:018,ship,nested review: David's call,,,
+2SA,011.010:008,011.010:034,fix,"nested review: what they told David: ""Uriah went not down unto his house,""",011.010:008,011.010:014,
+2SA,011.010:019,011.010:034,ship,nested review: David to Uriah,,,
+EZK,004.015:006,004.015:008,drop,nested review: a fragment of the quote below,,,
+EZK,004.015:006,004.015:022,ship,nested review: the Lord to Ezekiel,,,
+1SA,010.015:005,010.015:014,ship,"nested review: one quote, nothing inside",,,
+1SA,020.032:007,020.032:019,fix,"nested review: Jonathan's words open after ""and said unto him,""",020.032:011,020.032:019,
+2SA,014.010:005,014.010:021,ship,"nested review: one quote, nothing inside",,,
+1KI,002.020:004,002.020:017,ship,"nested review: one quote, nothing inside",,,
+1CH,028.019:001,028.019:023,fix,"nested review: split around ""said David"": “All this,” said David, “the Lord made me…”",028.019:001,028.019:002,
+1CH,028.019:005,028.019:023,add,nested review: the rest of David's words after the tag,,,1
+ISA,041.014:018,041.021:011,fix,"nested review: ""and thy redeemer, the Holy One of Israel"" is part of the tag; the words go on at ""Behold""",041.015:001,041.021:003,
+ISA,066.007:001,066.009:025,fix,"nested review: split around ""saith the Lord:""",066.007:001,066.009:012,
+ISA,066.009:016,066.009:025,add,"nested review: after ""saith the Lord:"": ""shall I cause to bring forth…""",,,1
+JER,023.023:010,023.024:023,fix,"nested review: the words go on after ""saith the Lord,"" and stop at the next ""saith the Lord.""",023.023:010,023.024:013,
+MIC,002.006:001,002.006:021,fix,"nested review: split around ""say they to them that prophesy:""",002.006:001,002.006:003,
+MIC,002.006:010,002.006:021,add,nested review: the rest of their words (BSB quotes both),,,1
+ZEC,002.006:001,002.006:028,fix,"nested review: split around ""saith the Lord:""",002.006:001,002.006:012,
+ZEC,002.006:016,002.006:028,add,"nested review: after ""saith the Lord:"": ""for I have spread you abroad…""",,,1
+JER,023.024:017,023.024:023,add,"nested review: after ""saith the Lord."": ""Do not I fill heaven and earth?""",,,1
+ISA,041.021:007,041.021:011,add,"nested review: after ""saith the Lord;"": ""bring forth your strong reasons,""",,,1
+JDG,005.002:001,005.031:025,ship,nested review: the song of Deborah and Barak,,,
+JDG,005.012:003,005.012:019,fix,"nested review: the call opens on the first ""Awake,""",005.012:001,005.012:019,
+JDG,005.023:004,005.023:034,fix,"nested review: the curse goes on after ""said the angel of the Lord,""",005.023:010,005.023:034,
+JER,003.011:007,003.013:032,ship,nested review: the Lord to Jeremiah,,,
+JER,003.012:015,003.012:032,fix,"nested review: the words to proclaim go on after ""saith the Lord;""",003.012:018,003.012:032,
+JER,003.012:033,003.013:032,fix,"nested review: the words to proclaim go on after ""saith the Lord,""",003.012:036,003.013:032,
+JER,032.003:011,032.005:029,add,nested review: Zedekiah's question to Jeremiah,,,1
+JER,032.003:017,032.005:029,add,"nested review: what Jeremiah says: ""Thus saith the Lord, …""",,,2
+JER,032.003:021,032.005:029,drop,"nested review: the Lord's words, split around ""saith the Lord:"" (added at level 3)",,,
+JER,032.003:021,032.005:016,add,nested review: the Lord's words: three deep,,,3
+JER,032.005:020,032.005:029,add,"nested review: after ""saith the Lord:"": three deep",,,3
