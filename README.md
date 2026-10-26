@@ -19,7 +19,10 @@ spelling and punctuation. Each step changed how the text looks, not what it says
 | [Names](names/) | Old Testament names in the New Testament take the KJV's Old Testament spelling: Elias → Elijah, Esaias → Isaiah | Draft |
 | [Pronouns for God](capitals/) | He, Him, His, Thou, Thy… capitalized where they refer to God, following the BSB | Draft |
 | [Headings](headings/) | Section headings written for the KJV | Planned |
-| [Paragraphs and poetry](breaks/) | Paragraph breaks, and line breaks for poetry | Planned |
+| [Paragraphs and poetry](breaks/) | The Cambridge Paragraph Bible's paragraphs, poetry lines and stanzas | **In the Topaz KJV** |
+
+**[What we left alone](LEFT-ALONE.md)**: the changes we chose not to make, and why. *wist* isn't
+*knew*, *every one* isn't always *everyone*, and Old Testament *yea* isn't *yes*.
 
 [`profile.json`](profile.json) lists the layers for software: each one's folder, data file and whether
 it starts switched on.
