@@ -485,3 +485,80 @@ JER,032.003:017,032.005:029,add,"nested review: what Jeremiah says: ""Thus saith
 JER,032.003:021,032.005:029,drop,"nested review: the Lord's words, split around ""saith the Lord:"" (added at level 3)",,,
 JER,032.003:021,032.005:016,add,nested review: the Lord's words: three deep,,,3
 JER,032.005:020,032.005:029,add,"nested review: after ""saith the Lord:"": three deep",,,3
+GEN,003.017:028,003.018:010,fix,"inner-tag review: the command is ""Thou shalt not eat of it:""",003.017:028,003.017:033,
+GEN,012.013:002,012.013:008,fix,"inner-tag review: ""I pray thee"" is Abram's; the saying is ""thou art my sister:""",012.013:005,012.013:008,
+GEN,024.034:004,024.034:007,drop,inner-tag review: joined to the rest of the servant's speech,,,
+GEN,024.035:001,024.049:031,fix,"inner-tag review: the servant's speech opens ""I am Abraham's servant.""",024.034:004,024.049:031,
+GEN,024.042:011,024.043:008,fix,inner-tag review: the prayer at the well runs to 24:44,024.042:011,024.044:032,
+GEN,024.043:029,024.043:041,add,inner-tag review: inside the prayer: three deep,,,3
+GEN,024.044:006,024.044:016,add,inner-tag review: inside the prayer: three deep,,,3
+GEN,024.046:015,024.046:033,fix,"inner-tag review: inner quote ends with its saying: ""so I drank"" is the servant",024.046:015,024.046:023,
+GEN,031.008:022,031.008:033,fix,inner-tag review: inner quote ends with its saying,031.008:022,031.008:027,
+2SA,020.016:013,020.016:026,fix,"inner-tag review: ""I pray you, unto Joab,"" is the woman's; the message is ""Come near hither…""",020.016:018,020.016:026,
+EZK,013.015:025,013.016:027,fix,inner-tag review: inner quote ends with its saying,013.015:025,013.015:034,
+ISA,008.012:004,008.015:017,fix,"inner-tag review: the Lord's words open ""Say ye not,""",008.012:001,008.015:017,
+ISA,008.012:015,008.012:024,fix,inner-tag review: inner quote ends with its saying,008.012:015,008.012:016,
+ISA,008.012:004,008.012:005,add,"inner-tag review: ""A confederacy,"" the first time",,,2
+ISA,065.005:003,065.005:010,fix,"inner-tag review: their saying runs on: ""for I am holier than thou.""",065.005:003,065.005:016,
+JER,006.014:015,006.014:021,fix,inner-tag review: inner quote ends with its saying,006.014:015,006.014:016,
+JER,008.011:015,008.011:021,fix,inner-tag review: inner quote ends with its saying,008.011:015,008.011:016,
+JER,007.023:008,007.023:022,fix,inner-tag review: the command runs to the verse end,007.023:008,007.023:041,
+JER,026.009:001,026.009:026,fix,"inner-tag review: the people's words open ""Thou shalt surely die.""",026.008:040,026.009:026,
+JER,026.018:022,026.019:047,fix,inner-tag review: Micah's message ends with 26:18,026.018:022,026.018:052,
+JER,032.008:026,032.008:054,fix,"inner-tag review: Hanameel's words run on: ""buy it for thyself.""",032.008:026,032.008:058,
+JER,034.014:001,034.014:021,fix,"inner-tag review: the command runs to ""go free from thee:""",034.014:001,034.014:037,
+JHN,004.017:018,004.018:006,fix,inner-tag review: inner quote ends with its saying,004.017:018,004.017:021,
+JHN,009.041:018,009.041:023,fix,inner-tag review: inner quote ends with its saying,009.041:018,009.041:019,
+JOB,007.013:004,007.015:012,fix,inner-tag review: inner quote ends with its saying,007.013:004,007.013:014,
+JOB,009.020:014,009.020:022,fix,inner-tag review: inner quote ends with its saying,009.020:014,009.020:016,
+JOB,015.023:007,015.023:021,fix,inner-tag review: inner quote ends with its saying,015.023:007,015.023:009,
+RUT,001.012:021,001.013:039,fix,inner-tag review: inner quote ends with its saying,001.012:021,001.012:037,
+NUM,019.002:014,019.006:023,fix,inner-tag review: the law runs to the end of the chapter,019.002:014,019.022:020,
+ZEC,001.004:015,001.006:052,fix,"inner-tag review: the former prophets' message ends at ""evil doings:""",001.004:015,001.004:032,
+ZEC,001.006:027,001.006:052,add,"inner-tag review: what the fathers said, inside Zechariah's message",,,2
+ZEC,001.021:004,001.021:057,fix,"inner-tag review: two speakers: Zechariah asks, the angel answers",001.021:004,001.021:008,
+ZEC,001.021:013,001.021:057,add,inner-tag review: the angel's answer,,,1
+ZEC,004.005:013,004.005:024,fix,"inner-tag review: two speakers: the angel asks, Zechariah answers",004.005:013,004.005:018,
+ZEC,004.005:022,004.005:024,add,inner-tag review: Zechariah's answer,,,1
+ZEC,004.013:007,004.013:018,fix,"inner-tag review: two speakers: the angel asks, Zechariah answers",004.013:007,004.013:012,
+ZEC,004.013:016,004.013:018,add,inner-tag review: Zechariah's answer,,,1
+ZEC,007.003:001,007.003:038,drop,"inner-tag review: opens on the narrator; the question is ""Should I weep…""",,,1
+ZEC,007.003:022,007.003:038,add,inner-tag review: the question,,,1
+MAT,026.005:001,026.005:016,drop,"inner-tag review: opens on the narrator's ""But they said,""",,,1
+MAT,026.005:004,026.005:016,add,inner-tag review: what they said,,,1
+NUM,024.004:001,024.005:012,drop,"inner-tag review: Balaam's own oracle, not a quote within it",,,
+NUM,024.016:001,024.017:044,drop,"inner-tag review: Balaam's own oracle, not a quote within it",,,
+LUK,012.012:001,012.012:016,drop,"inner-tag review: ""what ye shall say:"" — the words after are Jesus'",,,
+1KI,020.004:017,020.004:024,drop,"inner-tag review: ""according to thy saying"" — the words after are the king's own",,,
+JDG,006.037:001,006.037:011,drop,"inner-tag review: ""as thou hast said"" — the words after are Gideon's own",,,
+ISA,058.001:001,058.002:040,fix,inner-tag review: the Lord's speech runs 58:1–14,058.001:001,058.014:032,
+ISA,058.003:001,058.014:032,drop,inner-tag review: joined to 58:1–2; the people's sayings inside it are added,,,1
+ISA,058.003:001,058.003:004,add,"inner-tag review: split around ""say they""",,,2
+ISA,058.003:007,058.003:021,add,"inner-tag review: split around ""say they""",,,2
+1KI,020.005:019,020.006:025,fix,"inner-tag review: the words sent end with v5; ""Yet I will send"" is Ben-hadad again",020.005:019,020.005:033,3
+1KI,020.028:026,020.028:060,fix,"inner-tag review: the Syrians' words end at ""valleys""; ""therefore will I deliver"" is the Lord",020.028:026,020.028:040,3
+2SA,016.003:011,016.003:038,drop,"inner-tag review: no quote opens on ""And Ziba said""",,,2
+2SA,016.003:025,016.003:038,add,"inner-tag review: what Mephibosheth said, inside Ziba's answer",,,2
+GEN,003.003:016,003.003:032,drop,"inner-tag review: ""God hath said"" is the woman's own words",,,2
+GEN,003.003:019,003.003:032,add,"inner-tag review: what God said, quoted by the woman",,,2
+JER,029.028:010,029.028:020,fix,inner-tag review: Jeremiah's letter runs to the verse end,029.028:010,029.028:029,3
+EXO,007.017:005,007.018:028,add,"inner-tag review: the message after ""Thus saith the Lord,""",,,3
+JOS,022.024:015,022.024:037,drop,"inner-tag review: the feared future runs to ""cease from fearing the Lord""",,,2
+JOS,022.024:015,022.025:039,add,"inner-tag review: the feared future, after ""for fear of this thing, saying,""",,,2
+JOS,022.024:027,022.025:020,drop,inner-tag review: replaced by the level-3 quote below,,,2
+JOS,022.024:027,022.025:027,add,"inner-tag review: what the children might say, to ""no part in the Lord"" (as the BSB)",,,3
+EZK,021.009:001,021.017:021,ship,inner-tag review: the Lord to Ezekiel,,,1
+EZK,021.009:007,021.017:021,drop,inner-tag review: the message ends with the song; v14 turns back to Ezekiel,,,2
+EZK,021.009:007,021.013:019,add,"inner-tag review: what Ezekiel is to say, ""Thus saith the Lord; Say,"" and the song of the sword",,,2
+EZK,021.009:011,021.013:019,drop,"inner-tag review: the song opens after ""Say,""",,,3
+EZK,021.009:012,021.013:019,add,inner-tag review: the song of the sword,,,3
+EZK,036.001:014,036.005:051,drop,"inner-tag review: two messages: v1-2 and v3-5, with ""Therefore prophesy and say"" between (as the BSB)",,,2
+EZK,036.001:014,036.002:022,add,inner-tag review: first message to the mountains,,,2
+EZK,036.003:005,036.005:051,add,"inner-tag review: second message, after ""Therefore prophesy and say,""",,,2
+JER,021.008:008,021.014:034,drop,inner-tag review: two messages: to the people (v8-10) and to the king's house (v11-14),,,2
+JER,021.008:008,021.010:037,add,inner-tag review: the message to the people,,,2
+JER,021.011:011,021.012:047,drop,inner-tag review: the message to the king's house runs to v14,,,3
+JER,021.011:011,021.014:034,add,"inner-tag review: the message to the king's house, after ""say,""",,,2
+JOS,022.022:001,022.029:043,ship,"inner-tag review: the eastern tribes answer, read with its inner quotes",,,1
+JOS,022.026:004,022.027:040,fix,"inner-tag review: what they said runs to the verse end, ""Ye have no part"" inside it (as the BSB)",022.026:004,022.027:060,2
+JOS,022.027:054,022.027:060,add,inner-tag review: what the children might say,,,3

@@ -783,6 +783,84 @@ def outer_open(regions, K):
             check(r, K, regions)
 
 
+MESSAGE = re.compile(r'(speak|say|command|tell|charge)$', re.I)
+RESUME = ('and', 'that', 'so')
+
+
+def tag_inners(regions, K):
+    """A speech tag inside a quote with no quote after it ("we will say, Some evil beast hath devoured
+    him", "Speak unto the children of Israel, saying, If a soul shall sin…") opens a quote within the
+    quote: the BSB often turns these into reported speech, so the KJV's own words place them.
+
+    A message to pass on ("Speak unto…, saying,", "And say, Thus saith the Lord God;…") runs to the end
+    of the outer quote, or to the sentence before the next message; the quotes already inside it move
+    one level deeper. Any other saying ends with its sentence (on past a question that goes on in small
+    letters), or at a colon or semicolon where the speaker takes over again ("Some evil beast hath
+    devoured him: and we shall see…"). Each goes to the deepest quote around its tag, and the pass
+    repeats for tags inside the new quotes. Every quote touched is checked afresh."""
+    def tags(kl, s, e):
+        return [i for i in range(s + 1, e - 1)
+                if SPEECH.match(kl[i].t) and OPEN_PUNCT.search(kl[i].a) and kl[i + 1].t[:1].isupper()]
+
+    def is_message(kl, s, i):
+        if kl[i + 1].t == 'Thus' and kl[i + 2].t.lower() in ('saith', 'shalt'):
+            return True
+        x = i - 1
+        while x >= s and i - x <= 12 and not STOP.search(kl[x].a):
+            if kl[i].t.lower() == 'saying' and MESSAGE.match(kl[x].t):
+                return True
+            x -= 1
+        return False
+
+    for _ in range(4):
+        added = []
+        for r in sorted((r for r in regions if '_s' in r), key=lambda r: -r['level']):
+            kl, s, e = K[r['chapter']], r['_s'], r['_e']
+            same = [o for o in regions if o is not r and '_s' in o and o['chapter'] == r['chapter']]
+            all_tags = tags(kl, s, e)
+            for i in all_tags:
+                if any(o['_s'] == i + 1 for o in same) or any(o['level'] > r['level'] and o['_s'] <= i <= o['_e'] for o in same):
+                    continue
+                if is_message(kl, s, i):
+                    end = e
+                    later = [j for j in all_tags if j > i + 1 and is_message(kl, s, j)]
+                    if later:
+                        k = later[0]
+                        while k > i + 1 and not STOP.search(kl[k - 1].a):
+                            k -= 1
+                        end = k - 1 if k > i + 1 else e
+                else:
+                    k = i + 1
+                    while k < e and not (STOP.search(kl[k].a) and not (re.search(r'[?!]\s*$', kl[k].a) and kl[k + 1].t[:1].islower())) \
+                            and not (re.search(r'[:;]\s*$', kl[k].a) and kl[k + 1].t in RESUME):
+                        k += 1
+                    end = k
+                q = {'book': r['book'], 'chapter': r['chapter'], 'level': r['level'] + 1, 'bsb': r['bsb'], 'checks': [],
+                     '_s': i + 1, '_e': end, 'tagged': True}
+                for o in same:
+                    if o['level'] >= q['level'] and q['_s'] <= o['_s'] and o['_e'] <= q['_e']:
+                        o['level'] += 1
+                regions.append(q)
+                same.append(q)
+                added.append((q, r))
+        if not added:
+            break
+        for q, r in added:
+            for o in [q, r] + [o for o in regions if '_s' in o and o is not q and o['chapter'] == q['chapter']
+                               and q['_s'] <= o['_s'] and o['_e'] <= q['_e']]:
+                keep = [c for c in o['checks'] if c.startswith('found by')]
+                o['checks'] = []
+                check(o, K, regions)
+                o['checks'] = keep + [c for c in o['checks'] if c not in keep]
+    # A quote further out than the one around a new tag held a stale flag.
+    for o in regions:
+        if '_s' in o and 'a speech verb inside, with no quote after it' in o['checks']:
+            keep = [c for c in o['checks'] if c.startswith('found by')]
+            o['checks'] = []
+            check(o, K, regions)
+            o['checks'] = keep + [c for c in o['checks'] if c not in keep]
+
+
 def nested_groups(regions, K):
     """Mark a quote with quotes inside it ("as it is written, ‘…’") ready to ship as one group when
     every quote in it passes its checks, no quote of its own level sits inside or around it, it doesn't
@@ -830,6 +908,7 @@ def main():
         regions = open_earlier(regions, K)
         regions = close_ends(regions, K)
         outer_open(regions, K)
+        tag_inners(regions, K)
         nested_groups(regions, K)
         for r in regions:
             if r['tier'] == 5:
@@ -853,7 +932,7 @@ def main():
                'anchors': 'chapter.verse:word-number in the KJV package; start_word/end_word guard against drift',
                'tiers': {str(k): counts[k] for k in sorted(counts)},
                'regions': [{k: r[k] for k in ('id', 'book', 'chapter', 'tier', 'status', 'level', 'start', 'end',
-                                               'start_word', 'end_word', 'bsb', 'checks', 'woj', 'joined', 'term', 'nested') if k in r}
+                                               'start_word', 'end_word', 'bsb', 'checks', 'woj', 'joined', 'term', 'nested', 'tagged') if k in r}
                            for r in everything]},
               open(OUT / 'kjv-quotes.json', 'w'), indent=1, ensure_ascii=False)
     names = {1: 'One verse, nothing nested', 2: 'Several verses, nothing nested', 3: 'Nested quotes',

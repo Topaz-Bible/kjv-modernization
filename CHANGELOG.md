@@ -2,6 +2,17 @@
 
 ## Unreleased
 
+- **Inner quotes from the KJV's own speech tags.** 163 quotes held a speech verb with no quote after it
+  ("he abideth at Jerusalem: for he said, To day shall the house of Israel restore me…"). Where the BSB had turned the KJV's direct speech into
+  reported speech, there was nothing to carry over; now a tag inside a quote ("saying,", "said unto
+  him,", "say,") followed by a capital opens a quote one level deeper. A message ("Thus saith the Lord;
+  …", "Go, tell him, saying, …") runs to the end of the speech or the next message; any other saying
+  stops at its sentence, or at a colon or semicolon followed by "and", "that" or "so". Quotes already
+  inside the new one move one level deeper. Example: "Go into the city to such a man, and say unto him,
+  ‘The Master saith, “My time is at hand…”’". Kept fixed by hand: messages that are really two
+  (Ezekiel 36:1–5, Jeremiah 21:8–14), sayings that end mid-sentence ("The Lord is God of the hills, but he
+  is not God of the valleys,” therefore will I deliver…"), and the eastern tribes' answer (Joshua 22),
+  now with its quotes three deep. Four levels deep is now possible (Exodus 3:17, Jeremiah 21:13).
 - **Quotes within quotes, the held groups.** The last 53 groups the rules couldn't settle were read by
   hand. Where the outer and inner quote opened on the same word, the inner one now opens after its own
   tag ("It is written, ‘My house shall be called the house of prayer;’ but ye have made it a den of

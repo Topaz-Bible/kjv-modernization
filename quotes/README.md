@@ -105,6 +105,13 @@ when all of them pass their checks and each inner quote opens on a speech verb w
 `kjv-quotes.json`. An inner quote ends at the end of its own clause, not the sentence. A quote within a
 quote is never shown without its outer quote.
 
+Where the BSB reports a saying that the KJV gives word for word ("for he said, To day shall the house
+of Israel restore me…"), the BSB has no inner quote to carry over. The KJV's own tag then places it: a
+speech verb inside a quote, with a comma or colon and a capital after it, opens a quote one level
+deeper (`tagged: true`). A message ("Thus saith the Lord; …", "tell him, saying, …") runs to the end of
+its outer quote or to the next message; any other saying stops at its sentence, or at a colon or
+semicolon followed by "and", "that" or "so". Quotes already inside the new one move one level deeper.
+
 A quote that runs over several paragraphs is one region. Some Bibles print a fresh opening mark at
 each new paragraph of a long quote, without closing the last; whether to do that is left to the app
 that draws the marks. The regions only say where each quote starts and stops, and how deep it is.
