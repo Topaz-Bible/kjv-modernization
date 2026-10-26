@@ -133,12 +133,17 @@ def main():
                for e in thats}
 
 
-    reviewed = {(x['book'], x['start'], x['end']): x['decision'] for x in csv.DictReader(open(REPO / 'quotes' / 'reviewed.csv'))}
+    reviewed = {(x['book'], x['start'], x['end']): x for x in csv.DictReader(open(REPO / 'quotes' / 'reviewed.csv'))}
     quotes, shipped = collections.defaultdict(list), []
     for r in json.load(open(REPO / 'quotes' / 'kjv-quotes.json'))['regions']:
-        decision = reviewed.get((r['book'], r.get('start'), r.get('end')))
+        row = reviewed.get((r['book'], r.get('start'), r.get('end')))
+        decision = row and row['decision']
         if decision == 'drop':
             continue
+        if decision == 'fix':
+            # Edges set by hand. A quote within a quote waits for its outer one (the nested review).
+            r = {**r, 'start': row['fix_start'], 'end': row['fix_end']}
+            decision = 'ship' if r['level'] == 1 else None
         if decision != 'ship' and (r['tier'] not in QUOTE_TIERS or 'overlaps another quote' in r['checks']):
             continue
         if r.get('term'):

@@ -278,6 +278,83 @@ def merge(regions, K):
     return out
 
 
+TAG_VERB = re.compile(r'(said|saith|spake|answered|cried)$', re.I)
+
+
+def narrator_tag(kl, i, limit):
+    """If a narrator's speech tag starts at word i ("And he said,", "and Isaac spake unto Abraham his
+    father, and said,"), the index of its last word; else None. A tag opens a clause (after . ? ! : ;),
+    starts with "And", reaches a past-tense speech verb within a few words, and ends on a comma or colon
+    before a capital."""
+    if kl[i].t.lower() != 'and' or (i > 0 and not re.search(r'[.?!:;]\s*$', kl[i - 1].a)):
+        return None
+    j, last = i + 1, None
+    while j <= limit and j - i <= 12:
+        if TAG_VERB.match(kl[j].t):
+            last = j
+        if kl[j].a.strip():
+            break
+        j += 1
+    if last is None or j > limit:
+        return None
+    # "and said," straight after "spake unto Abraham his father,"
+    if kl[j].a.strip() == ',' and j + 2 <= limit and kl[j + 1].t.lower() == 'and' and TAG_VERB.match(kl[j + 2].t) \
+            and kl[j + 2].a.strip():
+        j += 2
+    if not re.search(r'[,:]\s*$', kl[j].a) or j + 1 > limit or not kl[j + 1].t[:1].isupper():
+        return None
+    return j
+
+
+def split_narrator(regions, K):
+    """Take the narrator out of a quote the BSB match ran across: “And they said, So do,” → And they
+    said, “So do,”; “I AM THAT I AM: and he said, Thus shalt thou say…” → “I AM THAT I AM:” and he said,
+    “Thus shalt thou say…”. Not inside Jesus' words,
+    whose parables tell of others speaking ("And he answered and said, I will not")."""
+    # Where a quote within the quote opens right after the tag, or the tag speaks in the first or second
+    # person ("and I said,", "and thou hast said,"), the speaker is telling of words said to them: the
+    # quote goes on.
+    inner = {(r['chapter'], r['_s']) for r in regions if '_s' in r and r['level'] > 1}
+    PERSON = {'i', 'we', 'us', 'me', 'my', 'our', 'thou', 'thee', 'thy', 'ye', 'you', 'your'}
+    out = []
+    for r in regions:
+        if '_s' not in r or r['level'] != 1 or r.get('term') or r.get('woj'):
+            out.append(r)
+            continue
+        kl = K[r['chapter']]
+        if any('woj' in kl[i].f for i in range(r['_s'], r['_e'] + 1)):
+            out.append(r)
+            continue
+        s, e, i, pieces = r['_s'], r['_e'], r['_s'], []
+        while i < e:
+            j = narrator_tag(kl, i, e)
+            if j is not None and ((r['chapter'], j + 1) in inner
+                                  or any(kl[x].t.lower() in PERSON for x in range(i, j + 1))):
+                j = None
+            if j is None:
+                i += 1
+                continue
+            if i > s:
+                pieces.append((s, i - 1))
+            s = i = j + 1
+        if s <= e:
+            pieces.append((s, e))
+        for n, (a, b) in enumerate(pieces or [(r['_s'], r['_e'])]):
+            piece = r if n == 0 else {**r, 'checks': []}
+            piece['_s'], piece['_e'] = a, b
+            out.append(piece)
+    # Two halves of one quote that open on the same word (“Nay; but thou didst” and “Nay; but thou
+    # didst laugh.”): the longer one stands.
+    longest = {}
+    for r in out:
+        if '_s' in r and r['level'] == 1:
+            k = (r['chapter'], r['_s'])
+            if k not in longest or r['_e'] > longest[k]['_e']:
+                longest[k] = r
+    out = [r for r in out if '_s' not in r or r['level'] != 1 or longest[(r['chapter'], r['_s'])] is r]
+    return sorted(out, key=lambda r: (r.get('chapter', 0), r.get('_s', -1)))
+
+
 def fit_woj(regions, K):
     """Fit quotes of Jesus to the KJV's own red letters, which say where His words start and stop.
 
@@ -432,6 +509,7 @@ def main():
         snap(regions, K)
         regions = merge(regions, K)
         regions = fit_woj(regions, K)
+        regions = split_narrator(regions, K)
         for r in regions:
             if '_s' in r:
                 check(r, K, regions)

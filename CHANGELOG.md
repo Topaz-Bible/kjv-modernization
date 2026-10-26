@@ -8,8 +8,17 @@
   narrator breaks in, the quote splits around the aside: “…to forgive sins,” (he saith to the sick of
   the palsy,) “I say unto thee, Arise…”. Red-letter disagreements fall from 82 to 0; 50 more quotes ship.
   An audit of the red letters themselves found no narrator words tagged red and no missed words.
-- **No break after a Psalm title or at a chapter's first word**, and no new paragraph inside a chapter's
-  first verse (1 Samuel 4:1, Obadiah 1, Acts 8:1): the first verse sits beside the drop cap.
+- **Breaks stay in the package; the drop cap sets verse 1 flat.** Every Cambridge break is kept
+  (margin-number mode draws them); the app's drop-cap view leaves out the line breaks of a chapter's
+  first verse, which wraps beside the cap.
+- **Remembered words of Jesus are red**, as Acts 11:16 and 20:35 already were: "Before the cock crow,
+  thou shalt deny me thrice" (Matthew 26:75, Mark 14:72, Luke 22:61), "Thy son liveth" (John 4:53),
+  "If I will that he tarry till I come, what is that to thee?" (John 21:23). 45 words, in the KJV package.
+- **Narrator taken out of quotes:** “And they said, So do,” → And they said, “So do,”. Not where the
+  speaker tells of words said to them ("and I said, ‘I will never break my covenant…’"). Two copies of
+  one quote opening on the same word keep the longer.
+- **Quoted terms fixed by hand** (7): “O wheel.”, “King of righteousness,” … “King of peace;”, and more;
+  `quotes/reviewed.csv` gains `fix` with new edges.
 - **Words now written as one** ([`words/joins.csv`](words/joins.csv)): *to day* → *today*, *for ever*
   → *forever* and 15 more pairs, 912 places, as `join` token edits that close up the space.
   "Jesus Christ the same yesterday, and today, and forever" (Hebrews 13:8).
