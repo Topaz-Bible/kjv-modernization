@@ -141,6 +141,11 @@ def main():
                     # Chapter starts are breaks already; a paragraph there adds nothing.
                     if mk['type'] == 'paragraph' and key[1] == 1 and n == (body[0]['n'] if body else 1):
                         continue
+                    # The first verse sits beside the chapter's drop cap. A Psalm title runs into its
+                    # first line (the app sets the title in its own face), so no break after it; and a
+                    # new paragraph inside verse 1 would leave one short line beside a two-line cap.
+                    if key[1] == 1 and (n == body[0]['n'] or mk['type'] == 'paragraph'):
+                        continue
                     if mk not in marks:
                         marks.append(mk)
                         counts[mk['type']] += 1
