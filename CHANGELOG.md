@@ -2,6 +2,12 @@
 
 ## Unreleased
 
+- **Held-back starts and ends read by hand.** 77 quotes that end on a colon, semicolon or comma where the
+  narrator or writer takes over ("“It is manna:” for they wist not what it was", "If a man say, “I love
+  God,” and hateth his brother") ship, as do 20 whose speech tag stands far back or isn't there ("Then
+  said Pilate to the chief priests and to the people, “I find no fault in this man.”"). 13 more open or
+  end a few words off and are fixed. Left unmarked on purpose: reported "that" sayings, oracles with no
+  speaker named, and quotes within quotes (the nested review comes last).
 - **Where a quote opens, round two.** The speech tag may stand a few words back ("And Abram said to the
   king of Sodom, I have lift up mine hand") or end the verse before ("saying, | And I, behold, I
   establish my covenant"). A quote that opened on a name or "O" inside its own sentence ("What doest
