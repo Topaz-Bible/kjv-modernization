@@ -88,7 +88,7 @@ function modernize(tokens, place, profile) {
 - **Yea/nay.** "Yea" becomes "yes" in 23 places and "nay" becomes "no" in 16, all in the New Testament. Each is a location override: "in Matthew 5:37, word 6, change *yea* to *yes*." The Greek was used to *choose* those places. An English-only reader just applies the list.
 - **Bare/bore.** "Bare" becomes "bore" everywhere except 14 listed verses where it means "naked" ("made bare his holy arm").
 
-For the simplest possible integration, skip the rule engine and use `data/every-change.csv`. For each row, find the verse, find the word by its position, check that it is the `kjv` word, and show `modernized` instead.
+For the simplest possible integration, skip the rule engine and use `every-change.csv`. For each row, find the verse, find the word by its position, check that it is the `kjv` word, and show `modernized` instead.
 
 A word's position is its number among the verse's words, counting from 1, with punctuation not counted as a word. If your text splits words differently, use the `kjv` column to find the right one.
 

@@ -2,7 +2,7 @@
  "name": "Topaz Bible — KJV Modernized Word Forms",
  "licence": "CC0-1.0",
  "source_profile": "eng.bible.kjv.modernized",
- "package_version": "1.4-primary.20261023.120.3",
+ "package_version": "1.4-primary.20261025.139.1",
  "mode": "display_only",
  "matching": {
   "token_field": "t",

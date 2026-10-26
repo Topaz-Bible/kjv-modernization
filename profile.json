@@ -1,0 +1,14 @@
+{
+  "name": "Topaz KJV modernization profile",
+  "principle": "form, not translation: spelling, punctuation and layout may change; words and meaning may not",
+  "anchors": "chapter.verse:word positions in the Topaz KJV package, each with the original word as a drift check",
+  "layers": [
+    {"id": "words", "title": "Word forms", "folder": "words", "data": "words/rules.json", "list": "words/every-change.csv", "status": "released", "default_on": true},
+    {"id": "quotes", "title": "Quotation marks", "folder": "quotes", "data": "quotes/kjv-quotes.json", "status": "draft", "default_on": true},
+    {"id": "names", "title": "Old Testament names in the New Testament", "folder": "names", "data": "names/names.json", "status": "draft", "default_on": true},
+    {"id": "capitals", "title": "Pronouns for God", "folder": "capitals", "data": "capitals/capitals.json", "status": "draft", "default_on": true},
+    {"id": "headings", "title": "Headings", "folder": "headings", "status": "planned", "default_on": true},
+    {"id": "breaks", "title": "Paragraphs and poetry", "folder": "breaks", "status": "planned", "default_on": true}
+  ],
+  "order": "names and capitals change a word's spelling or case before word forms run, so 'Thee' becomes 'You'"
+}

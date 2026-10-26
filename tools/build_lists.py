@@ -3,10 +3,10 @@
 
 Reads (read-only): a Topaz KJV package zip (its mod.json and per-book token files).
 Writes:
-  docs/substitutions.md      human-readable list with counts
-  data/rules.json            full profile + per-rule counts
-  data/rules.csv             one row per rule or single-verse exception
-  data/every-change.csv      every changed word, no rules needed
+  words/substitutions.md     human-readable list with counts
+  words/rules.json           full profile + per-rule counts
+  words/rules.csv            one row per rule or single-verse exception
+  words/every-change.csv     every changed word, no rules needed
 
 It applies the rules exactly as the app does (topaz-bible/src/data/modernizer.ts):
 location overrides first, then rules in file order, first match wins, case copied
@@ -134,9 +134,9 @@ for o in m['location_overrides']:
                      replace=o['replace']['text'], condition='', when='',
                      location=f"{L['book_id']} {L['chapter']}:{L['verse']} #{L['token']}", occurrences=hits[o['id']], order=''))
 
-with open(REPO / 'data' / 'rules.csv', 'w', newline='') as f:
+with open(REPO / 'words' / 'rules.csv', 'w', newline='') as f:
     w = csv.DictWriter(f, fieldnames=list(rows[0])); w.writeheader(); w.writerows(rows)
-with open(REPO / 'data' / 'every-change.csv', 'w', newline='') as f:
+with open(REPO / 'words' / 'every-change.csv', 'w', newline='') as f:
     w = csv.writer(f); w.writerow(['book', 'chapter', 'verse', 'word', 'kjv', 'modernized', 'rule']); w.writerows(changes)
 json.dump({
     'name': 'Topaz Bible — KJV Modernized Word Forms', 'licence': 'CC0-1.0', 'source_profile': m['profile_id'],
@@ -144,7 +144,7 @@ json.dump({
     'case_strategy': m['case_strategy_notes'], 'condition_language': m['condition_language']['supported_conditions'],
     'stats': {'tokens_in_kjv': tokens, 'tokens_changed': changed, 'rules': len(m['rules']), 'location_overrides': len(m['location_overrides'])},
     'rules': m['rules'], 'location_overrides': m['location_overrides'], 'occurrences': dict(hits),
-}, open(REPO / 'data' / 'rules.json', 'w'), ensure_ascii=False, indent=1)
+}, open(REPO / 'words' / 'rules.json', 'w'), ensure_ascii=False, indent=1)
 
 # ─── Human-readable list ──────────────────────────────────────────────────────
 LAB = {'pronoun': 'Pronouns (thou, thee, ye, thy, thine, mine)',
@@ -219,7 +219,7 @@ out += ['\n## What is not changed\n',
         '- **The underlying text.** Every change happens on screen as the page is drawn.\n',
         '---\n',
         'This list and the files behind it are dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).\n']
-(REPO / 'docs' / 'substitutions.md').write_text('\n'.join(out))
+(REPO / 'words' / 'substitutions.md').write_text('\n'.join(out))
 
 print(f'KJV {version}: {tokens:,} words, {changed:,} changed; {len(m["rules"])} rules, '
       f'{len(m["location_overrides"])} overrides; rules that never fire: {dead or "none"}')

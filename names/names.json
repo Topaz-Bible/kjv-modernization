@@ -1,0 +1,10149 @@
+{
+ "kjv_package": "1.4-primary.20261025.139.1",
+ "names": [
+  {
+   "kjv_nt": "Elias",
+   "kjv_ot": "Elijah",
+   "bsb": "Elijah",
+   "changed": 30
+  },
+  {
+   "kjv_nt": "Esaias",
+   "kjv_ot": "Isaiah",
+   "bsb": "Isaiah",
+   "changed": 21
+  },
+  {
+   "kjv_nt": "Eliseus",
+   "kjv_ot": "Elisha",
+   "bsb": "Elisha",
+   "changed": 1
+  },
+  {
+   "kjv_nt": "Jeremy",
+   "kjv_ot": "Jeremiah",
+   "bsb": "Jeremiah",
+   "changed": 2
+  },
+  {
+   "kjv_nt": "Jeremias",
+   "kjv_ot": "Jeremiah",
+   "bsb": "Jeremiah",
+   "changed": 1
+  },
+  {
+   "kjv_nt": "Osee",
+   "kjv_ot": "Hosea",
+   "bsb": "Hosea",
+   "changed": 1
+  },
+  {
+   "kjv_nt": "Jonas",
+   "kjv_ot": "Jonah",
+   "bsb": "Jonah",
+   "changed": 9
+  },
+  {
+   "kjv_nt": "Noe",
+   "kjv_ot": "Noah",
+   "bsb": "Noah",
+   "changed": 5
+  },
+  {
+   "kjv_nt": "Jesus",
+   "kjv_ot": "Joshua",
+   "bsb": "Joshua",
+   "changed": 2
+  },
+  {
+   "kjv_nt": "Core",
+   "kjv_ot": "Korah",
+   "bsb": "Korah",
+   "changed": 1
+  },
+  {
+   "kjv_nt": "Melchisedec",
+   "kjv_ot": "Melchizedek",
+   "bsb": "Melchizedek",
+   "changed": 9
+  },
+  {
+   "kjv_nt": "Balac",
+   "kjv_ot": "Balak",
+   "bsb": "Balak",
+   "changed": 1
+  },
+  {
+   "kjv_nt": "Bosor",
+   "kjv_ot": "Beor",
+   "bsb": "Beor",
+   "changed": 1
+  },
+  {
+   "kjv_nt": "Cis",
+   "kjv_ot": "Kish",
+   "bsb": "Kish",
+   "changed": 1
+  },
+  {
+   "kjv_nt": "Gedeon",
+   "kjv_ot": "Gideon",
+   "bsb": "Gideon",
+   "changed": 1
+  },
+  {
+   "kjv_nt": "Jephthae",
+   "kjv_ot": "Jephthah",
+   "bsb": "Jephthah",
+   "changed": 1
+  },
+  {
+   "kjv_nt": "Emmor",
+   "kjv_ot": "Hamor",
+   "bsb": "Hamor",
+   "changed": 1
+  },
+  {
+   "kjv_nt": "Sara",
+   "kjv_ot": "Sarah",
+   "bsb": "Sarah",
+   "changed": 4
+  },
+  {
+   "kjv_nt": "Agar",
+   "kjv_ot": "Hagar",
+   "bsb": "Hagar",
+   "changed": 2
+  },
+  {
+   "kjv_nt": "Rachab",
+   "kjv_ot": "Rahab",
+   "bsb": "Rahab",
+   "changed": 1
+  },
+  {
+   "kjv_nt": "Thamar",
+   "kjv_ot": "Tamar",
+   "bsb": "Tamar",
+   "changed": 1
+  },
+  {
+   "kjv_nt": "Rebecca",
+   "kjv_ot": "Rebekah",
+   "bsb": "Rebekah",
+   "changed": 1
+  },
+  {
+   "kjv_nt": "Juda",
+   "kjv_ot": "Judah",
+   "bsb": "Judah",
+   "changed": 8
+  },
+  {
+   "kjv_nt": "Judas",
+   "kjv_ot": "Judah",
+   "bsb": "Judah",
+   "changed": 2
+  },
+  {
+   "kjv_nt": "Zabulon",
+   "kjv_ot": "Zebulun",
+   "bsb": "Zebulun",
+   "changed": 3
+  },
+  {
+   "kjv_nt": "Nephthalim",
+   "kjv_ot": "Naphtali",
+   "bsb": "Naphtali",
+   "changed": 2
+  },
+  {
+   "kjv_nt": "Nepthalim",
+   "kjv_ot": "Naphtali",
+   "bsb": "Naphtali",
+   "changed": 1
+  },
+  {
+   "kjv_nt": "Aser",
+   "kjv_ot": "Asher",
+   "bsb": "Asher",
+   "changed": 2
+  },
+  {
+   "kjv_nt": "Manasses",
+   "kjv_ot": "Manasseh",
+   "bsb": "Manasseh",
+   "changed": 3
+  },
+  {
+   "kjv_nt": "Ruben",
+   "kjv_ot": "Reuben",
+   "bsb": "Reuben",
+   "changed": 0
+  },
+  {
+   "kjv_nt": "Roboam",
+   "kjv_ot": "Rehoboam",
+   "bsb": "Rehoboam",
+   "changed": 2
+  },
+  {
+   "kjv_nt": "Abia",
+   "kjv_ot": "Abijah",
+   "bsb": "Abijah",
+   "changed": 3
+  },
+  {
+   "kjv_nt": "Josaphat",
+   "kjv_ot": "Jehoshaphat",
+   "bsb": "Jehoshaphat",
+   "changed": 2
+  },
+  {
+   "kjv_nt": "Ozias",
+   "kjv_ot": "Uzziah",
+   "bsb": "Uzziah",
+   "changed": 2
+  },
+  {
+   "kjv_nt": "Joatham",
+   "kjv_ot": "Jotham",
+   "bsb": "Jotham",
+   "changed": 2
+  },
+  {
+   "kjv_nt": "Achaz",
+   "kjv_ot": "Ahaz",
+   "bsb": "Ahaz",
+   "changed": 2
+  },
+  {
+   "kjv_nt": "Ezekias",
+   "kjv_ot": "Hezekiah",
+   "bsb": "Hezekiah",
+   "changed": 2
+  },
+  {
+   "kjv_nt": "Josias",
+   "kjv_ot": "Josiah",
+   "bsb": "Josiah",
+   "changed": 2
+  },
+  {
+   "kjv_nt": "Jechonias",
+   "kjv_ot": "Jeconiah",
+   "bsb": "Jeconiah",
+   "changed": 2
+  },
+  {
+   "kjv_nt": "Zorobabel",
+   "kjv_ot": "Zerubbabel",
+   "bsb": "Zerubbabel",
+   "changed": 3
+  },
+  {
+   "kjv_nt": "Urias",
+   "kjv_ot": "Uriah",
+   "bsb": "Uriah",
+   "changed": 1
+  },
+  {
+   "kjv_nt": "Phares",
+   "kjv_ot": "Pharez",
+   "bsb": "Perez",
+   "changed": 3
+  },
+  {
+   "kjv_nt": "Zara",
+   "kjv_ot": "Zarah",
+   "bsb": "Zerah",
+   "changed": 1
+  },
+  {
+   "kjv_nt": "Esrom",
+   "kjv_ot": "Hezron",
+   "bsb": "Hezron",
+   "changed": 3
+  },
+  {
+   "kjv_nt": "Aram",
+   "kjv_ot": "Ram",
+   "bsb": "Ram",
+   "changed": 3
+  },
+  {
+   "kjv_nt": "Aminadab",
+   "kjv_ot": "Amminadab",
+   "bsb": "Amminadab",
+   "changed": 3
+  },
+  {
+   "kjv_nt": "Naasson",
+   "kjv_ot": "Nahshon",
+   "bsb": "Nahshon",
+   "changed": 3
+  },
+  {
+   "kjv_nt": "Booz",
+   "kjv_ot": "Boaz",
+   "bsb": "Boaz",
+   "changed": 3
+  },
+  {
+   "kjv_nt": "Nachor",
+   "kjv_ot": "Nahor",
+   "bsb": "Nahor",
+   "changed": 1
+  },
+  {
+   "kjv_nt": "Thara",
+   "kjv_ot": "Terah",
+   "bsb": "Terah",
+   "changed": 1
+  },
+  {
+   "kjv_nt": "Saruch",
+   "kjv_ot": "Serug",
+   "bsb": "Serug",
+   "changed": 1
+  },
+  {
+   "kjv_nt": "Ragau",
+   "kjv_ot": "Reu",
+   "bsb": "Reu",
+   "changed": 1
+  },
+  {
+   "kjv_nt": "Phalec",
+   "kjv_ot": "Peleg",
+   "bsb": "Peleg",
+   "changed": 1
+  },
+  {
+   "kjv_nt": "Heber",
+   "kjv_ot": "Eber",
+   "bsb": "Eber",
+   "changed": 1
+  },
+  {
+   "kjv_nt": "Sala",
+   "kjv_ot": "Salah",
+   "bsb": "Shelah",
+   "changed": 1
+  },
+  {
+   "kjv_nt": "Sem",
+   "kjv_ot": "Shem",
+   "bsb": "Shem",
+   "changed": 1
+  },
+  {
+   "kjv_nt": "Mathusala",
+   "kjv_ot": "Methuselah",
+   "bsb": "Methuselah",
+   "changed": 1
+  },
+  {
+   "kjv_nt": "Maleleel",
+   "kjv_ot": "Mahalaleel",
+   "bsb": "Mahalalel",
+   "changed": 1
+  },
+  {
+   "kjv_nt": "Messias",
+   "kjv_ot": "Messiah",
+   "bsb": "Messiah",
+   "changed": 2
+  },
+  {
+   "kjv_nt": "Emmanuel",
+   "kjv_ot": "Immanuel",
+   "bsb": "Immanuel",
+   "changed": 1
+  },
+  {
+   "kjv_nt": "Sion",
+   "kjv_ot": "Zion",
+   "bsb": "Zion",
+   "changed": 7
+  },
+  {
+   "kjv_nt": "Sodoma",
+   "kjv_ot": "Sodom",
+   "bsb": "Sodom",
+   "changed": 1
+  },
+  {
+   "kjv_nt": "Gomorrha",
+   "kjv_ot": "Gomorrah",
+   "bsb": "Gomorrah",
+   "changed": 5
+  },
+  {
+   "kjv_nt": "Sina",
+   "kjv_ot": "Sinai",
+   "bsb": "Sinai",
+   "changed": 2
+  },
+  {
+   "kjv_nt": "Chanaan",
+   "kjv_ot": "Canaan",
+   "bsb": "Canaan",
+   "changed": 2
+  },
+  {
+   "kjv_nt": "Charran",
+   "kjv_ot": "Haran",
+   "bsb": "Haran",
+   "changed": 2
+  },
+  {
+   "kjv_nt": "Sychem",
+   "kjv_ot": "Shechem",
+   "bsb": "Shechem",
+   "changed": 2
+  },
+  {
+   "kjv_nt": "Madian",
+   "kjv_ot": "Midian",
+   "bsb": "Midian",
+   "changed": 1
+  },
+  {
+   "kjv_nt": "Nineve",
+   "kjv_ot": "Nineveh",
+   "bsb": "Nineveh",
+   "changed": 1
+  },
+  {
+   "kjv_nt": "Sarepta",
+   "kjv_ot": "Zarephath",
+   "bsb": "Zarephath",
+   "changed": 1
+  },
+  {
+   "kjv_nt": "Rama",
+   "kjv_ot": "Ramah",
+   "bsb": "Ramah",
+   "changed": 1
+  },
+  {
+   "kjv_nt": "Saron",
+   "kjv_ot": "Sharon",
+   "bsb": "Sharon",
+   "changed": 1
+  },
+  {
+   "kjv_nt": "Cedron",
+   "kjv_ot": "Kidron",
+   "bsb": "Kidron",
+   "changed": 1
+  },
+  {
+   "kjv_nt": "Moloch",
+   "kjv_ot": "Molech",
+   "bsb": "Molech",
+   "changed": 1
+  }
+ ],
+ "changes": [
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 2,
+   "word": 11,
+   "kjv": "Judas",
+   "modernized": "Judah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 3,
+   "word": 2,
+   "kjv": "Judas",
+   "modernized": "Judah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 3,
+   "word": 4,
+   "kjv": "Phares",
+   "modernized": "Pharez"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 3,
+   "word": 6,
+   "kjv": "Zara",
+   "modernized": "Zarah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 3,
+   "word": 8,
+   "kjv": "Thamar",
+   "modernized": "Tamar"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 3,
+   "word": 10,
+   "kjv": "Phares",
+   "modernized": "Pharez"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 3,
+   "word": 12,
+   "kjv": "Esrom",
+   "modernized": "Hezron"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 3,
+   "word": 14,
+   "kjv": "Esrom",
+   "modernized": "Hezron"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 3,
+   "word": 16,
+   "kjv": "Aram",
+   "modernized": "Ram"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 4,
+   "word": 2,
+   "kjv": "Aram",
+   "modernized": "Ram"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 4,
+   "word": 4,
+   "kjv": "Aminadab",
+   "modernized": "Amminadab"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 4,
+   "word": 6,
+   "kjv": "Aminadab",
+   "modernized": "Amminadab"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 4,
+   "word": 8,
+   "kjv": "Naasson",
+   "modernized": "Nahshon"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 4,
+   "word": 10,
+   "kjv": "Naasson",
+   "modernized": "Nahshon"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 5,
+   "word": 4,
+   "kjv": "Booz",
+   "modernized": "Boaz"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 5,
+   "word": 6,
+   "kjv": "Rachab",
+   "modernized": "Rahab"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 5,
+   "word": 8,
+   "kjv": "Booz",
+   "modernized": "Boaz"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 6,
+   "word": 21,
+   "kjv": "Urias",
+   "modernized": "Uriah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 7,
+   "word": 4,
+   "kjv": "Roboam",
+   "modernized": "Rehoboam"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 7,
+   "word": 6,
+   "kjv": "Roboam",
+   "modernized": "Rehoboam"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 7,
+   "word": 8,
+   "kjv": "Abia",
+   "modernized": "Abijah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 7,
+   "word": 10,
+   "kjv": "Abia",
+   "modernized": "Abijah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 8,
+   "word": 4,
+   "kjv": "Josaphat",
+   "modernized": "Jehoshaphat"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 8,
+   "word": 6,
+   "kjv": "Josaphat",
+   "modernized": "Jehoshaphat"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 8,
+   "word": 12,
+   "kjv": "Ozias",
+   "modernized": "Uzziah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 9,
+   "word": 2,
+   "kjv": "Ozias",
+   "modernized": "Uzziah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 9,
+   "word": 4,
+   "kjv": "Joatham",
+   "modernized": "Jotham"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 9,
+   "word": 6,
+   "kjv": "Joatham",
+   "modernized": "Jotham"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 9,
+   "word": 8,
+   "kjv": "Achaz",
+   "modernized": "Ahaz"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 9,
+   "word": 10,
+   "kjv": "Achaz",
+   "modernized": "Ahaz"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 9,
+   "word": 12,
+   "kjv": "Ezekias",
+   "modernized": "Hezekiah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 10,
+   "word": 2,
+   "kjv": "Ezekias",
+   "modernized": "Hezekiah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 10,
+   "word": 4,
+   "kjv": "Manasses",
+   "modernized": "Manasseh"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 10,
+   "word": 6,
+   "kjv": "Manasses",
+   "modernized": "Manasseh"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 10,
+   "word": 12,
+   "kjv": "Josias",
+   "modernized": "Josiah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 11,
+   "word": 2,
+   "kjv": "Josias",
+   "modernized": "Josiah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 11,
+   "word": 4,
+   "kjv": "Jechonias",
+   "modernized": "Jeconiah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 12,
+   "word": 8,
+   "kjv": "Jechonias",
+   "modernized": "Jeconiah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 12,
+   "word": 14,
+   "kjv": "Zorobabel",
+   "modernized": "Zerubbabel"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 13,
+   "word": 2,
+   "kjv": "Zorobabel",
+   "modernized": "Zerubbabel"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 23,
+   "word": 20,
+   "kjv": "Emmanuel",
+   "modernized": "Immanuel"
+  },
+  {
+   "book": "MAT",
+   "chapter": 2,
+   "verse": 6,
+   "word": 8,
+   "kjv": "Juda",
+   "modernized": "Judah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 2,
+   "verse": 6,
+   "word": 17,
+   "kjv": "Juda",
+   "modernized": "Judah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 2,
+   "verse": 17,
+   "word": 9,
+   "kjv": "Jeremy",
+   "modernized": "Jeremiah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 2,
+   "verse": 18,
+   "word": 2,
+   "kjv": "Rama",
+   "modernized": "Ramah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 3,
+   "verse": 3,
+   "word": 12,
+   "kjv": "Esaias",
+   "modernized": "Isaiah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 4,
+   "verse": 13,
+   "word": 20,
+   "kjv": "Zabulon",
+   "modernized": "Zebulun"
+  },
+  {
+   "book": "MAT",
+   "chapter": 4,
+   "verse": 13,
+   "word": 22,
+   "kjv": "Nephthalim",
+   "modernized": "Naphtali"
+  },
+  {
+   "book": "MAT",
+   "chapter": 4,
+   "verse": 14,
+   "word": 10,
+   "kjv": "Esaias",
+   "modernized": "Isaiah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 4,
+   "verse": 15,
+   "word": 4,
+   "kjv": "Zabulon",
+   "modernized": "Zebulun"
+  },
+  {
+   "book": "MAT",
+   "chapter": 4,
+   "verse": 15,
+   "word": 9,
+   "kjv": "Nephthalim",
+   "modernized": "Naphtali"
+  },
+  {
+   "book": "MAT",
+   "chapter": 8,
+   "verse": 17,
+   "word": 10,
+   "kjv": "Esaias",
+   "modernized": "Isaiah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 10,
+   "verse": 15,
+   "word": 17,
+   "kjv": "Gomorrha",
+   "modernized": "Gomorrah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 11,
+   "verse": 14,
+   "word": 9,
+   "kjv": "Elias",
+   "modernized": "Elijah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 12,
+   "verse": 17,
+   "word": 10,
+   "kjv": "Esaias",
+   "modernized": "Isaiah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 12,
+   "verse": 39,
+   "word": 32,
+   "kjv": "Jonas",
+   "modernized": "Jonah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 12,
+   "verse": 40,
+   "word": 3,
+   "kjv": "Jonas",
+   "modernized": "Jonah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 12,
+   "verse": 41,
+   "word": 23,
+   "kjv": "Jonas",
+   "modernized": "Jonah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 12,
+   "verse": 41,
+   "word": 29,
+   "kjv": "Jonas",
+   "modernized": "Jonah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 13,
+   "verse": 14,
+   "word": 9,
+   "kjv": "Esaias",
+   "modernized": "Isaiah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 15,
+   "verse": 7,
+   "word": 5,
+   "kjv": "Esaias",
+   "modernized": "Isaiah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 16,
+   "verse": 4,
+   "word": 25,
+   "kjv": "Jonas",
+   "modernized": "Jonah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 16,
+   "verse": 14,
+   "word": 13,
+   "kjv": "Elias",
+   "modernized": "Elijah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 16,
+   "verse": 14,
+   "word": 16,
+   "kjv": "Jeremias",
+   "modernized": "Jeremiah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 17,
+   "verse": 3,
+   "word": 9,
+   "kjv": "Elias",
+   "modernized": "Elijah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 17,
+   "verse": 4,
+   "word": 36,
+   "kjv": "Elias",
+   "modernized": "Elijah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 17,
+   "verse": 10,
+   "word": 13,
+   "kjv": "Elias",
+   "modernized": "Elijah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 17,
+   "verse": 11,
+   "word": 8,
+   "kjv": "Elias",
+   "modernized": "Elijah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 17,
+   "verse": 12,
+   "word": 7,
+   "kjv": "Elias",
+   "modernized": "Elijah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 21,
+   "verse": 5,
+   "word": 6,
+   "kjv": "Sion",
+   "modernized": "Zion"
+  },
+  {
+   "book": "MAT",
+   "chapter": 24,
+   "verse": 37,
+   "word": 6,
+   "kjv": "Noe",
+   "modernized": "Noah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 24,
+   "verse": 38,
+   "word": 25,
+   "kjv": "Noe",
+   "modernized": "Noah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 27,
+   "verse": 9,
+   "word": 9,
+   "kjv": "Jeremy",
+   "modernized": "Jeremiah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 27,
+   "verse": 47,
+   "word": 16,
+   "kjv": "Elias",
+   "modernized": "Elijah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 27,
+   "verse": 49,
+   "word": 10,
+   "kjv": "Elias",
+   "modernized": "Elijah"
+  },
+  {
+   "book": "MRK",
+   "chapter": 6,
+   "verse": 11,
+   "word": 39,
+   "kjv": "Gomorrha",
+   "modernized": "Gomorrah"
+  },
+  {
+   "book": "MRK",
+   "chapter": 6,
+   "verse": 15,
+   "word": 6,
+   "kjv": "Elias",
+   "modernized": "Elijah"
+  },
+  {
+   "book": "MRK",
+   "chapter": 7,
+   "verse": 6,
+   "word": 9,
+   "kjv": "Esaias",
+   "modernized": "Isaiah"
+  },
+  {
+   "book": "MRK",
+   "chapter": 8,
+   "verse": 28,
+   "word": 10,
+   "kjv": "Elias",
+   "modernized": "Elijah"
+  },
+  {
+   "book": "MRK",
+   "chapter": 9,
+   "verse": 4,
+   "word": 6,
+   "kjv": "Elias",
+   "modernized": "Elijah"
+  },
+  {
+   "book": "MRK",
+   "chapter": 9,
+   "verse": 5,
+   "word": 33,
+   "kjv": "Elias",
+   "modernized": "Elijah"
+  },
+  {
+   "book": "MRK",
+   "chapter": 9,
+   "verse": 11,
+   "word": 11,
+   "kjv": "Elias",
+   "modernized": "Elijah"
+  },
+  {
+   "book": "MRK",
+   "chapter": 9,
+   "verse": 12,
+   "word": 7,
+   "kjv": "Elias",
+   "modernized": "Elijah"
+  },
+  {
+   "book": "MRK",
+   "chapter": 9,
+   "verse": 13,
+   "word": 7,
+   "kjv": "Elias",
+   "modernized": "Elijah"
+  },
+  {
+   "book": "MRK",
+   "chapter": 15,
+   "verse": 35,
+   "word": 16,
+   "kjv": "Elias",
+   "modernized": "Elijah"
+  },
+  {
+   "book": "MRK",
+   "chapter": 15,
+   "verse": 36,
+   "word": 29,
+   "kjv": "Elias",
+   "modernized": "Elijah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 1,
+   "verse": 5,
+   "word": 21,
+   "kjv": "Abia",
+   "modernized": "Abijah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 1,
+   "verse": 17,
+   "word": 13,
+   "kjv": "Elias",
+   "modernized": "Elijah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 1,
+   "verse": 39,
+   "word": 19,
+   "kjv": "Juda",
+   "modernized": "Judah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 2,
+   "verse": 36,
+   "word": 16,
+   "kjv": "Aser",
+   "modernized": "Asher"
+  },
+  {
+   "book": "LUK",
+   "chapter": 3,
+   "verse": 4,
+   "word": 12,
+   "kjv": "Esaias",
+   "modernized": "Isaiah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 3,
+   "verse": 27,
+   "word": 18,
+   "kjv": "Zorobabel",
+   "modernized": "Zerubbabel"
+  },
+  {
+   "book": "LUK",
+   "chapter": 3,
+   "verse": 30,
+   "word": 12,
+   "kjv": "Juda",
+   "modernized": "Judah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 3,
+   "verse": 32,
+   "word": 18,
+   "kjv": "Booz",
+   "modernized": "Boaz"
+  },
+  {
+   "book": "LUK",
+   "chapter": 3,
+   "verse": 32,
+   "word": 30,
+   "kjv": "Naasson",
+   "modernized": "Nahshon"
+  },
+  {
+   "book": "LUK",
+   "chapter": 3,
+   "verse": 33,
+   "word": 6,
+   "kjv": "Aminadab",
+   "modernized": "Amminadab"
+  },
+  {
+   "book": "LUK",
+   "chapter": 3,
+   "verse": 33,
+   "word": 12,
+   "kjv": "Aram",
+   "modernized": "Ram"
+  },
+  {
+   "book": "LUK",
+   "chapter": 3,
+   "verse": 33,
+   "word": 18,
+   "kjv": "Esrom",
+   "modernized": "Hezron"
+  },
+  {
+   "book": "LUK",
+   "chapter": 3,
+   "verse": 33,
+   "word": 24,
+   "kjv": "Phares",
+   "modernized": "Pharez"
+  },
+  {
+   "book": "LUK",
+   "chapter": 3,
+   "verse": 33,
+   "word": 30,
+   "kjv": "Juda",
+   "modernized": "Judah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 3,
+   "verse": 34,
+   "word": 24,
+   "kjv": "Thara",
+   "modernized": "Terah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 3,
+   "verse": 34,
+   "word": 30,
+   "kjv": "Nachor",
+   "modernized": "Nahor"
+  },
+  {
+   "book": "LUK",
+   "chapter": 3,
+   "verse": 35,
+   "word": 6,
+   "kjv": "Saruch",
+   "modernized": "Serug"
+  },
+  {
+   "book": "LUK",
+   "chapter": 3,
+   "verse": 35,
+   "word": 12,
+   "kjv": "Ragau",
+   "modernized": "Reu"
+  },
+  {
+   "book": "LUK",
+   "chapter": 3,
+   "verse": 35,
+   "word": 18,
+   "kjv": "Phalec",
+   "modernized": "Peleg"
+  },
+  {
+   "book": "LUK",
+   "chapter": 3,
+   "verse": 35,
+   "word": 24,
+   "kjv": "Heber",
+   "modernized": "Eber"
+  },
+  {
+   "book": "LUK",
+   "chapter": 3,
+   "verse": 35,
+   "word": 30,
+   "kjv": "Sala",
+   "modernized": "Salah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 3,
+   "verse": 36,
+   "word": 18,
+   "kjv": "Sem",
+   "modernized": "Shem"
+  },
+  {
+   "book": "LUK",
+   "chapter": 3,
+   "verse": 36,
+   "word": 24,
+   "kjv": "Noe",
+   "modernized": "Noah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 3,
+   "verse": 37,
+   "word": 6,
+   "kjv": "Mathusala",
+   "modernized": "Methuselah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 3,
+   "verse": 37,
+   "word": 24,
+   "kjv": "Maleleel",
+   "modernized": "Mahalaleel"
+  },
+  {
+   "book": "LUK",
+   "chapter": 4,
+   "verse": 17,
+   "word": 12,
+   "kjv": "Esaias",
+   "modernized": "Isaiah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 4,
+   "verse": 25,
+   "word": 17,
+   "kjv": "Elias",
+   "modernized": "Elijah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 4,
+   "verse": 26,
+   "word": 7,
+   "kjv": "Elias",
+   "modernized": "Elijah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 4,
+   "verse": 26,
+   "word": 11,
+   "kjv": "Sarepta",
+   "modernized": "Zarephath"
+  },
+  {
+   "book": "LUK",
+   "chapter": 4,
+   "verse": 27,
+   "word": 11,
+   "kjv": "Eliseus",
+   "modernized": "Elisha"
+  },
+  {
+   "book": "LUK",
+   "chapter": 9,
+   "verse": 8,
+   "word": 5,
+   "kjv": "Elias",
+   "modernized": "Elijah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 9,
+   "verse": 19,
+   "word": 10,
+   "kjv": "Elias",
+   "modernized": "Elijah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 9,
+   "verse": 30,
+   "word": 13,
+   "kjv": "Elias",
+   "modernized": "Elijah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 9,
+   "verse": 33,
+   "word": 40,
+   "kjv": "Elias",
+   "modernized": "Elijah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 9,
+   "verse": 54,
+   "word": 29,
+   "kjv": "Elias",
+   "modernized": "Elijah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 11,
+   "verse": 29,
+   "word": 34,
+   "kjv": "Jonas",
+   "modernized": "Jonah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 11,
+   "verse": 30,
+   "word": 3,
+   "kjv": "Jonas",
+   "modernized": "Jonah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 11,
+   "verse": 32,
+   "word": 4,
+   "kjv": "Nineve",
+   "modernized": "Nineveh"
+  },
+  {
+   "book": "LUK",
+   "chapter": 11,
+   "verse": 32,
+   "word": 25,
+   "kjv": "Jonas",
+   "modernized": "Jonah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 11,
+   "verse": 32,
+   "word": 31,
+   "kjv": "Jonas",
+   "modernized": "Jonah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 17,
+   "verse": 26,
+   "word": 9,
+   "kjv": "Noe",
+   "modernized": "Noah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 17,
+   "verse": 27,
+   "word": 18,
+   "kjv": "Noe",
+   "modernized": "Noah"
+  },
+  {
+   "book": "JHN",
+   "chapter": 1,
+   "verse": 21,
+   "word": 9,
+   "kjv": "Elias",
+   "modernized": "Elijah"
+  },
+  {
+   "book": "JHN",
+   "chapter": 1,
+   "verse": 23,
+   "word": 24,
+   "kjv": "Esaias",
+   "modernized": "Isaiah"
+  },
+  {
+   "book": "JHN",
+   "chapter": 1,
+   "verse": 25,
+   "word": 20,
+   "kjv": "Elias",
+   "modernized": "Elijah"
+  },
+  {
+   "book": "JHN",
+   "chapter": 1,
+   "verse": 41,
+   "word": 16,
+   "kjv": "Messias",
+   "modernized": "Messiah"
+  },
+  {
+   "book": "JHN",
+   "chapter": 4,
+   "verse": 25,
+   "word": 9,
+   "kjv": "Messias",
+   "modernized": "Messiah"
+  },
+  {
+   "book": "JHN",
+   "chapter": 12,
+   "verse": 15,
+   "word": 5,
+   "kjv": "Sion",
+   "modernized": "Zion"
+  },
+  {
+   "book": "JHN",
+   "chapter": 12,
+   "verse": 38,
+   "word": 5,
+   "kjv": "Esaias",
+   "modernized": "Isaiah"
+  },
+  {
+   "book": "JHN",
+   "chapter": 12,
+   "verse": 39,
+   "word": 8,
+   "kjv": "Esaias",
+   "modernized": "Isaiah"
+  },
+  {
+   "book": "JHN",
+   "chapter": 12,
+   "verse": 41,
+   "word": 4,
+   "kjv": "Esaias",
+   "modernized": "Isaiah"
+  },
+  {
+   "book": "JHN",
+   "chapter": 18,
+   "verse": 1,
+   "word": 16,
+   "kjv": "Cedron",
+   "modernized": "Kidron"
+  },
+  {
+   "book": "ACT",
+   "chapter": 7,
+   "verse": 2,
+   "word": 27,
+   "kjv": "Charran",
+   "modernized": "Haran"
+  },
+  {
+   "book": "ACT",
+   "chapter": 7,
+   "verse": 4,
+   "word": 14,
+   "kjv": "Charran",
+   "modernized": "Haran"
+  },
+  {
+   "book": "ACT",
+   "chapter": 7,
+   "verse": 11,
+   "word": 13,
+   "kjv": "Chanaan",
+   "modernized": "Canaan"
+  },
+  {
+   "book": "ACT",
+   "chapter": 7,
+   "verse": 16,
+   "word": 6,
+   "kjv": "Sychem",
+   "modernized": "Shechem"
+  },
+  {
+   "book": "ACT",
+   "chapter": 7,
+   "verse": 16,
+   "word": 24,
+   "kjv": "Emmor",
+   "modernized": "Hamor"
+  },
+  {
+   "book": "ACT",
+   "chapter": 7,
+   "verse": 16,
+   "word": 28,
+   "kjv": "Sychem",
+   "modernized": "Shechem"
+  },
+  {
+   "book": "ACT",
+   "chapter": 7,
+   "verse": 29,
+   "word": 15,
+   "kjv": "Madian",
+   "modernized": "Midian"
+  },
+  {
+   "book": "ACT",
+   "chapter": 7,
+   "verse": 30,
+   "word": 16,
+   "kjv": "Sina",
+   "modernized": "Sinai"
+  },
+  {
+   "book": "ACT",
+   "chapter": 7,
+   "verse": 38,
+   "word": 22,
+   "kjv": "Sina",
+   "modernized": "Sinai"
+  },
+  {
+   "book": "ACT",
+   "chapter": 7,
+   "verse": 43,
+   "word": 8,
+   "kjv": "Moloch",
+   "modernized": "Molech"
+  },
+  {
+   "book": "ACT",
+   "chapter": 7,
+   "verse": 45,
+   "word": 11,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 8,
+   "verse": 28,
+   "word": 9,
+   "kjv": "Esaias",
+   "modernized": "Isaiah"
+  },
+  {
+   "book": "ACT",
+   "chapter": 8,
+   "verse": 30,
+   "word": 13,
+   "kjv": "Esaias",
+   "modernized": "Isaiah"
+  },
+  {
+   "book": "ACT",
+   "chapter": 9,
+   "verse": 35,
+   "word": 8,
+   "kjv": "Saron",
+   "modernized": "Sharon"
+  },
+  {
+   "book": "ACT",
+   "chapter": 13,
+   "verse": 19,
+   "word": 12,
+   "kjv": "Chanaan",
+   "modernized": "Canaan"
+  },
+  {
+   "book": "ACT",
+   "chapter": 13,
+   "verse": 21,
+   "word": 16,
+   "kjv": "Cis",
+   "modernized": "Kish"
+  },
+  {
+   "book": "ACT",
+   "chapter": 28,
+   "verse": 25,
+   "word": 23,
+   "kjv": "Esaias",
+   "modernized": "Isaiah"
+  },
+  {
+   "book": "ROM",
+   "chapter": 4,
+   "verse": 19,
+   "word": 28,
+   "kjv": "Sara’s",
+   "modernized": "Sarah’s"
+  },
+  {
+   "book": "ROM",
+   "chapter": 9,
+   "verse": 9,
+   "word": 15,
+   "kjv": "Sara",
+   "modernized": "Sarah"
+  },
+  {
+   "book": "ROM",
+   "chapter": 9,
+   "verse": 10,
+   "word": 7,
+   "kjv": "Rebecca",
+   "modernized": "Rebekah"
+  },
+  {
+   "book": "ROM",
+   "chapter": 9,
+   "verse": 25,
+   "word": 6,
+   "kjv": "Osee",
+   "modernized": "Hosea"
+  },
+  {
+   "book": "ROM",
+   "chapter": 9,
+   "verse": 27,
+   "word": 1,
+   "kjv": "Esaias",
+   "modernized": "Isaiah"
+  },
+  {
+   "book": "ROM",
+   "chapter": 9,
+   "verse": 29,
+   "word": 3,
+   "kjv": "Esaias",
+   "modernized": "Isaiah"
+  },
+  {
+   "book": "ROM",
+   "chapter": 9,
+   "verse": 29,
+   "word": 20,
+   "kjv": "Sodoma",
+   "modernized": "Sodom"
+  },
+  {
+   "book": "ROM",
+   "chapter": 9,
+   "verse": 29,
+   "word": 26,
+   "kjv": "Gomorrha",
+   "modernized": "Gomorrah"
+  },
+  {
+   "book": "ROM",
+   "chapter": 9,
+   "verse": 33,
+   "word": 9,
+   "kjv": "Sion",
+   "modernized": "Zion"
+  },
+  {
+   "book": "ROM",
+   "chapter": 10,
+   "verse": 16,
+   "word": 10,
+   "kjv": "Esaias",
+   "modernized": "Isaiah"
+  },
+  {
+   "book": "ROM",
+   "chapter": 10,
+   "verse": 20,
+   "word": 2,
+   "kjv": "Esaias",
+   "modernized": "Isaiah"
+  },
+  {
+   "book": "ROM",
+   "chapter": 11,
+   "verse": 2,
+   "word": 19,
+   "kjv": "Elias",
+   "modernized": "Elijah"
+  },
+  {
+   "book": "ROM",
+   "chapter": 11,
+   "verse": 26,
+   "word": 17,
+   "kjv": "Sion",
+   "modernized": "Zion"
+  },
+  {
+   "book": "ROM",
+   "chapter": 15,
+   "verse": 12,
+   "word": 3,
+   "kjv": "Esaias",
+   "modernized": "Isaiah"
+  },
+  {
+   "book": "GAL",
+   "chapter": 4,
+   "verse": 24,
+   "word": 24,
+   "kjv": "Agar",
+   "modernized": "Hagar"
+  },
+  {
+   "book": "GAL",
+   "chapter": 4,
+   "verse": 25,
+   "word": 3,
+   "kjv": "Agar",
+   "modernized": "Hagar"
+  },
+  {
+   "book": "HEB",
+   "chapter": 4,
+   "verse": 8,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "HEB",
+   "chapter": 5,
+   "verse": 6,
+   "word": 18,
+   "kjv": "Melchisedec",
+   "modernized": "Melchizedek"
+  },
+  {
+   "book": "HEB",
+   "chapter": 5,
+   "verse": 10,
+   "word": 11,
+   "kjv": "Melchisedec",
+   "modernized": "Melchizedek"
+  },
+  {
+   "book": "HEB",
+   "chapter": 6,
+   "verse": 20,
+   "word": 20,
+   "kjv": "Melchisedec",
+   "modernized": "Melchizedek"
+  },
+  {
+   "book": "HEB",
+   "chapter": 7,
+   "verse": 1,
+   "word": 3,
+   "kjv": "Melchisedec",
+   "modernized": "Melchizedek"
+  },
+  {
+   "book": "HEB",
+   "chapter": 7,
+   "verse": 10,
+   "word": 12,
+   "kjv": "Melchisedec",
+   "modernized": "Melchizedek"
+  },
+  {
+   "book": "HEB",
+   "chapter": 7,
+   "verse": 11,
+   "word": 31,
+   "kjv": "Melchisedec",
+   "modernized": "Melchizedek"
+  },
+  {
+   "book": "HEB",
+   "chapter": 7,
+   "verse": 14,
+   "word": 11,
+   "kjv": "Juda",
+   "modernized": "Judah"
+  },
+  {
+   "book": "HEB",
+   "chapter": 7,
+   "verse": 15,
+   "word": 14,
+   "kjv": "Melchisedec",
+   "modernized": "Melchizedek"
+  },
+  {
+   "book": "HEB",
+   "chapter": 7,
+   "verse": 17,
+   "word": 14,
+   "kjv": "Melchisedec",
+   "modernized": "Melchizedek"
+  },
+  {
+   "book": "HEB",
+   "chapter": 7,
+   "verse": 21,
+   "word": 37,
+   "kjv": "Melchisedec",
+   "modernized": "Melchizedek"
+  },
+  {
+   "book": "HEB",
+   "chapter": 11,
+   "verse": 11,
+   "word": 4,
+   "kjv": "Sara",
+   "modernized": "Sarah"
+  },
+  {
+   "book": "HEB",
+   "chapter": 11,
+   "verse": 32,
+   "word": 16,
+   "kjv": "Gedeon",
+   "modernized": "Gideon"
+  },
+  {
+   "book": "HEB",
+   "chapter": 11,
+   "verse": 32,
+   "word": 25,
+   "kjv": "Jephthae",
+   "modernized": "Jephthah"
+  },
+  {
+   "book": "HEB",
+   "chapter": 12,
+   "verse": 22,
+   "word": 7,
+   "kjv": "Sion",
+   "modernized": "Zion"
+  },
+  {
+   "book": "JAS",
+   "chapter": 5,
+   "verse": 17,
+   "word": 1,
+   "kjv": "Elias",
+   "modernized": "Elijah"
+  },
+  {
+   "book": "1PE",
+   "chapter": 2,
+   "verse": 6,
+   "word": 13,
+   "kjv": "Sion",
+   "modernized": "Zion"
+  },
+  {
+   "book": "1PE",
+   "chapter": 3,
+   "verse": 6,
+   "word": 3,
+   "kjv": "Sara",
+   "modernized": "Sarah"
+  },
+  {
+   "book": "2PE",
+   "chapter": 2,
+   "verse": 6,
+   "word": 8,
+   "kjv": "Gomorrha",
+   "modernized": "Gomorrah"
+  },
+  {
+   "book": "2PE",
+   "chapter": 2,
+   "verse": 15,
+   "word": 19,
+   "kjv": "Bosor",
+   "modernized": "Beor"
+  },
+  {
+   "book": "JUD",
+   "chapter": 1,
+   "verse": 7,
+   "word": 5,
+   "kjv": "Gomorrha",
+   "modernized": "Gomorrah"
+  },
+  {
+   "book": "JUD",
+   "chapter": 1,
+   "verse": 11,
+   "word": 29,
+   "kjv": "Core",
+   "modernized": "Korah"
+  },
+  {
+   "book": "REV",
+   "chapter": 2,
+   "verse": 14,
+   "word": 22,
+   "kjv": "Balac",
+   "modernized": "Balak"
+  },
+  {
+   "book": "REV",
+   "chapter": 5,
+   "verse": 5,
+   "word": 18,
+   "kjv": "Juda",
+   "modernized": "Judah"
+  },
+  {
+   "book": "REV",
+   "chapter": 7,
+   "verse": 5,
+   "word": 5,
+   "kjv": "Juda",
+   "modernized": "Judah"
+  },
+  {
+   "book": "REV",
+   "chapter": 7,
+   "verse": 6,
+   "word": 5,
+   "kjv": "Aser",
+   "modernized": "Asher"
+  },
+  {
+   "book": "REV",
+   "chapter": 7,
+   "verse": 6,
+   "word": 14,
+   "kjv": "Nepthalim",
+   "modernized": "Naphtali"
+  },
+  {
+   "book": "REV",
+   "chapter": 7,
+   "verse": 6,
+   "word": 23,
+   "kjv": "Manasses",
+   "modernized": "Manasseh"
+  },
+  {
+   "book": "REV",
+   "chapter": 7,
+   "verse": 8,
+   "word": 5,
+   "kjv": "Zabulon",
+   "modernized": "Zebulun"
+  },
+  {
+   "book": "REV",
+   "chapter": 14,
+   "verse": 1,
+   "word": 12,
+   "kjv": "Sion",
+   "modernized": "Zion"
+  }
+ ],
+ "skipped": [
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 1,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 16,
+   "word": 13,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 18,
+   "word": 5,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 2,
+   "verse": 1,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 3,
+   "verse": 13,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 3,
+   "verse": 15,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 3,
+   "verse": 16,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 4,
+   "verse": 1,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 4,
+   "verse": 7,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 4,
+   "verse": 10,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 4,
+   "verse": 12,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 4,
+   "verse": 17,
+   "word": 4,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 4,
+   "verse": 18,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 4,
+   "verse": 23,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 7,
+   "verse": 28,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 8,
+   "verse": 3,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 8,
+   "verse": 4,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 8,
+   "verse": 5,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 8,
+   "verse": 7,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 8,
+   "verse": 10,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 8,
+   "verse": 13,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 8,
+   "verse": 14,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 8,
+   "verse": 18,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 8,
+   "verse": 20,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 8,
+   "verse": 22,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 8,
+   "verse": 29,
+   "word": 14,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 8,
+   "verse": 34,
+   "word": 10,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 9,
+   "verse": 2,
+   "word": 18,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 9,
+   "verse": 4,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 9,
+   "verse": 9,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 9,
+   "verse": 10,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 9,
+   "verse": 12,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 9,
+   "verse": 15,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 9,
+   "verse": 19,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 9,
+   "verse": 22,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 9,
+   "verse": 23,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 9,
+   "verse": 27,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 9,
+   "verse": 28,
+   "word": 16,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 9,
+   "verse": 30,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 9,
+   "verse": 35,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 10,
+   "verse": 4,
+   "word": 5,
+   "kjv": "Judas",
+   "modernized": "Judah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 10,
+   "verse": 5,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 11,
+   "verse": 1,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 11,
+   "verse": 4,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 11,
+   "verse": 7,
+   "word": 5,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 11,
+   "verse": 25,
+   "word": 4,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 12,
+   "verse": 1,
+   "word": 4,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 12,
+   "verse": 15,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 12,
+   "verse": 25,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 13,
+   "verse": 1,
+   "word": 5,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 13,
+   "verse": 34,
+   "word": 5,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 13,
+   "verse": 36,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 13,
+   "verse": 51,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 13,
+   "verse": 53,
+   "word": 8,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 13,
+   "verse": 55,
+   "word": 22,
+   "kjv": "Judas",
+   "modernized": "Judah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 13,
+   "verse": 57,
+   "word": 8,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 14,
+   "verse": 1,
+   "word": 12,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 14,
+   "verse": 12,
+   "word": 17,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 14,
+   "verse": 13,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 14,
+   "verse": 14,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 14,
+   "verse": 16,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 14,
+   "verse": 22,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 14,
+   "verse": 25,
+   "word": 9,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 14,
+   "verse": 27,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 14,
+   "verse": 29,
+   "word": 23,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 14,
+   "verse": 31,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 15,
+   "verse": 1,
+   "word": 4,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 15,
+   "verse": 16,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 15,
+   "verse": 21,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 15,
+   "verse": 28,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 15,
+   "verse": 29,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 15,
+   "verse": 30,
+   "word": 25,
+   "kjv": "Jesus’",
+   "modernized": "Joshua’"
+  },
+  {
+   "book": "MAT",
+   "chapter": 15,
+   "verse": 32,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 15,
+   "verse": 34,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 16,
+   "verse": 6,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 16,
+   "verse": 8,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 16,
+   "verse": 13,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 16,
+   "verse": 17,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 16,
+   "verse": 20,
+   "word": 15,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 16,
+   "verse": 21,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 16,
+   "verse": 24,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 17,
+   "verse": 1,
+   "word": 5,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 17,
+   "verse": 4,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 17,
+   "verse": 7,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 17,
+   "verse": 8,
+   "word": 14,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 17,
+   "verse": 9,
+   "word": 9,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 17,
+   "verse": 11,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 17,
+   "verse": 17,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 17,
+   "verse": 18,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 17,
+   "verse": 19,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 17,
+   "verse": 20,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 17,
+   "verse": 22,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 17,
+   "verse": 25,
+   "word": 12,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 17,
+   "verse": 26,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 18,
+   "verse": 1,
+   "word": 9,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 18,
+   "verse": 2,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 18,
+   "verse": 22,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 19,
+   "verse": 1,
+   "word": 8,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 19,
+   "verse": 14,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 19,
+   "verse": 18,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 19,
+   "verse": 21,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 19,
+   "verse": 23,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 19,
+   "verse": 26,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 19,
+   "verse": 28,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 20,
+   "verse": 17,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 20,
+   "verse": 22,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 20,
+   "verse": 25,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 20,
+   "verse": 30,
+   "word": 15,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 20,
+   "verse": 32,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 20,
+   "verse": 34,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 21,
+   "verse": 1,
+   "word": 20,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 21,
+   "verse": 6,
+   "word": 8,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 21,
+   "verse": 11,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 21,
+   "verse": 12,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 21,
+   "verse": 16,
+   "word": 11,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 21,
+   "verse": 21,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 21,
+   "verse": 24,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 21,
+   "verse": 27,
+   "word": 4,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 21,
+   "verse": 31,
+   "word": 17,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 21,
+   "verse": 42,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 22,
+   "verse": 1,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 22,
+   "verse": 18,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 22,
+   "verse": 29,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 22,
+   "verse": 37,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 22,
+   "verse": 41,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 23,
+   "verse": 1,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 24,
+   "verse": 1,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 24,
+   "verse": 2,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 24,
+   "verse": 4,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 26,
+   "verse": 1,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 26,
+   "verse": 4,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 26,
+   "verse": 6,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 26,
+   "verse": 10,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 26,
+   "verse": 14,
+   "word": 7,
+   "kjv": "Judas",
+   "modernized": "Judah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 26,
+   "verse": 17,
+   "word": 15,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 26,
+   "verse": 19,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 26,
+   "verse": 25,
+   "word": 2,
+   "kjv": "Judas",
+   "modernized": "Judah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 26,
+   "verse": 26,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 26,
+   "verse": 31,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 26,
+   "verse": 34,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 26,
+   "verse": 36,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 26,
+   "verse": 47,
+   "word": 7,
+   "kjv": "Judas",
+   "modernized": "Judah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 26,
+   "verse": 49,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 26,
+   "verse": 50,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 26,
+   "verse": 50,
+   "word": 18,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 26,
+   "verse": 51,
+   "word": 9,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 26,
+   "verse": 52,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 26,
+   "verse": 55,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 26,
+   "verse": 57,
+   "word": 8,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 26,
+   "verse": 59,
+   "word": 15,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 26,
+   "verse": 63,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 26,
+   "verse": 64,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 26,
+   "verse": 69,
+   "word": 19,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 26,
+   "verse": 71,
+   "word": 26,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 26,
+   "verse": 75,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 27,
+   "verse": 1,
+   "word": 18,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 27,
+   "verse": 3,
+   "word": 2,
+   "kjv": "Judas",
+   "modernized": "Judah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 27,
+   "verse": 11,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 27,
+   "verse": 11,
+   "word": 21,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 27,
+   "verse": 17,
+   "word": 21,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 27,
+   "verse": 20,
+   "word": 17,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 27,
+   "verse": 22,
+   "word": 11,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 27,
+   "verse": 26,
+   "word": 12,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 27,
+   "verse": 27,
+   "word": 8,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 27,
+   "verse": 46,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 27,
+   "verse": 50,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 27,
+   "verse": 54,
+   "word": 12,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 27,
+   "verse": 55,
+   "word": 11,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 27,
+   "verse": 57,
+   "word": 19,
+   "kjv": "Jesus’",
+   "modernized": "Joshua’"
+  },
+  {
+   "book": "MAT",
+   "chapter": 27,
+   "verse": 58,
+   "word": 10,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 28,
+   "verse": 5,
+   "word": 19,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 28,
+   "verse": 9,
+   "word": 10,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 28,
+   "verse": 10,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 28,
+   "verse": 16,
+   "word": 13,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MAT",
+   "chapter": 28,
+   "verse": 18,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 1,
+   "verse": 1,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 1,
+   "verse": 9,
+   "word": 10,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 1,
+   "verse": 14,
+   "word": 9,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 1,
+   "verse": 17,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 1,
+   "verse": 24,
+   "word": 13,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 1,
+   "verse": 25,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 1,
+   "verse": 41,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 1,
+   "verse": 45,
+   "word": 19,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 2,
+   "verse": 5,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 2,
+   "verse": 8,
+   "word": 4,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 2,
+   "verse": 15,
+   "word": 8,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 2,
+   "verse": 15,
+   "word": 23,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 2,
+   "verse": 17,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 2,
+   "verse": 19,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 3,
+   "verse": 7,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 3,
+   "verse": 19,
+   "word": 2,
+   "kjv": "Judas",
+   "modernized": "Judah"
+  },
+  {
+   "book": "MRK",
+   "chapter": 5,
+   "verse": 6,
+   "word": 5,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 5,
+   "verse": 7,
+   "word": 16,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 5,
+   "verse": 13,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 5,
+   "verse": 15,
+   "word": 5,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 5,
+   "verse": 19,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 5,
+   "verse": 20,
+   "word": 13,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 5,
+   "verse": 21,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 5,
+   "verse": 24,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 5,
+   "verse": 27,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 5,
+   "verse": 30,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 5,
+   "verse": 36,
+   "word": 4,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 6,
+   "verse": 3,
+   "word": 18,
+   "kjv": "Juda",
+   "modernized": "Judah"
+  },
+  {
+   "book": "MRK",
+   "chapter": 6,
+   "verse": 4,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 6,
+   "verse": 30,
+   "word": 8,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 6,
+   "verse": 34,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 7,
+   "verse": 27,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 8,
+   "verse": 1,
+   "word": 14,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 8,
+   "verse": 17,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 8,
+   "verse": 27,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 9,
+   "verse": 2,
+   "word": 5,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 9,
+   "verse": 4,
+   "word": 14,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 9,
+   "verse": 5,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 9,
+   "verse": 8,
+   "word": 16,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 9,
+   "verse": 23,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 9,
+   "verse": 25,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 9,
+   "verse": 27,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 9,
+   "verse": 39,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 10,
+   "verse": 5,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 10,
+   "verse": 14,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 10,
+   "verse": 18,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 10,
+   "verse": 21,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 10,
+   "verse": 23,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 10,
+   "verse": 24,
+   "word": 10,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 10,
+   "verse": 27,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 10,
+   "verse": 29,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 10,
+   "verse": 32,
+   "word": 12,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 10,
+   "verse": 38,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 10,
+   "verse": 39,
+   "word": 9,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 10,
+   "verse": 42,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 10,
+   "verse": 47,
+   "word": 8,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 10,
+   "verse": 47,
+   "word": 18,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 10,
+   "verse": 49,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 10,
+   "verse": 50,
+   "word": 11,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 10,
+   "verse": 51,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 10,
+   "verse": 52,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 10,
+   "verse": 52,
+   "word": 23,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 11,
+   "verse": 6,
+   "word": 8,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 11,
+   "verse": 7,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 11,
+   "verse": 11,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 11,
+   "verse": 14,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 11,
+   "verse": 15,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 11,
+   "verse": 22,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 11,
+   "verse": 29,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 11,
+   "verse": 33,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 11,
+   "verse": 33,
+   "word": 12,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 12,
+   "verse": 17,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 12,
+   "verse": 24,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 12,
+   "verse": 29,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 12,
+   "verse": 34,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 12,
+   "verse": 35,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 12,
+   "verse": 41,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 13,
+   "verse": 2,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 13,
+   "verse": 5,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 14,
+   "verse": 6,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 14,
+   "verse": 10,
+   "word": 2,
+   "kjv": "Judas",
+   "modernized": "Judah"
+  },
+  {
+   "book": "MRK",
+   "chapter": 14,
+   "verse": 18,
+   "word": 8,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 14,
+   "verse": 22,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 14,
+   "verse": 27,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 14,
+   "verse": 30,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 14,
+   "verse": 43,
+   "word": 8,
+   "kjv": "Judas",
+   "modernized": "Judah"
+  },
+  {
+   "book": "MRK",
+   "chapter": 14,
+   "verse": 48,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 14,
+   "verse": 53,
+   "word": 4,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 14,
+   "verse": 55,
+   "word": 13,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 14,
+   "verse": 60,
+   "word": 12,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 14,
+   "verse": 62,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 14,
+   "verse": 67,
+   "word": 19,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 14,
+   "verse": 72,
+   "word": 16,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 15,
+   "verse": 1,
+   "word": 23,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 15,
+   "verse": 5,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 15,
+   "verse": 15,
+   "word": 15,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 15,
+   "verse": 34,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 15,
+   "verse": 37,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 15,
+   "verse": 43,
+   "word": 27,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 16,
+   "verse": 6,
+   "word": 11,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "MRK",
+   "chapter": 16,
+   "verse": 9,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 2,
+   "verse": 27,
+   "word": 18,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 2,
+   "verse": 43,
+   "word": 13,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 2,
+   "verse": 52,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 3,
+   "verse": 21,
+   "word": 13,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 3,
+   "verse": 23,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 3,
+   "verse": 26,
+   "word": 30,
+   "kjv": "Juda",
+   "modernized": "Judah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 4,
+   "verse": 1,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 4,
+   "verse": 4,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 4,
+   "verse": 8,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 4,
+   "verse": 12,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 4,
+   "verse": 14,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 4,
+   "verse": 34,
+   "word": 13,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 4,
+   "verse": 35,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 5,
+   "verse": 8,
+   "word": 10,
+   "kjv": "Jesus’",
+   "modernized": "Joshua’"
+  },
+  {
+   "book": "LUK",
+   "chapter": 5,
+   "verse": 10,
+   "word": 18,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 5,
+   "verse": 12,
+   "word": 21,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 5,
+   "verse": 19,
+   "word": 38,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 5,
+   "verse": 22,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 5,
+   "verse": 31,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 6,
+   "verse": 3,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 6,
+   "verse": 9,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 6,
+   "verse": 11,
+   "word": 17,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 6,
+   "verse": 16,
+   "word": 2,
+   "kjv": "Judas",
+   "modernized": "Judah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 6,
+   "verse": 16,
+   "word": 8,
+   "kjv": "Judas",
+   "modernized": "Judah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 7,
+   "verse": 3,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 7,
+   "verse": 4,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 7,
+   "verse": 6,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 7,
+   "verse": 9,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 7,
+   "verse": 19,
+   "word": 13,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 7,
+   "verse": 22,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 7,
+   "verse": 37,
+   "word": 16,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 7,
+   "verse": 40,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 8,
+   "verse": 28,
+   "word": 4,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 8,
+   "verse": 28,
+   "word": 26,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 8,
+   "verse": 30,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 8,
+   "verse": 35,
+   "word": 13,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 8,
+   "verse": 35,
+   "word": 30,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 8,
+   "verse": 38,
+   "word": 20,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 8,
+   "verse": 39,
+   "word": 30,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 8,
+   "verse": 40,
+   "word": 8,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 8,
+   "verse": 41,
+   "word": 22,
+   "kjv": "Jesus’",
+   "modernized": "Joshua’"
+  },
+  {
+   "book": "LUK",
+   "chapter": 8,
+   "verse": 45,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 8,
+   "verse": 46,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 8,
+   "verse": 50,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 9,
+   "verse": 33,
+   "word": 14,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 9,
+   "verse": 36,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 9,
+   "verse": 41,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 9,
+   "verse": 42,
+   "word": 17,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 9,
+   "verse": 43,
+   "word": 22,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 9,
+   "verse": 47,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 9,
+   "verse": 50,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 9,
+   "verse": 58,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 9,
+   "verse": 60,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 9,
+   "verse": 62,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 10,
+   "verse": 21,
+   "word": 4,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 10,
+   "verse": 29,
+   "word": 9,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 10,
+   "verse": 30,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 10,
+   "verse": 37,
+   "word": 12,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 10,
+   "verse": 39,
+   "word": 12,
+   "kjv": "Jesus’",
+   "modernized": "Joshua’"
+  },
+  {
+   "book": "LUK",
+   "chapter": 10,
+   "verse": 41,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 13,
+   "verse": 2,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 13,
+   "verse": 12,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 13,
+   "verse": 14,
+   "word": 12,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 14,
+   "verse": 3,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 17,
+   "verse": 13,
+   "word": 9,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 17,
+   "verse": 17,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 18,
+   "verse": 16,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 18,
+   "verse": 19,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 18,
+   "verse": 22,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 18,
+   "verse": 24,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 18,
+   "verse": 37,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 18,
+   "verse": 38,
+   "word": 5,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 18,
+   "verse": 40,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 18,
+   "verse": 42,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 19,
+   "verse": 1,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 19,
+   "verse": 3,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 19,
+   "verse": 5,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 19,
+   "verse": 9,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 19,
+   "verse": 35,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 19,
+   "verse": 35,
+   "word": 18,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 20,
+   "verse": 8,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 20,
+   "verse": 34,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 22,
+   "verse": 3,
+   "word": 5,
+   "kjv": "Judas",
+   "modernized": "Judah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 22,
+   "verse": 47,
+   "word": 14,
+   "kjv": "Judas",
+   "modernized": "Judah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 22,
+   "verse": 47,
+   "word": 26,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 22,
+   "verse": 48,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 22,
+   "verse": 48,
+   "word": 6,
+   "kjv": "Judas",
+   "modernized": "Judah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 22,
+   "verse": 51,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 22,
+   "verse": 52,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 22,
+   "verse": 63,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 23,
+   "verse": 8,
+   "word": 5,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 23,
+   "verse": 20,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 23,
+   "verse": 25,
+   "word": 23,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 23,
+   "verse": 26,
+   "word": 33,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 23,
+   "verse": 28,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 23,
+   "verse": 34,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 23,
+   "verse": 42,
+   "word": 5,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 23,
+   "verse": 43,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 23,
+   "verse": 46,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 23,
+   "verse": 52,
+   "word": 11,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 24,
+   "verse": 3,
+   "word": 13,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 24,
+   "verse": 15,
+   "word": 13,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 24,
+   "verse": 19,
+   "word": 14,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "LUK",
+   "chapter": 24,
+   "verse": 36,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 1,
+   "verse": 17,
+   "word": 14,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 1,
+   "verse": 29,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 1,
+   "verse": 36,
+   "word": 4,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 1,
+   "verse": 37,
+   "word": 11,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 1,
+   "verse": 38,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 1,
+   "verse": 42,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 1,
+   "verse": 42,
+   "word": 9,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 1,
+   "verse": 43,
+   "word": 4,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 1,
+   "verse": 45,
+   "word": 23,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 1,
+   "verse": 47,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 1,
+   "verse": 48,
+   "word": 9,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 1,
+   "verse": 50,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 2,
+   "verse": 1,
+   "word": 17,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 2,
+   "verse": 2,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 2,
+   "verse": 3,
+   "word": 9,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 2,
+   "verse": 4,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 2,
+   "verse": 7,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 2,
+   "verse": 11,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 2,
+   "verse": 13,
+   "word": 9,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 2,
+   "verse": 19,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 2,
+   "verse": 22,
+   "word": 28,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 2,
+   "verse": 24,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 3,
+   "verse": 2,
+   "word": 5,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 3,
+   "verse": 3,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 3,
+   "verse": 5,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 3,
+   "verse": 10,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 3,
+   "verse": 22,
+   "word": 5,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 4,
+   "verse": 1,
+   "word": 12,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 4,
+   "verse": 2,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 4,
+   "verse": 6,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 4,
+   "verse": 7,
+   "word": 10,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 4,
+   "verse": 10,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 4,
+   "verse": 13,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 4,
+   "verse": 16,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 4,
+   "verse": 17,
+   "word": 10,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 4,
+   "verse": 21,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 4,
+   "verse": 26,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 4,
+   "verse": 34,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 4,
+   "verse": 44,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 4,
+   "verse": 46,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 4,
+   "verse": 47,
+   "word": 5,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 4,
+   "verse": 48,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 4,
+   "verse": 50,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 4,
+   "verse": 50,
+   "word": 18,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 4,
+   "verse": 53,
+   "word": 15,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 4,
+   "verse": 54,
+   "word": 8,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 5,
+   "verse": 1,
+   "word": 11,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 5,
+   "verse": 6,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 5,
+   "verse": 8,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 5,
+   "verse": 13,
+   "word": 12,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 5,
+   "verse": 14,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 5,
+   "verse": 15,
+   "word": 11,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 5,
+   "verse": 16,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 5,
+   "verse": 17,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 5,
+   "verse": 19,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 6,
+   "verse": 1,
+   "word": 4,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 6,
+   "verse": 3,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 6,
+   "verse": 5,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 6,
+   "verse": 10,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 6,
+   "verse": 11,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 6,
+   "verse": 14,
+   "word": 11,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 6,
+   "verse": 15,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 6,
+   "verse": 17,
+   "word": 19,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 6,
+   "verse": 19,
+   "word": 15,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 6,
+   "verse": 22,
+   "word": 34,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 6,
+   "verse": 24,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 6,
+   "verse": 24,
+   "word": 24,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 6,
+   "verse": 26,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 6,
+   "verse": 29,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 6,
+   "verse": 32,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 6,
+   "verse": 35,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 6,
+   "verse": 42,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 6,
+   "verse": 43,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 6,
+   "verse": 53,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 6,
+   "verse": 61,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 6,
+   "verse": 64,
+   "word": 11,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 6,
+   "verse": 67,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 6,
+   "verse": 70,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 6,
+   "verse": 71,
+   "word": 4,
+   "kjv": "Judas",
+   "modernized": "Judah"
+  },
+  {
+   "book": "JHN",
+   "chapter": 7,
+   "verse": 1,
+   "word": 4,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 7,
+   "verse": 6,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 7,
+   "verse": 14,
+   "word": 8,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 7,
+   "verse": 16,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 7,
+   "verse": 21,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 7,
+   "verse": 28,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 7,
+   "verse": 33,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 7,
+   "verse": 37,
+   "word": 11,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 7,
+   "verse": 39,
+   "word": 26,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 7,
+   "verse": 50,
+   "word": 9,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 8,
+   "verse": 1,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 8,
+   "verse": 6,
+   "word": 14,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 8,
+   "verse": 9,
+   "word": 26,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 8,
+   "verse": 10,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 8,
+   "verse": 11,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 8,
+   "verse": 12,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 8,
+   "verse": 14,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 8,
+   "verse": 19,
+   "word": 10,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 8,
+   "verse": 20,
+   "word": 4,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 8,
+   "verse": 21,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 8,
+   "verse": 25,
+   "word": 10,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 8,
+   "verse": 28,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 8,
+   "verse": 31,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 8,
+   "verse": 34,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 8,
+   "verse": 39,
+   "word": 11,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 8,
+   "verse": 42,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 8,
+   "verse": 49,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 8,
+   "verse": 54,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 8,
+   "verse": 58,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 8,
+   "verse": 59,
+   "word": 11,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 9,
+   "verse": 1,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 9,
+   "verse": 3,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 9,
+   "verse": 11,
+   "word": 10,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 9,
+   "verse": 14,
+   "word": 8,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 9,
+   "verse": 35,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 9,
+   "verse": 37,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 9,
+   "verse": 39,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 9,
+   "verse": 41,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 10,
+   "verse": 6,
+   "word": 4,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 10,
+   "verse": 7,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 10,
+   "verse": 23,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 10,
+   "verse": 25,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 10,
+   "verse": 32,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 10,
+   "verse": 34,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 11,
+   "verse": 4,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 11,
+   "verse": 5,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 11,
+   "verse": 9,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 11,
+   "verse": 13,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 11,
+   "verse": 14,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 11,
+   "verse": 17,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 11,
+   "verse": 20,
+   "word": 9,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 11,
+   "verse": 21,
+   "word": 5,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 11,
+   "verse": 23,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 11,
+   "verse": 25,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 11,
+   "verse": 30,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 11,
+   "verse": 32,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 11,
+   "verse": 33,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 11,
+   "verse": 35,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 11,
+   "verse": 38,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 11,
+   "verse": 39,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 11,
+   "verse": 40,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 11,
+   "verse": 41,
+   "word": 16,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 11,
+   "verse": 44,
+   "word": 23,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 11,
+   "verse": 45,
+   "word": 16,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 11,
+   "verse": 46,
+   "word": 16,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 11,
+   "verse": 51,
+   "word": 17,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 11,
+   "verse": 54,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 11,
+   "verse": 56,
+   "word": 5,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 12,
+   "verse": 1,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 12,
+   "verse": 3,
+   "word": 17,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 12,
+   "verse": 4,
+   "word": 7,
+   "kjv": "Judas",
+   "modernized": "Judah"
+  },
+  {
+   "book": "JHN",
+   "chapter": 12,
+   "verse": 7,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 12,
+   "verse": 9,
+   "word": 17,
+   "kjv": "Jesus’",
+   "modernized": "Joshua’"
+  },
+  {
+   "book": "JHN",
+   "chapter": 12,
+   "verse": 11,
+   "word": 16,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 12,
+   "verse": 12,
+   "word": 17,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 12,
+   "verse": 14,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 12,
+   "verse": 16,
+   "word": 12,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 12,
+   "verse": 21,
+   "word": 21,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 12,
+   "verse": 22,
+   "word": 12,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 12,
+   "verse": 23,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 12,
+   "verse": 30,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 12,
+   "verse": 35,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 12,
+   "verse": 36,
+   "word": 20,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 12,
+   "verse": 44,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 13,
+   "verse": 1,
+   "word": 9,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 13,
+   "verse": 2,
+   "word": 14,
+   "kjv": "Judas",
+   "modernized": "Judah"
+  },
+  {
+   "book": "JHN",
+   "chapter": 13,
+   "verse": 3,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 13,
+   "verse": 7,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 13,
+   "verse": 8,
+   "word": 11,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 13,
+   "verse": 10,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 13,
+   "verse": 21,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 13,
+   "verse": 23,
+   "word": 6,
+   "kjv": "Jesus’",
+   "modernized": "Joshua’"
+  },
+  {
+   "book": "JHN",
+   "chapter": 13,
+   "verse": 23,
+   "word": 13,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 13,
+   "verse": 25,
+   "word": 5,
+   "kjv": "Jesus’",
+   "modernized": "Joshua’"
+  },
+  {
+   "book": "JHN",
+   "chapter": 13,
+   "verse": 26,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 13,
+   "verse": 26,
+   "word": 29,
+   "kjv": "Judas",
+   "modernized": "Judah"
+  },
+  {
+   "book": "JHN",
+   "chapter": 13,
+   "verse": 27,
+   "word": 11,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 13,
+   "verse": 29,
+   "word": 7,
+   "kjv": "Judas",
+   "modernized": "Judah"
+  },
+  {
+   "book": "JHN",
+   "chapter": 13,
+   "verse": 29,
+   "word": 12,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 13,
+   "verse": 31,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 13,
+   "verse": 36,
+   "word": 10,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 13,
+   "verse": 38,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 14,
+   "verse": 6,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 14,
+   "verse": 9,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 14,
+   "verse": 22,
+   "word": 1,
+   "kjv": "Judas",
+   "modernized": "Judah"
+  },
+  {
+   "book": "JHN",
+   "chapter": 14,
+   "verse": 23,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 16,
+   "verse": 19,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 16,
+   "verse": 31,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 17,
+   "verse": 1,
+   "word": 4,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 17,
+   "verse": 3,
+   "word": 16,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 18,
+   "verse": 1,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 18,
+   "verse": 2,
+   "word": 2,
+   "kjv": "Judas",
+   "modernized": "Judah"
+  },
+  {
+   "book": "JHN",
+   "chapter": 18,
+   "verse": 2,
+   "word": 11,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 18,
+   "verse": 3,
+   "word": 1,
+   "kjv": "Judas",
+   "modernized": "Judah"
+  },
+  {
+   "book": "JHN",
+   "chapter": 18,
+   "verse": 4,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 18,
+   "verse": 5,
+   "word": 4,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 18,
+   "verse": 5,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 18,
+   "verse": 5,
+   "word": 15,
+   "kjv": "Judas",
+   "modernized": "Judah"
+  },
+  {
+   "book": "JHN",
+   "chapter": 18,
+   "verse": 7,
+   "word": 12,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 18,
+   "verse": 8,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 18,
+   "verse": 11,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 18,
+   "verse": 12,
+   "word": 13,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 18,
+   "verse": 15,
+   "word": 5,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 18,
+   "verse": 15,
+   "word": 23,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 18,
+   "verse": 19,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 18,
+   "verse": 20,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 18,
+   "verse": 22,
+   "word": 15,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 18,
+   "verse": 23,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 18,
+   "verse": 28,
+   "word": 4,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 18,
+   "verse": 32,
+   "word": 5,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 18,
+   "verse": 33,
+   "word": 11,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 18,
+   "verse": 34,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 18,
+   "verse": 36,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 18,
+   "verse": 37,
+   "word": 11,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 19,
+   "verse": 1,
+   "word": 5,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 19,
+   "verse": 5,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 19,
+   "verse": 9,
+   "word": 11,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 19,
+   "verse": 9,
+   "word": 16,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 19,
+   "verse": 11,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 19,
+   "verse": 13,
+   "word": 9,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 19,
+   "verse": 16,
+   "word": 14,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 19,
+   "verse": 18,
+   "word": 15,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 19,
+   "verse": 20,
+   "word": 13,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 19,
+   "verse": 23,
+   "word": 8,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 19,
+   "verse": 25,
+   "word": 8,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 19,
+   "verse": 26,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 19,
+   "verse": 28,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 19,
+   "verse": 30,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 19,
+   "verse": 33,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 19,
+   "verse": 38,
+   "word": 11,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 19,
+   "verse": 38,
+   "word": 29,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 19,
+   "verse": 38,
+   "word": 43,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 19,
+   "verse": 39,
+   "word": 12,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 19,
+   "verse": 40,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 19,
+   "verse": 42,
+   "word": 4,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 20,
+   "verse": 2,
+   "word": 15,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 20,
+   "verse": 12,
+   "word": 23,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 20,
+   "verse": 14,
+   "word": 13,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 20,
+   "verse": 14,
+   "word": 21,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 20,
+   "verse": 15,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 20,
+   "verse": 16,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 20,
+   "verse": 17,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 20,
+   "verse": 19,
+   "word": 30,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 20,
+   "verse": 21,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 20,
+   "verse": 24,
+   "word": 14,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 20,
+   "verse": 26,
+   "word": 16,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 20,
+   "verse": 29,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 20,
+   "verse": 30,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 20,
+   "verse": 31,
+   "word": 10,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 21,
+   "verse": 1,
+   "word": 4,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 21,
+   "verse": 4,
+   "word": 8,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 21,
+   "verse": 4,
+   "word": 21,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 21,
+   "verse": 5,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 21,
+   "verse": 7,
+   "word": 5,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 21,
+   "verse": 10,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 21,
+   "verse": 12,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 21,
+   "verse": 13,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 21,
+   "verse": 14,
+   "word": 8,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 21,
+   "verse": 15,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 21,
+   "verse": 15,
+   "word": 14,
+   "kjv": "Jonas",
+   "modernized": "Jonah"
+  },
+  {
+   "book": "JHN",
+   "chapter": 21,
+   "verse": 16,
+   "word": 12,
+   "kjv": "Jonas",
+   "modernized": "Jonah"
+  },
+  {
+   "book": "JHN",
+   "chapter": 21,
+   "verse": 17,
+   "word": 11,
+   "kjv": "Jonas",
+   "modernized": "Jonah"
+  },
+  {
+   "book": "JHN",
+   "chapter": 21,
+   "verse": 17,
+   "word": 45,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 21,
+   "verse": 20,
+   "word": 9,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 21,
+   "verse": 21,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 21,
+   "verse": 22,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 21,
+   "verse": 23,
+   "word": 16,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JHN",
+   "chapter": 21,
+   "verse": 25,
+   "word": 9,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 1,
+   "verse": 1,
+   "word": 12,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 1,
+   "verse": 11,
+   "word": 17,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 1,
+   "verse": 13,
+   "word": 39,
+   "kjv": "Judas",
+   "modernized": "Judah"
+  },
+  {
+   "book": "ACT",
+   "chapter": 1,
+   "verse": 14,
+   "word": 19,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 1,
+   "verse": 16,
+   "word": 23,
+   "kjv": "Judas",
+   "modernized": "Judah"
+  },
+  {
+   "book": "ACT",
+   "chapter": 1,
+   "verse": 16,
+   "word": 31,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 1,
+   "verse": 21,
+   "word": 16,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 1,
+   "verse": 25,
+   "word": 13,
+   "kjv": "Judas",
+   "modernized": "Judah"
+  },
+  {
+   "book": "ACT",
+   "chapter": 2,
+   "verse": 22,
+   "word": 8,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 2,
+   "verse": 32,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 2,
+   "verse": 36,
+   "word": 16,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 2,
+   "verse": 38,
+   "word": 18,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 3,
+   "verse": 6,
+   "word": 22,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 3,
+   "verse": 13,
+   "word": 20,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 3,
+   "verse": 20,
+   "word": 5,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 3,
+   "verse": 26,
+   "word": 10,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 4,
+   "verse": 2,
+   "word": 11,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 4,
+   "verse": 10,
+   "word": 19,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 4,
+   "verse": 13,
+   "word": 33,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 4,
+   "verse": 18,
+   "word": 19,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 4,
+   "verse": 27,
+   "word": 9,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 4,
+   "verse": 30,
+   "word": 23,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 4,
+   "verse": 33,
+   "word": 15,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 5,
+   "verse": 30,
+   "word": 8,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 5,
+   "verse": 37,
+   "word": 6,
+   "kjv": "Judas",
+   "modernized": "Judah"
+  },
+  {
+   "book": "ACT",
+   "chapter": 5,
+   "verse": 40,
+   "word": 27,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 5,
+   "verse": 42,
+   "word": 17,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 6,
+   "verse": 14,
+   "word": 9,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 7,
+   "verse": 55,
+   "word": 21,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 7,
+   "verse": 59,
+   "word": 11,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 8,
+   "verse": 12,
+   "word": 18,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 8,
+   "verse": 16,
+   "word": 21,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 8,
+   "verse": 35,
+   "word": 16,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 8,
+   "verse": 37,
+   "word": 21,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 9,
+   "verse": 5,
+   "word": 14,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 9,
+   "verse": 11,
+   "word": 23,
+   "kjv": "Judas",
+   "modernized": "Judah"
+  },
+  {
+   "book": "ACT",
+   "chapter": 9,
+   "verse": 17,
+   "word": 23,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 9,
+   "verse": 27,
+   "word": 43,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 9,
+   "verse": 29,
+   "word": 11,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 9,
+   "verse": 34,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 10,
+   "verse": 36,
+   "word": 14,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 10,
+   "verse": 38,
+   "word": 4,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 11,
+   "verse": 17,
+   "word": 20,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 11,
+   "verse": 20,
+   "word": 25,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 13,
+   "verse": 23,
+   "word": 16,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 13,
+   "verse": 33,
+   "word": 16,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 15,
+   "verse": 11,
+   "word": 11,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 15,
+   "verse": 22,
+   "word": 27,
+   "kjv": "Judas",
+   "modernized": "Judah"
+  },
+  {
+   "book": "ACT",
+   "chapter": 15,
+   "verse": 26,
+   "word": 13,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 15,
+   "verse": 27,
+   "word": 5,
+   "kjv": "Judas",
+   "modernized": "Judah"
+  },
+  {
+   "book": "ACT",
+   "chapter": 15,
+   "verse": 32,
+   "word": 2,
+   "kjv": "Judas",
+   "modernized": "Judah"
+  },
+  {
+   "book": "ACT",
+   "chapter": 16,
+   "verse": 18,
+   "word": 24,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 16,
+   "verse": 31,
+   "word": 8,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 17,
+   "verse": 3,
+   "word": 19,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 17,
+   "verse": 7,
+   "word": 22,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 17,
+   "verse": 18,
+   "word": 38,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 18,
+   "verse": 5,
+   "word": 22,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 18,
+   "verse": 28,
+   "word": 15,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 19,
+   "verse": 4,
+   "word": 31,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 19,
+   "verse": 5,
+   "word": 14,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 19,
+   "verse": 10,
+   "word": 24,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 19,
+   "verse": 13,
+   "word": 24,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 19,
+   "verse": 13,
+   "word": 30,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 19,
+   "verse": 15,
+   "word": 8,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 19,
+   "verse": 17,
+   "word": 27,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 20,
+   "verse": 21,
+   "word": 19,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 20,
+   "verse": 24,
+   "word": 35,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 20,
+   "verse": 35,
+   "word": 25,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 21,
+   "verse": 13,
+   "word": 35,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 22,
+   "verse": 8,
+   "word": 15,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 25,
+   "verse": 19,
+   "word": 14,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 26,
+   "verse": 9,
+   "word": 18,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 26,
+   "verse": 15,
+   "word": 13,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 28,
+   "verse": 23,
+   "word": 30,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ACT",
+   "chapter": 28,
+   "verse": 31,
+   "word": 14,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 1,
+   "verse": 1,
+   "word": 5,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 1,
+   "verse": 3,
+   "word": 4,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 1,
+   "verse": 6,
+   "word": 9,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 1,
+   "verse": 7,
+   "word": 26,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 1,
+   "verse": 8,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 2,
+   "verse": 16,
+   "word": 13,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 3,
+   "verse": 22,
+   "word": 11,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 3,
+   "verse": 24,
+   "word": 14,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 3,
+   "verse": 26,
+   "word": 23,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 4,
+   "verse": 24,
+   "word": 19,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 5,
+   "verse": 1,
+   "word": 14,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 5,
+   "verse": 11,
+   "word": 14,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 5,
+   "verse": 15,
+   "word": 38,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 5,
+   "verse": 17,
+   "word": 31,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 5,
+   "verse": 21,
+   "word": 19,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 6,
+   "verse": 3,
+   "word": 13,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 6,
+   "verse": 11,
+   "word": 17,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 6,
+   "verse": 23,
+   "word": 17,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 7,
+   "verse": 25,
+   "word": 5,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 8,
+   "verse": 1,
+   "word": 13,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 8,
+   "verse": 2,
+   "word": 11,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 8,
+   "verse": 11,
+   "word": 10,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 8,
+   "verse": 39,
+   "word": 24,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 10,
+   "verse": 9,
+   "word": 11,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 13,
+   "verse": 14,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 14,
+   "verse": 14,
+   "word": 9,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 15,
+   "verse": 5,
+   "word": 19,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 15,
+   "verse": 6,
+   "word": 18,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 15,
+   "verse": 8,
+   "word": 5,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 15,
+   "verse": 16,
+   "word": 8,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 15,
+   "verse": 17,
+   "word": 9,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 15,
+   "verse": 30,
+   "word": 9,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 16,
+   "verse": 3,
+   "word": 9,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 16,
+   "verse": 18,
+   "word": 10,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 16,
+   "verse": 20,
+   "word": 18,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 16,
+   "verse": 24,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 16,
+   "verse": 25,
+   "word": 19,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "ROM",
+   "chapter": 16,
+   "verse": 27,
+   "word": 8,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1CO",
+   "chapter": 1,
+   "verse": 1,
+   "word": 8,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1CO",
+   "chapter": 1,
+   "verse": 2,
+   "word": 17,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1CO",
+   "chapter": 1,
+   "verse": 2,
+   "word": 33,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1CO",
+   "chapter": 1,
+   "verse": 3,
+   "word": 15,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1CO",
+   "chapter": 1,
+   "verse": 4,
+   "word": 19,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1CO",
+   "chapter": 1,
+   "verse": 7,
+   "word": 16,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1CO",
+   "chapter": 1,
+   "verse": 8,
+   "word": 20,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1CO",
+   "chapter": 1,
+   "verse": 9,
+   "word": 15,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1CO",
+   "chapter": 1,
+   "verse": 10,
+   "word": 12,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1CO",
+   "chapter": 1,
+   "verse": 30,
+   "word": 8,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1CO",
+   "chapter": 2,
+   "verse": 2,
+   "word": 12,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1CO",
+   "chapter": 3,
+   "verse": 11,
+   "word": 14,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1CO",
+   "chapter": 4,
+   "verse": 15,
+   "word": 19,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1CO",
+   "chapter": 5,
+   "verse": 4,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1CO",
+   "chapter": 5,
+   "verse": 4,
+   "word": 23,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1CO",
+   "chapter": 5,
+   "verse": 5,
+   "word": 26,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1CO",
+   "chapter": 6,
+   "verse": 11,
+   "word": 25,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1CO",
+   "chapter": 8,
+   "verse": 6,
+   "word": 23,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1CO",
+   "chapter": 9,
+   "verse": 1,
+   "word": 14,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1CO",
+   "chapter": 11,
+   "verse": 23,
+   "word": 18,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1CO",
+   "chapter": 12,
+   "verse": 3,
+   "word": 17,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1CO",
+   "chapter": 12,
+   "verse": 3,
+   "word": 26,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1CO",
+   "chapter": 15,
+   "verse": 31,
+   "word": 11,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1CO",
+   "chapter": 15,
+   "verse": 57,
+   "word": 14,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1CO",
+   "chapter": 16,
+   "verse": 22,
+   "word": 8,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1CO",
+   "chapter": 16,
+   "verse": 23,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1CO",
+   "chapter": 16,
+   "verse": 24,
+   "word": 9,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2CO",
+   "chapter": 1,
+   "verse": 1,
+   "word": 5,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2CO",
+   "chapter": 1,
+   "verse": 2,
+   "word": 15,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2CO",
+   "chapter": 1,
+   "verse": 3,
+   "word": 10,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2CO",
+   "chapter": 1,
+   "verse": 14,
+   "word": 26,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2CO",
+   "chapter": 1,
+   "verse": 19,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2CO",
+   "chapter": 4,
+   "verse": 5,
+   "word": 8,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2CO",
+   "chapter": 4,
+   "verse": 5,
+   "word": 16,
+   "kjv": "Jesus’",
+   "modernized": "Joshua’"
+  },
+  {
+   "book": "2CO",
+   "chapter": 4,
+   "verse": 6,
+   "word": 33,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2CO",
+   "chapter": 4,
+   "verse": 10,
+   "word": 12,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2CO",
+   "chapter": 4,
+   "verse": 10,
+   "word": 18,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2CO",
+   "chapter": 4,
+   "verse": 11,
+   "word": 11,
+   "kjv": "Jesus’",
+   "modernized": "Joshua’"
+  },
+  {
+   "book": "2CO",
+   "chapter": 4,
+   "verse": 11,
+   "word": 18,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2CO",
+   "chapter": 4,
+   "verse": 14,
+   "word": 9,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2CO",
+   "chapter": 4,
+   "verse": 14,
+   "word": 16,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2CO",
+   "chapter": 5,
+   "verse": 18,
+   "word": 14,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2CO",
+   "chapter": 8,
+   "verse": 9,
+   "word": 9,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2CO",
+   "chapter": 11,
+   "verse": 4,
+   "word": 8,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2CO",
+   "chapter": 11,
+   "verse": 31,
+   "word": 8,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2CO",
+   "chapter": 13,
+   "verse": 5,
+   "word": 21,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2CO",
+   "chapter": 13,
+   "verse": 14,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "GAL",
+   "chapter": 1,
+   "verse": 1,
+   "word": 12,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "GAL",
+   "chapter": 1,
+   "verse": 3,
+   "word": 15,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "GAL",
+   "chapter": 1,
+   "verse": 12,
+   "word": 18,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "GAL",
+   "chapter": 2,
+   "verse": 4,
+   "word": 24,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "GAL",
+   "chapter": 2,
+   "verse": 16,
+   "word": 19,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "GAL",
+   "chapter": 2,
+   "verse": 16,
+   "word": 26,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "GAL",
+   "chapter": 3,
+   "verse": 1,
+   "word": 18,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "GAL",
+   "chapter": 3,
+   "verse": 14,
+   "word": 12,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "GAL",
+   "chapter": 3,
+   "verse": 22,
+   "word": 15,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "GAL",
+   "chapter": 3,
+   "verse": 26,
+   "word": 13,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "GAL",
+   "chapter": 3,
+   "verse": 28,
+   "word": 26,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "GAL",
+   "chapter": 4,
+   "verse": 14,
+   "word": 25,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "GAL",
+   "chapter": 5,
+   "verse": 6,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "GAL",
+   "chapter": 6,
+   "verse": 14,
+   "word": 15,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "GAL",
+   "chapter": 6,
+   "verse": 15,
+   "word": 4,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "GAL",
+   "chapter": 6,
+   "verse": 17,
+   "word": 19,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "GAL",
+   "chapter": 6,
+   "verse": 18,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "EPH",
+   "chapter": 1,
+   "verse": 1,
+   "word": 5,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "EPH",
+   "chapter": 1,
+   "verse": 1,
+   "word": 25,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "EPH",
+   "chapter": 1,
+   "verse": 2,
+   "word": 15,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "EPH",
+   "chapter": 1,
+   "verse": 3,
+   "word": 10,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "EPH",
+   "chapter": 1,
+   "verse": 5,
+   "word": 10,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "EPH",
+   "chapter": 1,
+   "verse": 15,
+   "word": 13,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "EPH",
+   "chapter": 1,
+   "verse": 17,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "EPH",
+   "chapter": 2,
+   "verse": 6,
+   "word": 17,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "EPH",
+   "chapter": 2,
+   "verse": 7,
+   "word": 23,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "EPH",
+   "chapter": 2,
+   "verse": 10,
+   "word": 9,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "EPH",
+   "chapter": 2,
+   "verse": 13,
+   "word": 5,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "EPH",
+   "chapter": 2,
+   "verse": 20,
+   "word": 12,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "EPH",
+   "chapter": 3,
+   "verse": 1,
+   "word": 9,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "EPH",
+   "chapter": 3,
+   "verse": 9,
+   "word": 31,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "EPH",
+   "chapter": 3,
+   "verse": 11,
+   "word": 11,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "EPH",
+   "chapter": 3,
+   "verse": 14,
+   "word": 14,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "EPH",
+   "chapter": 3,
+   "verse": 21,
+   "word": 10,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "EPH",
+   "chapter": 4,
+   "verse": 21,
+   "word": 20,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "EPH",
+   "chapter": 5,
+   "verse": 20,
+   "word": 18,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "EPH",
+   "chapter": 6,
+   "verse": 23,
+   "word": 17,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "EPH",
+   "chapter": 6,
+   "verse": 24,
+   "word": 10,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "PHP",
+   "chapter": 1,
+   "verse": 1,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "PHP",
+   "chapter": 1,
+   "verse": 1,
+   "word": 15,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "PHP",
+   "chapter": 1,
+   "verse": 2,
+   "word": 15,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "PHP",
+   "chapter": 1,
+   "verse": 6,
+   "word": 24,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "PHP",
+   "chapter": 1,
+   "verse": 8,
+   "word": 17,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "PHP",
+   "chapter": 1,
+   "verse": 11,
+   "word": 11,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "PHP",
+   "chapter": 1,
+   "verse": 19,
+   "word": 21,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "PHP",
+   "chapter": 1,
+   "verse": 26,
+   "word": 9,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "PHP",
+   "chapter": 2,
+   "verse": 5,
+   "word": 12,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "PHP",
+   "chapter": 2,
+   "verse": 10,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "PHP",
+   "chapter": 2,
+   "verse": 11,
+   "word": 8,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "PHP",
+   "chapter": 2,
+   "verse": 19,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "PHP",
+   "chapter": 2,
+   "verse": 21,
+   "word": 11,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "PHP",
+   "chapter": 3,
+   "verse": 3,
+   "word": 16,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "PHP",
+   "chapter": 3,
+   "verse": 8,
+   "word": 18,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "PHP",
+   "chapter": 3,
+   "verse": 12,
+   "word": 30,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "PHP",
+   "chapter": 3,
+   "verse": 14,
+   "word": 17,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "PHP",
+   "chapter": 3,
+   "verse": 20,
+   "word": 17,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "PHP",
+   "chapter": 4,
+   "verse": 7,
+   "word": 18,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "PHP",
+   "chapter": 4,
+   "verse": 19,
+   "word": 17,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "PHP",
+   "chapter": 4,
+   "verse": 21,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "PHP",
+   "chapter": 4,
+   "verse": 23,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "COL",
+   "chapter": 1,
+   "verse": 1,
+   "word": 5,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "COL",
+   "chapter": 1,
+   "verse": 2,
+   "word": 26,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "COL",
+   "chapter": 1,
+   "verse": 3,
+   "word": 12,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "COL",
+   "chapter": 1,
+   "verse": 4,
+   "word": 9,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "COL",
+   "chapter": 1,
+   "verse": 28,
+   "word": 23,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "COL",
+   "chapter": 2,
+   "verse": 6,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "COL",
+   "chapter": 3,
+   "verse": 17,
+   "word": 17,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "COL",
+   "chapter": 4,
+   "verse": 11,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1TH",
+   "chapter": 1,
+   "verse": 1,
+   "word": 22,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1TH",
+   "chapter": 1,
+   "verse": 1,
+   "word": 37,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1TH",
+   "chapter": 1,
+   "verse": 3,
+   "word": 19,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1TH",
+   "chapter": 1,
+   "verse": 10,
+   "word": 16,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1TH",
+   "chapter": 2,
+   "verse": 14,
+   "word": 17,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1TH",
+   "chapter": 2,
+   "verse": 15,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1TH",
+   "chapter": 2,
+   "verse": 19,
+   "word": 22,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1TH",
+   "chapter": 3,
+   "verse": 11,
+   "word": 10,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1TH",
+   "chapter": 3,
+   "verse": 13,
+   "word": 23,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1TH",
+   "chapter": 4,
+   "verse": 1,
+   "word": 13,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1TH",
+   "chapter": 4,
+   "verse": 2,
+   "word": 12,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1TH",
+   "chapter": 4,
+   "verse": 14,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1TH",
+   "chapter": 4,
+   "verse": 14,
+   "word": 18,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1TH",
+   "chapter": 5,
+   "verse": 9,
+   "word": 16,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1TH",
+   "chapter": 5,
+   "verse": 18,
+   "word": 15,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1TH",
+   "chapter": 5,
+   "verse": 23,
+   "word": 30,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1TH",
+   "chapter": 5,
+   "verse": 28,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2TH",
+   "chapter": 1,
+   "verse": 1,
+   "word": 19,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2TH",
+   "chapter": 1,
+   "verse": 2,
+   "word": 13,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2TH",
+   "chapter": 1,
+   "verse": 7,
+   "word": 13,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2TH",
+   "chapter": 1,
+   "verse": 8,
+   "word": 21,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2TH",
+   "chapter": 1,
+   "verse": 12,
+   "word": 7,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2TH",
+   "chapter": 1,
+   "verse": 12,
+   "word": 28,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2TH",
+   "chapter": 2,
+   "verse": 1,
+   "word": 12,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2TH",
+   "chapter": 2,
+   "verse": 14,
+   "word": 17,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2TH",
+   "chapter": 2,
+   "verse": 16,
+   "word": 4,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2TH",
+   "chapter": 3,
+   "verse": 6,
+   "word": 12,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2TH",
+   "chapter": 3,
+   "verse": 12,
+   "word": 13,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2TH",
+   "chapter": 3,
+   "verse": 18,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1TI",
+   "chapter": 1,
+   "verse": 1,
+   "word": 5,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1TI",
+   "chapter": 1,
+   "verse": 1,
+   "word": 16,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1TI",
+   "chapter": 1,
+   "verse": 2,
+   "word": 18,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1TI",
+   "chapter": 1,
+   "verse": 12,
+   "word": 5,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1TI",
+   "chapter": 1,
+   "verse": 14,
+   "word": 18,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1TI",
+   "chapter": 1,
+   "verse": 15,
+   "word": 13,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1TI",
+   "chapter": 1,
+   "verse": 16,
+   "word": 12,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1TI",
+   "chapter": 2,
+   "verse": 5,
+   "word": 16,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1TI",
+   "chapter": 3,
+   "verse": 13,
+   "word": 28,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1TI",
+   "chapter": 4,
+   "verse": 6,
+   "word": 18,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1TI",
+   "chapter": 5,
+   "verse": 21,
+   "word": 9,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1TI",
+   "chapter": 6,
+   "verse": 3,
+   "word": 18,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1TI",
+   "chapter": 6,
+   "verse": 13,
+   "word": 17,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1TI",
+   "chapter": 6,
+   "verse": 14,
+   "word": 15,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2TI",
+   "chapter": 1,
+   "verse": 1,
+   "word": 5,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2TI",
+   "chapter": 1,
+   "verse": 1,
+   "word": 22,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2TI",
+   "chapter": 1,
+   "verse": 2,
+   "word": 17,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2TI",
+   "chapter": 1,
+   "verse": 9,
+   "word": 31,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2TI",
+   "chapter": 1,
+   "verse": 10,
+   "word": 12,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2TI",
+   "chapter": 1,
+   "verse": 13,
+   "word": 22,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2TI",
+   "chapter": 2,
+   "verse": 1,
+   "word": 14,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2TI",
+   "chapter": 2,
+   "verse": 3,
+   "word": 10,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2TI",
+   "chapter": 2,
+   "verse": 8,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2TI",
+   "chapter": 2,
+   "verse": 10,
+   "word": 21,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2TI",
+   "chapter": 3,
+   "verse": 12,
+   "word": 10,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2TI",
+   "chapter": 3,
+   "verse": 15,
+   "word": 27,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2TI",
+   "chapter": 4,
+   "verse": 1,
+   "word": 10,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2TI",
+   "chapter": 4,
+   "verse": 22,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "TIT",
+   "chapter": 1,
+   "verse": 1,
+   "word": 10,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "TIT",
+   "chapter": 1,
+   "verse": 4,
+   "word": 21,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "TIT",
+   "chapter": 2,
+   "verse": 13,
+   "word": 17,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "TIT",
+   "chapter": 3,
+   "verse": 6,
+   "word": 8,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "PHM",
+   "chapter": 1,
+   "verse": 1,
+   "word": 5,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "PHM",
+   "chapter": 1,
+   "verse": 3,
+   "word": 13,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "PHM",
+   "chapter": 1,
+   "verse": 5,
+   "word": 13,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "PHM",
+   "chapter": 1,
+   "verse": 6,
+   "word": 23,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "PHM",
+   "chapter": 1,
+   "verse": 9,
+   "word": 23,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "PHM",
+   "chapter": 1,
+   "verse": 23,
+   "word": 9,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "PHM",
+   "chapter": 1,
+   "verse": 25,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "HEB",
+   "chapter": 2,
+   "verse": 9,
+   "word": 4,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "HEB",
+   "chapter": 3,
+   "verse": 1,
+   "word": 19,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "HEB",
+   "chapter": 4,
+   "verse": 14,
+   "word": 16,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "HEB",
+   "chapter": 6,
+   "verse": 20,
+   "word": 9,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "HEB",
+   "chapter": 7,
+   "verse": 22,
+   "word": 5,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "HEB",
+   "chapter": 10,
+   "verse": 10,
+   "word": 15,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "HEB",
+   "chapter": 10,
+   "verse": 19,
+   "word": 14,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "HEB",
+   "chapter": 12,
+   "verse": 2,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "HEB",
+   "chapter": 12,
+   "verse": 24,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "HEB",
+   "chapter": 13,
+   "verse": 8,
+   "word": 1,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "HEB",
+   "chapter": 13,
+   "verse": 12,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "HEB",
+   "chapter": 13,
+   "verse": 20,
+   "word": 14,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "HEB",
+   "chapter": 13,
+   "verse": 21,
+   "word": 23,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JAS",
+   "chapter": 1,
+   "verse": 1,
+   "word": 10,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JAS",
+   "chapter": 2,
+   "verse": 1,
+   "word": 10,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1PE",
+   "chapter": 1,
+   "verse": 1,
+   "word": 5,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1PE",
+   "chapter": 1,
+   "verse": 2,
+   "word": 23,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1PE",
+   "chapter": 1,
+   "verse": 3,
+   "word": 10,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1PE",
+   "chapter": 1,
+   "verse": 3,
+   "word": 30,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1PE",
+   "chapter": 1,
+   "verse": 7,
+   "word": 35,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1PE",
+   "chapter": 1,
+   "verse": 13,
+   "word": 30,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1PE",
+   "chapter": 2,
+   "verse": 5,
+   "word": 24,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1PE",
+   "chapter": 3,
+   "verse": 21,
+   "word": 35,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1PE",
+   "chapter": 4,
+   "verse": 11,
+   "word": 37,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1PE",
+   "chapter": 5,
+   "verse": 10,
+   "word": 17,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1PE",
+   "chapter": 5,
+   "verse": 14,
+   "word": 19,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2PE",
+   "chapter": 1,
+   "verse": 1,
+   "word": 9,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2PE",
+   "chapter": 1,
+   "verse": 1,
+   "word": 29,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2PE",
+   "chapter": 1,
+   "verse": 2,
+   "word": 15,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2PE",
+   "chapter": 1,
+   "verse": 8,
+   "word": 27,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2PE",
+   "chapter": 1,
+   "verse": 11,
+   "word": 20,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2PE",
+   "chapter": 1,
+   "verse": 14,
+   "word": 15,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2PE",
+   "chapter": 1,
+   "verse": 16,
+   "word": 22,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2PE",
+   "chapter": 2,
+   "verse": 20,
+   "word": 20,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2PE",
+   "chapter": 3,
+   "verse": 18,
+   "word": 14,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1JN",
+   "chapter": 1,
+   "verse": 3,
+   "word": 32,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1JN",
+   "chapter": 1,
+   "verse": 7,
+   "word": 24,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1JN",
+   "chapter": 2,
+   "verse": 1,
+   "word": 26,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1JN",
+   "chapter": 2,
+   "verse": 22,
+   "word": 10,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1JN",
+   "chapter": 3,
+   "verse": 23,
+   "word": 16,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1JN",
+   "chapter": 4,
+   "verse": 2,
+   "word": 13,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1JN",
+   "chapter": 4,
+   "verse": 3,
+   "word": 8,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1JN",
+   "chapter": 4,
+   "verse": 15,
+   "word": 5,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1JN",
+   "chapter": 5,
+   "verse": 1,
+   "word": 4,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1JN",
+   "chapter": 5,
+   "verse": 5,
+   "word": 13,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1JN",
+   "chapter": 5,
+   "verse": 6,
+   "word": 11,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1JN",
+   "chapter": 5,
+   "verse": 20,
+   "word": 37,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2JN",
+   "chapter": 1,
+   "verse": 3,
+   "word": 16,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "2JN",
+   "chapter": 1,
+   "verse": 7,
+   "word": 13,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JUD",
+   "chapter": 1,
+   "verse": 1,
+   "word": 5,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JUD",
+   "chapter": 1,
+   "verse": 1,
+   "word": 23,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JUD",
+   "chapter": 1,
+   "verse": 4,
+   "word": 37,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JUD",
+   "chapter": 1,
+   "verse": 17,
+   "word": 17,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "JUD",
+   "chapter": 1,
+   "verse": 21,
+   "word": 15,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "REV",
+   "chapter": 1,
+   "verse": 1,
+   "word": 4,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "REV",
+   "chapter": 1,
+   "verse": 2,
+   "word": 14,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "REV",
+   "chapter": 1,
+   "verse": 5,
+   "word": 3,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "REV",
+   "chapter": 1,
+   "verse": 9,
+   "word": 19,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "REV",
+   "chapter": 1,
+   "verse": 9,
+   "word": 39,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "REV",
+   "chapter": 12,
+   "verse": 17,
+   "word": 31,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "REV",
+   "chapter": 14,
+   "verse": 12,
+   "word": 21,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "REV",
+   "chapter": 17,
+   "verse": 6,
+   "word": 21,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "REV",
+   "chapter": 19,
+   "verse": 10,
+   "word": 33,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "REV",
+   "chapter": 19,
+   "verse": 10,
+   "word": 40,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "REV",
+   "chapter": 20,
+   "verse": 4,
+   "word": 30,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "REV",
+   "chapter": 22,
+   "verse": 16,
+   "word": 2,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "REV",
+   "chapter": 22,
+   "verse": 20,
+   "word": 16,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "REV",
+   "chapter": 22,
+   "verse": 21,
+   "word": 6,
+   "kjv": "Jesus",
+   "modernized": "Joshua"
+  }
+ ]
+}

@@ -56,9 +56,7 @@ speaker swallowed into the first. Each region has `status: draft` until it is re
 - `joined`: how many BSB pieces were rejoined.
 - `woj`: true when it's Jesus speaking.
 
-To rebuild (it only reads the app's package files; ~25 s):
-
-    python3 tools/build_quotes.py
+To rebuild (it only reads the app's package files; ~25 s), run `python3 tools/build_quotes.py`.
 
 ## Capital "That" (open question)
 

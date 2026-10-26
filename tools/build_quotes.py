@@ -220,10 +220,15 @@ def snap(regions, K):
         # speech verb ("…; and he said,"), which would swallow the narrator.
         nxt = min([o['_s'] for o in regions if '_s' in o and o['chapter'] == r['chapter'] and o['_s'] > r['_e']],
                   default=len(kl))
+        # A narrator word is a wall too: "saith, Master, master; and kissed him" stops at the semicolon.
+        wall = min([i for i in NARRATOR[(r['book'], r['chapter'])] if i > r['_e']], default=len(kl))
         e = r['_e']
-        while (e < nxt - 1 and not STOP.search(kl[e].a) and kl[e + 1].v == kl[e].v
+        while (e < nxt - 1 and e < wall - 1 and not STOP.search(kl[e].a) and kl[e + 1].v == kl[e].v
                and not SPEECH.match(kl[e + 1].t) and e - r['_e'] < 40):
             e += 1
+        if e == wall - 1 and not STOP.search(kl[e].a):
+            back = [i for i in range(r['_e'], e + 1) if ANY_PUNCT.search(kl[i].a)]
+            e = back[-1] if back else r['_e']
         r['_s'], r['_e'] = s, e
 
 
@@ -258,7 +263,8 @@ def check(r, K, all_regions):
     after_verb = any(SPEECH.match(kl[i].t) for i in range(max(0, s - 5), s) if kl[i].v == first.v)
     opener = verse_start or (OPEN_PUNCT.search(kl[s - 1].a) and (
         telling_capital(first) or (first.t[:1].isupper() and (after_verb or first.S & r.get('_first', set())))))
-    closer = bool(STOP.search(last.a)) or (verse_end and last.a.strip() in (':', ';', ','))
+    closer = (bool(STOP.search(last.a)) or (verse_end and last.a.strip() in (':', ';', ','))
+              or (ANY_PUNCT.search(last.a) and e + 1 in NARRATOR[(r['book'], r['chapter'])]))
     if not opener:
         r['checks'].append('start not after a comma/colon + capital')
     if first.t == 'That' and not verse_start:
