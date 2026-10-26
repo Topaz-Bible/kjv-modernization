@@ -251,8 +251,11 @@ def snap(regions, K):
                   default=len(kl))
         # A narrator word is a wall too: "saith, Master, master; and kissed him" stops at the semicolon.
         wall = min([i for i in NARRATOR[(r['book'], r['chapter'])] if i > r['_e']], default=len(kl))
+        # A quote within a quote stops at the end of its clause: "yet they say, ‘Sword and famine shall not
+        # be in this land;’ By sword and famine shall those prophets be consumed."
+        stop = STOP if r['level'] == 1 else re.compile(r'[.?!;:]')
         e = r['_e']
-        while (e < nxt - 1 and e < wall - 1 and not STOP.search(kl[e].a) and kl[e + 1].v == kl[e].v
+        while (e < nxt - 1 and e < wall - 1 and not stop.search(kl[e].a) and kl[e + 1].v == kl[e].v
                and not SPEECH.match(kl[e + 1].t) and not and_after(kl, e) and e - r['_e'] < 40):
             e += 1
         if e == wall - 1 and not STOP.search(kl[e].a):
@@ -658,7 +661,7 @@ def check(r, K, all_regions):
     if not opener and OPEN_PUNCT.search(kl[s - 1].a):
         opener = any(o is not r and '_e' in o and o['chapter'] == r['chapter'] and s - 8 <= o['_e'] < s - 1
                      and any(INTRO.match(kl[i].t) for i in range(o['_e'] + 1, s)) for o in all_regions)
-    closer = (bool(STOP.search(last.a)) or (verse_end and last.a.strip() in (':', ';', ','))
+    closer = (bool(STOP.search(last.a)) or (r['level'] > 1 and bool(re.search(r'[;:]', last.a))) or (verse_end and last.a.strip() in (':', ';', ','))
               or (ANY_PUNCT.search(last.a) and e + 1 in NARRATOR[(r['book'], r['chapter'])]) or and_after(kl, e)
               or tag_closes(kl, e, all_regions, r))
     if r.get('term'):
@@ -737,6 +740,27 @@ LOWER_WORDS = set()
 NARRATOR = collections.defaultdict(set)
 
 
+def nested_groups(regions, K):
+    """Mark a quote with quotes inside it ("as it is written, ‘…’") ready to ship as one group when
+    every quote in it passes its checks, no quote of its own level sits inside or around it, it doesn't
+    open on the same word as a quote inside it, and each inner quote opens on a speech verb and a
+    comma or colon ("saying, ‘…", "it is written, ‘…") and ends on punctuation."""
+    for r in regions:
+        if '_s' not in r or r['level'] != 1 or r['tier'] != 3 or r['checks']:
+            continue
+        kl = K[r['chapter']]
+        same = [o for o in regions if o is not r and '_s' in o and o['chapter'] == r['chapter']]
+        inner = [o for o in same if o['level'] > 1 and r['_s'] <= o['_s'] and o['_e'] <= r['_e']]
+        if (not inner or any(o['level'] == 1 and (r['_s'] <= o['_s'] <= r['_e'] or o['_s'] <= r['_s'] <= o['_e']) for o in same)
+                or any(o['checks'] or o['_s'] == r['_s'] or not ANY_PUNCT.search(kl[o['_e']].a)
+                       or not (OPEN_PUNCT.search(kl[o['_s'] - 1].a)
+                               and any(INTRO.match(kl[i].t) or kl[i].t == 'is' for i in range(max(0, o['_s'] - 6), o['_s'])))
+                       for o in inner)):
+            continue
+        for o in [r] + inner:
+            o['nested'] = True
+
+
 def main():
     for bk in BOOKS:
         for c in read(kjv_zip, f'{bk}.json')['chapters']:
@@ -762,6 +786,7 @@ def main():
         regions = merge_overlaps(regions, K)
         regions = open_earlier(regions, K)
         regions = close_ends(regions, K)
+        nested_groups(regions, K)
         for r in regions:
             if r['tier'] == 5:
                 rendered[5].append(f"- {bk} {r['bsb'][0]}–{r['bsb'][1]}: {'; '.join(r['checks'])}")
@@ -784,7 +809,7 @@ def main():
                'anchors': 'chapter.verse:word-number in the KJV package; start_word/end_word guard against drift',
                'tiers': {str(k): counts[k] for k in sorted(counts)},
                'regions': [{k: r[k] for k in ('id', 'book', 'chapter', 'tier', 'status', 'level', 'start', 'end',
-                                               'start_word', 'end_word', 'bsb', 'checks', 'woj', 'joined', 'term') if k in r}
+                                               'start_word', 'end_word', 'bsb', 'checks', 'woj', 'joined', 'term', 'nested') if k in r}
                            for r in everything]},
               open(OUT / 'kjv-quotes.json', 'w'), indent=1, ensure_ascii=False)
     names = {1: 'One verse, nothing nested', 2: 'Several verses, nothing nested', 3: 'Nested quotes',

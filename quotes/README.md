@@ -97,6 +97,14 @@ The KJV marks Jesus' words itself (red letters), so `tools/build_quotes.py` fits
 them: one unbroken red stretch is one quote, from its first red word to its last. Where the narrator
 breaks in ("(he saith to the sick of the palsy,)"), each red stretch gets its own quote.
 
+## Quotes within quotes
+
+A quote with quotes inside it (tier 3) ships as one group, the outer quote and every quote inside it,
+when all of them pass their checks and each inner quote opens on a speech verb with a comma or colon
+("saying, ‘…", "it is written, ‘…") and ends on punctuation. These carry `nested: true` in
+`kjv-quotes.json`. An inner quote ends at the end of its own clause, not the sentence. A quote within a
+quote is never shown without its outer quote.
+
 ## Reviewed regions
 
 [`reviewed.csv`](reviewed.csv) records a decision per region (`book`, `start`, `end`): `ship` puts a

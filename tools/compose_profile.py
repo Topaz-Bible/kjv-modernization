@@ -147,7 +147,7 @@ def main():
         # Quotes the KJV's own speech tag found (no BSB anchor) were read one by one; the wrong ones
         # are dropped or fixed in reviewed.csv.
         found = r['checks'] == ['found by the KJV speech tag (no BSB anchor)']
-        if decision != 'ship' and not found and (r['tier'] not in QUOTE_TIERS or 'overlaps another quote' in r['checks']):
+        if decision != 'ship' and not found and not r.get('nested') and (r['tier'] not in QUOTE_TIERS or 'overlaps another quote' in r['checks']):
             continue
         if r.get('term'):
             shipped.append(r)
@@ -161,8 +161,21 @@ def main():
     for x in reviewed.values():
         if x['decision'] == 'add':
             quotes[x['book']].append({'start': x['start'], 'end': x['end'], 'level': 1})
-    for rs in quotes.values():
-        rs.sort(key=lambda q: q['start'])
+    for bk, rs in quotes.items():
+        # Of two quotes of one level that overlap, the longer stays; a quote within a quote ships only
+        # inside its outer one, never as a lone ‘…’.
+        rs.sort(key=lambda q: (q['level'], q['start'], q['end']))
+        kept = []
+        for q in rs:
+            prev = next((k for k in reversed(kept) if k['level'] == q['level']), None)
+            if prev and q['start'] <= prev['end']:
+                if (q['end'], q['start']) > (prev['end'], prev['start']) and q['start'] == prev['start']:
+                    kept[kept.index(prev)] = q
+                continue
+            if q['level'] > 1 and not any(k['level'] == q['level'] - 1 and k['start'] <= q['start'] and q['end'] <= k['end'] for k in kept):
+                continue
+            kept.append(q)
+        quotes[bk] = sorted(kept, key=lambda q: (q['start'], q['level']))
     edits += term_edits(shipped)
     edits += join_edits(quotes)
     m['token_edits'] = edits

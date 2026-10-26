@@ -2,6 +2,13 @@
 
 ## Unreleased
 
+- **Quotes within quotes, first batch.** 473 speeches that quote someone else ("as it is written, ‘He
+  gave them bread from heaven to eat.’", "say unto Ahab, ‘Prepare thy chariot…’") ship with their
+  inner quotes: 706 single-quoted, 8 double again inside those. A group ships whole only when every
+  quote in it passes its checks and each inner quote opens on a speech verb ("saying, ‘…") and ends on
+  punctuation. An inner quote stops at the end of its clause ("yet they say, ‘Sword and famine shall not
+  be in this land;’ By sword and famine…"). A quote within a quote never ships without its outer one: 9
+  lone ‘…’ are gone until their speech is marked.
 - **Held-back starts and ends read by hand.** 77 quotes that end on a colon, semicolon or comma where the
   narrator or writer takes over ("“It is manna:” for they wist not what it was", "If a man say, “I love
   God,” and hateth his brother") ship, as do 20 whose speech tag stands far back or isn't there ("Then
