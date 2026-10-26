@@ -55,7 +55,7 @@ STOP = re.compile(r'[.?!]')
 SPEECH = re.compile(r'(said|saith|say|saying|answered|spake|cried|asked)$', re.I)
 # Words that introduce a saying, for judging where a quote opens: speech verbs, and Scripture quoted
 # ("it is written,", "God hath spoken in his holiness;").
-INTRO = re.compile(r'(said|saith|say|saying|answered|spake|spoken|cried|asked|written|commanded|sware|swear|sworn)$', re.I)
+INTRO = re.compile(r'(said|saidst|saith|say|sayest|saying|answered|spake|spoken|cried|asked|written|commanded|sware|swear|sworn)$', re.I)
 
 
 def strongs(s):
@@ -394,6 +394,28 @@ def recover(regions, K):
 START = 'start not after a comma/colon + capital'
 
 
+def mid_sentence(r, K, regions):
+    """A quote that opens on a comma inside its own sentence ("What doest thou here, “Elijah?",
+    "Come, I pray thee, “I will bring thee…") opens where the sentence does, when the words between
+    are the speaker's own: no quote, no narrator's word and no speech verb lie between."""
+    kl, s = K[r['chapter']], r['_s']
+    if s == 0 or r.get('woj') or kl[s - 1].v != kl[s].v or kl[s - 1].a.strip() != ',':
+        return
+    covered = {i for o in regions if o is not r and '_s' in o and o['chapter'] == r['chapter'] for i in range(o['_s'], o['_e'] + 1)}
+    narr = NARRATOR[(r['book'], r['chapter'])]
+    best, i = None, s - 1
+    while i > 0 and kl[i - 1].v == kl[s].v and s - i < 12 and i not in covered and i not in narr \
+            and not STOP.search(kl[i - 1].a) and not INTRO.match(kl[i].t):
+        if (OPEN_PUNCT.search(kl[i - 1].a) and kl[i].t[:1].isupper()
+                and any(INTRO.match(kl[x].t) for x in range(max(0, i - 8), i) if kl[x].v == kl[i].v)):
+            best = i
+        i -= 1
+    if best is not None and narrator_tag(kl, best, s - 1) is None:
+        r['_s'] = best
+        r['checks'] = []
+        check(r, K, regions)
+
+
 def open_earlier(regions, K):
     """A quote that opens a few words into a speech ("Behold now, “I have two daughters…", "Wherefore shall
     he be slain? “what hath he done?") opens where the speech does: joined to a quote that ends right
@@ -401,6 +423,8 @@ def open_earlier(regions, K):
     when no other quote and no narrator's tag lies between. The moved quote is checked afresh."""
     gone = set()
     for r in regions:
+        if '_s' in r and not r['checks'] and r['level'] == 1:
+            mid_sentence(r, K, regions)
         if '_s' not in r or r['checks'] != [START] or r['level'] != 1:
             continue
         kl, s = K[r['chapter']], r['_s']
@@ -413,17 +437,23 @@ def open_earlier(regions, K):
             prev['checks'] = []
             check(prev, K, regions)
             continue
-        i = s - 1
-        while i > 0 and kl[i - 1].v == kl[s].v and not any(o['_s'] <= i <= o['_e'] for o in others):
-            if INTRO.match(kl[i - 1].t) and OPEN_PUNCT.search(kl[i - 1].a) and kl[i].t[:1].isupper():
+        # Walk back to the speech tag, across a verse break too ("saying, | And I, behold, I establish…").
+        i, opened = s, None
+        while i > 0 and s - i < 30 and not any(o['_s'] <= i - 1 <= o['_e'] for o in others) \
+                and narrator_tag(kl, i, s - 1) is None:
+            p = kl[i - 1]
+            if (i < s and OPEN_PUNCT.search(p.a) and kl[i].t[:1].isupper()
+                    and any(INTRO.match(kl[x].t) for x in range(max(0, i - 8), i) if kl[x].v == p.v)):
+                opened = i
+                break
+            if STOP.search(p.a) and p.v != kl[i].v:
                 break
             i -= 1
-        else:
+        if opened is None:
             continue
-        if i < s and not any(narrator_tag(kl, x, s - 1) is not None for x in range(i, s)):
-            r['_s'] = i
-            r['checks'] = []
-            check(r, K, regions)
+        r['_s'] = opened
+        r['checks'] = []
+        check(r, K, regions)
     return [r for r in regions if id(r) not in gone]
 
 
@@ -450,22 +480,31 @@ def skip_tag(regions, K):
     return regions
 
 
+def touching(kl, a, b):
+    """b takes up right where a stops, in the same verse, after a full stop and on a capital that isn't a
+    speech verb: one speaker's next sentence."""
+    return (b['_s'] == a['_e'] + 1 and kl[b['_s']].v == kl[a['_e']].v and STOP.search(kl[a['_e']].a)
+            and kl[b['_s']].t[:1].isupper() and not SPEECH.match(kl[b['_s']].t))
+
+
 def merge_overlaps(regions, K):
     """The BSB splits a speech around its tag (“Please come near,” said Joseph, “I am Joseph…”) where
     the KJV puts the tag first ("And he said, I am Joseph…"): the two pieces overlap in the KJV and are
-    one quote. A quote within a quote that runs past the end of the outer one stretches it."""
+    one quote, as are two quotes that touch within a verse (“How went the matter?” “I pray thee, tell
+    me.”). A quote within a quote that runs past the end of the outer one stretches it."""
     gone, changed = set(), set()
     for a in regions:
         if '_s' not in a or id(a) in gone:
             continue
         for b in regions:
             if (b is a or '_s' not in b or id(b) in gone or b['chapter'] != a['chapter']
-                    or not (a['_s'] < b['_s'] <= a['_e'] < b['_e'])):
+                    or not (a['_s'] < b['_s'] <= a['_e'] < b['_e']
+                            or touching(K[a['chapter']], a, b))):
                 continue
             if b['level'] == a['level'] and not a.get('term') and not b.get('term'):
                 a['_e'] = b['_e']
                 gone.add(id(b))
-            elif b['level'] == a['level'] + 1:
+            elif b['level'] == a['level'] + 1 and b['_s'] <= a['_e']:
                 a['_e'] = b['_e']
             else:
                 continue
@@ -609,7 +648,7 @@ def check(r, K, all_regions):
     verse_end = e == len(kl) - 1 or kl[e + 1].v != last.v
     # A name ("unto Simon Peter, Simon, son of Jonas") is no clue by its capital, but it is when it is
     # the very word the BSB quote opens with.
-    after_verb = any(INTRO.match(kl[i].t) for i in range(max(0, s - 5), s) if kl[i].v == first.v)
+    after_verb = any(INTRO.match(kl[i].t) for i in range(max(0, s - 8), s) if kl[i].v == first.v)
     # "what saith the scripture? Cast out…": a question that names the saying opens it too.
     asked = re.search(r'\?\s*$', kl[s - 1].a) and after_verb
     opener = verse_start or ((OPEN_PUNCT.search(kl[s - 1].a) or asked) and (
@@ -758,4 +797,5 @@ def main():
     print(collections.Counter(c for r in everything for c in r['checks']).most_common())
 
 
-main()
+if __name__ == "__main__":
+    main()

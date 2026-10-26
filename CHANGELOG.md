@@ -2,6 +2,13 @@
 
 ## Unreleased
 
+- **Where a quote opens, round two.** The speech tag may stand a few words back ("And Abram said to the
+  king of Sodom, I have lift up mine hand") or end the verse before ("saying, | And I, behold, I
+  establish my covenant"). A quote that opened on a name or "O" inside its own sentence ("What doest
+  thou here, “Elijah?") opens with the sentence. Two quotes touching in one verse are one (“How went the
+  matter? I pray thee, tell me.”). 41 more quotes ship; hand fixes in `quotes/reviewed.csv` (Genesis
+  19:7–8 one speech, Isaiah 30:10 two sayings; the Book of Jasher citation in Joshua 10:13 is the
+  narrator's).
 - **Overlapping quotes joined.** Where the BSB splits a speech around its tag (“Please come near,” said
   Joseph, “I am Joseph…”) and the KJV puts the tag first, the two pieces overlapped; they are now one
   quote. A quote within a quote that ran past its outer quote stretches it. A verse that opens on the

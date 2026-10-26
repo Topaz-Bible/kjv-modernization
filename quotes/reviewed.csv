@@ -9,7 +9,7 @@ MRK,006.014:016,006.014:034,drop,"saying-""that"": reported speech, no quotation
 MRK,006.015:003,006.015:006,drop,"saying-""that"": reported speech, no quotation marks",,
 MRK,006.015:010,006.015:020,drop,"saying-""that"": reported speech, no quotation marks",,
 MRK,007.020:004,007.023:011,ship,"""That"" = what: ""That thou doest, do quickly""",,
-LUK,006.005:007,006.005:016,drop,"saying-""that"": reported speech, no quotation marks",,
+LUK,006.005:006,006.005:016,drop,"saying-""that"": reported speech, no quotation marks",,
 LUK,007.004:012,007.005:012,drop,"saying-""that"": reported speech, no quotation marks",,
 LUK,007.016:013,007.016:021,drop,"saying-""that"": reported speech, no quotation marks",,
 LUK,007.016:023,007.016:028,drop,"saying-""that"": reported speech, no quotation marks",,
@@ -69,7 +69,7 @@ JER,001.006:008,001.006:015,drop,joined to the words before it,,
 HOS,002.014:003,002.015:046,fix,"the saying opens on ""Therefore, behold,""",002.014:001,002.015:046
 GEN,044.016:004,044.016:046,ship,one speech: “What shall we say unto my lord? what shall we speak? …”,,
 EXO,017.002:022,017.002:032,ship,one speech: “Why chide ye with me? wherefore do ye tempt the Lord?”,,
-GEN,027.002:004,027.004:027,ship,"one speech, verses 2–4",,
+GEN,027.002:009,027.004:027,fix,"one speech, verses 2–4: “Behold now, I am old, I know not…”",027.002:004,027.004:027
 ISA,038.010:001,038.010:027,fix,"""I said in the cutting off of my days"" is the tag",038.010:010,038.010:027
 GEN,043.027:010,043.027:020,fix,one question runs on: “…of whom ye spake? Is he yet alive?”,043.027:010,043.027:024
 GEN,016.008:004,016.008:009,fix,the speech goes on after the question in small letters,016.008:004,016.008:014
@@ -97,3 +97,11 @@ LUK,022.067:001,022.067:004,fix,the speech goes on after the question in small l
 JHN,004.027:019,004.027:021,fix,the speech goes on after the question in small letters,004.027:019,004.027:027
 AMO,008.002:022,008.003:032,fix,"the tag stands outside: “…in that day,” saith the Lord God: “there shall be…”",008.002:022,008.003:012
 AMO,008.003:017,008.003:032,add,the speech taken up again after the tag,,
+GEN,019.007:003,019.007:010,fix,"one speech: “I pray you, brethren, do not so wickedly. Behold now, I have two daughters…”",019.007:003,019.008:048
+GEN,019.008:003,019.008:048,drop,joined to the words before it,,
+JOS,010.013:028,010.013:047,drop,"the narrator citing the book of Jasher, not a speech",,
+1KI,002.015:004,002.016:016,fix,ends before the narrator: “…deny me not.” And she said…,002.015:004,002.016:011
+ISA,030.010:006,030.011:023,fix,"two sayings: “See not;” and to the prophets, “Prophesy not…”",030.010:012,030.011:023
+ISA,030.010:006,030.010:007,add,the first of the two sayings,,
+1CH,016.041:001,016.041:029,drop,"narration around a saying (""to give thanks to the Lord, because his mercy endureth for ever"")",,
+1SA,015.006:007,015.006:046,fix,"""So the Kenites departed"" is the narrator",015.006:007,015.006:038
