@@ -12,7 +12,8 @@ How a BSB capital is found in the KJV. Pronouns are sorted into three groups:
 Within one verse, when the KJV has the same number of a group's pronouns as the BSB, they pair up in
 order. When the counts differ, nothing is changed and the verse is listed for review.
 
-Only capitals that the BSB uses mid-sentence count. A capital that starts a sentence or a quote
+Only capitals that the BSB uses mid-sentence count (after a semicolon counts: "He makes me lie down in
+green pastures; He leads me"). A capital that starts a sentence, a quote or a clause after a colon
 says nothing about who is meant, so such a pronoun follows the others of its group in the verse when
 they all refer to God, and is otherwise left alone.
 
@@ -33,7 +34,7 @@ BSB_GROUPS = {'he': {'he', 'him', 'his', 'himself'}, 'you': {'you', 'your', 'you
 KJV_GROUPS = {'he': {'he', 'him', 'his', 'himself'},
               'you': {'thou', 'thee', 'thy', 'thine', 'thyself', 'you', 'ye', 'your', 'yours', 'yourself'},
               'me': {'me', 'my', 'mine', 'myself'}}
-ENDS_SENTENCE = re.compile(r'[.?!:;]\s*$')
+ENDS_SENTENCE = re.compile(r'[.?!:]\s*$')
 
 
 def group(word, groups):

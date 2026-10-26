@@ -1,12 +1,12 @@
 {
- "kjv_package": "1.4-primary.20261025.139.2",
+ "kjv_package": "1.4-primary.20261025.139.3",
  "bsb_package": "1.2",
  "anchors": "chapter.verse:word-number in the KJV package; start_word/end_word guard against drift",
  "tiers": {
-  "1": 3460,
+  "1": 3455,
   "2": 1067,
-  "3": 1920,
-  "4": 923,
+  "3": 1918,
+  "4": 930,
   "5": 200
  },
  "regions": [
@@ -55375,7 +55375,7 @@
    "id": "q03221",
    "book": "1CH",
    "chapter": 16,
-   "tier": 1,
+   "tier": 4,
    "status": "draft",
    "level": 1,
    "start": "016.036:019",
@@ -55386,7 +55386,9 @@
     "016.036:020",
     "016.036:022"
    ],
-   "checks": [],
+   "checks": [
+    "term not carried over whole"
+   ],
    "term": true
   },
   {
@@ -80903,7 +80905,7 @@
    "id": "q04691",
    "book": "EZK",
    "chapter": 10,
-   "tier": 1,
+   "tier": 4,
    "status": "draft",
    "level": 1,
    "start": "010.013:014",
@@ -80914,7 +80916,9 @@
     "010.013:007",
     "010.013:009"
    ],
-   "checks": [],
+   "checks": [
+    "term not carried over whole"
+   ],
    "term": true
   },
   {
@@ -104294,7 +104298,7 @@
    "id": "q06020",
    "book": "MRK",
    "chapter": 13,
-   "tier": 3,
+   "tier": 4,
    "status": "draft",
    "level": 2,
    "start": "013.021:018",
@@ -104305,7 +104309,9 @@
     "013.021:015",
     "013.021:017"
    ],
-   "checks": [],
+   "checks": [
+    "term not carried over whole"
+   ],
    "term": true
   },
   {
@@ -110691,7 +110697,7 @@
    "id": "q06381",
    "book": "LUK",
    "chapter": 17,
-   "tier": 3,
+   "tier": 4,
    "status": "draft",
    "level": 2,
    "start": "017.021:009",
@@ -110702,7 +110708,9 @@
     "017.021:010",
     "017.021:012"
    ],
-   "checks": [],
+   "checks": [
+    "term not carried over whole"
+   ],
    "term": true
   },
   {
@@ -126952,7 +126960,7 @@
    "id": "q07303",
    "book": "1CO",
    "chapter": 1,
-   "tier": 1,
+   "tier": 4,
    "status": "draft",
    "level": 1,
    "start": "001.012:026",
@@ -126963,7 +126971,9 @@
     "001.012:021",
     "001.012:023"
    ],
-   "checks": [],
+   "checks": [
+    "term not carried over whole"
+   ],
    "term": true
   },
   {
@@ -128976,7 +128986,7 @@
    "id": "q07418",
    "book": "HEB",
    "chapter": 7,
-   "tier": 1,
+   "tier": 4,
    "status": "draft",
    "level": 1,
    "start": "007.002:017",
@@ -128987,7 +128997,9 @@
     "007.002:014",
     "007.002:016"
    ],
-   "checks": [],
+   "checks": [
+    "term not carried over whole"
+   ],
    "term": true
   },
   {
@@ -129014,7 +129026,7 @@
    "id": "q07420",
    "book": "HEB",
    "chapter": 7,
-   "tier": 1,
+   "tier": 4,
    "status": "draft",
    "level": 1,
    "start": "007.002:029",
@@ -129025,7 +129037,9 @@
     "007.002:023",
     "007.002:025"
    ],
-   "checks": [],
+   "checks": [
+    "term not carried over whole"
+   ],
    "term": true
   },
   {

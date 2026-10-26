@@ -183,6 +183,9 @@ def carry_over(bk, B, K):
             if not anchors:
                 r['checks'].append('no matching words')
                 continue
+            # The KJV may word it differently ("Yet once more" for “Once more”); then only part would be quoted.
+            if max(anchors) - min(anchors) < bidx[(ev, en)] - b0 - 1:
+                r['checks'].append('term not carried over whole')
         hits = anchors or guesses
         if not hits:
             r['checks'].append('no matching words')

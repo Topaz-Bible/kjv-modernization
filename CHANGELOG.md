@@ -9,6 +9,13 @@
 - **Quotes:** names and terms the BSB quotes ("God called the light “day”") are carried over word for
   word; a quote stops at "…: and it was so"; a phrase the BSB tags word by word counts once when
   matching. Genesis 1 now reads right.
+- **Quote or capital, not both.** A term set in quotation marks is lowercased where the BSB has it
+  lowercase: God called the light "day," and the darkness He called "night." Terms the KJV words
+  differently from the BSB ("Yet once more" for "Once more") are no longer quoted by halves.
+- **Capitals for God after a semicolon** now follow the BSB too: "He makes me lie down in green
+  pastures; He leads me." 154 more.
+- **Cambridge paragraphs for the traditional KJV** ([breaks/](breaks/)): Scrivener's 1873 paragraphs,
+  poetry lines and stanza breaks, from eBible.org's public-domain edition.
 
 ## 1.3.0 — 2026-10-26
 

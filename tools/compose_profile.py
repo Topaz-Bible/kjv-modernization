@@ -6,6 +6,9 @@ The word rules already live in mod.json. This adds, from this repository's layer
                    name     Elias → Elijah             (names/names.json)
                    capital  thee → Thee                (capitals/capitals.json)
                    case     "said, That …" → "that"   (worked out here; see quotes/README.md)
+                            "called the light Day" → “day”: a quoted term is lowercased where the BSB has
+                            it lowercase and the KJV uses the word lowercase elsewhere (quotes or a capital,
+                            not both)
   quote_regions  {book: [{start, end, level}]}         (quotes/kjv-quotes.json, tiers 1–2 until the rest are reviewed)
 
 A quote that opens on a lowercased "that" opens on the next word instead:
@@ -57,6 +60,33 @@ def that_edits():
     return out
 
 
+def term_edits(regions):
+    """Lowercase a capitalized term that the KJVm sets in quotation marks."""
+    kjv = zipfile.ZipFile(PKG / 'eng.bible.kjv.zip')
+    bsb = zipfile.ZipFile(PKG / 'eng.bible.bsb.zip')
+    books, lower = {}, set()
+    def verses(z, bk):
+        if (z, bk) not in books:
+            books[(z, bk)] = {(c['chapter'], v['verse']): v['tokens'] for c in json.loads(z.read(f'{bk}.json'))['chapters']
+                              for v in c['verses']}
+        return books[(z, bk)]
+    for n in kjv.namelist():
+        if re.fullmatch(r'[0-9A-Z]{3}\.json', n):
+            lower.update(t['t'] for vs in verses(kjv, n[:3]).values() for t in vs if t['t'][:1].islower())
+    out = []
+    for r in regions:
+        cv, n0 = r['start'].split(':')
+        c, v = map(int, cv.split('.'))
+        n1 = int(r['end'].split(':')[1])
+        bc, bv, bn = r['bsb'][0].replace(':', '.').split('.')
+        if not verses(bsb, r['book'])[(int(bc), int(bv))][int(bn) - 1]['t'][:1].islower():
+            continue
+        for t in verses(kjv, r['book'])[(c, v)]:
+            if int(n0) <= t['n'] <= n1 and t['t'][:1].isupper() and t['t'].lower() in lower:
+                out.append(edit(r['book'], c, v, t['n'], t['t'], t['t'].lower(), 'case'))
+    return out
+
+
 def main():
     raw = MOD.read_text()
     m = json.loads(raw)
@@ -70,16 +100,19 @@ def main():
     lowered = {(e['location']['book_id'], f"{e['location']['chapter']:03}.{e['location']['verse']:03}:{e['location']['token']:03}")
                for e in thats}
 
-    quotes = collections.defaultdict(list)
+    quotes, shipped = collections.defaultdict(list), []
     for r in json.load(open(REPO / 'quotes' / 'kjv-quotes.json'))['regions']:
         if r['tier'] not in QUOTE_TIERS or 'overlaps another quote' in r['checks']:
             continue
+        if r.get('term'):
+            shipped.append(r)
         start = r['start']
         if (r['book'], start) in lowered:
             cv, n = start.split(':')
             start = f'{cv}:{int(n) + 1:03}'
         quotes[r['book']].append({'start': start, 'end': r['end'], 'level': r['level']})
 
+    edits += term_edits(shipped)
     m['token_edits'] = edits
     m['quote_regions'] = dict(quotes)
     out = json.dumps(m, indent=2, ensure_ascii=False) + '\n'

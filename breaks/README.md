@@ -1,23 +1,32 @@
-# Paragraphs and poetry (planned)
+# Paragraphs and poetry
 
-The KJV prints every verse as its own paragraph. Its ¶ marks are sparse and stop partway through Acts.
-It sets poetry as prose too.
+The KJV as first printed sets every verse as its own paragraph. Its ¶ marks are sparse and stop partway
+through Acts, and it sets poetry as prose.
 
-This layer will add:
-- **paragraph breaks**
-- **line and stanza breaks for poetry**, so a refrain like "for his mercy endureth for ever" in Psalm 136
-  stands on its own line
-- **list layout** for genealogies and other lists
+## The traditional KJV: Cambridge Paragraph Bible breaks
 
-The BSB is the starting point:
+[`cambridge/breaks.json`](cambridge/breaks.json) holds the paragraphs, poetry lines and stanza breaks of
+**The Cambridge Paragraph Bible**, edited by F. H. A. Scrivener (Cambridge, 1873). The source is eBible.org's
+public-domain USFM edition, [KJV Cambridge Paragraph Bible](https://ebible.org/find/details.php?id=engkjvcpb)
+(`engkjvcpb`), kept in `keyway-data/sources/kjv-cambridge-paragraph-ebible`.
 
-| | KJV (Topaz package) | BSB |
-|---|---:|---:|
-| Paragraph breaks | 2,970 | 13,442 |
-| Line breaks | 0 | 24,444 |
-| Stanza breaks | 0 | 2,388 |
-| List items | 0 | 1,537 |
-| Poetry sections | 0 | 1,050 |
+| | Count |
+|---|---:|
+| Paragraph breaks (besides chapter starts) | 2,339 |
+| Poetry lines | 22,746 |
+| Stanza breaks | 657 |
+| Poetry sections | 503 |
 
-Breaks between verses carry over directly. Breaks inside a verse will be matched word by word, the same
-way as the quotation marks.
+Each break sits before a word of the Topaz KJV package (`position` = the word's number in its verse),
+in the package's own marker format. Scrivener's text differs from the 1769 KJV in a few words ("You
+are not ashamed" for "ye are not ashamed"); a break goes right after the last word the two share, so
+it still opens the same line.
+
+Not placed: the Additions to Esther, which the two number differently (`cambridge/problems.txt`).
+
+`tools/build_cambridge_breaks.py --apply` writes these breaks into the KJV package, in place of its
+1611 ¶ paragraphs. Headings are untouched.
+
+## The KJVm (planned)
+
+The KJVm will take its paragraphs, poetry lines and lists from the BSB, as it does its quotation marks.
