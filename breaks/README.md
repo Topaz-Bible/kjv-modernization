@@ -12,7 +12,7 @@ public-domain USFM edition, [KJV Cambridge Paragraph Bible](https://ebible.org/f
 
 | | Count |
 |---|---:|
-| Paragraph breaks (besides chapter starts) | 2,339 |
+| Paragraph breaks (besides chapter starts) | 2,344 |
 | Poetry lines | 22,746 |
 | Stanza breaks | 657 |
 | Poetry sections | 503 |
@@ -22,7 +22,7 @@ in the package's own marker format. Scrivener's text differs from the 1769 KJV i
 are not ashamed" for "ye are not ashamed"); a break goes right after the last word the two share, so
 it still opens the same line.
 
-Not placed: the Additions to Esther, which the two number differently (`cambridge/problems.txt`).
+The Additions to Esther are placed by the chapter and verse numbers the KJV prints (`\cp`, `\vp`).
 
 `tools/build_cambridge_breaks.py --apply` writes these breaks into the KJV package, in place of its
 1611 ¶ paragraphs. Headings are untouched.

@@ -43,11 +43,15 @@ def read_usfm(path):
     for tok in re.findall(r'\\[a-z0-9]+\*?|[^\s\\]+', text):
         if tok.startswith('\\'):
             m = tok[1:]
-            if m == 'c':
+            if m in ('c', 'cp'):
+                # \cp: the chapter as the KJV prints it (the Additions to Esther, placed by the Hebrew).
                 in_title = 'c'
                 continue
-            if m == 'v':
+            if m in ('v', 'vp'):
+                # \vp: the verse number as the KJV prints it, where \v follows the Greek order.
                 in_title = 'v'
+                continue
+            if m == 'vp*':
                 continue
             if m == 'd':
                 in_title = 'd'
@@ -112,7 +116,7 @@ def main():
                 body = [t for t in vv['tokens'] if 'pre' not in (t.get('f') or [])]
                 rec = verses.get(key)
                 if rec is None:
-                    if body:
+                    if any(norm(t['t']) for t in body):  # not a "…" placeholder
                         problems.append(f'{bk} {key[0]}:{key[1]}: verse not in the Cambridge USFM')
                     continue
                 m = place(rec['words'], body)
