@@ -438,6 +438,43 @@ def skip_tag(regions, K):
         if (s + 2 <= r['_e'] and kl[s].t.lower() in ('said', 'saith', 'quoth') and kl[s + 1].t.lower() in ('he', 'she', 'they')
                 and OPEN_PUNCT.search(kl[s + 1].a)):
             r['_s'] = s + 2
+        # "Then said they unto him, Tell us…" / "Therefore said they unto him, How…": a verse that opens
+        # on the narrator's tag opens the quote after it.
+        elif (s + 1 < r['_e'] and (s == 0 or kl[s - 1].v != kl[s].v) and kl[s].t in ('Then', 'And', 'Therefore', 'So')):
+            j = s
+            while j < r['_e'] and not ANY_PUNCT.search(kl[j].a) and j - s < 9:
+                j += 1
+            if (j < r['_e'] and OPEN_PUNCT.search(kl[j].a) and kl[j + 1].t[:1].isupper()
+                    and any(SAID.match(kl[x].t) for x in range(s, j + 1))):
+                r['_s'] = j + 1
+    return regions
+
+
+def merge_overlaps(regions, K):
+    """The BSB splits a speech around its tag (“Please come near,” said Joseph, “I am Joseph…”) where
+    the KJV puts the tag first ("And he said, I am Joseph…"): the two pieces overlap in the KJV and are
+    one quote. A quote within a quote that runs past the end of the outer one stretches it."""
+    gone, changed = set(), set()
+    for a in regions:
+        if '_s' not in a or id(a) in gone:
+            continue
+        for b in regions:
+            if (b is a or '_s' not in b or id(b) in gone or b['chapter'] != a['chapter']
+                    or not (a['_s'] < b['_s'] <= a['_e'] < b['_e'])):
+                continue
+            if b['level'] == a['level'] and not a.get('term') and not b.get('term'):
+                a['_e'] = b['_e']
+                gone.add(id(b))
+            elif b['level'] == a['level'] + 1:
+                a['_e'] = b['_e']
+            else:
+                continue
+            changed.add(a['chapter'])
+    regions = [r for r in regions if id(r) not in gone]
+    for r in regions:
+        if '_s' in r and r['chapter'] in changed:
+            r['checks'] = [c for c in r['checks'] if c.startswith('found by')]
+            check(r, K, regions)
     return regions
 
 
@@ -683,6 +720,7 @@ def main():
                 check(r, K, regions)
             else:
                 r['tier'] = 5
+        regions = merge_overlaps(regions, K)
         regions = open_earlier(regions, K)
         regions = close_ends(regions, K)
         for r in regions:

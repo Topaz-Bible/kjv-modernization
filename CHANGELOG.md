@@ -2,6 +2,11 @@
 
 ## Unreleased
 
+- **Overlapping quotes joined.** Where the BSB splits a speech around its tag (“Please come near,” said
+  Joseph, “I am Joseph…”) and the KJV puts the tag first, the two pieces overlapped; they are now one
+  quote. A quote within a quote that ran past its outer quote stretches it. A verse that opens on the
+  narrator's tag ("Then said they unto him, Tell us…") opens the quote after it. 24 questions whose
+  speech goes on in small letters ("whence camest thou? and whither wilt thou go?") run on, by hand.
 - **Where a quote ends.** Quotes the BSB match left ending mid-sentence run on to the full stop
   ("“Master, thou hast well said.”"), or end before the narrator's next tag ("“…till Shelah my son be
   grown:” for he said, “Lest…”"). A quote may end on a comma before "saith the Lord" when the tag ends

@@ -70,9 +70,30 @@ HOS,002.014:003,002.015:046,fix,"the saying opens on ""Therefore, behold,""",002
 GEN,044.016:004,044.016:046,ship,one speech: “What shall we say unto my lord? what shall we speak? …”,,
 EXO,017.002:022,017.002:032,ship,one speech: “Why chide ye with me? wherefore do ye tempt the Lord?”,,
 GEN,027.002:004,027.004:027,ship,"one speech, verses 2–4",,
-NEH,002.004:001,002.004:012,fix,"""Then the king said unto me"" is the narrator",002.004:007,002.004:012
-ECC,002.015:001,002.015:025,fix,"""Then said I in my heart"" is the tag",002.015:007,002.015:025
 ISA,038.010:001,038.010:027,fix,"""I said in the cutting off of my days"" is the tag",038.010:010,038.010:027
-AMO,007.008:001,007.008:010,fix,"""And the Lord said unto me"" is the narrator",007.008:007,007.008:010
-JHN,009.010:001,009.010:010,fix,"""Therefore said they unto him"" is the narrator",009.010:006,009.010:010
 GEN,043.027:010,043.027:020,fix,one question runs on: “…of whom ye spake? Is he yet alive?”,043.027:010,043.027:024
+GEN,016.008:004,016.008:009,fix,the speech goes on after the question in small letters,016.008:004,016.008:014
+GEN,030.015:006,030.015:016,fix,the speech goes on after the question in small letters,030.015:006,030.015:025
+EXO,032.026:012,032.026:017,fix,the speech goes on after the question in small letters,032.026:012,032.026:022
+NUM,016.013:001,016.014:032,fix,the speech goes on after the question in small letters,016.013:001,016.014:037
+DEU,012.030:030,012.030:036,fix,the speech goes on after the question in small letters,012.030:030,012.030:042
+JDG,015.002:005,015.002:028,fix,the speech goes on after the question in small letters,015.002:005,015.002:036
+JDG,018.003:028,018.003:038,fix,the speech goes on after the question in small letters,018.003:028,018.003:043
+JDG,018.014:020,018.014:040,fix,the speech goes on after the question in small letters,018.014:020,018.014:048
+RUT,004.001:027,004.001:030,fix,the speech goes on after the question in small letters,004.001:027,004.001:035
+2SA,013.004:006,013.004:017,fix,the speech goes on after the question in small letters,013.004:006,013.004:022
+2KI,004.028:004,004.028:011,fix,the speech goes on after the question in small letters,004.028:004,004.028:019
+2KI,006.021:013,006.021:018,fix,the speech goes on after the question in small letters,006.021:013,006.021:022
+2KI,006.027:004,006.027:015,fix,the speech goes on after the question in small letters,006.027:004,006.027:024
+2KI,009.032:012,009.032:016,fix,the speech goes on after the question in small letters,009.032:012,009.032:017
+2CH,025.016:017,025.016:023,fix,the speech goes on after the question in small letters,025.016:017,025.016:029
+NEH,002.019:028,002.019:034,fix,the speech goes on after the question in small letters,002.019:028,002.019:040
+EST,009.012:009,009.012:055,fix,the speech goes on after the question in small letters,009.012:009,009.012:060
+ISA,024.016:020,024.016:026,fix,the speech goes on after the question in small letters,024.016:020,024.016:040
+JER,013.025:015,013.027:033,fix,the speech goes on after the question in small letters,013.025:015,013.027:038
+JER,014.013:004,014.013:006,fix,the speech goes on after the question in small letters,014.013:004,014.013:033
+EZK,008.006:006,008.006:033,fix,the speech goes on after the question in small letters,008.006:006,008.006:044
+LUK,022.067:001,022.067:004,fix,the speech goes on after the question in small letters,022.067:001,022.067:006
+JHN,004.027:019,004.027:021,fix,the speech goes on after the question in small letters,004.027:019,004.027:027
+AMO,008.002:022,008.003:032,fix,"the tag stands outside: “…in that day,” saith the Lord God: “there shall be…”",008.002:022,008.003:012
+AMO,008.003:017,008.003:032,add,the speech taken up again after the tag,,
