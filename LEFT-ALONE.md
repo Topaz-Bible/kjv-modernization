@@ -85,6 +85,8 @@ capitalize the wrong person. See [`capitals/review.md`](capitals/review.md).
   dead" (Mark 6:14) is reported speech in the KJV's grammar; `said, that “…”` would read wrong.
 - **Psalm tune names.** The BSB quotes them ("To the tune of “Lilies”"); the KJV leaves them untranslated
   ("upon Shoshannim"), so there's nothing to quote.
+- **Speech the KJV reports.** "He asked him if he saw ought" (Mark 8:23), "told the disciples that she had
+  seen the Lord" (John 20:18). The BSB turns these into quotes; the KJV's words are the narrator's.
 - **Where the KJV has no speech.** "Let us go out to the field" (Genesis 4:8) is in the BSB, but the KJV
   says only "Cain talked with Abel his brother".
 - **Terms the KJV words differently.** The BSB quotes "Yes" and "No" in James 5:12; the KJV's "let your

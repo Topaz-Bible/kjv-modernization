@@ -97,10 +97,12 @@ def join_edits(quotes):
     """
 
     pairs = {(r['first'], r['second']) for r in csv.DictReader(open(REPO / 'words' / 'joins.csv'))}
-    marks = collections.defaultdict(set)
+    # A quote that closes on the first word or opens on the second puts a mark between them.
+    ends, starts = collections.defaultdict(set), collections.defaultdict(set)
     for bk, rs in quotes.items():
         for r in rs:
-            marks[bk] |= {r['start'], r['end']}
+            ends[bk].add(r['end'])
+            starts[bk].add(r['start'])
     kjv = zipfile.ZipFile(PKG / 'eng.bible.kjv.zip')
     out = []
     for b in json.loads(kjv.read('manifest.json'))['books']:
@@ -113,7 +115,7 @@ def join_edits(quotes):
                     if (a['t'].lower(), t['t']) not in pairs or a.get('a') or t.get('b') or t['n'] in breaks:
                         continue
                     loc = lambda x: f"{c['chapter']:03}.{v['verse']:03}:{x['n']:03}"
-                    if loc(a) in marks[bk] or loc(t) in marks[bk]:
+                    if loc(a) in ends[bk] or loc(t) in starts[bk]:
                         continue
                     out.append(edit(bk, c['chapter'], v['verse'], t['n'], t['t'], t['t'], 'join'))
     return out

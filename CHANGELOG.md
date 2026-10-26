@@ -2,6 +2,19 @@
 
 ## Unreleased
 
+- **The last unplaced quotes read by hand.** 152 quotes that failed a check and had never shipped,
+  with the quotes inside them; nothing the matching found is left unreviewed. 72 are left unmarked,
+  because the KJV has no speech there: it reports what was said ("he asked him if he saw ought", "told
+  the disciples that she had seen the Lord") or the words are the narrator's or prophet's own ("Peniel:
+  for I have seen God face to face"). 80 ship, most with edges set by hand: the saying stops where the
+  speaker does ("thou shalt say, ‘I will eat flesh,’ because thy soul longeth…"), and a tag in the
+  middle splits it ("for ‘the God of my father,’ said he, ‘was mine help…’", "for ‘who,’ say they, ‘doth
+  hear?’"). Where the Lord's words go on after "saith the Lord", the words before the tag are quoted
+  too ("‘Shall I not visit for these things?’ saith the Lord: ‘and shall not my soul be avenged…’").
+  Stephen's speech now runs to its end (Acts 7:2–53), with the eleven sayings inside it. Never marked
+  before: Michal's answer (1 Samuel 19:17), "What way went he?" (1 Kings 13:12), "Go, search the land:"
+  (Judges 18:2). Today, forever and the other joined words are now joined where a quote opens before
+  the pair or closes after it (84 more); only a mark between the two words keeps them apart.
 - **Inner quotes from the KJV's own speech tags.** 163 quotes held a speech verb with no quote after it
   ("he abideth at Jerusalem: for he said, To day shall the house of Israel restore me…"). Where the BSB had turned the KJV's direct speech into
   reported speech, there was nothing to carry over; now a tag inside a quote ("saying,", "said unto
