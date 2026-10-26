@@ -7,8 +7,6 @@
   "Jesus Christ the same yesterday, and today, and forever" (Hebrews 13:8).
 - **Capital "That" quotes reviewed** ([`quotes/reviewed.csv`](quotes/reviewed.csv)): a saying-"that"
   gets no quotation marks (21 dropped); "That thou doest, do quickly" and Mark 7:20 ship.
-- **Paragraphs and poetry** of the Cambridge Paragraph Bible (1873) in the traditional KJV, including the
-  Apocrypha and the Additions to Esther ([`breaks/`](breaks/)).
 - **The KJVm.** The Topaz app now has two editions: the KJV as printed, and the KJVm with every layer
   on (word forms, quotation marks, capitals for God, Old Testament names, the saying-"That"
   lowercased). `tools/compose_profile.py` writes the layers into the app's modernization profile as
