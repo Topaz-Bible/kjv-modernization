@@ -2,6 +2,12 @@
 
 ## Unreleased
 
+- **Where a quote opens.** A quote taken up again after its speaker is named opens on a small letter and
+  is right ("“Vanity of vanities,” saith the Preacher, “vanity of vanities;”"); so is Scripture quoted
+  after "it is written," or "what saith the scripture?". A quote that opened on a tag ("lest, “said he,
+  …") opens after it. One that opened a few words into a speech joins the quote just before it, or
+  moves back to the speech tag ("“Behold now, I am old, I know not the day of my death:"). Hand fixes in
+  `quotes/reviewed.csv`; "say, that his mercy endureth for ever" (Psalm 118) is a saying-"that", unmarked.
 - **The 200 quotes the BSB match couldn't place:** 162 are halves of a quote the KJV already has (the BSB
   splits “Here,” she said, “…”); 13 are Psalm tune names the KJV leaves untranslated ("upon
   Shoshannim"); 44 short replies are found by the KJV's own speech tag ("And he said, “Here am I.”"),

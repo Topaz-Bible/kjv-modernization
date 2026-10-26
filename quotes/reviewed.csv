@@ -31,14 +31,8 @@ HEB,007.002:017,007.002:017,fix,"quoted term, edges fixed by hand: “King of ri
 HEB,007.002:018,007.002:024,drop,narration between the two names,,
 HEB,007.002:029,007.002:029,fix,"quoted term, edges fixed by hand: “King of peace;”",007.002:027,007.002:029
 GEN,018.015:005,018.015:011,fix,"""for she was afraid"" is the narrator: “I laughed not;”",018.015:005,018.015:006
-GEN,044.016:004,044.016:010,fix,one speech: “What shall we say unto my lord? what shall we speak? …”,044.016:004,044.016:046
-GEN,044.016:011,044.016:046,drop,joined to the question before it,,
 EXO,017.002:001,017.002:016,drop,opens on the narrator,,
 EXO,017.002:010,017.002:016,ship,“Give us water that we may drink.”,,
-EXO,017.002:022,017.002:026,fix,one speech: “Why chide ye with me? wherefore do ye tempt the Lord?”,017.002:022,017.002:032
-EXO,017.002:027,017.002:032,drop,joined to the question before it,,
-GEN,027.002:004,027.002:008,fix,speech tag found in the KJV; one speech with the quote after it,027.002:004,027.004:027
-GEN,027.002:009,027.004:027,drop,joined to the words before it,,
 GEN,029.006:012,029.006:014,fix,"speech tag found in the KJV; “He is well: and, behold, Rachel his daughter cometh with the sheep.”",029.006:012,029.006:023
 GEN,029.006:017,029.006:023,drop,joined to the words before it,,
 2KI,005.017:004,005.017:007,fix,speech tag found in the KJV; one speech through verse 18,005.017:004,005.018:054
@@ -64,3 +58,15 @@ AMO,007.003:006,007.003:009,add,"added by hand: BSB quote, KJV words too differe
 AMO,007.006:006,007.006:010,add,"added by hand: BSB quote, KJV words too different to match",,
 NAM,002.008:016,002.008:017,add,"added by hand: BSB quote, KJV words too different to match: “Stand, stand,” shall they cry",,
 MRK,008.021:006,008.021:013,add,"added by hand: BSB quote, KJV words too different to match",,
+GEN,026.007:015,026.007:022,fix,"""for he feared to say"" is the narrator: “She is my sister:”",026.007:015,026.007:018
+GEN,026.007:024,026.007:028,ship,"“She is my wife; lest,” said he, “the men…”",,
+MRK,012.032:007,012.032:010,fix,"one speech: “Well, Master, thou hast said the truth: for there is one God…”",012.032:007,012.033:039
+MRK,012.032:014,012.033:039,drop,joined to the words before it,,
+2KI,002.004:007,002.004:019,fix,"the speech opens on the name: “Elisha, tarry here…”",002.004:006,002.004:019
+PSA,118.003:008,118.003:013,drop,"saying-""that"": ""Let the house of Aaron now say, that his mercy endureth for ever""",,
+JER,001.006:004,001.006:006,fix,"one cry: “Ah, Lord God! behold, I cannot speak: for I am a child.”",001.006:004,001.006:015
+JER,001.006:008,001.006:015,drop,joined to the words before it,,
+HOS,002.014:003,002.015:046,fix,"the saying opens on ""Therefore, behold,""",002.014:001,002.015:046
+GEN,044.016:004,044.016:046,ship,one speech: “What shall we say unto my lord? what shall we speak? …”,,
+EXO,017.002:022,017.002:032,ship,one speech: “Why chide ye with me? wherefore do ye tempt the Lord?”,,
+GEN,027.002:004,027.004:027,ship,"one speech, verses 2–4",,

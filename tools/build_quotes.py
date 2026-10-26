@@ -53,6 +53,9 @@ OPEN_PUNCT = re.compile(r'[,:;]\s*$')
 ANY_PUNCT = re.compile(r'[.?!;:,]')
 STOP = re.compile(r'[.?!]')
 SPEECH = re.compile(r'(said|saith|say|saying|answered|spake|cried|asked)$', re.I)
+# Words that introduce a saying, for judging where a quote opens: speech verbs, and Scripture quoted
+# ("it is written,", "God hath spoken in his holiness;").
+INTRO = re.compile(r'(said|saith|say|saying|answered|spake|spoken|cried|asked|written|commanded|sware|swear|sworn)$', re.I)
 
 
 def strongs(s):
@@ -388,6 +391,56 @@ def recover(regions, K):
     return regions + found
 
 
+START = 'start not after a comma/colon + capital'
+
+
+def open_earlier(regions, K):
+    """A quote that opens a few words into a speech ("Behold now, “I have two daughters…", "Wherefore shall
+    he be slain? “what hath he done?") opens where the speech does: joined to a quote that ends right
+    before it, or moved back to the speech tag earlier in the verse ("said unto them, Behold now, …"),
+    when no other quote and no narrator's tag lies between. The moved quote is checked afresh."""
+    gone = set()
+    for r in regions:
+        if '_s' not in r or r['checks'] != [START] or r['level'] != 1:
+            continue
+        kl, s = K[r['chapter']], r['_s']
+        others = [o for o in regions if o is not r and '_s' in o and o['chapter'] == r['chapter']
+                  and o['level'] == r['level'] and id(o) not in gone]
+        prev = next((o for o in others if o['_e'] == s - 1), None)
+        if prev and START not in prev['checks'] and not any(narrator_tag(kl, i, s - 1) is not None for i in range(prev['_s'], s)):
+            prev['_e'] = r['_e']
+            gone.add(id(r))
+            prev['checks'] = []
+            check(prev, K, regions)
+            continue
+        i = s - 1
+        while i > 0 and kl[i - 1].v == kl[s].v and not any(o['_s'] <= i <= o['_e'] for o in others):
+            if INTRO.match(kl[i - 1].t) and OPEN_PUNCT.search(kl[i - 1].a) and kl[i].t[:1].isupper():
+                break
+            i -= 1
+        else:
+            continue
+        if i < s and not any(narrator_tag(kl, x, s - 1) is not None for x in range(i, s)):
+            r['_s'] = i
+            r['checks'] = []
+            check(r, K, regions)
+    return [r for r in regions if id(r) not in gone]
+
+
+def skip_tag(regions, K):
+    """A quote the match opened on a speaker's tag ("lest, “said he, the men of the place…") opens after
+    it: lest,” said he, “the men…. A command or question that starts with the verb ("Say unto Aaron",
+    "Said I not unto thee") is the saying itself and keeps it."""
+    for r in regions:
+        if '_s' not in r:
+            continue
+        kl, s = K[r['chapter']], r['_s']
+        if (s + 2 <= r['_e'] and kl[s].t.lower() in ('said', 'saith', 'quoth') and kl[s + 1].t.lower() in ('he', 'she', 'they')
+                and OPEN_PUNCT.search(kl[s + 1].a)):
+            r['_s'] = s + 2
+    return regions
+
+
 def fit_woj(regions, K):
     """Fit quotes of Jesus to the KJV's own red letters, which say where His words start and stop.
 
@@ -447,9 +500,16 @@ def check(r, K, all_regions):
     verse_end = e == len(kl) - 1 or kl[e + 1].v != last.v
     # A name ("unto Simon Peter, Simon, son of Jonas") is no clue by its capital, but it is when it is
     # the very word the BSB quote opens with.
-    after_verb = any(SPEECH.match(kl[i].t) for i in range(max(0, s - 5), s) if kl[i].v == first.v)
-    opener = verse_start or (OPEN_PUNCT.search(kl[s - 1].a) and (
+    after_verb = any(INTRO.match(kl[i].t) for i in range(max(0, s - 5), s) if kl[i].v == first.v)
+    # "what saith the scripture? Cast out…": a question that names the saying opens it too.
+    asked = re.search(r'\?\s*$', kl[s - 1].a) and after_verb
+    opener = verse_start or ((OPEN_PUNCT.search(kl[s - 1].a) or asked) and (
         telling_capital(first) or (first.t[:1].isupper() and (after_verb or first.S & r.get('_first', set())))))
+    # A quote taken up again after the speaker is named ("…to him that is near,” saith the Lord; “and I
+    # will heal him.”) opens on a small letter: the quote before it ends just before the tag.
+    if not opener and OPEN_PUNCT.search(kl[s - 1].a):
+        opener = any(o is not r and '_e' in o and o['chapter'] == r['chapter'] and s - 8 <= o['_e'] < s - 1
+                     and any(INTRO.match(kl[i].t) for i in range(o['_e'] + 1, s)) for o in all_regions)
     closer = (bool(STOP.search(last.a)) or (verse_end and last.a.strip() in (':', ';', ','))
               or (ANY_PUNCT.search(last.a) and e + 1 in NARRATOR[(r['book'], r['chapter'])]) or and_after(kl, e))
     if r.get('term'):
@@ -544,11 +604,13 @@ def main():
         regions = fit_woj(regions, K)
         regions = split_narrator(regions, K)
         regions = recover(regions, K)
+        regions = skip_tag(regions, K)
         for r in regions:
             if '_s' in r:
                 check(r, K, regions)
             else:
                 r['tier'] = 5
+        regions = open_earlier(regions, K)
         for r in regions:
             if r['tier'] == 5:
                 rendered[5].append(f"- {bk} {r['bsb'][0]}–{r['bsb'][1]}: {'; '.join(r['checks'])}")
