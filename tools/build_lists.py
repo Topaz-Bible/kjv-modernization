@@ -93,7 +93,7 @@ AUX = {'hath', 'doth', 'saith', 'art', 'wilt', 'shalt', 'wert', 'hast', 'didst',
 
 def group(r):
     w, c = r['match']['text'].lower(), r['category']
-    if c in ('pronoun', 'spelling'):
+    if c in ('pronoun', 'spelling', 'direction'):
         return c
     if w in AUX:
         return 'auxiliary'
@@ -152,7 +152,8 @@ LAB = {'pronoun': 'Pronouns (thou, thee, ye, thy, thine, mine)',
        'third_person_eth': 'Third-person “-eth” verbs (believeth → believes)',
        'second_person_est': 'Second-person “-est” verbs (thou knowest → you know)',
        'old_past_tense': 'Old past tenses (spake → spoke, bare → bore)',
-       'spelling': 'Old spellings (shew → show)'}
+       'spelling': 'Old spellings (shew → show)',
+       'direction': 'Here, there and where (hither → here, from thence → from there)'}
 rule_rows = collections.defaultdict(list)
 total = collections.Counter()
 for r in rows:
@@ -191,10 +192,11 @@ INTRO = {
     'auxiliary': 'The most common archaic forms. They follow the pronoun change: “thou art” becomes “you are”, “thou shalt” becomes “you shall”.',
     'old_past_tense': 'Past tenses that English later regularized. “Bare” becomes “bore” everywhere except the 14 verses where it is the adjective (“naked and bare”); those are listed under single-verse exceptions.',
     'spelling': 'Same word, modern spelling.',
+    'direction': 'Old English had separate words for “to here” (hither) and “from here” (hence). Today “here”, “there” and “where” do all three jobs. “Hither”, “thither” and “whither” always change. “Hence”, “thence” and “whence” change only after “from”, where the “from” is already written (“from thence” → “from there”); on their own they would need two words, so they stay, as does “hitherto”.',
     'second_person_est': 'The verb ending that went with “thou”. With “thou” becoming “you”, the verb loses its ending: “thou knowest” becomes “you know”, “thou mightest” becomes “you might”.',
     'third_person_eth': 'The old “-eth” ending, the forerunner of today’s “-s”: “he believeth” becomes “he believes”. Words that only look like these are left alone: nouns (priest, harvest), superlatives (greatest, eldest), ordinals (twentieth) and names (Nazareth, Japheth).',
 }
-for g, by_count in [('pronoun', True), ('auxiliary', True), ('old_past_tense', True), ('spelling', True),
+for g, by_count in [('pronoun', True), ('auxiliary', True), ('old_past_tense', True), ('spelling', True), ('direction', True),
                     ('second_person_est', False), ('third_person_eth', False)]:
     out += [f'## {LAB[g]}\n', INTRO[g] + '\n'] + table(g, by_count) + ['']
 

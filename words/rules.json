@@ -34,8 +34,8 @@
  },
  "stats": {
   "tokens_in_kjv": 931532,
-  "tokens_changed": 40626,
-  "rules": 1161,
+  "tokens_changed": 41069,
+  "rules": 1167,
   "location_overrides": 61
  },
  "rules": [
@@ -12920,6 +12920,87 @@
    "replace": {
     "text": "shook"
    }
+  },
+  {
+   "id": "direction-hither-to-here",
+   "enabled": true,
+   "category": "direction",
+   "match": {
+    "text": "hither"
+   },
+   "replace": {
+    "text": "here"
+   }
+  },
+  {
+   "id": "direction-thither-to-there",
+   "enabled": true,
+   "category": "direction",
+   "match": {
+    "text": "thither"
+   },
+   "replace": {
+    "text": "there"
+   }
+  },
+  {
+   "id": "direction-whither-to-where",
+   "enabled": true,
+   "category": "direction",
+   "match": {
+    "text": "whither"
+   },
+   "replace": {
+    "text": "where"
+   }
+  },
+  {
+   "id": "direction-thence-after-from-to-there",
+   "enabled": true,
+   "category": "direction",
+   "match": {
+    "text": "thence"
+   },
+   "when": {
+    "previous_text_in": [
+     "from"
+    ]
+   },
+   "replace": {
+    "text": "there"
+   }
+  },
+  {
+   "id": "direction-whence-after-from-to-where",
+   "enabled": true,
+   "category": "direction",
+   "match": {
+    "text": "whence"
+   },
+   "when": {
+    "previous_text_in": [
+     "from"
+    ]
+   },
+   "replace": {
+    "text": "where"
+   }
+  },
+  {
+   "id": "direction-hence-after-from-to-here",
+   "enabled": true,
+   "category": "direction",
+   "match": {
+    "text": "hence"
+   },
+   "when": {
+    "previous_text_in": [
+     "from"
+    ]
+   },
+   "replace": {
+    "text": "here"
+   }
   }
  ],
  "location_overrides": [
@@ -13926,6 +14007,7 @@
   "verb-hath-to-has": 2628,
   "verb-moveth-to-moves": 8,
   "verb-creepeth-to-creeps": 14,
+  "direction-thence-after-from-to-there": 97,
   "verb-compasseth-to-compasses": 7,
   "verb-goeth-to-goes": 150,
   "pronoun-thou-to-you": 6409,
@@ -13942,6 +14024,7 @@
   "verb-hast-to-have": 1291,
   "verb-shouldest-to-should": 84,
   "verb-gavest-to-gave": 52,
+  "direction-whence-after-from-to-where": 37,
   "verb-bare-to-bore": 191,
   "verb-doest-to-do": 48,
   "verb-lieth-to-lies": 73,
@@ -13971,11 +14054,14 @@
   "possessive-mine-before-listed-word-to-my": 641,
   "possessive-thine-after-punctuation-to-yours": 39,
   "spelling-carcases-to-carcasses": 23,
+  "direction-hither-to-here": 74,
   "verb-pleaseth-to-pleases": 12,
   "verb-camest-to-came": 31,
+  "direction-whither-to-where": 126,
   "verb-seeth-to-sees": 64,
   "spelling-fetcht-to-fetched": 1,
   "spelling-shewed-to-showed": 180,
+  "direction-thither-to-there": 102,
   "verb-gat-to-got": 31,
   "verb-sawest-to-saw": 44,
   "verb-aileth-to-ails": 9,
@@ -14034,6 +14120,7 @@
   "verb-defiledst-to-defiled": 1,
   "verb-biteth-to-bites": 2,
   "verb-giveth-to-gives": 141,
+  "direction-hence-after-from-to-here": 7,
   "verb-falleth-to-falls": 32,
   "verb-smitest-to-smite": 2,
   "verb-intendest-to-intend": 1,

@@ -1,6 +1,6 @@
 # Every word the modernized KJV changes
 
-The Topaz Bible's “Modernize spelling” option changes **40,626** of the KJV's **931,532** words (about 4.4%). It uses 1,161 word rules and 61 single-verse exceptions. The underlying text never changes: switch the option off and every word is back to the King James text.
+The Topaz Bible's “Modernize spelling” option changes **41,069** of the KJV's **931,532** words (about 4.4%). It uses 1,167 word rules and 61 single-verse exceptions. The underlying text never changes: switch the option off and every word is back to the King James text.
 
 Counts are how many times each change happens in the KJV, Apocrypha included. Generated from KJV package 1.4-primary.20261025.139.1.
 
@@ -14,6 +14,7 @@ Counts are how many times each change happens in the KJV, Apocrypha included. Ge
 | Second-person “-est” verbs (thou knowest → you know) | 340 | 1,469 |
 | Old past tenses (spake → spoke, bare → bore) | 22 | 1,139 |
 | Old spellings (shew → show) | 88 | 1,036 |
+| Here, there and where (hither → here, from thence → from there) | 6 | 443 |
 | Single-verse exceptions | 61 | 47 changed, the rest kept as written |
 
 ## Pronouns (thou, thee, ye, thy, thine, mine)
@@ -177,6 +178,19 @@ Same word, modern spelling.
 | spued | spewed |  | 1 |
 | stript | stripped |  | 1 |
 | sycomores | sycamores |  | 1 |
+
+## Here, there and where (hither → here, from thence → from there)
+
+Old English had separate words for “to here” (hither) and “from here” (hence). Today “here”, “there” and “where” do all three jobs. “Hither”, “thither” and “whither” always change. “Hence”, “thence” and “whence” change only after “from”, where the “from” is already written (“from thence” → “from there”); on their own they would need two words, so they stay, as does “hitherto”.
+
+| KJV | Modernized | Only when | Times |
+|---|---|---|---:|
+| whither | where |  | 126 |
+| thither | there |  | 102 |
+| thence | there | after “from” | 97 |
+| hither | here |  | 74 |
+| whence | where | after “from” | 37 |
+| hence | here | after “from” | 7 |
 
 ## Second-person “-est” verbs (thou knowest → you know)
 

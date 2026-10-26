@@ -1160,6 +1160,12 @@ verb-forbad-to-forbade,rule,verb,old_past_tense,forbad,forbade,,,,5,1157
 verb-lien-to-lain,rule,verb,old_past_tense,lien,lain,,,,3,1158
 verb-chode-to-chided,rule,verb,old_past_tense,chode,chided,,,,2,1159
 verb-shaked-to-shook,rule,verb,old_past_tense,shaked,shook,,,,1,1160
+direction-hither-to-here,rule,direction,direction,hither,here,,,,74,1161
+direction-thither-to-there,rule,direction,direction,thither,there,,,,102,1162
+direction-whither-to-where,rule,direction,direction,whither,where,,,,126,1163
+direction-thence-after-from-to-there,rule,direction,direction,thence,there,after “from”,"{""previous_text_in"": [""from""]}",,97,1164
+direction-whence-after-from-to-where,rule,direction,direction,whence,where,after “from”,"{""previous_text_in"": [""from""]}",,37,1165
+direction-hence-after-from-to-here,rule,direction,direction,hence,here,after “from”,"{""previous_text_in"": [""from""]}",,7,1166
 override-thine-standalone-gen-31-32-to-yours,override,pronoun,override,thine,yours,,,GEN 31:32 #18,1,
 override-thine-first-deu-15-3-to-yours,override,pronoun,override,thine,yours,,,DEU 15:3 #13,1,
 override-thine-standalone-deu-30-4-to-yours,override,pronoun,override,thine,yours,,,DEU 30:4 #4,1,

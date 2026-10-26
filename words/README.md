@@ -2,14 +2,14 @@
 
 **Every word the [Topaz Bible](https://topaz.bible) changes when you turn on "Modernize spelling" for the King James Version, as open, reusable data.**
 
-*thou → you · hath → has · believeth → believes · thou knowest → you know · spake → spoke · shew → show*
+*thou → you · hath → has · believeth → believes · thou knowest → you know · spake → spoke · shew → show · whither → where*
 
 The King James text itself is never edited. These rules are a display layer: the reader shows the modern form of a word in place of the old one, and switching the option off brings back the original word for word. The changes are to word *forms* only. Archaic *words* (wist, wot, sith, betwixt) and words whose *meaning* has shifted ("let" for *hinder*, "prevent" for *go before*) are left alone, because changing them would be translation.
 
 | | |
 |---:|---|
-| **40,626** | words changed, out of 931,532 in the KJV (4.3%) |
-| **1,161** | word rules |
+| **41,069** | words changed, out of 931,532 in the KJV (4.4%) |
+| **1,167** | word rules |
 | **61** | single-verse exceptions |
 
 ## What's here
