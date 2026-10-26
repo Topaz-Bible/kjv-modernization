@@ -109,6 +109,12 @@ def parse(ref):
     return int(c), int(v), int(n)
 
 
+def heads(bl, ids, S):
+    """BSB words with these Strong's numbers, counting a run of words that share one number once:
+    the BSB gives every word of "serve as lights" the number for "lights"."""
+    return [x for x in ids if bl[x].S & S and not (x > 0 and bl[x - 1].v == bl[x].v and bl[x - 1].S == bl[x].S)]
+
+
 def carry_over(bk, B, K):
     bch = bsb_chapters(B)
     regions = []
@@ -129,7 +135,7 @@ def carry_over(bk, B, K):
             if bi in quoted[ch] or not w.S:
                 continue
             same_k = [ki for ki, x in enumerate(kl) if x.v == w.v and x.S & w.S]
-            same_b = [x for x in bl if x.v == w.v and x.S & w.S]
+            same_b = heads(bl, [x for x, y in enumerate(bl) if y.v == w.v], w.S)
             if len(same_k) == 1 and len(same_b) == 1:
                 NARRATOR[(bk, ch)].add(same_k[0])
     for q in B.get('quotes', []):
@@ -159,12 +165,24 @@ def carry_over(bk, B, K):
             r.setdefault('_first', w.S)
             bv, kv = by_verse_b[w.v], by_verse_k[w.v]
             same_k = [ki for ki in kv if kl[ki].S & w.S]
-            same_b = [x for x in bv if bl[x].S & w.S]
+            same_b = heads(bl, bv, w.S)
             if len(same_k) == 1 and len(same_b) == 1:
                 anchors.append(same_k[0])
             elif same_k:
                 rel = bv.index(bi) / max(1, len(bv) - 1)
                 guesses.append(min((abs(kv.index(ki) / max(1, len(kv) - 1) - rel), ki) for ki in same_k)[1])
+        # A name or term the BSB sets in quotes inside the narrator's sentence ('God called the light “day,”')
+        # is carried over word for word: no walking back to a speech opener.
+        b0 = bidx[(sv, sn)]
+        if (bidx[(ev, en)] - b0 < 3 and b0 > 0 and bl[b0 - 1].v == sv and not ANY_PUNCT.search(bl[b0 - 1].a)
+                and not SPEECH.match(bl[b0 - 1].t)):
+            r['term'] = True
+            # The KJV capitalizes such a name ("called the light Day"), which settles a guess.
+            if not anchors and guesses and all(kl[g].t[:1].isupper() for g in guesses):
+                anchors = guesses
+            if not anchors:
+                r['checks'].append('no matching words')
+                continue
         hits = anchors or guesses
         if not hits:
             r['checks'].append('no matching words')
@@ -198,9 +216,14 @@ def lead_in(kl, s):
     return s
 
 
+def and_after(kl, i):
+    """The narrator taking over after a colon or semicolon: 'Let there be light: and there was light.'"""
+    return bool(re.search(r'[:;]\s*$', kl[i].a)) and i + 1 < len(kl) and kl[i + 1].v == kl[i].v and kl[i + 1].t == 'and'
+
+
 def snap(regions, K):
     for r in regions:
-        if '_s' not in r:
+        if '_s' not in r or r.get('term'):
             continue
         kl = K[r['chapter']]
         # Walk back clause by clause to where the speech opens: a capital after a comma or colon, or the
@@ -224,7 +247,7 @@ def snap(regions, K):
         wall = min([i for i in NARRATOR[(r['book'], r['chapter'])] if i > r['_e']], default=len(kl))
         e = r['_e']
         while (e < nxt - 1 and e < wall - 1 and not STOP.search(kl[e].a) and kl[e + 1].v == kl[e].v
-               and not SPEECH.match(kl[e + 1].t) and e - r['_e'] < 40):
+               and not SPEECH.match(kl[e + 1].t) and not and_after(kl, e) and e - r['_e'] < 40):
             e += 1
         if e == wall - 1 and not STOP.search(kl[e].a):
             back = [i for i in range(r['_e'], e + 1) if ANY_PUNCT.search(kl[i].a)]
@@ -240,7 +263,7 @@ def merge(regions, K):
         # Touching or overlapping in either order: the KJV may put the pieces the other way round
         # ("And he said, If now I have found grace in thy sight, O Lord, …" vs the BSB's “O Lord,” he said, “if …”).
         kl = K.get(r['chapter'], [])
-        if (p and '_s' in p and '_s' in r and p['chapter'] == r['chapter'] and p['level'] == r['level']
+        if (p and '_s' in p and '_s' in r and not p.get('term') and not r.get('term') and p['chapter'] == r['chapter'] and p['level'] == r['level']
                 and r['_s'] <= p['_e'] + 1 and p['_s'] <= r['_e'] + 1
                 and not any(SPEECH.match(kl[i].t) for i in range(min(p['_s'], r['_s']), max(p['_e'], r['_e']) + 1))):
             p['_s'], p['_e'] = min(p['_s'], r['_s']), max(p['_e'], r['_e'])
@@ -264,7 +287,9 @@ def check(r, K, all_regions):
     opener = verse_start or (OPEN_PUNCT.search(kl[s - 1].a) and (
         telling_capital(first) or (first.t[:1].isupper() and (after_verb or first.S & r.get('_first', set())))))
     closer = (bool(STOP.search(last.a)) or (verse_end and last.a.strip() in (':', ';', ','))
-              or (ANY_PUNCT.search(last.a) and e + 1 in NARRATOR[(r['book'], r['chapter'])]))
+              or (ANY_PUNCT.search(last.a) and e + 1 in NARRATOR[(r['book'], r['chapter'])]) or and_after(kl, e))
+    if r.get('term'):
+        opener = closer = True
     if not opener:
         r['checks'].append('start not after a comma/colon + capital')
     if first.t == 'That' and not verse_start:
@@ -379,7 +404,7 @@ def main():
                'anchors': 'chapter.verse:word-number in the KJV package; start_word/end_word guard against drift',
                'tiers': {str(k): counts[k] for k in sorted(counts)},
                'regions': [{k: r[k] for k in ('id', 'book', 'chapter', 'tier', 'status', 'level', 'start', 'end',
-                                               'start_word', 'end_word', 'bsb', 'checks', 'woj', 'joined') if k in r}
+                                               'start_word', 'end_word', 'bsb', 'checks', 'woj', 'joined', 'term') if k in r}
                            for r in everything]},
               open(OUT / 'kjv-quotes.json', 'w'), indent=1, ensure_ascii=False)
     names = {1: 'One verse, nothing nested', 2: 'Several verses, nothing nested', 3: 'Nested quotes',

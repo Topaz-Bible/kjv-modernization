@@ -1,5 +1,15 @@
 # Changelog
 
+## Unreleased
+
+- **The KJVm.** The Topaz app now has two editions: the KJV as printed, and the KJVm with every layer
+  on (word forms, quotation marks, capitals for God, Old Testament names, the saying-"That"
+  lowercased). `tools/compose_profile.py` writes the layers into the app's modernization profile as
+  `token_edits` and `quote_regions`. Only quote tiers 1 and 2 ship so far.
+- **Quotes:** names and terms the BSB quotes ("God called the light “day”") are carried over word for
+  word; a quote stops at "…: and it was so"; a phrase the BSB tags word by word counts once when
+  matching. Genesis 1 now reads right.
+
 ## 1.3.0 — 2026-10-26
 
 Word lists built from Topaz KJV package `1.4-primary.20261025.139.1` with the 1.3.0 rules applied. The Topaz app picks the rules up with its next KJV package.

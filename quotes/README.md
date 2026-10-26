@@ -14,17 +14,21 @@ They start from the Berean Standard Bible (BSB), which already marks its quotes.
 their words to the same Greek and Hebrew words, so each BSB quote can be found in the KJV:
 
 1. **Match the words.** A Greek or Hebrew word that occurs only once in the verse can only be one KJV
-   word, so it anchors the quote. Common words ("the", "and", "him") are used only when a quote has
-   no anchor.
+   word, so it anchors the quote. The BSB gives each word of a phrase the same number ("serve as
+   lights"), so a phrase counts once. Common words ("the", "and", "him") are used only when a quote
+   has no anchor.
 2. **Find the opening** by walking back to where the speech begins. The KJV marks that with a capital
    letter after a comma or colon ("said unto him, Lovest thou me?"). The walk never crosses a word the
    BSB leaves outside its quotes, such as "he answered".
 3. **Find the end** by running on to the end of the sentence or verse. The run never goes into the
-   next quote or past a speech verb like "said" or "saith".
+   next quote or past a speech verb like "said" or "saith". It also stops at a colon or semicolon
+   followed by "and": "Let there be light: and there was light".
 4. **Rejoin split speeches.** The BSB splits some speeches with a narrator tag that the KJV doesn't
    have ("“You will not surely die,” the serpent told her. “For God knows…”"). Those pieces become one
    quote again.
-5. **Check the words of Jesus.** In the Gospels the KJV marks Jesus's words itself, so a quote of Jesus
+5. **Names and terms.** A word the BSB quotes inside the narrator's sentence ("God called the light
+   “day”") is carried over word for word: *God called the light “Day,”*. No walking back.
+6. **Check the words of Jesus.** In the Gospels the KJV marks Jesus's words itself, so a quote of Jesus
    must start and stop where that marking does.
 
 ## Tiers, easiest first
@@ -58,7 +62,7 @@ speaker swallowed into the first. Each region has `status: draft` until it is re
 
 To rebuild (it only reads the app's package files; ~25 s), run `python3 tools/build_quotes.py`.
 
-## Capital "That" (open question)
+## Capital "That"
 
 In 67 places the KJV writes "That" with a capital after a comma: "But I say unto you, That Elias is come
 already" (Matthew 17:12). Two thirds of them (45 of 67) translate the Greek ὅτι.
@@ -68,7 +72,7 @@ was said". The 1611 translators kept ὅτι as the word "that", and set the nex
 they did for any speech. So the capital marks the start of the saying, not the subject. It does the
 job that quotation marks do now.
 
-Planned handling, verse by verse:
+How the KJVm handles it (`tools/compose_profile.py`):
 
 - **Indirect speech** ("saying, That it was needful to circumcise them", Acts 15:5): lowercase
   "that", no marks.
@@ -76,4 +80,6 @@ Planned handling, verse by verse:
   lowercase "that", and open the quote after it: *it was said, that "in Isaac shall thy seed be
   called."*
 
-Either way every word stays. These regions are flagged `opens with a capital "That"` in tier 4.
+Either way every word stays. In the KJVm "That" is lowercased where the Greek is ὅτι or the Hebrew is
+כִּי or אֲשֶׁר and it follows a comma, colon or semicolon (47 places). A quote that opened on it opens
+on the next word instead. The regions are still flagged `opens with a capital "That"` in tier 4 here.
