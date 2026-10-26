@@ -1,5 +1,5 @@
 {
- "kjv_package": "1.4-primary.20261025.139.23",
+ "kjv_package": "1.4-primary.20261025.139.24",
  "bsb_package": "1.2",
  "anchors": "chapter.verse:word-number in the KJV package; start_word/end_word guard against drift",
  "tiers": {
@@ -363,15 +363,16 @@
    "tier": 3,
    "status": "draft",
    "level": 1,
-   "start": "003.001:029",
+   "start": "003.001:025",
    "end": "003.001:038",
-   "start_word": "Ye",
+   "start_word": "Yea",
    "end_word": "garden",
    "bsb": [
     "003.001:025",
     "003.001:038"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q00022",
@@ -388,7 +389,8 @@
     "003.001:029",
     "003.001:038"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q00023",
@@ -9345,15 +9347,16 @@
    "tier": 3,
    "status": "draft",
    "level": 1,
-   "start": "045.017:010",
+   "start": "045.017:006",
    "end": "045.020:016",
-   "start_word": "This",
+   "start_word": "Say",
    "end_word": "yours",
    "bsb": [
     "045.017:005",
     "045.020:018"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q00545",
@@ -9371,7 +9374,8 @@
     "045.020:018"
    ],
    "checks": [],
-   "joined": 2
+   "joined": 2,
+   "nested": true
   },
   {
    "id": "q00546",
@@ -11019,9 +11023,9 @@
    "tier": 4,
    "status": "draft",
    "level": 1,
-   "start": "003.015:016",
+   "start": "003.015:007",
    "end": "003.022:043",
-   "start_word": "The",
+   "start_word": "Thus",
    "end_word": "Egyptians",
    "bsb": [
     "003.015:005",
@@ -15204,15 +15208,16 @@
    "tier": 3,
    "status": "draft",
    "level": 1,
-   "start": "033.005:014",
+   "start": "033.005:008",
    "end": "033.005:050",
-   "start_word": "Ye",
+   "start_word": "Say",
    "end_word": "thee",
    "bsb": [
     "033.005:008",
     "033.005:043"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q00881",
@@ -15229,7 +15234,8 @@
     "033.005:011",
     "033.005:043"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q00882",
@@ -24583,15 +24589,16 @@
    "tier": 3,
    "status": "draft",
    "level": 1,
-   "start": "022.016:009",
+   "start": "022.016:001",
    "end": "022.020:032",
-   "start_word": "What",
+   "start_word": "Thus",
    "end_word": "iniquity",
    "bsb": [
     "022.016:001",
     "022.020:034"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q01420",
@@ -24608,7 +24615,8 @@
     "022.016:011",
     "022.020:034"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q01421",
@@ -28324,9 +28332,9 @@
    "tier": 3,
    "status": "draft",
    "level": 1,
-   "start": "016.015:010",
+   "start": "016.015:006",
    "end": "016.015:036",
-   "start_word": "I",
+   "start_word": "How",
    "end_word": "lieth",
    "bsb": [
     "016.015:001",
@@ -30051,15 +30059,16 @@
    "tier": 3,
    "status": "draft",
    "level": 1,
-   "start": "002.021:011",
+   "start": "002.021:006",
    "end": "002.021:025",
-   "start_word": "Thou",
+   "start_word": "He",
    "end_word": "harvest",
    "bsb": [
     "002.021:006",
     "002.021:022"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q01737",
@@ -30076,7 +30085,8 @@
     "002.021:010",
     "002.021:022"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q01738",
@@ -30762,9 +30772,9 @@
    "tier": 4,
    "status": "draft",
    "level": 1,
-   "start": "002.027:018",
+   "start": "002.027:014",
    "end": "002.036:053",
-   "start_word": "Did",
+   "start_word": "Thus",
    "end_word": "bread",
    "bsb": [
     "002.027:012",
@@ -30981,15 +30991,16 @@
    "tier": 3,
    "status": "draft",
    "level": 1,
-   "start": "003.009:021",
+   "start": "003.009:006",
    "end": "003.009:026",
-   "start_word": "Speak",
+   "start_word": "Go",
    "end_word": "heareth",
    "bsb": [
     "003.009:009",
     "003.009:021"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q01791",
@@ -31006,7 +31017,8 @@
     "003.009:015",
     "003.009:021"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q01792",
@@ -34820,15 +34832,16 @@
    "tier": 3,
    "status": "draft",
    "level": 1,
-   "start": "018.025:010",
+   "start": "018.025:004",
    "end": "018.025:029",
-   "start_word": "The",
+   "start_word": "Thus",
    "end_word": "enemies",
    "bsb": [
     "018.025:003",
     "018.025:021"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q02014",
@@ -34845,7 +34858,8 @@
     "018.025:006",
     "018.025:021"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q02015",
@@ -36250,7 +36264,7 @@
    "tier": 3,
    "status": "draft",
    "level": 1,
-   "start": "024.004:019",
+   "start": "024.004:009",
    "end": "024.004:040",
    "start_word": "Behold",
    "end_word": "thee",
@@ -36258,7 +36272,8 @@
     "024.004:007",
     "024.004:035"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q02097",
@@ -36275,7 +36290,8 @@
     "024.004:018",
     "024.004:035"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q02098",
@@ -44365,15 +44381,16 @@
    "tier": 3,
    "status": "draft",
    "level": 1,
-   "start": "002.030:018",
+   "start": "002.030:014",
    "end": "002.030:019",
-   "start_word": "Come",
+   "start_word": "Thus",
    "end_word": "forth",
    "bsb": [
     "002.030:013",
     "002.030:017"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q02567",
@@ -44390,7 +44407,8 @@
     "002.030:016",
     "002.030:017"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q02568",
@@ -45581,15 +45599,16 @@
    "tier": 3,
    "status": "draft",
    "level": 1,
-   "start": "013.002:022",
+   "start": "013.002:015",
    "end": "013.002:060",
-   "start_word": "Behold",
+   "start_word": "O",
    "end_word": "thee",
    "bsb": [
     "013.002:014",
     "013.002:060"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q02637",
@@ -45606,7 +45625,8 @@
     "013.002:024",
     "013.002:060"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q02638",
@@ -45897,15 +45917,16 @@
    "tier": 3,
    "status": "draft",
    "level": 1,
-   "start": "013.021:018",
+   "start": "013.021:014",
    "end": "013.022:040",
-   "start_word": "Forasmuch",
+   "start_word": "Thus",
    "end_word": "fathers",
    "bsb": [
     "013.021:016",
     "013.022:031"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q02655",
@@ -45922,7 +45943,8 @@
     "013.021:022",
     "013.022:031"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q02656",
@@ -47166,15 +47188,16 @@
    "tier": 3,
    "status": "draft",
    "level": 1,
-   "start": "020.003:001",
+   "start": "020.002:017",
    "end": "020.003:018",
-   "start_word": "Thy",
+   "start_word": "Thus",
    "end_word": "mine",
    "bsb": [
     "020.003:002",
     "020.003:020"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q02729",
@@ -47191,7 +47214,8 @@
     "020.003:007",
     "020.003:020"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q02730",
@@ -47378,15 +47402,16 @@
    "tier": 3,
    "status": "draft",
    "level": 1,
-   "start": "020.013:017",
+   "start": "020.013:013",
    "end": "020.013:042",
-   "start_word": "Hast",
+   "start_word": "Thus",
    "end_word": "Lord",
    "bsb": [
     "020.013:011",
     "020.013:043"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q02741",
@@ -47403,7 +47428,8 @@
     "020.013:017",
     "020.013:043"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q02742",
@@ -47812,15 +47838,16 @@
    "tier": 3,
    "status": "draft",
    "level": 1,
-   "start": "020.042:010",
+   "start": "020.042:006",
    "end": "020.042:040",
-   "start_word": "Because",
+   "start_word": "Thus",
    "end_word": "people",
    "bsb": [
     "020.042:008",
     "020.042:042"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q02766",
@@ -47837,7 +47864,8 @@
     "020.042:014",
     "020.042:042"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q02767",
@@ -48398,15 +48426,16 @@
    "tier": 3,
    "status": "draft",
    "level": 1,
-   "start": "022.011:019",
+   "start": "022.011:015",
    "end": "022.011:030",
-   "start_word": "With",
+   "start_word": "Thus",
    "end_word": "them",
    "bsb": [
     "022.011:014",
     "022.011:031"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q02800",
@@ -48423,7 +48452,8 @@
     "022.011:020",
     "022.011:031"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q02801",
@@ -49777,15 +49807,16 @@
    "tier": 3,
    "status": "draft",
    "level": 1,
-   "start": "002.021:023",
+   "start": "002.021:019",
    "end": "002.021:039",
-   "start_word": "I",
+   "start_word": "Thus",
    "end_word": "land",
    "bsb": [
     "002.021:015",
     "002.021:033"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q02879",
@@ -49802,7 +49833,8 @@
     "002.021:021",
     "002.021:033"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q02880",
@@ -50302,15 +50334,16 @@
    "tier": 3,
    "status": "draft",
    "level": 1,
-   "start": "004.013:010",
+   "start": "004.013:006",
    "end": "004.013:042",
-   "start_word": "Behold",
+   "start_word": "Say",
    "end_word": "host",
    "bsb": [
     "004.013:006",
     "004.013:039"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q02910",
@@ -50327,7 +50360,8 @@
     "004.013:009",
     "004.013:039"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q02911",
@@ -51651,15 +51685,16 @@
    "tier": 3,
    "status": "draft",
    "level": 1,
-   "start": "006.028:018",
+   "start": "006.028:013",
    "end": "006.029:032",
-   "start_word": "Give",
+   "start_word": "This",
    "end_word": "son",
    "bsb": [
     "006.028:013",
     "006.029:031"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q02989",
@@ -51676,7 +51711,8 @@
     "006.028:018",
     "006.028:033"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q02990",
@@ -51693,7 +51729,8 @@
     "006.029:017",
     "006.029:025"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q02991",
@@ -52203,15 +52240,16 @@
    "tier": 3,
    "status": "draft",
    "level": 1,
-   "start": "008.010:010",
+   "start": "008.010:006",
    "end": "008.010:024",
-   "start_word": "Thou",
+   "start_word": "Go",
    "end_word": "die",
    "bsb": [
     "008.010:003",
     "008.010:022"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q03021",
@@ -52228,7 +52266,8 @@
     "008.010:007",
     "008.010:010"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q03022",
@@ -52545,15 +52584,16 @@
    "tier": 3,
    "status": "draft",
    "level": 1,
-   "start": "009.012:025",
+   "start": "009.012:021",
    "end": "009.012:031",
-   "start_word": "I",
+   "start_word": "Thus",
    "end_word": "Israel",
    "bsb": [
     "009.012:013",
     "009.012:033"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q03041",
@@ -52570,7 +52610,8 @@
     "009.012:022",
     "009.012:033"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q03042",
@@ -53643,15 +53684,16 @@
    "tier": 3,
    "status": "draft",
    "level": 1,
-   "start": "014.009:029",
+   "start": "014.009:014",
    "end": "014.010:037",
-   "start_word": "Give",
+   "start_word": "The",
    "end_word": "thee",
    "bsb": [
     "014.009:012",
     "014.010:033"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q03105",
@@ -53668,7 +53710,8 @@
     "014.009:025",
     "014.009:032"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q03106",
@@ -54206,15 +54249,16 @@
    "tier": 3,
    "status": "draft",
    "level": 1,
-   "start": "020.001:028",
+   "start": "020.001:024",
    "end": "020.001:039",
-   "start_word": "Set",
+   "start_word": "Thus",
    "end_word": "live",
    "bsb": [
     "020.001:019",
     "020.001:039"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q03137",
@@ -54231,7 +54275,8 @@
     "020.001:025",
     "020.001:039"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q03138",
@@ -55758,15 +55803,16 @@
    "tier": 3,
    "status": "draft",
    "level": 1,
-   "start": "021.011:014",
+   "start": "021.011:010",
    "end": "021.012:065",
-   "start_word": "Choose",
+   "start_word": "Thus",
    "end_word": "me",
    "bsb": [
     "021.011:008",
     "021.012:057"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q03226",
@@ -55783,7 +55829,8 @@
     "021.011:014",
     "021.012:045"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q03227",
@@ -56791,15 +56838,16 @@
    "tier": 3,
    "status": "draft",
    "level": 1,
-   "start": "012.005:031",
+   "start": "012.005:027",
    "end": "012.005:046",
-   "start_word": "Ye",
+   "start_word": "Thus",
    "end_word": "Shishak",
    "bsb": [
     "012.005:026",
     "012.005:045"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q03285",
@@ -56816,7 +56864,8 @@
     "012.005:032",
     "012.005:045"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q03286",
@@ -57128,15 +57177,16 @@
    "tier": 3,
    "status": "draft",
    "level": 1,
-   "start": "018.010:019",
+   "start": "018.010:015",
    "end": "018.010:028",
-   "start_word": "With",
+   "start_word": "Thus",
    "end_word": "consumed",
    "bsb": [
     "018.010:014",
     "018.010:031"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q03305",
@@ -57153,7 +57203,8 @@
     "018.010:020",
     "018.010:031"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q03306",
@@ -58151,15 +58202,16 @@
    "tier": 3,
    "status": "draft",
    "level": 1,
-   "start": "025.018:028",
+   "start": "025.018:013",
    "end": "025.019:037",
-   "start_word": "Give",
+   "start_word": "The",
    "end_word": "thee",
    "bsb": [
     "025.018:012",
     "025.019:035"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q03364",
@@ -58176,7 +58228,8 @@
     "025.018:025",
     "025.018:032"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q03365",
@@ -58193,7 +58246,8 @@
     "025.019:004",
     "025.019:008"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q03366",
@@ -68176,15 +68230,16 @@
    "tier": 3,
    "status": "draft",
    "level": 1,
-   "start": "038.001:028",
+   "start": "038.001:024",
    "end": "038.001:039",
-   "start_word": "Set",
+   "start_word": "Thus",
    "end_word": "live",
    "bsb": [
     "038.001:019",
     "038.001:039"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q03942",
@@ -68201,7 +68256,8 @@
     "038.001:025",
     "038.001:039"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q03943",
@@ -75877,15 +75933,16 @@
    "tier": 3,
    "status": "draft",
    "level": 1,
-   "start": "028.011:016",
+   "start": "028.011:012",
    "end": "028.011:040",
-   "start_word": "Even",
+   "start_word": "Thus",
    "end_word": "years",
    "bsb": [
     "028.011:011",
     "028.011:039"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q04383",
@@ -75902,7 +75959,8 @@
     "028.011:017",
     "028.011:039"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q04384",
@@ -76722,15 +76780,16 @@
    "tier": 3,
    "status": "draft",
    "level": 1,
-   "start": "032.003:021",
+   "start": "032.003:017",
    "end": "032.005:029",
-   "start_word": "Behold",
+   "start_word": "Thus",
    "end_word": "prosper",
    "bsb": [
     "032.003:010",
     "032.005:028"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q04431",
@@ -76747,7 +76806,8 @@
     "032.003:022",
     "032.005:028"
    ],
-   "checks": []
+   "checks": [],
+   "nested": true
   },
   {
    "id": "q04432",
@@ -89124,9 +89184,9 @@
    "tier": 4,
    "status": "draft",
    "level": 1,
-   "start": "001.002:008",
+   "start": "001.002:001",
    "end": "001.002:024",
-   "start_word": "This",
+   "start_word": "Thus",
    "end_word": "built",
    "bsb": [
     "001.002:010",

@@ -145,7 +145,8 @@ def main():
     for r in regions:
         row = reviewed.get((r['book'], r.get('start'), r.get('end')))
         decision = row and row['decision']
-        if decision == 'drop':
+        if decision in ('drop', 'add'):
+            # An added row with the same edges replaces the generated region.
             continue
         if decision == 'fix':
             # Edges set by hand. A quote within a quote waits for its outer one (the nested review).
@@ -171,7 +172,7 @@ def main():
             quotes[x['book']].append({'start': x['start'], 'end': x['end'], 'level': int(x.get('level') or 1)})
     for bk, rs in quotes.items():
         # Of two quotes of one level that overlap, the longer stays; a quote within a quote ships only
-        # inside its outer one, never as a lone ‘…’.
+        # inside its outer one, never as a lone ‘…’, nor as the very words of its outer one (“‘…’”).
         rs.sort(key=lambda q: (q['level'], q['start'], q['end']))
         kept = []
         for q in rs:
@@ -181,6 +182,8 @@ def main():
                     kept[kept.index(prev)] = q
                 continue
             if q['level'] > 1 and not any(k['level'] == q['level'] - 1 and k['start'] <= q['start'] and q['end'] <= k['end'] for k in kept):
+                continue
+            if any(k['level'] < q['level'] and (k['start'], k['end']) == (q['start'], q['end']) for k in kept):
                 continue
             kept.append(q)
         quotes[bk] = sorted(kept, key=lambda q: (q['start'], q['level']))

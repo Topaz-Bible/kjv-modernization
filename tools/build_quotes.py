@@ -752,6 +752,37 @@ NEST_VERB = re.compile(r'(said|saidst|saith|say|sayest|saying|answer|answered|sp
                        r'written|commanded|commandeth|sware|swear|sworn|is|tell|told|reported|shout|proclaim|call|called|calleth)$', re.I)
 
 
+def outer_open(regions, K):
+    """A quote that opens on the same word as a quote inside it ("And he said unto the woman, Yea, hath
+    God said, “‘Ye shall not eat…") opens where its speaker does, back at the speech tag, when no other
+    quote and no narrator's tag lies between. The moved quote is checked afresh. (Not joined to a quote
+    that ends right before it: that one has run over the narrator's "And Jesus answered him, saying,".)"""
+    for r in regions:
+        if '_s' not in r or r['level'] != 1:
+            continue
+        kl, s = K[r['chapter']], r['_s']
+        same = [o for o in regions if o is not r and '_s' in o and o['chapter'] == r['chapter']]
+        if not any(o['level'] == 2 and o['_s'] == s and o['_e'] <= r['_e'] for o in same):
+            continue
+        others = [o for o in same if o['level'] == 1]
+        i, opened = s, None
+        while i > 0 and s - i < 30 and narrator_tag(kl, i, s - 1) is None:
+            if any(o['_s'] <= i - 1 <= o['_e'] for o in others):
+                break
+            p = kl[i - 1]
+            if (i < s and OPEN_PUNCT.search(p.a) and kl[i].t[:1].isupper()
+                    and any(INTRO.match(kl[x].t) for x in range(max(0, i - 8), i) if kl[x].v == p.v)):
+                opened = i
+                break
+            if STOP.search(p.a) and p.v != kl[i].v:
+                break
+            i -= 1
+        if opened is not None:
+            r['_s'] = opened
+            r['checks'] = []
+            check(r, K, regions)
+
+
 def nested_groups(regions, K):
     """Mark a quote with quotes inside it ("as it is written, ‘…’") ready to ship as one group when
     every quote in it passes its checks, no quote of its own level sits inside or around it, it doesn't
@@ -798,6 +829,7 @@ def main():
         regions = merge_overlaps(regions, K)
         regions = open_earlier(regions, K)
         regions = close_ends(regions, K)
+        outer_open(regions, K)
         nested_groups(regions, K)
         for r in regions:
             if r['tier'] == 5:

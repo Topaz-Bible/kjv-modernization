@@ -2,6 +2,16 @@
 
 ## Unreleased
 
+- **Quotes within quotes, third batch.** 119 more speeches ship with their inner quotes (226 single, 5
+  double), among them the Sermon on the Mount, Elihu, and the Lord's sayings in Jeremiah and Ezekiel.
+  A speech that opened on its inner quote's first word now opens with its speaker ("And he said unto the
+  woman, “Yea, hath God said, ‘Ye shall not eat of every tree of the garden?’”"). The rest were read by
+  hand: an inner quote stops at its own saying ("If they say thus unto us, ‘Tarry until we come to
+  you;’ then…", "to the mountains, ‘Fall on us;’ and to the hills, ‘Cover us.’"), and a speaker's own
+  words are not quoted inside his speech ("Therefore speak I to them in parables", "He that believeth on
+  me, as the scripture hath said"). A quote is never its own inner quote (Hebrews 4:3 had ““…””). An
+  `add` row replaces a generated quote with the same edges. Deborah's song and Jeremiah 3:12 wait for
+  the three-level pass.
 - **Quotes within quotes, second batch.** 56 more speeches ship with their inner quotes (154 single, 2
   double): messengers' words ("go, tell thy lord, ‘Behold, Elijah is here.’"), "Thus saith the Lord"
   inside a prophet's speech, the parables of the trees (Judges 9) and the virgins and talents
