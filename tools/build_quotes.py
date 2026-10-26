@@ -492,6 +492,78 @@ def fit_woj(regions, K):
     return sorted(kept, key=lambda r: (r.get('chapter', 0), r.get('_s', -1)))
 
 
+ADDRESS = {'thou', 'thee', 'ye', 'you', 'i', 'me', 'we', 'us', 'my', 'our', 'thy', 'your',
+           'hath', 'hast', 'have', 'had', 'will', 'shall', 'to', 'not'}
+
+
+def tag_clause(kl, i, verbs):
+    """The short clause at word i names the speaker of the quote just before it: "…unto me,” saith the
+    Lord", "…upon Babylon,” shall the inhabitant of Zion say;", "…be grown: for he said, Lest…". Not the
+    speech going on ("as thou hast said", "for thus saith the Lord", "say on"). Its last word, or None."""
+    if (i >= len(kl) or i == 0 or kl[i].v != kl[i - 1].v
+            or kl[i].t.lower() in ('as', 'that', 'which', 'what', 'whom', 'all', 'say')):
+        return None
+    j = i
+    while j < len(kl) and kl[j].v == kl[i].v and j - i < 7:
+        if kl[j].t.lower() in ADDRESS or kl[j].t.lower() == 'thus':
+            return None
+        if ANY_PUNCT.search(kl[j].a) or kl[j].a.strip().startswith(')'):
+            return j if any(verbs.match(kl[x].t) for x in range(i, j + 1)) else None
+        j += 1
+    return None
+
+
+SAITH = re.compile(r'(saith|said|say|quoth)$', re.I)
+SAID = re.compile(r'(said|answered|spake|cried|quoth)$', re.I)
+END = 'end not on . ? ! or a verse end'
+
+
+def close_ends(regions, K):
+    """A quote the BSB match left ending mid-sentence ("thou hast well” said.") runs on to the end of
+    the sentence, and on past a question that goes on in small letters ("after his saying? if not;
+    speak thou."); one that ran past the speaker into the narrator's next tag ("till Shelah my son be
+    grown: for he” said, Lest…") ends before the tag. Never where the BSB's quote runs on into a later
+    verse or into another quote, and kept only if the quote then passes every check."""
+    for r in regions:
+        if '_s' not in r or r['checks'] != [END] or r['level'] != 1:
+            continue
+        kl, s, e = K[r['chapter']], r['_s'], r['_e']
+        if ANY_PUNCT.search(kl[e].a):
+            continue
+        same = [o for o in regions if o is not r and '_s' in o and o['chapter'] == r['chapter'] and o['level'] == 1]
+        starts = {o['_s'] for o in regions if o is not r and '_s' in o and o['chapter'] == r['chapter']}
+        narr = NARRATOR[(r['book'], r['chapter'])]
+        bsb_end = (int(r['bsb'][1][:3]), int(r['bsb'][1][4:7]))
+        x = e
+        while (x + 1 < len(kl) and kl[x + 1].v == kl[x].v and x - e < 40 and x + 1 not in starts
+               and x + 1 not in narr and narrator_tag(kl, x + 1, len(kl) - 1) is None
+               and (not STOP.search(kl[x].a) or (re.search(r'[?!]', kl[x].a) and kl[x + 1].t[:1].islower()))):
+            x += 1
+        tries = [x] if STOP.search(kl[x].a) else []
+        b = max((i for i in range(s, e) if ANY_PUNCT.search(kl[i].a)), default=None)
+        if b is not None and tag_clause(kl, b + 1, SAID) is not None:
+            tries.append(b)
+        for t in tries:
+            if (r['chapter'], kl[t].v) < bsb_end or any(o['_s'] <= t and o['_e'] >= s for o in same):
+                continue
+            r['_e'], r['checks'] = t, []
+            check(r, K, regions)
+            if not r['checks']:
+                break
+        else:
+            r['_e'], r['checks'] = e, []
+            check(r, K, regions)
+    return regions
+
+
+def tag_closes(kl, e, all_regions, r):
+    """The quote ends on a comma before its speaker's tag, and the tag ends the sentence or a quote
+    takes up again after it: "…unto me,” saith the Lord." / "…against them,” saith the Lord of hosts, “and cut off…"."""
+    j = tag_clause(kl, e + 1, SAITH) if ANY_PUNCT.search(kl[e].a) else None
+    return j is not None and (STOP.search(kl[j].a) or j + 1 == len(kl) or kl[j + 1].v != kl[j].v or any(
+        o is not r and o.get('_s') == j + 1 and o['chapter'] == r['chapter'] for o in all_regions))
+
+
 def check(r, K, all_regions):
     kl = K[r['chapter']]
     s, e = r['_s'], r['_e']
@@ -511,7 +583,8 @@ def check(r, K, all_regions):
         opener = any(o is not r and '_e' in o and o['chapter'] == r['chapter'] and s - 8 <= o['_e'] < s - 1
                      and any(INTRO.match(kl[i].t) for i in range(o['_e'] + 1, s)) for o in all_regions)
     closer = (bool(STOP.search(last.a)) or (verse_end and last.a.strip() in (':', ';', ','))
-              or (ANY_PUNCT.search(last.a) and e + 1 in NARRATOR[(r['book'], r['chapter'])]) or and_after(kl, e))
+              or (ANY_PUNCT.search(last.a) and e + 1 in NARRATOR[(r['book'], r['chapter'])]) or and_after(kl, e)
+              or tag_closes(kl, e, all_regions, r))
     if r.get('term'):
         opener = closer = True
     if not opener:
@@ -611,6 +684,7 @@ def main():
             else:
                 r['tier'] = 5
         regions = open_earlier(regions, K)
+        regions = close_ends(regions, K)
         for r in regions:
             if r['tier'] == 5:
                 rendered[5].append(f"- {bk} {r['bsb'][0]}–{r['bsb'][1]}: {'; '.join(r['checks'])}")

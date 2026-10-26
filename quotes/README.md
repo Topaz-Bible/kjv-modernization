@@ -23,6 +23,12 @@ their words to the same Greek and Hebrew words, so each BSB quote can be found i
 3. **Find the end** by running on to the end of the sentence or verse. The run never goes into the
    next quote or past a speech verb like "said" or "saith". It also stops at a colon or semicolon
    followed by "and": "Let there be light: and there was light".
+   Where that left a quote ending mid-sentence ("thou hast well” said."), it runs on to the full stop,
+   and on past a question that carries on in small letters ("shall we do after his saying? if not;
+   speak thou."). A quote that ran into the narrator's next tag ("till Shelah my son be grown: for he”
+   said, Lest…") ends before the tag. A quote may end on a comma before its speaker's tag ("…unto me,”
+   saith the Lord.") when the tag ends the sentence or the quote takes up again after it. None of this
+   applies where the BSB's quote runs on into a later verse: there the speech isn't over.
 4. **Rejoin split speeches.** The BSB splits some speeches with a narrator tag that the KJV doesn't
    have ("“You will not surely die,” the serpent told her. “For God knows…”"). Those pieces become one
    quote again.

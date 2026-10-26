@@ -36,7 +36,7 @@ EXO,017.002:010,017.002:016,ship,“Give us water that we may drink.”,,
 GEN,029.006:012,029.006:014,fix,"speech tag found in the KJV; “He is well: and, behold, Rachel his daughter cometh with the sheep.”",029.006:012,029.006:023
 GEN,029.006:017,029.006:023,drop,joined to the words before it,,
 2KI,005.017:004,005.017:007,fix,speech tag found in the KJV; one speech through verse 18,005.017:004,005.018:054
-2KI,005.017:008,005.018:053,drop,joined to the words before it,,
+2KI,005.017:008,005.018:054,drop,joined to the words before it,,
 JDG,012.005:043,012.006:005,drop,runs across the narrator,,
 2SA,014.032:011,014.032:022,drop,cuts a quote within a quote in half,,
 1KI,020.014:009,020.014:012,drop,"""Thus saith the Lord"" belongs with the saying after it",,
@@ -70,3 +70,9 @@ HOS,002.014:003,002.015:046,fix,"the saying opens on ""Therefore, behold,""",002
 GEN,044.016:004,044.016:046,ship,one speech: “What shall we say unto my lord? what shall we speak? …”,,
 EXO,017.002:022,017.002:032,ship,one speech: “Why chide ye with me? wherefore do ye tempt the Lord?”,,
 GEN,027.002:004,027.004:027,ship,"one speech, verses 2–4",,
+NEH,002.004:001,002.004:012,fix,"""Then the king said unto me"" is the narrator",002.004:007,002.004:012
+ECC,002.015:001,002.015:025,fix,"""Then said I in my heart"" is the tag",002.015:007,002.015:025
+ISA,038.010:001,038.010:027,fix,"""I said in the cutting off of my days"" is the tag",038.010:010,038.010:027
+AMO,007.008:001,007.008:010,fix,"""And the Lord said unto me"" is the narrator",007.008:007,007.008:010
+JHN,009.010:001,009.010:010,fix,"""Therefore said they unto him"" is the narrator",009.010:006,009.010:010
+GEN,043.027:010,043.027:020,fix,one question runs on: “…of whom ye spake? Is he yet alive?”,043.027:010,043.027:024

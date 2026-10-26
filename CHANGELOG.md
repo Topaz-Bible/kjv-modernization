@@ -2,6 +2,12 @@
 
 ## Unreleased
 
+- **Where a quote ends.** Quotes the BSB match left ending mid-sentence run on to the full stop
+  ("“Master, thou hast well said.”"), or end before the narrator's next tag ("“…till Shelah my son be
+  grown:” for he said, “Lest…”"). A quote may end on a comma before "saith the Lord" when the tag ends
+  the sentence or the quote takes up again after it. Not where the BSB's speech runs on into a later
+  verse. 40 more quotes ship, each read. Six verses where a quote opened on the narrator ("Therefore
+  said they unto him, How…") fixed by hand.
 - **Where a quote opens.** A quote taken up again after its speaker is named opens on a small letter and
   is right ("“Vanity of vanities,” saith the Preacher, “vanity of vanities;”"); so is Scripture quoted
   after "it is written," or "what saith the scripture?". A quote that opened on a tag ("lest, “said he,
