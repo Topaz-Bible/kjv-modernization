@@ -1,8 +1,8 @@
 # Every word the modernized KJV changes
 
-The Topaz Bible's “Modernize spelling” option changes **41,100** of the KJV's **931,532** words (about 4.4%). It uses 1,168 word rules and 61 single-verse exceptions. The underlying text never changes: switch the option off and every word is back to the King James text.
+The Topaz Bible's “Modernize spelling” option changes **41,146** of the KJV's **931,532** words (about 4.4%). It uses 1,168 word rules and 107 single-verse exceptions. The underlying text never changes: switch the option off and every word is back to the King James text.
 
-Counts are how many times each change happens in the KJV, Apocrypha included. Generated from KJV package 1.4-primary.20261025.139.1.
+Counts are how many times each change happens in the KJV, Apocrypha included. Generated from KJV package 1.4-primary.20261025.139.31.
 
 ## At a glance
 
@@ -15,7 +15,7 @@ Counts are how many times each change happens in the KJV, Apocrypha included. Ge
 | Old past tenses (spake → spoke, bare → bore) | 22 | 1,139 |
 | Old spellings (shew → show) | 88 | 1,036 |
 | Here, there and where (hither → here, from thence → from there) | 7 | 474 |
-| Single-verse exceptions | 61 | 47 changed, the rest kept as written |
+| Single-verse exceptions | 107 | 93 changed, the rest kept as written |
 
 ## Pronouns (thou, thee, ye, thy, thine, mine)
 
@@ -1241,14 +1241,47 @@ A few words are decided verse by verse. In the New Testament, “yea” becomes 
 | Verse | KJV | Shown as |
 |---|---|---|
 | Genesis 31:32 | thine | yours |
+| Exodus 24:12 | tables | tablets |
+| Exodus 31:18 | tables | tablets |
+| Exodus 31:18 | tables | tablets |
+| Exodus 32:15 | tables | tablets |
+| Exodus 32:15 | tables | tablets |
+| Exodus 32:16 | tables | tablets |
+| Exodus 32:16 | tables | tablets |
+| Exodus 32:19 | tables | tablets |
+| Exodus 34:1 | tables | tablets |
+| Exodus 34:1 | tables | tablets |
+| Exodus 34:1 | tables | tablets |
+| Exodus 34:4 | tables | tablets |
+| Exodus 34:4 | tables | tablets |
+| Exodus 34:28 | tables | tablets |
+| Exodus 34:29 | tables | tablets |
 | Leviticus 13:45 | bare | bare (unchanged) |
 | Leviticus 13:55 | bare | bare (unchanged) |
+| Deuteronomy 4:13 | tables | tablets |
+| Deuteronomy 5:22 | tables | tablets |
+| Deuteronomy 9:9 | tables | tablets |
+| Deuteronomy 9:9 | tables | tablets |
+| Deuteronomy 9:10 | tables | tablets |
+| Deuteronomy 9:11 | tables | tablets |
+| Deuteronomy 9:11 | tables | tablets |
+| Deuteronomy 9:15 | tables | tablets |
+| Deuteronomy 9:17 | tables | tablets |
+| Deuteronomy 10:1 | tables | tablets |
+| Deuteronomy 10:2 | tables | tablets |
+| Deuteronomy 10:2 | tables | tablets |
+| Deuteronomy 10:3 | tables | tablets |
+| Deuteronomy 10:3 | tables | tablets |
+| Deuteronomy 10:4 | tables | tablets |
+| Deuteronomy 10:5 | tables | tablets |
 | Deuteronomy 15:3 | thine | yours |
 | Deuteronomy 30:4 | thine | yours |
+| Isaiah 30:8 | table | tablet |
 | Isaiah 32:11 | bare | bare (unchanged) |
 | Isaiah 47:2 | bare | bare (unchanged) |
 | Isaiah 52:10 | bare | bare (unchanged) |
 | Jeremiah 13:22 | bare | bare (unchanged) |
+| Jeremiah 17:1 | table | tablet |
 | Jeremiah 32:7 | thine | yours |
 | Jeremiah 49:10 | bare | bare (unchanged) |
 | Ezekiel 16:7 | bare | bare (unchanged) |
@@ -1266,6 +1299,7 @@ A few words are decided verse by verse. In the New Testament, “yea” becomes 
 | Matthew 13:29 | nay | no |
 | Matthew 13:51 | yea | yes |
 | Matthew 21:16 | yea | yes |
+| Luke 1:63 | table | tablet |
 | Luke 7:26 | yea | yes |
 | Luke 12:5 | yea | yes |
 | Luke 12:51 | nay | no |
@@ -1293,6 +1327,8 @@ A few words are decided verse by verse. In the New Testament, “yea” becomes 
 | 2 Corinthians 1:19 | nay | no |
 | 2 Corinthians 1:19 | yea | yes |
 | 2 Corinthians 1:20 | yea | yes |
+| 2 Corinthians 3:3 | tables | tablets |
+| 2 Corinthians 3:3 | tables | tablets |
 | Philemon 1:20 | yea | yes |
 | James 5:12 | yea | yes |
 | James 5:12 | yea | yes |
@@ -1300,6 +1336,16 @@ A few words are decided verse by verse. In the New Testament, “yea” becomes 
 | James 5:12 | nay | no |
 | Revelation 14:13 | yea | yes |
 | Sirach 13:5 | bare | bare (unchanged) |
+| HAB 2:2 | tables | tablets |
+| PRO 3:3 | table | tablet |
+| 2CH 5:10 | tables | tablets |
+| PRO 7:3 | table | tablet |
+| 1KI 8:9 | tables | tablets |
+| 1MA 8:22 | tables | tablets |
+| HEB 9:4 | tables | tablets |
+| 1MA 14:18 | tables | tablets |
+| 1MA 14:27 | tables | tablets |
+| 1MA 14:48 | tables | tablets |
 | 1CH 21:24 | thine | yours |
 
 ## What is not changed

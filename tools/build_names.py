@@ -107,6 +107,7 @@ RENAMES = {  # the BSB's other name for the place or person; similar enough to s
     ('Babel', 'Babylon'), ('Assyria', 'Asshur'), ('Olivet', 'Olives'), ('Appii', 'Appius'),
     ('Hoshea', 'Joshua'), ('Jeshua', 'Joshua'), ('Saul', 'Shaul'), ('Judah', 'Yehudah'), ('Judea', 'Judah'),
     ('Rebekah', 'Rebecca'),  # EJ: Rebekah stays
+    ('Beelzebub', 'Beelzebul'),  # EJ: kept for familiarity, like "begat"
 }
 FORMS = {  # the same name as another kind of word: people for land, a plural for one
     ('Philistines', 'Philistia'), ('Benjamin', 'Benjamites'), ('Benjamin', 'Benjamite'), ('Jews', 'Jewish'),

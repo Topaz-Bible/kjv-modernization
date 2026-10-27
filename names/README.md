@@ -10,7 +10,7 @@ Phebe → Phoebe, Cesar → Caesar, Tyrus → Tyre, Zidon → Sidon, Timotheus �
 Maachah → Maacah. The BSB stands in for what modern translations do on the whole. Where the KJV spells
 one person or place two ways and the BSB evens them out, the KJVm follows (Nebuchadrezzar →
 Nebuchadnezzar, Urijah → Uriah, Azzah → Gaza). Rebekah stays: the BSB's Rebecca in Romans 9:10 is the
-Greek spelling.
+Greek spelling. Beelzebub stays too (the BSB's Beelzebul): like "begat", it is too familiar to change.
 
 It's the same name in another form, not a different word, so it stays within "form, not translation".
 Where the BSB uses another name (Syria → Aram, Ahasuerus → Xerxes, Diana → Artemis), the KJV's stays;

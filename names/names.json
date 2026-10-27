@@ -1,5 +1,5 @@
 {
- "kjv_package": "1.4-primary.20261025.139.29",
+ "kjv_package": "1.4-primary.20261025.139.30",
  "names": [
   {
    "kjv_nt": "Elias",
@@ -671,11 +671,6 @@
    "kjv": "Bechorath",
    "modernized": "Becorath",
    "changed": 1
-  },
-  {
-   "kjv": "Beelzebub",
-   "modernized": "Beelzebul",
-   "changed": 7
   },
   {
    "kjv": "Belah",
@@ -8588,14 +8583,6 @@
   },
   {
    "book": "MAT",
-   "chapter": 10,
-   "verse": 25,
-   "word": 28,
-   "kjv": "Beelzebub",
-   "modernized": "Beelzebul"
-  },
-  {
-   "book": "MAT",
    "chapter": 11,
    "verse": 14,
    "word": 9,
@@ -8609,22 +8596,6 @@
    "word": 10,
    "kjv": "Esaias",
    "modernized": "Isaiah"
-  },
-  {
-   "book": "MAT",
-   "chapter": 12,
-   "verse": 24,
-   "word": 18,
-   "kjv": "Beelzebub",
-   "modernized": "Beelzebul"
-  },
-  {
-   "book": "MAT",
-   "chapter": 12,
-   "verse": 27,
-   "word": 5,
-   "kjv": "Beelzebub",
-   "modernized": "Beelzebul"
   },
   {
    "book": "MAT",
@@ -8865,14 +8836,6 @@
    "word": 18,
    "kjv": "Thaddeus",
    "modernized": "Thaddaeus"
-  },
-  {
-   "book": "MRK",
-   "chapter": 3,
-   "verse": 22,
-   "word": 12,
-   "kjv": "Beelzebub",
-   "modernized": "Beelzebul"
   },
   {
    "book": "MRK",
@@ -9521,30 +9484,6 @@
    "word": 29,
    "kjv": "Elias",
    "modernized": "Elijah"
-  },
-  {
-   "book": "LUK",
-   "chapter": 11,
-   "verse": 15,
-   "word": 11,
-   "kjv": "Beelzebub",
-   "modernized": "Beelzebul"
-  },
-  {
-   "book": "LUK",
-   "chapter": 11,
-   "verse": 18,
-   "word": 22,
-   "kjv": "Beelzebub",
-   "modernized": "Beelzebul"
-  },
-  {
-   "book": "LUK",
-   "chapter": 11,
-   "verse": 19,
-   "word": 5,
-   "kjv": "Beelzebub",
-   "modernized": "Beelzebul"
   },
   {
    "book": "LUK",

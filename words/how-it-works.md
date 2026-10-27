@@ -83,9 +83,10 @@ function modernize(tokens, place, profile) {
 
 ## Do you need Greek or Hebrew to use this?
 
-**No.** Every rule matches English text alone. Two sets of changes were *decided* by looking at the Greek and Hebrew, but both ship as plain English instructions:
+**No.** Every rule matches English text alone. Three sets of changes were *decided* by looking at the Greek and Hebrew, but both ship as plain English instructions:
 
 - **Yea/nay.** "Yea" becomes "yes" in 23 places and "nay" becomes "no" in 16, all in the New Testament. Each is a location override: "in Matthew 5:37, word 6, change *yea* to *yes*." The Greek was used to *choose* those places. An English-only reader just applies the list.
+- **Table/tablet.** "Table(s)" becomes "tablet(s)" in 46 places, each a location override: where the Hebrew is לוּחַ (H3871) or the Greek πλάξ (G4109) or πινακίδιον (G4093), and the "tables of brass" in 1 Maccabees.
 - **Bare/bore.** "Bare" becomes "bore" everywhere except 14 listed verses where it means "naked" ("made bare his holy arm").
 
 For the simplest possible integration, skip the rule engine and use `every-change.csv`. For each row, find the verse, find the word by its position, check that it is the `kjv` word, and show `modernized` instead.

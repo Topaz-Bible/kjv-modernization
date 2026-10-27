@@ -2,7 +2,7 @@
  "name": "Topaz Bible — KJV Modernized Word Forms",
  "licence": "CC0-1.0",
  "source_profile": "eng.bible.kjv.modernized",
- "package_version": "1.4-primary.20261025.139.1",
+ "package_version": "1.4-primary.20261025.139.31",
  "mode": "display_only",
  "matching": {
   "token_field": "t",
@@ -34,9 +34,9 @@
  },
  "stats": {
   "tokens_in_kjv": 931532,
-  "tokens_changed": 41100,
+  "tokens_changed": 41146,
   "rules": 1168,
-  "location_overrides": 61
+  "location_overrides": 107
  },
  "rules": [
   {
@@ -14012,6 +14012,788 @@
    "replace": {
     "text": "bare"
    }
+  },
+  {
+   "id": "tablet-h3871-exo-24-12-22",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "EXO",
+    "chapter": 24,
+    "verse": 12,
+    "token": 22
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-h3871-exo-31-18-20",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "EXO",
+    "chapter": 31,
+    "verse": 18,
+    "token": 20
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-h3871-exo-31-18-23",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "EXO",
+    "chapter": 31,
+    "verse": 18,
+    "token": 23
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-h3871-exo-32-15-13",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "EXO",
+    "chapter": 32,
+    "verse": 15,
+    "token": 13
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-h3871-exo-32-15-22",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "EXO",
+    "chapter": 32,
+    "verse": 15,
+    "token": 22
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-h3871-exo-32-16-3",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "EXO",
+    "chapter": 32,
+    "verse": 16,
+    "token": 3
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-h3871-exo-32-16-20",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "EXO",
+    "chapter": 32,
+    "verse": 16,
+    "token": 20
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-h3871-exo-32-19-32",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "EXO",
+    "chapter": 32,
+    "verse": 19,
+    "token": 32
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-h3871-exo-34-1-10",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "EXO",
+    "chapter": 34,
+    "verse": 1,
+    "token": 10
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-h3871-exo-34-1-23",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "EXO",
+    "chapter": 34,
+    "verse": 1,
+    "token": 23
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-h3871-exo-34-1-31",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "EXO",
+    "chapter": 34,
+    "verse": 1,
+    "token": 31
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-h3871-exo-34-4-5",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "EXO",
+    "chapter": 34,
+    "verse": 4,
+    "token": 5
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-h3871-exo-34-4-39",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "EXO",
+    "chapter": 34,
+    "verse": 4,
+    "token": 39
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-h3871-exo-34-28-26",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "EXO",
+    "chapter": 34,
+    "verse": 28,
+    "token": 26
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-h3871-exo-34-29-16",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "EXO",
+    "chapter": 34,
+    "verse": 29,
+    "token": 16
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-h3871-deu-4-13-23",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "DEU",
+    "chapter": 4,
+    "verse": 13,
+    "token": 23
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-h3871-deu-5-22-43",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "DEU",
+    "chapter": 5,
+    "verse": 22,
+    "token": 43
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-h3871-deu-9-9-12",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "DEU",
+    "chapter": 9,
+    "verse": 9,
+    "token": 12
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-h3871-deu-9-9-17",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "DEU",
+    "chapter": 9,
+    "verse": 9,
+    "token": 17
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-h3871-deu-9-10-8",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "DEU",
+    "chapter": 9,
+    "verse": 10,
+    "token": 8
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-h3871-deu-9-11-22",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "DEU",
+    "chapter": 9,
+    "verse": 11,
+    "token": 22
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-h3871-deu-9-11-27",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "DEU",
+    "chapter": 9,
+    "verse": 11,
+    "token": 27
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-h3871-deu-9-15-19",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "DEU",
+    "chapter": 9,
+    "verse": 15,
+    "token": 19
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-h3871-deu-9-17-6",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "DEU",
+    "chapter": 9,
+    "verse": 17,
+    "token": 6
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-h3871-deu-10-1-12",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "DEU",
+    "chapter": 10,
+    "verse": 1,
+    "token": 12
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-h3871-deu-10-2-7",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "DEU",
+    "chapter": 10,
+    "verse": 2,
+    "token": 7
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-h3871-deu-10-2-15",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "DEU",
+    "chapter": 10,
+    "verse": 2,
+    "token": 15
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-h3871-deu-10-3-12",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "DEU",
+    "chapter": 10,
+    "verse": 3,
+    "token": 12
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-h3871-deu-10-3-28",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "DEU",
+    "chapter": 10,
+    "verse": 3,
+    "token": 28
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-h3871-deu-10-4-6",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "DEU",
+    "chapter": 10,
+    "verse": 4,
+    "token": 6
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-h3871-deu-10-5-14",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "DEU",
+    "chapter": 10,
+    "verse": 5,
+    "token": 14
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-h3871-1ki-8-9-10",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "1KI",
+    "chapter": 8,
+    "verse": 9,
+    "token": 10
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-h3871-2ch-5-10-10",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "2CH",
+    "chapter": 5,
+    "verse": 10,
+    "token": 10
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-h3871-pro-3-3-17",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "table"
+   },
+   "location": {
+    "book_id": "PRO",
+    "chapter": 3,
+    "verse": 3,
+    "token": 17
+   },
+   "replace": {
+    "text": "tablet"
+   }
+  },
+  {
+   "id": "tablet-h3871-pro-7-3-10",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "table"
+   },
+   "location": {
+    "book_id": "PRO",
+    "chapter": 7,
+    "verse": 3,
+    "token": 10
+   },
+   "replace": {
+    "text": "tablet"
+   }
+  },
+  {
+   "id": "tablet-h3871-isa-30-8-9",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "table"
+   },
+   "location": {
+    "book_id": "ISA",
+    "chapter": 30,
+    "verse": 8,
+    "token": 9
+   },
+   "replace": {
+    "text": "tablet"
+   }
+  },
+  {
+   "id": "tablet-h3871-jer-17-1-24",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "table"
+   },
+   "location": {
+    "book_id": "JER",
+    "chapter": 17,
+    "verse": 1,
+    "token": 24
+   },
+   "replace": {
+    "text": "tablet"
+   }
+  },
+  {
+   "id": "tablet-h3871-hab-2-2-16",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "HAB",
+    "chapter": 2,
+    "verse": 2,
+    "token": 16
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-apoc-1ma-8-22-16",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "1MA",
+    "chapter": 8,
+    "verse": 22,
+    "token": 16
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-apoc-1ma-14-18-6",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "1MA",
+    "chapter": 14,
+    "verse": 18,
+    "token": 6
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-apoc-1ma-14-27-7",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "1MA",
+    "chapter": 14,
+    "verse": 27,
+    "token": 7
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-apoc-1ma-14-48-11",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "1MA",
+    "chapter": 14,
+    "verse": 48,
+    "token": 11
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-g4093-luk-1-63-7",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "table"
+   },
+   "location": {
+    "book_id": "LUK",
+    "chapter": 1,
+    "verse": 63,
+    "token": 7
+   },
+   "replace": {
+    "text": "tablet"
+   }
+  },
+  {
+   "id": "tablet-g4109-2co-3-3-30",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "2CO",
+    "chapter": 3,
+    "verse": 3,
+    "token": 30
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-g4109-2co-3-3-36",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "2CO",
+    "chapter": 3,
+    "verse": 3,
+    "token": 36
+   },
+   "replace": {
+    "text": "tablets"
+   }
+  },
+  {
+   "id": "tablet-g4109-heb-9-4-32",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "tables"
+   },
+   "location": {
+    "book_id": "HEB",
+    "chapter": 9,
+    "verse": 4,
+    "token": 32
+   },
+   "replace": {
+    "text": "tablets"
+   }
   }
  ],
  "occurrences": {
@@ -14174,6 +14956,7 @@
   "verb-blindeth-to-blinds": 1,
   "verb-perverteth-to-perverts": 5,
   "spelling-basons-to-basins": 18,
+  "tablet-h3871-exo-24-12-22": 1,
   "spelling-shewbread-to-showbread": 20,
   "spelling-alway-to-always": 27,
   "verb-coupleth-to-couples": 2,
@@ -14186,12 +14969,26 @@
   "verb-compoundeth-to-compounds": 1,
   "verb-putteth-to-puts": 30,
   "verb-defileth-to-defiles": 10,
+  "tablet-h3871-exo-31-18-20": 1,
+  "tablet-h3871-exo-31-18-23": 1,
   "verb-broughtest-to-brought": 18,
   "verb-swarest-to-swore": 5,
+  "tablet-h3871-exo-32-15-13": 1,
+  "tablet-h3871-exo-32-15-22": 1,
+  "tablet-h3871-exo-32-16-3": 1,
+  "tablet-h3871-exo-32-16-20": 1,
+  "tablet-h3871-exo-32-19-32": 1,
   "verb-strawed-to-strewed": 5,
   "verb-sayest-to-say": 41,
   "spelling-clift-to-cleft": 1,
+  "tablet-h3871-exo-34-1-10": 1,
+  "tablet-h3871-exo-34-1-23": 1,
+  "tablet-h3871-exo-34-1-31": 1,
   "verb-brakest-to-broke": 5,
+  "tablet-h3871-exo-34-4-5": 1,
+  "tablet-h3871-exo-34-4-39": 1,
+  "tablet-h3871-exo-34-28-26": 1,
+  "tablet-h3871-exo-34-29-16": 1,
   "spelling-inclosed-to-enclosed": 8,
   "spelling-carcase-to-carcass": 35,
   "verb-sweareth-to-swears": 13,
@@ -14269,9 +15066,11 @@
   "verb-possesseth-to-possesses": 2,
   "verb-forbad-to-forbade": 5,
   "verb-passest-to-pass": 5,
+  "tablet-h3871-deu-4-13-23": 1,
   "verb-flieth-to-flies": 5,
   "verb-mightest-to-might": 23,
   "verb-heardest-to-heard": 14,
+  "tablet-h3871-deu-5-22-43": 1,
   "verb-walkest-to-walk": 9,
   "verb-risest-to-rise": 2,
   "verb-buildedst-to-built": 1,
@@ -14282,6 +15081,20 @@
   "verb-knewest-to-knew": 10,
   "verb-chasteneth-to-chastens": 5,
   "verb-destroyeth-to-destroys": 12,
+  "tablet-h3871-deu-9-9-12": 1,
+  "tablet-h3871-deu-9-9-17": 1,
+  "tablet-h3871-deu-9-10-8": 1,
+  "tablet-h3871-deu-9-11-22": 1,
+  "tablet-h3871-deu-9-11-27": 1,
+  "tablet-h3871-deu-9-15-19": 1,
+  "tablet-h3871-deu-9-17-6": 1,
+  "tablet-h3871-deu-10-1-12": 1,
+  "tablet-h3871-deu-10-2-7": 1,
+  "tablet-h3871-deu-10-2-15": 1,
+  "tablet-h3871-deu-10-3-12": 1,
+  "tablet-h3871-deu-10-3-28": 1,
+  "tablet-h3871-deu-10-4-6": 1,
+  "tablet-h3871-deu-10-5-14": 1,
   "verb-regardeth-to-regards": 16,
   "verb-sowedst-to-sowed": 1,
   "verb-wateredst-to-watered": 1,
@@ -14414,6 +15227,7 @@
   "verb-barest-to-bore": 3,
   "verb-springeth-to-springs": 4,
   "spelling-cieling-to-ceiling": 1,
+  "tablet-h3871-1ki-8-9-10": 1,
   "verb-keepest-to-keep": 5,
   "verb-promisedst-to-promised": 3,
   "verb-prayeth-to-prays": 10,
@@ -14444,6 +15258,7 @@
   "verb-reignest-to-reign": 1,
   "verb-triest-to-try": 3,
   "spelling-cieled-to-ceiled": 4,
+  "tablet-h3871-2ch-5-10-10": 1,
   "verb-shewest-to-show": 8,
   "verb-exceedest-to-exceed": 1,
   "spelling-stablished-to-established": 5,
@@ -14742,12 +15557,14 @@
   "verb-relieveth-to-relieves": 1,
   "verb-hearkeneth-to-hearkens": 3,
   "verb-inclineth-to-inclines": 1,
+  "tablet-h3871-pro-3-3-17": 1,
   "verb-retaineth-to-retains": 3,
   "verb-runnest-to-run": 1,
   "verb-pondereth-to-ponders": 3,
   "verb-travelleth-to-travells": 2,
   "verb-winketh-to-winks": 3,
   "verb-soweth-to-sows": 18,
+  "tablet-h3871-pro-7-3-10": 1,
   "spelling-payed-to-paid": 3,
   "verb-wrongeth-to-wrongs": 1,
   "verb-rebuketh-to-rebukes": 4,
@@ -14842,6 +15659,7 @@
   "verb-stayeth-to-stays": 2,
   "spelling-cummin-to-cumin": 4,
   "verb-dreameth-to-dreams": 2,
+  "tablet-h3871-isa-30-8-9": 1,
   "spelling-villany-to-villainy": 2,
   "override-bare-adjective-isa-32-11-18": 1,
   "verb-spoilest-to-spoil": 1,
@@ -14887,6 +15705,7 @@
   "override-bare-adjective-jer-13-22-28": 1,
   "spelling-chapt-to-chapped": 1,
   "spelling-lothed-to-loathed": 3,
+  "tablet-h3871-jer-17-1-24": 1,
   "verb-hatcheth-to-hatches": 1,
   "verb-closest-to-close": 1,
   "verb-prophesieth-to-prophesies": 7,
@@ -14948,6 +15767,7 @@
   "verb-revengeth-to-revenges": 3,
   "verb-imagineth-to-imagines": 3,
   "spelling-pransing-to-prancing": 1,
+  "tablet-h3871-hab-2-2-16": 1,
   "verb-readeth-to-reads": 4,
   "verb-ladeth-to-lades": 1,
   "spelling-stablisheth-to-establishes": 2,
@@ -15080,9 +15900,13 @@
   "spelling-mastick-to-mastic": 1,
   "verb-maintaineth-to-maintains": 1,
   "spelling-havock-to-havoc": 2,
+  "tablet-apoc-1ma-8-22-16": 1,
   "spelling-slipt-to-slipped": 1,
   "verb-succoureth-to-succours": 1,
+  "tablet-apoc-1ma-14-18-6": 1,
+  "tablet-apoc-1ma-14-27-7": 1,
   "verb-bordereth-to-borders": 1,
+  "tablet-apoc-1ma-14-48-11": 1,
   "verb-demandest-to-demand": 1,
   "spelling-inclosing-to-enclosing": 1,
   "verb-defendeth-to-defends": 1,
@@ -15120,6 +15944,7 @@
   "verb-lackest-to-lack": 2,
   "verb-agreeth-to-agrees": 2,
   "verb-believest-to-believe": 8,
+  "tablet-g4093-luk-1-63-7": 1,
   "yea-g3483-luk-7-26-11": 1,
   "verb-readest-to-read": 2,
   "verb-spendest-to-spend": 1,
@@ -15209,6 +16034,8 @@
   "nay-g3756-2co-1-19-26": 1,
   "yea-g3483-2co-1-19-31": 1,
   "yea-g3483-2co-1-20-10": 1,
+  "tablet-g4109-2co-3-3-30": 1,
+  "tablet-g4109-2co-3-3-36": 1,
   "spelling-intreaty-to-entreaty": 1,
   "verb-purposeth-to-purposes": 1,
   "verb-ministereth-to-ministers": 2,
@@ -15227,6 +16054,7 @@
   "yea-g3483-phm-1-20-1": 1,
   "verb-crownedst-to-crowned": 1,
   "verb-limiteth-to-limits": 1,
+  "tablet-g4109-heb-9-4-32": 1,
   "verb-scourgeth-to-scourges": 1,
   "verb-wavereth-to-wavers": 1,
   "verb-bridleth-to-bridles": 1,

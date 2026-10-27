@@ -55,6 +55,10 @@ where punctuation, a line break or a quotation mark falls between the two.
   - "Nay" becomes "no" only where the Greek is οὐ or οὐχί (*no*).
   - Everywhere else they mean "indeed", "even" or "rather", and they stay. 1 Corinthians 2:10 keeps "yea, the deep things of God".
   - The Old Testament keeps both throughout, because Hebrew has no word for *yes*.
+- **Tables.** "Tables" becomes "tablets" where they are written on: the tables of stone, "the table of
+  thine heart" (Proverbs 3:3), Zacharias's "writing table" (Luke 1:63), "tables of brass" (1 Maccabees).
+  The Hebrew לוּחַ and the Greek πλάξ and πινακίδιον mark the 46 places. A table to eat at or set
+  bread on (שֻׁלְחָן, τράπεζα) stays a table.
 - **Bare.** "Bare" becomes "bore", except in the 14 verses where it means *naked* ("made bare his holy arm").
 - **Lookalikes.** Some words end like old verb forms but aren't, and stay as written:
   - nouns: priest, harvest

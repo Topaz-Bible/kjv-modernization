@@ -14,10 +14,13 @@
   1,823 remain, most of them *he*.
 - **Capitals for God by hand.** [`capitals/by-hand.csv`](capitals/by-hand.csv) settles verses the
   pairing leaves for review: "Rejoice, ye Gentiles, with His people" (Romans 15:10).
+- **Tablets, not tables.** The tables of stone become tablets, as do the other tables written on: "the
+  tablet of your heart" (Proverbs 3:3), "a writing tablet" (Luke 1:63), "tablets of brass" (1 Maccabees).
+  46 places, chosen by the Hebrew and Greek word (לוּחַ, πλάξ, πινακίδιον); every table to eat at stays.
 - **Names in their modern spelling.** Every name, in both Testaments, takes the BSB's spelling where it
-  is only a spelling: 871 words, 381 names. Phebe → Phoebe, Cesar → Caesar, Tyrus → Tyre, Zidon → Sidon,
+  is only a spelling: 864 words, 380 names. Phebe → Phoebe, Cesar → Caesar, Tyrus → Tyre, Zidon → Sidon,
   Timotheus → Timothy, Pharez → Perez, Maachah → Maacah. Where the KJV spells one name two ways and the
-  BSB evens them out, so does the KJVm (Nebuchadrezzar → Nebuchadnezzar). Rebekah stays. The BSB's other
+  BSB evens them out, so does the KJVm (Nebuchadrezzar → Nebuchadnezzar). Rebekah stays, and Beelzebub, for familiarity. The BSB's other
   names for the same place or person (Syria → Aram, Ahasuerus → Xerxes, Diana → Artemis) are
   translating, and stay out: see [LEFT-ALONE.md](LEFT-ALONE.md). The survey that found them is
   [`names/spelling-survey.md`](names/spelling-survey.md).

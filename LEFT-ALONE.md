@@ -91,6 +91,7 @@ spell it.
 | Hiddekel | Tigris | the Hebrew name against the Greek |
 | Jewry | Judea | an old English name for the land |
 | Babel, Olivet | Babylon, Mount of Olives | the KJV's own name for the place |
+| Beelzebub | Beelzebul | a spelling, but kept for familiarity, like *begat* |
 
 Also left alone: where the BSB writes the people for the land or the reverse (*Philistines* →
 *Philistia*), a plural for one (*Assyrian* → *Assyrians*), and where it reads another word in the

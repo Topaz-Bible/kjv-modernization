@@ -2456,6 +2456,7 @@ EXO,24,6,12,basons,basins,spelling-basons-to-basins
 EXO,24,7,24,hath,has,verb-hath-to-has
 EXO,24,8,23,hath,has,verb-hath-to-has
 EXO,24,12,21,thee,you,pronoun-thee-to-you
+EXO,24,12,22,tables,tablets,tablet-h3871-exo-24-12-22
 EXO,24,12,35,thou,you,pronoun-thou-to-you
 EXO,24,12,36,mayest,may,verb-mayest-to-may
 EXO,24,14,8,ye,you,pronoun-ye-to-you
@@ -2877,6 +2878,8 @@ EXO,31,14,1,Ye,You,pronoun-ye-to-you
 EXO,31,14,16,defileth,defiles,verb-defileth-to-defiles
 EXO,31,14,26,doeth,does,verb-doeth-to-does
 EXO,31,15,21,doeth,does,verb-doeth-to-does
+EXO,31,18,20,tables,tablets,tablet-h3871-exo-31-18-20
+EXO,31,18,23,tables,tablets,tablet-h3871-exo-31-18-23
 EXO,32,3,5,brake,broke,verb-brake-to-broke
 EXO,32,4,28,thy,your,possessive-thy-to-your
 EXO,32,4,34,thee,you,pronoun-thee-to-you
@@ -2899,6 +2902,11 @@ EXO,32,13,10,thou,you,pronoun-thou-to-you
 EXO,32,13,11,swarest,swore,verb-swarest-to-swore
 EXO,32,13,13,thine,your,possessive-thine-default-to-your
 EXO,32,13,17,saidst,said,verb-saidst-to-said
+EXO,32,15,13,tables,tablets,tablet-h3871-exo-32-15-13
+EXO,32,15,22,tables,tablets,tablet-h3871-exo-32-15-22
+EXO,32,16,3,tables,tablets,tablet-h3871-exo-32-16-3
+EXO,32,16,20,tables,tablets,tablet-h3871-exo-32-16-20
+EXO,32,19,32,tables,tablets,tablet-h3871-exo-32-19-32
 EXO,32,19,38,brake,broke,verb-brake-to-broke
 EXO,32,20,22,strawed,strewed,verb-strawed-to-strewed
 EXO,32,21,11,thee,you,pronoun-thee-to-you
@@ -2987,10 +2995,15 @@ EXO,33,23,6,mine,my,possessive-mine-before-listed-word-to-my
 EXO,33,23,9,thou,you,pronoun-thou-to-you
 EXO,33,23,10,shalt,shall,verb-shalt-to-shall
 EXO,34,1,8,thee,you,pronoun-thee-to-you
+EXO,34,1,10,tables,tablets,tablet-h3871-exo-34-1-10
+EXO,34,1,23,tables,tablets,tablet-h3871-exo-34-1-23
+EXO,34,1,31,tables,tablets,tablet-h3871-exo-34-1-31
 EXO,34,1,33,thou,you,pronoun-thou-to-you
 EXO,34,1,34,brakest,broke,verb-brakest-to-broke
 EXO,34,2,18,thyself,yourself,pronoun-thyself-to-yourself
 EXO,34,3,8,thee,you,pronoun-thee-to-you
+EXO,34,4,5,tables,tablets,tablet-h3871-exo-34-4-5
+EXO,34,4,39,tables,tablets,tablet-h3871-exo-34-4-39
 EXO,34,9,11,thy,your,possessive-thy-to-your
 EXO,34,9,20,thee,you,pronoun-thee-to-you
 EXO,34,9,41,thine,your,possessive-thine-default-to-your
@@ -3060,6 +3073,8 @@ EXO,34,26,20,Thou,You,pronoun-thou-to-you
 EXO,34,26,21,shalt,shall,verb-shalt-to-shall
 EXO,34,27,8,thou,you,pronoun-thou-to-you
 EXO,34,27,24,thee,you,pronoun-thee-to-you
+EXO,34,28,26,tables,tablets,tablet-h3871-exo-34-28-26
+EXO,34,29,16,tables,tablets,tablet-h3871-exo-34-29-16
 EXO,34,34,27,spake,spoke,verb-spake-to-spoke
 EXO,35,1,24,hath,has,verb-hath-to-has
 EXO,35,1,27,ye,you,pronoun-ye-to-you
@@ -5128,6 +5143,7 @@ DEU,4,11,2,ye,you,pronoun-ye-to-you
 DEU,4,12,4,spake,spoke,verb-spake-to-spoke
 DEU,4,12,14,ye,you,pronoun-ye-to-you
 DEU,4,12,26,ye,you,pronoun-ye-to-you
+DEU,4,13,23,tables,tablets,tablet-h3871-deu-4-13-23
 DEU,4,14,16,ye,you,pronoun-ye-to-you
 DEU,4,14,23,whither,where,direction-whither-to-where
 DEU,4,14,24,ye,you,pronoun-ye-to-you
@@ -5298,6 +5314,7 @@ DEU,5,21,10,thou,you,pronoun-thou-to-you
 DEU,5,21,12,thy,your,possessive-thy-to-your
 DEU,5,21,33,thy,your,possessive-thy-to-your
 DEU,5,22,5,spake,spoke,verb-spake-to-spoke
+DEU,5,22,43,tables,tablets,tablet-h3871-deu-5-22-43
 DEU,5,23,7,ye,you,pronoun-ye-to-you
 DEU,5,23,26,ye,you,pronoun-ye-to-you
 DEU,5,24,2,ye,you,pronoun-ye-to-you
@@ -5685,7 +5702,12 @@ DEU,9,7,22,didst,did,verb-didst-to-did
 DEU,9,7,31,ye,you,pronoun-ye-to-you
 DEU,9,7,36,ye,you,pronoun-ye-to-you
 DEU,9,8,4,ye,you,pronoun-ye-to-you
+DEU,9,9,12,tables,tablets,tablet-h3871-deu-9-9-12
+DEU,9,9,17,tables,tablets,tablet-h3871-deu-9-9-17
+DEU,9,10,8,tables,tablets,tablet-h3871-deu-9-10-8
 DEU,9,10,30,spake,spoke,verb-spake-to-spoke
+DEU,9,11,22,tables,tablets,tablet-h3871-deu-9-11-22
+DEU,9,11,27,tables,tablets,tablet-h3871-deu-9-11-27
 DEU,9,12,9,thee,you,pronoun-thee-to-you
 DEU,9,12,13,hence,here,direction-hence-after-from-to-here
 DEU,9,12,15,thy,your,possessive-thy-to-your
@@ -5693,8 +5715,10 @@ DEU,9,12,18,thou,you,pronoun-thou-to-you
 DEU,9,12,19,hast,have,verb-hast-to-have
 DEU,9,13,4,spake,spoke,verb-spake-to-spoke
 DEU,9,14,22,thee,you,pronoun-thee-to-you
+DEU,9,15,19,tables,tablets,tablet-h3871-deu-9-15-19
 DEU,9,16,6,ye,you,pronoun-ye-to-you
 DEU,9,16,21,ye,you,pronoun-ye-to-you
+DEU,9,17,6,tables,tablets,tablet-h3871-deu-9-17-6
 DEU,9,17,16,brake,broke,verb-brake-to-broke
 DEU,9,18,31,ye,you,pronoun-ye-to-you
 DEU,9,21,9,ye,you,pronoun-ye-to-you
@@ -5720,13 +5744,20 @@ DEU,9,29,11,broughtest,brought,verb-broughtest-to-brought
 DEU,9,29,14,thy,your,possessive-thy-to-your
 DEU,9,29,19,thy,your,possessive-thy-to-your
 DEU,10,1,10,thee,you,pronoun-thee-to-you
+DEU,10,1,12,tables,tablets,tablet-h3871-deu-10-1-12
 DEU,10,1,29,thee,you,pronoun-thee-to-you
+DEU,10,2,7,tables,tablets,tablet-h3871-deu-10-2-7
+DEU,10,2,15,tables,tablets,tablet-h3871-deu-10-2-15
 DEU,10,2,17,thou,you,pronoun-thou-to-you
 DEU,10,2,18,brakest,broke,verb-brakest-to-broke
 DEU,10,2,20,thou,you,pronoun-thou-to-you
 DEU,10,2,21,shalt,shall,verb-shalt-to-shall
+DEU,10,3,12,tables,tablets,tablet-h3871-deu-10-3-12
+DEU,10,3,28,tables,tablets,tablet-h3871-deu-10-3-28
 DEU,10,3,30,mine,my,possessive-mine-before-listed-word-to-my
+DEU,10,4,6,tables,tablets,tablet-h3871-deu-10-4-6
 DEU,10,4,18,spake,spoke,verb-spake-to-spoke
+DEU,10,5,14,tables,tablets,tablet-h3871-deu-10-5-14
 DEU,10,7,2,thence,there,direction-thence-after-from-to-there
 DEU,10,9,3,hath,has,verb-hath-to-has
 DEU,10,9,20,thy,your,possessive-thy-to-your
@@ -11271,6 +11302,7 @@ RUT,4,15,35,hath,has,verb-hath-to-has
 1KI,7,45,9,basons,basins,spelling-basons-to-basins
 1KI,7,48,26,shewbread,showbread,spelling-shewbread-to-showbread
 1KI,7,50,9,basons,basins,spelling-basons-to-basins
+1KI,8,9,10,tables,tablets,tablet-h3871-1ki-8-9-10
 1KI,8,12,2,spake,spoke,verb-spake-to-spoke
 1KI,8,13,5,thee,you,pronoun-thee-to-you
 1KI,8,13,15,thee,you,pronoun-thee-to-you
@@ -12992,6 +13024,7 @@ RUT,4,15,35,hath,has,verb-hath-to-has
 2CH,4,11,11,basons,basins,spelling-basons-to-basins
 2CH,4,19,23,shewbread,showbread,spelling-shewbread-to-showbread
 2CH,4,22,6,basons,basins,spelling-basons-to-basins
+2CH,5,10,10,tables,tablets,tablet-h3871-2ch-5-10-10
 2CH,5,13,42,musick,music,spelling-musick-to-music
 2CH,5,13,55,endureth,endures,verb-endureth-to-endures
 2CH,6,1,6,hath,has,verb-hath-to-has
@@ -18685,6 +18718,7 @@ PRO,3,1,9,thine,your,possessive-thine-default-to-your
 PRO,3,2,14,thee,you,pronoun-thee-to-you
 PRO,3,3,7,thee,you,pronoun-thee-to-you
 PRO,3,3,11,thy,your,possessive-thy-to-your
+PRO,3,3,17,table,tablet,tablet-h3871-pro-3-3-17
 PRO,3,3,19,thine,your,possessive-thine-default-to-your
 PRO,3,4,2,shalt,shall,verb-shalt-to-shall
 PRO,3,4,3,thou,you,pronoun-thou-to-you
@@ -18874,6 +18908,7 @@ PRO,6,35,14,givest,give,verb-givest-to-give
 PRO,7,1,12,thee,you,pronoun-thee-to-you
 PRO,7,2,13,thine,your,possessive-thine-default-to-your
 PRO,7,3,4,thy,your,possessive-thy-to-your
+PRO,7,3,10,table,tablet,tablet-h3871-pro-7-3-10
 PRO,7,3,12,thine,your,possessive-thine-default-to-your
 PRO,7,4,4,Thou,You,pronoun-thou-to-you
 PRO,7,4,5,art,are,verb-art-to-are
@@ -20774,6 +20809,7 @@ ISA,29,23,4,seeth,sees,verb-seeth-to-sees
 ISA,29,23,10,mine,my,possessive-mine-before-listed-word-to-my
 ISA,30,1,6,saith,says,verb-saith-to-says
 ISA,30,6,17,whence,where,direction-whence-after-from-to-where
+ISA,30,8,9,table,tablet,tablet-h3871-isa-30-8-9
 ISA,30,12,3,saith,says,verb-saith-to-says
 ISA,30,12,10,ye,you,pronoun-ye-to-you
 ISA,30,13,22,cometh,comes,verb-cometh-to-comes
@@ -23076,6 +23112,7 @@ JER,16,18,21,mine,my,possessive-mine-before-listed-word-to-my
 JER,16,18,25,carcases,carcasses,spelling-carcases-to-carcasses
 JER,16,19,21,thee,you,pronoun-thee-to-you
 JER,16,21,17,mine,my,possessive-mine-before-listed-word-to-my
+JER,17,1,24,table,tablet,tablet-h3871-jer-17-1-24
 JER,17,3,10,thy,your,possessive-thy-to-your
 JER,17,3,14,thy,your,possessive-thy-to-your
 JER,17,3,20,thy,your,possessive-thy-to-your
@@ -28053,6 +28090,7 @@ HAB,1,13,25,holdest,hold,verb-holdest-to-hold
 HAB,1,13,26,thy,your,possessive-thy-to-your
 HAB,1,13,31,devoureth,devours,verb-devoureth-to-devours
 HAB,1,14,2,makest,make,verb-makest-to-make
+HAB,2,2,16,tables,tablets,tablet-h3871-hab-2-2-16
 HAB,2,2,22,readeth,reads,verb-readeth-to-reads
 HAB,2,5,5,transgresseth,transgresses,verb-transgresseth-to-transgresses
 HAB,2,5,14,keepeth,keeps,verb-keepeth-to-keeps
@@ -33602,6 +33640,7 @@ MAN,1,1,400,thine,your,possessive-thine-default-to-your
 1MA,8,15,22,alway,always,spelling-alway-to-always
 1MA,8,18,3,intreat,entreat,spelling-intreat-to-entreat
 1MA,8,19,19,spake,spoke,verb-spake-to-spoke
+1MA,8,22,16,tables,tablets,tablet-apoc-1ma-8-22-16
 1MA,8,26,25,hath,has,verb-hath-to-has
 1MA,8,28,21,hath,has,verb-hath-to-has
 1MA,8,31,8,doeth,does,verb-doeth-to-does
@@ -33731,12 +33770,15 @@ MAN,1,1,400,thine,your,possessive-thine-default-to-your
 1MA,13,39,20,ye,you,pronoun-ye-to-you
 1MA,13,46,15,thy,your,possessive-thy-to-your
 1MA,13,50,27,thence,there,direction-thence-after-from-to-there
+1MA,14,18,6,tables,tablets,tablet-apoc-1ma-14-18-6
 1MA,14,22,8,spake,spoke,verb-spake-to-spoke
 1MA,14,23,20,publick,public,spelling-publick-to-public
+1MA,14,27,7,tables,tablets,tablet-apoc-1ma-14-27-7
 1MA,14,33,11,lieth,lies,verb-lieth-to-lies
 1MA,14,34,6,lieth,lies,verb-lieth-to-lies
 1MA,14,34,13,bordereth,borders,verb-bordereth-to-borders
 1MA,14,46,15,hath,has,verb-hath-to-has
+1MA,14,48,11,tables,tablets,tablet-apoc-1ma-14-48-11
 1MA,15,5,6,thee,you,pronoun-thee-to-you
 1MA,15,5,16,thee,you,pronoun-thee-to-you
 1MA,15,6,3,thee,you,pronoun-thee-to-you
@@ -35646,6 +35688,7 @@ LUK,1,54,3,holpen,helped,verb-holpen-to-helped
 LUK,1,55,3,spake,spoke,verb-spake-to-spoke
 LUK,1,58,12,shewed,showed,spelling-shewed-to-showed
 LUK,1,61,10,thy,your,possessive-thy-to-your
+LUK,1,63,7,table,tablet,tablet-g4093-luk-1-63-7
 LUK,1,64,13,spake,spoke,verb-spake-to-spoke
 LUK,1,68,10,hath,has,verb-hath-to-has
 LUK,1,69,2,hath,has,verb-hath-to-has
@@ -39324,6 +39367,8 @@ ROM,16,25,9,stablish,establish,spelling-stablish-to-establish
 2CO,2,14,15,maketh,makes,verb-maketh-to-makes
 2CO,3,2,1,Ye,You,pronoun-ye-to-you
 2CO,3,3,3,ye,you,pronoun-ye-to-you
+2CO,3,3,30,tables,tablets,tablet-g4109-2co-3-3-30
+2CO,3,3,36,tables,tablets,tablet-g4109-2co-3-3-36
 2CO,3,6,3,hath,has,verb-hath-to-has
 2CO,3,6,23,killeth,kills,verb-killeth-to-kills
 2CO,3,6,27,giveth,gives,verb-giveth-to-gives
@@ -40175,6 +40220,7 @@ HEB,8,13,9,hath,has,verb-hath-to-has
 HEB,8,13,17,decayeth,decays,verb-decayeth-to-decays
 HEB,8,13,19,waxeth,waxes,verb-waxeth-to-waxes
 HEB,9,2,18,shewbread,showbread,spelling-shewbread-to-showbread
+HEB,9,4,32,tables,tablets,tablet-g4109-heb-9-4-32
 HEB,9,13,19,sanctifieth,sanctifies,verb-sanctifieth-to-sanctifies
 HEB,9,17,22,liveth,lives,verb-liveth-to-lives
 HEB,9,20,11,hath,has,verb-hath-to-has
