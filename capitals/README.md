@@ -22,6 +22,8 @@ Pronouns are compared in three groups (he/him/his, thou/thee/thy, me/my/mine).
   tells us nothing. It follows the rest of its group in the verse when they all refer to God.
 - **Uneven counts:** when the KJV and BSB have different numbers of a group's pronouns, the verse is
   left alone and listed in [`review.md`](review.md).
+- **By hand:** a verse from the review list can be settled in [`by-hand.csv`](by-hand.csv), one row per
+  pronoun.
 - **Plurals:** KJV ye, you and your are plural, so they are never capitalized.
 
 With word forms also on, the capital carries through: Thee → You, Thy → Your.

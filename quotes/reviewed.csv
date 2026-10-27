@@ -818,3 +818,7 @@ MAL,001.006:047,001.006:052,add,unmatched-speech review: what they say,,,2
 MAL,003.013:011,003.013:021,add,"unmatched-speech review: the Lord's words go on after ""saith the Lord""",,,1
 MAL,003.013:014,003.013:021,add,unmatched-speech review: what they say,,,2
 MAT,013.029:004,013.029:004,drop,unmatched-speech review: the householder's answer is already marked,,,2
+LUK,006.005:007,006.005:016,add,"woj review: the red letters after the lowered ""that"" (EJ 2026-10-27)",,,1
+LUK,009.055:009,009.056:016,add,woj review: the red letters; the BSB lacks these words (a textual difference),,,1
+REV,001.011:002,001.011:011,add,"woj review: the red letters before ""and,""",,,1
+ACT,001.004:024,001.004:024,add,"woj review: the Greek turns direct at ""which"" (ἣν ἠκούσατέ μου), as the NKJV marks it",,,1

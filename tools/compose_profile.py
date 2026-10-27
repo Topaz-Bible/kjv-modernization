@@ -4,7 +4,7 @@
 The word rules already live in mod.json. This adds, from this repository's layer files:
   token_edits    single-word changes made before the word rules run:
                    name     Elias → Elijah             (names/names.json)
-                   capital  thee → Thee                (capitals/capitals.json)
+                   capital  thee → Thee                (capitals/capitals.json, capitals/by-hand.csv)
                    case     "said, That …" → "that"   (worked out here; see quotes/README.md)
                             "called the light Day" → “day”: a quoted term is lowercased where the BSB has
                             it lowercase and the KJV uses the word lowercase elsewhere (quotes or a capital,
@@ -129,6 +129,9 @@ def main():
         edits.append(edit(r['book'], r['chapter'], r['verse'], r['word'], r['kjv'], r['modernized'], 'name'))
     for r in json.load(open(REPO / 'capitals' / 'capitals.json'))['changes']:
         edits.append(edit(r['book'], r['chapter'], r['verse'], r['word'], r['kjv'], r['modernized'], 'capital'))
+    # Verses the pairing left for review (capitals/review.md), settled by hand.
+    for r in csv.DictReader(open(REPO / 'capitals' / 'by-hand.csv')):
+        edits.append(edit(r['book'], int(r['chapter']), int(r['verse']), int(r['word']), r['kjv'], r['modernized'], 'capital'))
     thats = that_edits()
     edits += thats
     lowered = {(e['location']['book_id'], f"{e['location']['chapter']:03}.{e['location']['verse']:03}:{e['location']['token']:03}")

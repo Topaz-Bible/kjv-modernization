@@ -2,6 +2,17 @@
 
 ## Unreleased
 
+- **Red letters without quotes.** Where the words of Jesus stood outside any quote, the quote now
+  follows the red letters: Luke 6:5 opens after the lowered "that" ("he said unto them, that “the Son
+  of man is Lord also of the sabbath.”"), Luke 9:55–56 (words the BSB's Greek text lacks), Revelation
+  1:11 ("“I am Alpha and Omega, the first and the last:” and, “What thou seest…”"). Acts 1:4 turns
+  direct at "which", as the Greek does: "wait for the promise of the Father, “which,” saith he, “ye
+  have heard of me.”"
+- **Capitals for God by hand.** [`capitals/by-hand.csv`](capitals/by-hand.csv) settles verses the
+  pairing leaves for review: "Rejoice, ye Gentiles, with His people" (Romans 15:10).
+- **Name spellings surveyed** ([`names/spelling-survey.md`](names/spelling-survey.md)): 20 Greek and Latin
+  names the KJV spells the old English way (Phebe, Cesar, Timotheus), 356 Hebrew names the BSB
+  transliterates another way, 47 places the BSB names differently. Nothing changed yet.
 - **The last unplaced quotes read by hand.** 152 quotes that failed a check and had never shipped,
   with the quotes inside them; nothing the matching found is left unreviewed. 72 are left unmarked,
   because the KJV has no speech there: it reports what was said ("he asked him if he saw ought", "told
