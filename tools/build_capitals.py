@@ -77,8 +77,9 @@ NAME = re.compile(r'Np|^N-PRI|^N-.*-(P|L|T|LG|PG|LI)$')
 def pair_by_word(g, ks, flags, bs, tokens, kv, btokens):
     """Pair a verse's pronouns one to one through the Hebrew or Greek word each belongs to.
 
-    Returns the KJV pronouns to capitalize, or None to leave the verse for review. A word with more
-    than one pronoun of the group, in either Bible, pairs nobody. The KJV has more pronouns than the
+    Returns the KJV pronouns to capitalize, or None to leave the verse for review. Pronouns on one word
+    pair in order when both Bibles have as many there; a BSB pronoun with no KJV one on its word is the
+    BSB's own wording and pairs nobody. The KJV has more pronouns than the
     BSB in most of these verses ("he shall destroy them, and he shall bring them down" against "He will
     destroy them and subdue them"). Those left over follow what the BSB does with their word instead,
     so a verse is settled whole or not at all:
@@ -89,22 +90,28 @@ def pair_by_word(g, ks, flags, bs, tokens, kv, btokens):
     """
     index = {t['n']: i for i, t in enumerate(tokens)}
     kh = [host(index[t['n']], tokens, kv) for t in ks]
+    hosts = list(kh)
     kc, bc = collections.Counter(kh), collections.Counter(bs)
     known = [f for f in flags if f is not None]
     if not known or False in known and g != 'he':
         return None
-    mine = set()
+    mine, seen = set(), collections.Counter()
     for f, s in zip(flags, bs):
-        if not s or kc[s] != 1 or bc[s] != 1:
+        if not s or kc[s] == 0:
+            continue  # the BSB's own wording ("His covenant" for "the covenant"): no KJV pronoun to pair
+        if kc[s] != bc[s]:
             if f is False:
                 continue
             return None
+        # One pronoun each on the word, or as many in both Bibles: they pair in order.
+        i = [j for j, h in enumerate(hosts) if h == s][seen[s]]
+        seen[s] += 1
         if f is None:  # a capital that opens a sentence says nothing
             return None
         if f:
-            mine.add(kh.index(s))
+            mine.add(i)
         else:
-            kh[kh.index(s)] = 'not God'
+            kh[i] = 'not God'
     out = [ks[i] for i in mine]
     for i, (t, s) in enumerate(zip(ks, kh)):
         if i in mine or s == 'not God' or t['t'].lower() in PLURAL:
@@ -113,8 +120,8 @@ def pair_by_word(g, ks, flags, bs, tokens, kv, btokens):
             # Another speaker's pronoun on the same word ("The LORD is our God") → not His.
             on = [b for b in btokens if s and strongs(b.get('s')) == s]
             i0 = index[t['n']]
-            if any(x['t'].lower() in SPEECH for x in tokens[max(0, i0 - 2):i0]):
-                return None  # "the LORD said unto me": the narrator, not the speaker
+            if any(x['t'].lower() in SPEECH for x in tokens[max(0, i0 - 2):i0 + 3]):
+                return None  # "the LORD said unto me", "shalt thou say": the one who speaks, not the one spoken of
             if not any(b['t'].lower() in SOMEONE_ELSE[g] and b['t'][:1].islower() for b in on):
                 out.append(t)
             continue

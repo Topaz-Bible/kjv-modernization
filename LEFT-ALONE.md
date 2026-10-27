@@ -100,8 +100,8 @@ manuscripts (*Heleb* → *Heled*). Those are listed in `tools/build_names.py`.
 ## Capitals for God
 
 He, Him, Thou, Thy… are capitalized only where they can be paired one to one with the BSB's, by
-order or through the Hebrew or Greek word. **1,823 verses are left lowercase** because a guess could
-capitalize the wrong person; 1,417 of them are *he, him, his*, where a verse often has God and a person
+order or through the Hebrew or Greek word. **1,064 verses are left lowercase** because a guess could
+capitalize the wrong person; 943 of them are *he, him, his*, where a verse often has God and a person
 both as "he". See [`capitals/review.md`](capitals/review.md).
 
 ## Quotation marks

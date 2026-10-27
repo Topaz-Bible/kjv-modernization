@@ -8,10 +8,11 @@
   1:11 ("“I am Alpha and Omega, the first and the last:” and, “What thou seest…”"). Acts 1:4 turns
   direct at "which", as the Greek does: "wait for the promise of the Father, “which,” saith he, “ye
   have heard of me.”"
-- **More capitals for God.** 390 pronouns in 158 of the verses the pairing had left for review: where
+- **More capitals for God.** 1,146 pronouns in verses the pairing had left for review: where
   the KJV and BSB count their pronouns differently, they now pair through the Hebrew or Greek word
-  ("walked in My law, nor in My statutes", Jeremiah 44:10). A verse is settled whole or left whole;
-  1,823 remain, most of them *he*.
+  ("walked in My law, nor in My statutes", Jeremiah 44:10). A pronoun the BSB adds of its own ("His
+  covenant" for "the covenant") no longer holds a verse back. A verse is settled whole or left whole;
+  1,064 remain, most of them *he*.
 - **Capitals for God by hand.** [`capitals/by-hand.csv`](capitals/by-hand.csv) settles verses the
   pairing leaves for review: "Rejoice, ye Gentiles, with His people" (Romans 15:10).
 - **Tablets, not tables.** The tables of stone become tablets, as do the other tables written on: "the
