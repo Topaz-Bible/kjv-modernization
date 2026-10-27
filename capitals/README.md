@@ -20,8 +20,15 @@ Pronouns are compared in three groups (he/him/his, thou/thee/thy, me/my/mine).
 - **Pairing:** within a verse, when the KJV has as many of a group as the BSB, they pair up in order.
 - **Sentence starts:** a BSB pronoun at the start of a sentence or quote is capitalized anyway, so it
   tells us nothing. It follows the rest of its group in the verse when they all refer to God.
-- **Uneven counts:** when the KJV and BSB have different numbers of a group's pronouns, the verse is
-  left alone and listed in [`review.md`](review.md).
+- **Uneven counts:** when the KJV and BSB have different numbers of a group's pronouns, they are paired
+  through the Hebrew or Greek word each belongs to instead. Hebrew writes "his work" as one word,
+  work-his, and both Bibles link their pronoun to it, so the KJV's *his* and the BSB's *His* meet there.
+  The KJV's extra pronouns (the BSB often drops them: "He will destroy them and subdue them") are settled
+  from the same word: a BSB "God" or "the LORD" there makes it His, another name or a lowercase he
+  makes it someone else's. For I and you, one speaker in a verse is one speaker, unless the narrator
+  has the pronoun ("the LORD said unto me") or the BSB has someone else's on that word ("The LORD is
+  our God"). A verse is settled whole or not at all: anything unclear leaves it in
+  [`review.md`](review.md), lowercase.
 - **By hand:** a verse from the review list can be settled in [`by-hand.csv`](by-hand.csv), one row per
   pronoun.
 - **Plurals:** KJV ye, you and your are plural, so they are never capitalized.

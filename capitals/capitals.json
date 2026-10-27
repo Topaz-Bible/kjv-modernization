@@ -1,20 +1,20 @@
 {
- "kjv_package": "1.4-primary.20261025.139.5",
+ "kjv_package": "1.4-primary.20261025.139.29",
  "bsb_package": "1.2",
  "counts": {
-  "he": 1343,
-  "my": 1127,
-  "his": 1122,
-  "me": 905,
-  "him": 890,
-  "thy": 857,
-  "thou": 734,
-  "thee": 449,
-  "mine": 186,
-  "thine": 126,
+  "he": 1363,
+  "my": 1234,
+  "his": 1135,
+  "thy": 942,
+  "me": 933,
+  "him": 897,
+  "thou": 801,
+  "thee": 482,
+  "mine": 199,
+  "thine": 141,
   "himself": 57,
   "myself": 30,
-  "thyself": 24
+  "thyself": 26
  },
  "changes": [
   {
@@ -368,6 +368,24 @@
    "word": 9,
    "kjv": "my",
    "modernized": "My"
+  },
+  {
+   "book": "GEN",
+   "chapter": 17,
+   "verse": 10,
+   "word": 3,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "GEN",
+   "chapter": 17,
+   "verse": 10,
+   "word": 10,
+   "kjv": "me",
+   "modernized": "Me",
+   "by": "word"
   },
   {
    "book": "GEN",
@@ -771,6 +789,24 @@
   },
   {
    "book": "EXO",
+   "chapter": 3,
+   "verse": 20,
+   "word": 6,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "EXO",
+   "chapter": 3,
+   "verse": 20,
+   "word": 13,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "EXO",
    "chapter": 4,
    "verse": 10,
    "word": 18,
@@ -784,6 +820,24 @@
    "word": 22,
    "kjv": "thy",
    "modernized": "Thy"
+  },
+  {
+   "book": "EXO",
+   "chapter": 4,
+   "verse": 22,
+   "word": 16,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "EXO",
+   "chapter": 4,
+   "verse": 22,
+   "word": 13,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
   },
   {
    "book": "EXO",
@@ -904,6 +958,51 @@
    "word": 7,
    "kjv": "me",
    "modernized": "Me"
+  },
+  {
+   "book": "EXO",
+   "chapter": 7,
+   "verse": 3,
+   "word": 9,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "EXO",
+   "chapter": 7,
+   "verse": 3,
+   "word": 12,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "EXO",
+   "chapter": 7,
+   "verse": 4,
+   "word": 12,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "EXO",
+   "chapter": 7,
+   "verse": 4,
+   "word": 22,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "EXO",
+   "chapter": 7,
+   "verse": 4,
+   "word": 19,
+   "kjv": "mine",
+   "modernized": "Mine",
+   "by": "word"
   },
   {
    "book": "EXO",
@@ -1416,6 +1515,24 @@
    "word": 22,
    "kjv": "he",
    "modernized": "He"
+  },
+  {
+   "book": "EXO",
+   "chapter": 16,
+   "verse": 28,
+   "word": 13,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "EXO",
+   "chapter": 16,
+   "verse": 28,
+   "word": 16,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
   },
   {
    "book": "EXO",
@@ -1948,6 +2065,42 @@
   {
    "book": "EXO",
    "chapter": 32,
+   "verse": 32,
+   "word": 4,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "EXO",
+   "chapter": 32,
+   "verse": 32,
+   "word": 22,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "EXO",
+   "chapter": 32,
+   "verse": 32,
+   "word": 16,
+   "kjv": "thee",
+   "modernized": "Thee",
+   "by": "word"
+  },
+  {
+   "book": "EXO",
+   "chapter": 32,
+   "verse": 32,
+   "word": 19,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "EXO",
+   "chapter": 32,
    "verse": 33,
    "word": 11,
    "kjv": "me",
@@ -2028,6 +2181,24 @@
   {
    "book": "EXO",
    "chapter": 33,
+   "verse": 18,
+   "word": 9,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "EXO",
+   "chapter": 33,
+   "verse": 18,
+   "word": 6,
+   "kjv": "thee",
+   "modernized": "Thee",
+   "by": "word"
+  },
+  {
+   "book": "EXO",
+   "chapter": 33,
    "verse": 20,
    "word": 2,
    "kjv": "he",
@@ -2104,6 +2275,33 @@
    "word": 21,
    "kjv": "me",
    "modernized": "Me"
+  },
+  {
+   "book": "EXO",
+   "chapter": 34,
+   "verse": 9,
+   "word": 11,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "EXO",
+   "chapter": 34,
+   "verse": 9,
+   "word": 41,
+   "kjv": "thine",
+   "modernized": "Thine",
+   "by": "word"
+  },
+  {
+   "book": "EXO",
+   "chapter": 34,
+   "verse": 9,
+   "word": 20,
+   "kjv": "thee",
+   "modernized": "Thee",
+   "by": "word"
   },
   {
    "book": "EXO",
@@ -2228,6 +2426,24 @@
   {
    "book": "LEV",
    "chapter": 18,
+   "verse": 26,
+   "word": 5,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "LEV",
+   "chapter": 18,
+   "verse": 26,
+   "word": 8,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "LEV",
+   "chapter": 18,
    "verse": 30,
    "word": 5,
    "kjv": "mine",
@@ -2336,6 +2552,24 @@
    "word": 5,
    "kjv": "my",
    "modernized": "My"
+  },
+  {
+   "book": "LEV",
+   "chapter": 20,
+   "verse": 22,
+   "word": 6,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "LEV",
+   "chapter": 20,
+   "verse": 22,
+   "word": 10,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
   },
   {
    "book": "LEV",
@@ -3108,6 +3342,51 @@
   {
    "book": "NUM",
    "chapter": 14,
+   "verse": 17,
+   "word": 16,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "NUM",
+   "chapter": 14,
+   "verse": 17,
+   "word": 5,
+   "kjv": "thee",
+   "modernized": "Thee",
+   "by": "word"
+  },
+  {
+   "book": "NUM",
+   "chapter": 14,
+   "verse": 19,
+   "word": 15,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "NUM",
+   "chapter": 14,
+   "verse": 19,
+   "word": 19,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "NUM",
+   "chapter": 14,
+   "verse": 19,
+   "word": 4,
+   "kjv": "thee",
+   "modernized": "Thee",
+   "by": "word"
+  },
+  {
+   "book": "NUM",
+   "chapter": 14,
    "verse": 23,
    "word": 21,
    "kjv": "me",
@@ -3563,6 +3842,24 @@
   },
   {
    "book": "DEU",
+   "chapter": 4,
+   "verse": 35,
+   "word": 21,
+   "kjv": "him",
+   "modernized": "Him",
+   "by": "word"
+  },
+  {
+   "book": "DEU",
+   "chapter": 4,
+   "verse": 35,
+   "word": 13,
+   "kjv": "he",
+   "modernized": "He",
+   "by": "word"
+  },
+  {
+   "book": "DEU",
    "chapter": 5,
    "verse": 7,
    "word": 8,
@@ -3844,6 +4141,51 @@
   {
    "book": "DEU",
    "chapter": 9,
+   "verse": 26,
+   "word": 14,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "DEU",
+   "chapter": 9,
+   "verse": 26,
+   "word": 17,
+   "kjv": "thine",
+   "modernized": "Thine",
+   "by": "word"
+  },
+  {
+   "book": "DEU",
+   "chapter": 9,
+   "verse": 26,
+   "word": 20,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "DEU",
+   "chapter": 9,
+   "verse": 26,
+   "word": 24,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "DEU",
+   "chapter": 9,
+   "verse": 26,
+   "word": 27,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "DEU",
+   "chapter": 9,
    "verse": 27,
    "word": 2,
    "kjv": "thy",
@@ -3880,6 +4222,51 @@
    "word": 31,
    "kjv": "he",
    "modernized": "He"
+  },
+  {
+   "book": "DEU",
+   "chapter": 9,
+   "verse": 29,
+   "word": 4,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "DEU",
+   "chapter": 9,
+   "verse": 29,
+   "word": 7,
+   "kjv": "thine",
+   "modernized": "Thine",
+   "by": "word"
+  },
+  {
+   "book": "DEU",
+   "chapter": 9,
+   "verse": 29,
+   "word": 10,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "DEU",
+   "chapter": 9,
+   "verse": 29,
+   "word": 14,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "DEU",
+   "chapter": 9,
+   "verse": 29,
+   "word": 19,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
   },
   {
    "book": "DEU",
@@ -4612,6 +4999,24 @@
   {
    "book": "DEU",
    "chapter": 31,
+   "verse": 16,
+   "word": 43,
+   "kjv": "me",
+   "modernized": "Me",
+   "by": "word"
+  },
+  {
+   "book": "DEU",
+   "chapter": 31,
+   "verse": 16,
+   "word": 46,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "DEU",
+   "chapter": 31,
    "verse": 17,
    "word": 2,
    "kjv": "my",
@@ -4940,6 +5345,51 @@
   {
    "book": "DEU",
    "chapter": 33,
+   "verse": 8,
+   "word": 7,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "DEU",
+   "chapter": 33,
+   "verse": 8,
+   "word": 10,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "DEU",
+   "chapter": 33,
+   "verse": 8,
+   "word": 14,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "DEU",
+   "chapter": 33,
+   "verse": 8,
+   "word": 18,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "DEU",
+   "chapter": 33,
+   "verse": 8,
+   "word": 26,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "DEU",
+   "chapter": 33,
    "verse": 9,
    "word": 30,
    "kjv": "thy",
@@ -5128,6 +5578,15 @@
    "word": 21,
    "kjv": "his",
    "modernized": "His"
+  },
+  {
+   "book": "JOS",
+   "chapter": 9,
+   "verse": 27,
+   "word": 32,
+   "kjv": "he",
+   "modernized": "He",
+   "by": "word"
   },
   {
    "book": "JOS",
@@ -5339,11 +5798,38 @@
   },
   {
    "book": "JDG",
+   "chapter": 2,
+   "verse": 20,
+   "word": 32,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "JDG",
+   "chapter": 2,
+   "verse": 20,
+   "word": 20,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "JDG",
    "chapter": 3,
    "verse": 4,
    "word": 22,
    "kjv": "he",
    "modernized": "He"
+  },
+  {
+   "book": "JDG",
+   "chapter": 3,
+   "verse": 8,
+   "word": 12,
+   "kjv": "he",
+   "modernized": "He",
+   "by": "word"
   },
   {
    "book": "JDG",
@@ -5480,6 +5966,33 @@
    "word": 5,
    "kjv": "me",
    "modernized": "Me"
+  },
+  {
+   "book": "JDG",
+   "chapter": 10,
+   "verse": 15,
+   "word": 14,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "JDG",
+   "chapter": 10,
+   "verse": 15,
+   "word": 21,
+   "kjv": "thee",
+   "modernized": "Thee",
+   "by": "word"
+  },
+  {
+   "book": "JDG",
+   "chapter": 10,
+   "verse": 15,
+   "word": 27,
+   "kjv": "thee",
+   "modernized": "Thee",
+   "by": "word"
   },
   {
    "book": "JDG",
@@ -5696,6 +6209,15 @@
    "word": 13,
    "kjv": "mine",
    "modernized": "Mine"
+  },
+  {
+   "book": "1SA",
+   "chapter": 3,
+   "verse": 9,
+   "word": 14,
+   "kjv": "he",
+   "modernized": "He",
+   "by": "word"
   },
   {
    "book": "1SA",
@@ -5936,6 +6458,33 @@
    "word": 17,
    "kjv": "his",
    "modernized": "His"
+  },
+  {
+   "book": "1SA",
+   "chapter": 15,
+   "verse": 11,
+   "word": 20,
+   "kjv": "me",
+   "modernized": "Me",
+   "by": "word"
+  },
+  {
+   "book": "1SA",
+   "chapter": 15,
+   "verse": 11,
+   "word": 25,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "1SA",
+   "chapter": 15,
+   "verse": 11,
+   "word": 3,
+   "kjv": "me",
+   "modernized": "Me",
+   "by": "word"
   },
   {
    "book": "1SA",
@@ -6899,6 +7448,33 @@
   },
   {
    "book": "1KI",
+   "chapter": 3,
+   "verse": 14,
+   "word": 7,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "1KI",
+   "chapter": 3,
+   "verse": 14,
+   "word": 11,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "1KI",
+   "chapter": 3,
+   "verse": 14,
+   "word": 14,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "1KI",
    "chapter": 5,
    "verse": 5,
    "word": 44,
@@ -6912,6 +7488,42 @@
    "word": 8,
    "kjv": "he",
    "modernized": "He"
+  },
+  {
+   "book": "1KI",
+   "chapter": 6,
+   "verse": 12,
+   "word": 14,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "1KI",
+   "chapter": 6,
+   "verse": 12,
+   "word": 18,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "1KI",
+   "chapter": 6,
+   "verse": 12,
+   "word": 23,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "1KI",
+   "chapter": 6,
+   "verse": 12,
+   "word": 33,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
   },
   {
    "book": "1KI",
@@ -7284,6 +7896,33 @@
   {
    "book": "1KI",
    "chapter": 8,
+   "verse": 42,
+   "word": 6,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "1KI",
+   "chapter": 8,
+   "verse": 42,
+   "word": 11,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "1KI",
+   "chapter": 8,
+   "verse": 42,
+   "word": 16,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "1KI",
+   "chapter": 8,
    "verse": 43,
    "word": 2,
    "kjv": "thou",
@@ -7588,6 +8227,60 @@
   {
    "book": "1KI",
    "chapter": 9,
+   "verse": 4,
+   "word": 7,
+   "kjv": "me",
+   "modernized": "Me",
+   "by": "word"
+  },
+  {
+   "book": "1KI",
+   "chapter": 9,
+   "verse": 4,
+   "word": 33,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "1KI",
+   "chapter": 9,
+   "verse": 4,
+   "word": 36,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "1KI",
+   "chapter": 9,
+   "verse": 6,
+   "word": 10,
+   "kjv": "me",
+   "modernized": "Me",
+   "by": "word"
+  },
+  {
+   "book": "1KI",
+   "chapter": 9,
+   "verse": 6,
+   "word": 19,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "1KI",
+   "chapter": 9,
+   "verse": 6,
+   "word": 22,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "1KI",
+   "chapter": 9,
    "verse": 7,
    "word": 24,
    "kjv": "my",
@@ -7640,6 +8333,159 @@
    "word": 8,
    "kjv": "my",
    "modernized": "My"
+  },
+  {
+   "book": "1KI",
+   "chapter": 11,
+   "verse": 33,
+   "word": 6,
+   "kjv": "me",
+   "modernized": "Me",
+   "by": "word"
+  },
+  {
+   "book": "1KI",
+   "chapter": 11,
+   "verse": 33,
+   "word": 36,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "1KI",
+   "chapter": 11,
+   "verse": 33,
+   "word": 45,
+   "kjv": "mine",
+   "modernized": "Mine",
+   "by": "word"
+  },
+  {
+   "book": "1KI",
+   "chapter": 11,
+   "verse": 33,
+   "word": 50,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "1KI",
+   "chapter": 11,
+   "verse": 33,
+   "word": 53,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "1KI",
+   "chapter": 11,
+   "verse": 34,
+   "word": 27,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "1KI",
+   "chapter": 11,
+   "verse": 34,
+   "word": 36,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "1KI",
+   "chapter": 11,
+   "verse": 34,
+   "word": 39,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "1KI",
+   "chapter": 11,
+   "verse": 36,
+   "word": 12,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "1KI",
+   "chapter": 11,
+   "verse": 36,
+   "word": 20,
+   "kjv": "me",
+   "modernized": "Me",
+   "by": "word"
+  },
+  {
+   "book": "1KI",
+   "chapter": 11,
+   "verse": 36,
+   "word": 32,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "1KI",
+   "chapter": 11,
+   "verse": 36,
+   "word": 29,
+   "kjv": "me",
+   "modernized": "Me",
+   "by": "word"
+  },
+  {
+   "book": "1KI",
+   "chapter": 11,
+   "verse": 38,
+   "word": 19,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "1KI",
+   "chapter": 11,
+   "verse": 38,
+   "word": 27,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "1KI",
+   "chapter": 11,
+   "verse": 38,
+   "word": 31,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "1KI",
+   "chapter": 11,
+   "verse": 38,
+   "word": 38,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "1KI",
+   "chapter": 11,
+   "verse": 38,
+   "word": 34,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
   },
   {
    "book": "1KI",
@@ -7956,6 +8802,15 @@
   {
    "book": "2KI",
    "chapter": 13,
+   "verse": 3,
+   "word": 12,
+   "kjv": "he",
+   "modernized": "He",
+   "by": "word"
+  },
+  {
+   "book": "2KI",
+   "chapter": 13,
    "verse": 4,
    "word": 13,
    "kjv": "he",
@@ -8000,6 +8855,33 @@
    "word": 19,
    "kjv": "he",
    "modernized": "He"
+  },
+  {
+   "book": "2KI",
+   "chapter": 17,
+   "verse": 13,
+   "word": 28,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "2KI",
+   "chapter": 17,
+   "verse": 13,
+   "word": 50,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "2KI",
+   "chapter": 17,
+   "verse": 13,
+   "word": 31,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
   },
   {
    "book": "2KI",
@@ -8172,6 +9054,33 @@
   {
    "book": "2KI",
    "chapter": 20,
+   "verse": 3,
+   "word": 13,
+   "kjv": "thee",
+   "modernized": "Thee",
+   "by": "word"
+  },
+  {
+   "book": "2KI",
+   "chapter": 20,
+   "verse": 3,
+   "word": 29,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "2KI",
+   "chapter": 20,
+   "verse": 3,
+   "word": 3,
+   "kjv": "thee",
+   "modernized": "Thee",
+   "by": "word"
+  },
+  {
+   "book": "2KI",
+   "chapter": 20,
    "verse": 5,
    "word": 9,
    "kjv": "my",
@@ -8336,6 +9245,33 @@
    "word": 23,
    "kjv": "his",
    "modernized": "His"
+  },
+  {
+   "book": "1CH",
+   "chapter": 4,
+   "verse": 10,
+   "word": 12,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "1CH",
+   "chapter": 4,
+   "verse": 10,
+   "word": 23,
+   "kjv": "thine",
+   "modernized": "Thine",
+   "by": "word"
+  },
+  {
+   "book": "1CH",
+   "chapter": 4,
+   "verse": 10,
+   "word": 31,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
   },
   {
    "book": "1CH",
@@ -8624,6 +9560,24 @@
    "word": 12,
    "kjv": "his",
    "modernized": "His"
+  },
+  {
+   "book": "1CH",
+   "chapter": 16,
+   "verse": 35,
+   "word": 27,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "1CH",
+   "chapter": 16,
+   "verse": 35,
+   "word": 33,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
   },
   {
    "book": "1CH",
@@ -9164,6 +10118,24 @@
   {
    "book": "1CH",
    "chapter": 28,
+   "verse": 7,
+   "word": 15,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "1CH",
+   "chapter": 28,
+   "verse": 7,
+   "word": 18,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "1CH",
+   "chapter": 28,
    "verse": 9,
    "word": 15,
    "kjv": "him",
@@ -9580,6 +10552,33 @@
   {
    "book": "2CH",
    "chapter": 6,
+   "verse": 17,
+   "word": 14,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "2CH",
+   "chapter": 6,
+   "verse": 17,
+   "word": 18,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "2CH",
+   "chapter": 6,
+   "verse": 17,
+   "word": 9,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "2CH",
+   "chapter": 6,
    "verse": 18,
    "word": 22,
    "kjv": "thee",
@@ -9720,6 +10719,42 @@
    "word": 20,
    "kjv": "thou",
    "modernized": "Thou"
+  },
+  {
+   "book": "2CH",
+   "chapter": 6,
+   "verse": 32,
+   "word": 9,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "2CH",
+   "chapter": 6,
+   "verse": 32,
+   "word": 20,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "2CH",
+   "chapter": 6,
+   "verse": 32,
+   "word": 25,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "2CH",
+   "chapter": 6,
+   "verse": 32,
+   "word": 29,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
   },
   {
    "book": "2CH",
@@ -9876,6 +10911,33 @@
   {
    "book": "2CH",
    "chapter": 6,
+   "verse": 40,
+   "word": 8,
+   "kjv": "thine",
+   "modernized": "Thine",
+   "by": "word"
+  },
+  {
+   "book": "2CH",
+   "chapter": 6,
+   "verse": 40,
+   "word": 14,
+   "kjv": "thine",
+   "modernized": "Thine",
+   "by": "word"
+  },
+  {
+   "book": "2CH",
+   "chapter": 6,
+   "verse": 40,
+   "word": 7,
+   "kjv": "thee",
+   "modernized": "Thee",
+   "by": "word"
+  },
+  {
+   "book": "2CH",
+   "chapter": 6,
    "verse": 41,
    "word": 8,
    "kjv": "thy",
@@ -10016,6 +11078,60 @@
    "word": 22,
    "kjv": "mine",
    "modernized": "Mine"
+  },
+  {
+   "book": "2CH",
+   "chapter": 7,
+   "verse": 17,
+   "word": 10,
+   "kjv": "me",
+   "modernized": "Me",
+   "by": "word"
+  },
+  {
+   "book": "2CH",
+   "chapter": 7,
+   "verse": 17,
+   "word": 29,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "2CH",
+   "chapter": 7,
+   "verse": 17,
+   "word": 32,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "2CH",
+   "chapter": 7,
+   "verse": 20,
+   "word": 27,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "2CH",
+   "chapter": 7,
+   "verse": 20,
+   "word": 34,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "2CH",
+   "chapter": 7,
+   "verse": 20,
+   "word": 12,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
   },
   {
    "book": "2CH",
@@ -10259,6 +11375,15 @@
   },
   {
    "book": "2CH",
+   "chapter": 17,
+   "verse": 4,
+   "word": 13,
+   "kjv": "his",
+   "modernized": "His",
+   "by": "word"
+  },
+  {
+   "book": "2CH",
    "chapter": 20,
    "verse": 6,
    "word": 11,
@@ -10312,6 +11437,24 @@
    "word": 27,
    "kjv": "thy",
    "modernized": "Thy"
+  },
+  {
+   "book": "2CH",
+   "chapter": 20,
+   "verse": 8,
+   "word": 13,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "2CH",
+   "chapter": 20,
+   "verse": 8,
+   "word": 8,
+   "kjv": "thee",
+   "modernized": "Thee",
+   "by": "word"
   },
   {
    "book": "2CH",
@@ -10476,10 +11619,37 @@
   {
    "book": "2CH",
    "chapter": 31,
+   "verse": 8,
+   "word": 17,
+   "kjv": "his",
+   "modernized": "His",
+   "by": "word"
+  },
+  {
+   "book": "2CH",
+   "chapter": 31,
    "verse": 10,
    "word": 44,
    "kjv": "his",
    "modernized": "His"
+  },
+  {
+   "book": "2CH",
+   "chapter": 32,
+   "verse": 12,
+   "word": 8,
+   "kjv": "his",
+   "modernized": "His",
+   "by": "word"
+  },
+  {
+   "book": "2CH",
+   "chapter": 32,
+   "verse": 12,
+   "word": 12,
+   "kjv": "his",
+   "modernized": "His",
+   "by": "word"
   },
   {
    "book": "2CH",
@@ -10891,6 +12061,42 @@
   },
   {
    "book": "NEH",
+   "chapter": 2,
+   "verse": 20,
+   "word": 19,
+   "kjv": "his",
+   "modernized": "His",
+   "by": "word"
+  },
+  {
+   "book": "NEH",
+   "chapter": 2,
+   "verse": 20,
+   "word": 13,
+   "kjv": "he",
+   "modernized": "He",
+   "by": "word"
+  },
+  {
+   "book": "NEH",
+   "chapter": 4,
+   "verse": 5,
+   "word": 16,
+   "kjv": "thee",
+   "modernized": "Thee",
+   "by": "word"
+  },
+  {
+   "book": "NEH",
+   "chapter": 4,
+   "verse": 5,
+   "word": 21,
+   "kjv": "thee",
+   "modernized": "Thee",
+   "by": "word"
+  },
+  {
+   "book": "NEH",
    "chapter": 9,
    "verse": 5,
    "word": 30,
@@ -11164,6 +12370,24 @@
   {
    "book": "NEH",
    "chapter": 9,
+   "verse": 32,
+   "word": 53,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "NEH",
+   "chapter": 9,
+   "verse": 32,
+   "word": 26,
+   "kjv": "thee",
+   "modernized": "Thee",
+   "by": "word"
+  },
+  {
+   "book": "NEH",
+   "chapter": 9,
    "verse": 33,
    "word": 2,
    "kjv": "thou",
@@ -11176,6 +12400,42 @@
    "word": 13,
    "kjv": "thou",
    "modernized": "Thou"
+  },
+  {
+   "book": "NEH",
+   "chapter": 9,
+   "verse": 34,
+   "word": 13,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "NEH",
+   "chapter": 9,
+   "verse": 34,
+   "word": 18,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "NEH",
+   "chapter": 9,
+   "verse": 34,
+   "word": 24,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "NEH",
+   "chapter": 9,
+   "verse": 34,
+   "word": 21,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
   },
   {
    "book": "NEH",
@@ -11692,6 +12952,33 @@
   {
    "book": "JOB",
    "chapter": 10,
+   "verse": 9,
+   "word": 6,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "JOB",
+   "chapter": 10,
+   "verse": 9,
+   "word": 15,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "JOB",
+   "chapter": 10,
+   "verse": 9,
+   "word": 4,
+   "kjv": "thee",
+   "modernized": "Thee",
+   "by": "word"
+  },
+  {
+   "book": "JOB",
+   "chapter": 10,
    "verse": 10,
    "word": 2,
    "kjv": "thou",
@@ -11728,6 +13015,42 @@
    "word": 16,
    "kjv": "thee",
    "modernized": "Thee"
+  },
+  {
+   "book": "JOB",
+   "chapter": 10,
+   "verse": 14,
+   "word": 5,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "JOB",
+   "chapter": 10,
+   "verse": 14,
+   "word": 9,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "JOB",
+   "chapter": 10,
+   "verse": 16,
+   "word": 13,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "JOB",
+   "chapter": 10,
+   "verse": 16,
+   "word": 15,
+   "kjv": "thyself",
+   "modernized": "Thyself",
+   "by": "word"
   },
   {
    "book": "JOB",
@@ -12036,10 +13359,82 @@
   {
    "book": "JOB",
    "chapter": 14,
+   "verse": 13,
+   "word": 3,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "JOB",
+   "chapter": 14,
+   "verse": 13,
+   "word": 17,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "JOB",
+   "chapter": 14,
+   "verse": 13,
+   "word": 22,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "JOB",
+   "chapter": 14,
+   "verse": 13,
+   "word": 11,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "JOB",
+   "chapter": 14,
+   "verse": 16,
+   "word": 3,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "JOB",
+   "chapter": 14,
+   "verse": 16,
+   "word": 8,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "JOB",
+   "chapter": 14,
    "verse": 17,
    "word": 10,
    "kjv": "thou",
    "modernized": "Thou"
+  },
+  {
+   "book": "JOB",
+   "chapter": 14,
+   "verse": 19,
+   "word": 21,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "JOB",
+   "chapter": 14,
+   "verse": 19,
+   "word": 6,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
   },
   {
    "book": "JOB",
@@ -13372,6 +14767,33 @@
   {
    "book": "PSA",
    "chapter": 2,
+   "verse": 8,
+   "word": 12,
+   "kjv": "thine",
+   "modernized": "Thine",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 2,
+   "verse": 8,
+   "word": 22,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 2,
+   "verse": 8,
+   "word": 8,
+   "kjv": "thee",
+   "modernized": "Thee",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 2,
    "verse": 9,
    "word": 10,
    "kjv": "thou",
@@ -13444,6 +14866,24 @@
   {
    "book": "PSA",
    "chapter": 4,
+   "verse": 6,
+   "word": 19,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 4,
+   "verse": 6,
+   "word": 14,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 4,
    "verse": 8,
    "word": 12,
    "kjv": "thou",
@@ -13504,6 +14944,42 @@
    "word": 9,
    "kjv": "thou",
    "modernized": "Thou"
+  },
+  {
+   "book": "PSA",
+   "chapter": 5,
+   "verse": 7,
+   "word": 9,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 5,
+   "verse": 7,
+   "word": 15,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 5,
+   "verse": 7,
+   "word": 25,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 5,
+   "verse": 7,
+   "word": 19,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
   },
   {
    "book": "PSA",
@@ -13604,6 +15080,33 @@
   {
    "book": "PSA",
    "chapter": 7,
+   "verse": 6,
+   "word": 5,
+   "kjv": "thine",
+   "modernized": "Thine",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 7,
+   "verse": 6,
+   "word": 9,
+   "kjv": "thyself",
+   "modernized": "Thyself",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 7,
+   "verse": 6,
+   "word": 25,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 7,
    "verse": 7,
    "word": 9,
    "kjv": "thee",
@@ -13648,6 +15151,33 @@
    "word": 8,
    "kjv": "his",
    "modernized": "His"
+  },
+  {
+   "book": "PSA",
+   "chapter": 8,
+   "verse": 2,
+   "word": 10,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 8,
+   "verse": 2,
+   "word": 15,
+   "kjv": "thine",
+   "modernized": "Thine",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 8,
+   "verse": 2,
+   "word": 18,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
   },
   {
    "book": "PSA",
@@ -13716,6 +15246,24 @@
   {
    "book": "PSA",
    "chapter": 9,
+   "verse": 1,
+   "word": 26,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 9,
+   "verse": 1,
+   "word": 14,
+   "kjv": "thee",
+   "modernized": "Thee",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 9,
    "verse": 3,
    "word": 13,
    "kjv": "thy",
@@ -13736,6 +15284,24 @@
    "word": 11,
    "kjv": "thou",
    "modernized": "Thou"
+  },
+  {
+   "book": "PSA",
+   "chapter": 9,
+   "verse": 6,
+   "word": 12,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 9,
+   "verse": 6,
+   "word": 2,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
   },
   {
    "book": "PSA",
@@ -14803,6 +16369,33 @@
   },
   {
    "book": "PSA",
+   "chapter": 21,
+   "verse": 13,
+   "word": 6,
+   "kjv": "thine",
+   "modernized": "Thine",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 21,
+   "verse": 13,
+   "word": 15,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 21,
+   "verse": 13,
+   "word": 2,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
    "chapter": 22,
    "verse": 1,
    "word": 18,
@@ -15120,6 +16713,24 @@
    "word": 18,
    "kjv": "thee",
    "modernized": "Thee"
+  },
+  {
+   "book": "PSA",
+   "chapter": 25,
+   "verse": 6,
+   "word": 4,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 25,
+   "verse": 6,
+   "word": 8,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
   },
   {
    "book": "PSA",
@@ -15588,6 +17199,24 @@
   {
    "book": "PSA",
    "chapter": 31,
+   "verse": 2,
+   "word": 3,
+   "kjv": "thine",
+   "modernized": "Thine",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 31,
+   "verse": 2,
+   "word": 11,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 31,
    "verse": 3,
    "word": 2,
    "kjv": "thou",
@@ -16032,6 +17661,15 @@
    "word": 4,
    "kjv": "him",
    "modernized": "Him"
+  },
+  {
+   "book": "PSA",
+   "chapter": 34,
+   "verse": 7,
+   "word": 12,
+   "kjv": "him",
+   "modernized": "Him",
+   "by": "word"
   },
   {
    "book": "PSA",
@@ -16516,6 +18154,51 @@
   {
    "book": "PSA",
    "chapter": 40,
+   "verse": 10,
+   "word": 5,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 40,
+   "verse": 10,
+   "word": 13,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 40,
+   "verse": 10,
+   "word": 22,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 40,
+   "verse": 10,
+   "word": 16,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 40,
+   "verse": 10,
+   "word": 25,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 40,
    "verse": 16,
    "word": 6,
    "kjv": "thee",
@@ -16616,6 +18299,33 @@
    "word": 15,
    "kjv": "thee",
    "modernized": "Thee"
+  },
+  {
+   "book": "PSA",
+   "chapter": 42,
+   "verse": 7,
+   "word": 9,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 42,
+   "verse": 7,
+   "word": 12,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 42,
+   "verse": 7,
+   "word": 15,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
   },
   {
    "book": "PSA",
@@ -17284,6 +18994,24 @@
   {
    "book": "PSA",
    "chapter": 51,
+   "verse": 12,
+   "word": 7,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 51,
+   "verse": 12,
+   "word": 13,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 51,
    "verse": 13,
    "word": 6,
    "kjv": "thy",
@@ -17296,6 +19024,42 @@
    "word": 14,
    "kjv": "thee",
    "modernized": "Thee"
+  },
+  {
+   "book": "PSA",
+   "chapter": 51,
+   "verse": 14,
+   "word": 19,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 51,
+   "verse": 14,
+   "word": 7,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 51,
+   "verse": 15,
+   "word": 13,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 51,
+   "verse": 15,
+   "word": 4,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
   },
   {
    "book": "PSA",
@@ -17320,6 +19084,24 @@
    "word": 17,
    "kjv": "thou",
    "modernized": "Thou"
+  },
+  {
+   "book": "PSA",
+   "chapter": 51,
+   "verse": 18,
+   "word": 4,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 51,
+   "verse": 18,
+   "word": 10,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
   },
   {
    "book": "PSA",
@@ -17483,6 +19265,24 @@
   },
   {
    "book": "PSA",
+   "chapter": 56,
+   "verse": 13,
+   "word": 2,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 56,
+   "verse": 13,
+   "word": 11,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
    "chapter": 57,
    "verse": 1,
    "word": 32,
@@ -17524,6 +19324,24 @@
   {
    "book": "PSA",
    "chapter": 57,
+   "verse": 5,
+   "word": 10,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 57,
+   "verse": 5,
+   "word": 2,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 57,
    "verse": 9,
    "word": 4,
    "kjv": "thee",
@@ -17552,6 +19370,24 @@
    "word": 10,
    "kjv": "thy",
    "modernized": "Thy"
+  },
+  {
+   "book": "PSA",
+   "chapter": 57,
+   "verse": 11,
+   "word": 10,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 57,
+   "verse": 11,
+   "word": 2,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
   },
   {
    "book": "PSA",
@@ -17856,6 +19692,33 @@
    "word": 33,
    "kjv": "thee",
    "modernized": "Thee"
+  },
+  {
+   "book": "PSA",
+   "chapter": 63,
+   "verse": 2,
+   "word": 3,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 63,
+   "verse": 2,
+   "word": 13,
+   "kjv": "thee",
+   "modernized": "Thee",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 63,
+   "verse": 2,
+   "word": 6,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
   },
   {
    "book": "PSA",
@@ -19080,6 +20943,51 @@
    "word": 23,
    "kjv": "thy",
    "modernized": "Thy"
+  },
+  {
+   "book": "PSA",
+   "chapter": 74,
+   "verse": 2,
+   "word": 2,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 74,
+   "verse": 2,
+   "word": 5,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 74,
+   "verse": 2,
+   "word": 13,
+   "kjv": "thine",
+   "modernized": "Thine",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 74,
+   "verse": 2,
+   "word": 23,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 74,
+   "verse": 2,
+   "word": 16,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
   },
   {
    "book": "PSA",
@@ -19884,6 +21792,24 @@
   {
    "book": "PSA",
    "chapter": 80,
+   "verse": 1,
+   "word": 24,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 80,
+   "verse": 1,
+   "word": 17,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 80,
    "verse": 2,
    "word": 9,
    "kjv": "thy",
@@ -21356,6 +23282,24 @@
   {
    "book": "PSA",
    "chapter": 90,
+   "verse": 13,
+   "word": 12,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 90,
+   "verse": 13,
+   "word": 10,
+   "kjv": "thee",
+   "modernized": "Thee",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 90,
    "verse": 14,
    "word": 6,
    "kjv": "thy",
@@ -21816,6 +23760,33 @@
    "word": 26,
    "kjv": "his",
    "modernized": "His"
+  },
+  {
+   "book": "PSA",
+   "chapter": 95,
+   "verse": 9,
+   "word": 7,
+   "kjv": "me",
+   "modernized": "Me",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 95,
+   "verse": 9,
+   "word": 10,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 95,
+   "verse": 9,
+   "word": 5,
+   "kjv": "me",
+   "modernized": "Me",
+   "by": "word"
   },
   {
    "book": "PSA",
@@ -22296,6 +24267,33 @@
    "word": 16,
    "kjv": "thine",
    "modernized": "Thine"
+  },
+  {
+   "book": "PSA",
+   "chapter": 102,
+   "verse": 10,
+   "word": 3,
+   "kjv": "thine",
+   "modernized": "Thine",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 102,
+   "verse": 10,
+   "word": 9,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 102,
+   "verse": 10,
+   "word": 6,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
   },
   {
    "book": "PSA",
@@ -23524,6 +25522,24 @@
   {
    "book": "PSA",
    "chapter": 108,
+   "verse": 5,
+   "word": 10,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 108,
+   "verse": 5,
+   "word": 2,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 108,
    "verse": 6,
    "word": 2,
    "kjv": "thy",
@@ -23688,6 +25704,33 @@
    "word": 14,
    "kjv": "my",
    "modernized": "My"
+  },
+  {
+   "book": "PSA",
+   "chapter": 110,
+   "verse": 2,
+   "word": 8,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 110,
+   "verse": 2,
+   "word": 19,
+   "kjv": "thine",
+   "modernized": "Thine",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 110,
+   "verse": 2,
+   "word": 14,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
   },
   {
    "book": "PSA",
@@ -24300,6 +26343,24 @@
   {
    "book": "PSA",
    "chapter": 119,
+   "verse": 18,
+   "word": 13,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 119,
+   "verse": 18,
+   "word": 2,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 119,
    "verse": 19,
    "word": 10,
    "kjv": "thy",
@@ -24348,6 +26409,24 @@
   {
    "book": "PSA",
    "chapter": 119,
+   "verse": 25,
+   "word": 12,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 119,
+   "verse": 25,
+   "word": 8,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 119,
    "verse": 26,
    "word": 7,
    "kjv": "thou",
@@ -24376,6 +26455,24 @@
    "word": 15,
    "kjv": "thy",
    "modernized": "Thy"
+  },
+  {
+   "book": "PSA",
+   "chapter": 119,
+   "verse": 28,
+   "word": 11,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 119,
+   "verse": 28,
+   "word": 7,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
   },
   {
    "book": "PSA",
@@ -24448,6 +26545,24 @@
    "word": 5,
    "kjv": "thy",
    "modernized": "Thy"
+  },
+  {
+   "book": "PSA",
+   "chapter": 119,
+   "verse": 37,
+   "word": 13,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 119,
+   "verse": 37,
+   "word": 10,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
   },
   {
    "book": "PSA",
@@ -24632,6 +26747,15 @@
    "word": 7,
    "kjv": "thy",
    "modernized": "Thy"
+  },
+  {
+   "book": "PSA",
+   "chapter": 119,
+   "verse": 57,
+   "word": 14,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
   },
   {
    "book": "PSA",
@@ -24828,6 +26952,42 @@
   {
    "book": "PSA",
    "chapter": 119,
+   "verse": 76,
+   "word": 5,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 119,
+   "verse": 76,
+   "word": 14,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 119,
+   "verse": 76,
+   "word": 17,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 119,
+   "verse": 76,
+   "word": 4,
+   "kjv": "thee",
+   "modernized": "Thee",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 119,
    "verse": 77,
    "word": 2,
    "kjv": "thy",
@@ -24936,6 +27096,24 @@
    "word": 12,
    "kjv": "thy",
    "modernized": "Thy"
+  },
+  {
+   "book": "PSA",
+   "chapter": 119,
+   "verse": 86,
+   "word": 2,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 119,
+   "verse": 86,
+   "word": 11,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
   },
   {
    "book": "PSA",
@@ -25108,6 +27286,24 @@
   {
    "book": "PSA",
    "chapter": 119,
+   "verse": 108,
+   "word": 16,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 119,
+   "verse": 108,
+   "word": 4,
+   "kjv": "thee",
+   "modernized": "Thee",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 119,
    "verse": 109,
    "word": 13,
    "kjv": "thy",
@@ -25152,6 +27348,24 @@
    "word": 5,
    "kjv": "thy",
    "modernized": "Thy"
+  },
+  {
+   "book": "PSA",
+   "chapter": 119,
+   "verse": 117,
+   "word": 16,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 119,
+   "verse": 117,
+   "word": 2,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
   },
   {
    "book": "PSA",
@@ -25252,6 +27466,24 @@
   {
    "book": "PSA",
    "chapter": 119,
+   "verse": 126,
+   "word": 14,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 119,
+   "verse": 126,
+   "word": 5,
+   "kjv": "thee",
+   "modernized": "Thee",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 119,
    "verse": 127,
    "word": 4,
    "kjv": "thy",
@@ -25280,6 +27512,33 @@
    "word": 11,
    "kjv": "thy",
    "modernized": "Thy"
+  },
+  {
+   "book": "PSA",
+   "chapter": 119,
+   "verse": 132,
+   "word": 11,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 119,
+   "verse": 132,
+   "word": 19,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 119,
+   "verse": 132,
+   "word": 2,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
   },
   {
    "book": "PSA",
@@ -25344,6 +27603,15 @@
    "word": 9,
    "kjv": "thy",
    "modernized": "Thy"
+  },
+  {
+   "book": "PSA",
+   "chapter": 119,
+   "verse": 138,
+   "word": 4,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
   },
   {
    "book": "PSA",
@@ -25984,6 +28252,24 @@
    "word": 9,
    "kjv": "he",
    "modernized": "He"
+  },
+  {
+   "book": "PSA",
+   "chapter": 132,
+   "verse": 12,
+   "word": 6,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "PSA",
+   "chapter": 132,
+   "verse": 12,
+   "word": 9,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
   },
   {
    "book": "PSA",
@@ -28012,6 +30298,42 @@
   {
    "book": "ISA",
    "chapter": 1,
+   "verse": 24,
+   "word": 20,
+   "kjv": "mine",
+   "modernized": "Mine",
+   "by": "word"
+  },
+  {
+   "book": "ISA",
+   "chapter": 1,
+   "verse": 24,
+   "word": 24,
+   "kjv": "me",
+   "modernized": "Me",
+   "by": "word"
+  },
+  {
+   "book": "ISA",
+   "chapter": 1,
+   "verse": 24,
+   "word": 26,
+   "kjv": "mine",
+   "modernized": "Mine",
+   "by": "word"
+  },
+  {
+   "book": "ISA",
+   "chapter": 1,
+   "verse": 24,
+   "word": 18,
+   "kjv": "me",
+   "modernized": "Me",
+   "by": "word"
+  },
+  {
+   "book": "ISA",
+   "chapter": 1,
    "verse": 25,
    "word": 5,
    "kjv": "my",
@@ -28916,6 +31238,33 @@
   {
    "book": "ISA",
    "chapter": 26,
+   "verse": 13,
+   "word": 8,
+   "kjv": "thee",
+   "modernized": "Thee",
+   "by": "word"
+  },
+  {
+   "book": "ISA",
+   "chapter": 26,
+   "verse": 13,
+   "word": 23,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "ISA",
+   "chapter": 26,
+   "verse": 13,
+   "word": 16,
+   "kjv": "thee",
+   "modernized": "Thee",
+   "by": "word"
+  },
+  {
+   "book": "ISA",
+   "chapter": 26,
    "verse": 16,
    "word": 7,
    "kjv": "thee",
@@ -28960,6 +31309,24 @@
    "word": 26,
    "kjv": "he",
    "modernized": "He"
+  },
+  {
+   "book": "ISA",
+   "chapter": 27,
+   "verse": 4,
+   "word": 5,
+   "kjv": "me",
+   "modernized": "Me",
+   "by": "word"
+  },
+  {
+   "book": "ISA",
+   "chapter": 27,
+   "verse": 4,
+   "word": 14,
+   "kjv": "me",
+   "modernized": "Me",
+   "by": "word"
   },
   {
    "book": "ISA",
@@ -29244,6 +31611,24 @@
   {
    "book": "ISA",
    "chapter": 34,
+   "verse": 5,
+   "word": 2,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "ISA",
+   "chapter": 34,
+   "verse": 5,
+   "word": 21,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "ISA",
+   "chapter": 34,
    "verse": 17,
    "word": 2,
    "kjv": "he",
@@ -29360,6 +31745,33 @@
    "word": 16,
    "kjv": "my",
    "modernized": "My"
+  },
+  {
+   "book": "ISA",
+   "chapter": 38,
+   "verse": 3,
+   "word": 15,
+   "kjv": "thee",
+   "modernized": "Thee",
+   "by": "word"
+  },
+  {
+   "book": "ISA",
+   "chapter": 38,
+   "verse": 3,
+   "word": 31,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "ISA",
+   "chapter": 38,
+   "verse": 3,
+   "word": 9,
+   "kjv": "thee",
+   "modernized": "Thee",
+   "by": "word"
   },
   {
    "book": "ISA",
@@ -29980,6 +32392,33 @@
   {
    "book": "ISA",
    "chapter": 43,
+   "verse": 20,
+   "word": 8,
+   "kjv": "me",
+   "modernized": "Me",
+   "by": "word"
+  },
+  {
+   "book": "ISA",
+   "chapter": 43,
+   "verse": 20,
+   "word": 32,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "ISA",
+   "chapter": 43,
+   "verse": 20,
+   "word": 30,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "ISA",
+   "chapter": 43,
    "verse": 21,
    "word": 7,
    "kjv": "myself",
@@ -30408,6 +32847,24 @@
    "word": 25,
    "kjv": "him",
    "modernized": "Him"
+  },
+  {
+   "book": "ISA",
+   "chapter": 46,
+   "verse": 3,
+   "word": 3,
+   "kjv": "me",
+   "modernized": "Me",
+   "by": "word"
+  },
+  {
+   "book": "ISA",
+   "chapter": 46,
+   "verse": 3,
+   "word": 21,
+   "kjv": "me",
+   "modernized": "Me",
+   "by": "word"
   },
   {
    "book": "ISA",
@@ -32132,6 +34589,33 @@
   {
    "book": "ISA",
    "chapter": 63,
+   "verse": 2,
+   "word": 6,
+   "kjv": "thine",
+   "modernized": "Thine",
+   "by": "word"
+  },
+  {
+   "book": "ISA",
+   "chapter": 63,
+   "verse": 2,
+   "word": 9,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "ISA",
+   "chapter": 63,
+   "verse": 2,
+   "word": 3,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "ISA",
+   "chapter": 63,
    "verse": 3,
    "word": 15,
    "kjv": "me",
@@ -32364,6 +34848,33 @@
   {
    "book": "ISA",
    "chapter": 64,
+   "verse": 1,
+   "word": 3,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "ISA",
+   "chapter": 64,
+   "verse": 1,
+   "word": 20,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "ISA",
+   "chapter": 64,
+   "verse": 1,
+   "word": 9,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "ISA",
+   "chapter": 64,
    "verse": 2,
    "word": 16,
    "kjv": "thy",
@@ -32472,6 +34983,24 @@
    "word": 24,
    "kjv": "thy",
    "modernized": "Thy"
+  },
+  {
+   "book": "ISA",
+   "chapter": 64,
+   "verse": 9,
+   "word": 21,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "ISA",
+   "chapter": 64,
+   "verse": 9,
+   "word": 17,
+   "kjv": "thee",
+   "modernized": "Thee",
+   "by": "word"
   },
   {
    "book": "ISA",
@@ -32872,6 +35401,24 @@
    "word": 22,
    "kjv": "my",
    "modernized": "My"
+  },
+  {
+   "book": "JER",
+   "chapter": 1,
+   "verse": 12,
+   "word": 15,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "JER",
+   "chapter": 1,
+   "verse": 12,
+   "word": 6,
+   "kjv": "me",
+   "modernized": "Me",
+   "by": "word"
   },
   {
    "book": "JER",
@@ -33428,6 +35975,33 @@
   {
    "book": "JER",
    "chapter": 7,
+   "verse": 12,
+   "word": 15,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "JER",
+   "chapter": 7,
+   "verse": 12,
+   "word": 31,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "JER",
+   "chapter": 7,
+   "verse": 12,
+   "word": 6,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "JER",
+   "chapter": 7,
    "verse": 14,
    "word": 12,
    "kjv": "my",
@@ -33788,6 +36362,24 @@
   {
    "book": "JER",
    "chapter": 11,
+   "verse": 10,
+   "word": 15,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "JER",
+   "chapter": 11,
+   "verse": 10,
+   "word": 37,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "JER",
+   "chapter": 11,
    "verse": 11,
    "word": 27,
    "kjv": "me",
@@ -34072,6 +36664,24 @@
    "word": 6,
    "kjv": "he",
    "modernized": "He"
+  },
+  {
+   "book": "JER",
+   "chapter": 13,
+   "verse": 25,
+   "word": 19,
+   "kjv": "me",
+   "modernized": "Me",
+   "by": "word"
+  },
+  {
+   "book": "JER",
+   "chapter": 13,
+   "verse": 25,
+   "word": 11,
+   "kjv": "me",
+   "modernized": "Me",
+   "by": "word"
   },
   {
    "book": "JER",
@@ -35092,6 +37702,33 @@
   {
    "book": "JER",
    "chapter": 27,
+   "verse": 5,
+   "word": 17,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "JER",
+   "chapter": 27,
+   "verse": 5,
+   "word": 22,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "JER",
+   "chapter": 27,
+   "verse": 5,
+   "word": 35,
+   "kjv": "me",
+   "modernized": "Me",
+   "by": "word"
+  },
+  {
+   "book": "JER",
+   "chapter": 27,
    "verse": 6,
    "word": 18,
    "kjv": "my",
@@ -35456,6 +38093,42 @@
    "word": 28,
    "kjv": "me",
    "modernized": "Me"
+  },
+  {
+   "book": "JER",
+   "chapter": 32,
+   "verse": 31,
+   "word": 12,
+   "kjv": "mine",
+   "modernized": "Mine",
+   "by": "word"
+  },
+  {
+   "book": "JER",
+   "chapter": 32,
+   "verse": 31,
+   "word": 36,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "JER",
+   "chapter": 32,
+   "verse": 31,
+   "word": 7,
+   "kjv": "me",
+   "modernized": "Me",
+   "by": "word"
+  },
+  {
+   "book": "JER",
+   "chapter": 32,
+   "verse": 31,
+   "word": 16,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
   },
   {
    "book": "JER",
@@ -35884,10 +38557,46 @@
   {
    "book": "JER",
    "chapter": 44,
+   "verse": 6,
+   "word": 2,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "JER",
+   "chapter": 44,
+   "verse": 6,
+   "word": 5,
+   "kjv": "mine",
+   "modernized": "Mine",
+   "by": "word"
+  },
+  {
+   "book": "JER",
+   "chapter": 44,
    "verse": 8,
    "word": 5,
    "kjv": "me",
    "modernized": "Me"
+  },
+  {
+   "book": "JER",
+   "chapter": 44,
+   "verse": 10,
+   "word": 16,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "JER",
+   "chapter": 44,
+   "verse": 10,
+   "word": 20,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
   },
   {
    "book": "JER",
@@ -37067,6 +39776,24 @@
   },
   {
    "book": "EZK",
+   "chapter": 8,
+   "verse": 18,
+   "word": 23,
+   "kjv": "mine",
+   "modernized": "Mine",
+   "by": "word"
+  },
+  {
+   "book": "EZK",
+   "chapter": 8,
+   "verse": 18,
+   "word": 8,
+   "kjv": "mine",
+   "modernized": "Mine",
+   "by": "word"
+  },
+  {
+   "book": "EZK",
    "chapter": 9,
    "verse": 5,
    "word": 5,
@@ -37404,6 +40131,24 @@
   {
    "book": "EZK",
    "chapter": 16,
+   "verse": 18,
+   "word": 13,
+   "kjv": "mine",
+   "modernized": "Mine",
+   "by": "word"
+  },
+  {
+   "book": "EZK",
+   "chapter": 16,
+   "verse": 18,
+   "word": 16,
+   "kjv": "mine",
+   "modernized": "Mine",
+   "by": "word"
+  },
+  {
+   "book": "EZK",
+   "chapter": 16,
    "verse": 20,
    "word": 15,
    "kjv": "me",
@@ -37636,6 +40381,24 @@
   {
    "book": "EZK",
    "chapter": 20,
+   "verse": 12,
+   "word": 6,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "EZK",
+   "chapter": 20,
+   "verse": 12,
+   "word": 13,
+   "kjv": "me",
+   "modernized": "Me",
+   "by": "word"
+  },
+  {
+   "book": "EZK",
+   "chapter": 20,
    "verse": 13,
    "word": 8,
    "kjv": "me",
@@ -37720,6 +40483,24 @@
    "word": 13,
    "kjv": "my",
    "modernized": "My"
+  },
+  {
+   "book": "EZK",
+   "chapter": 20,
+   "verse": 20,
+   "word": 3,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "EZK",
+   "chapter": 20,
+   "verse": 20,
+   "word": 12,
+   "kjv": "me",
+   "modernized": "Me",
+   "by": "word"
   },
   {
    "book": "EZK",
@@ -38000,6 +40781,24 @@
    "word": 10,
    "kjv": "me",
    "modernized": "Me"
+  },
+  {
+   "book": "EZK",
+   "chapter": 22,
+   "verse": 20,
+   "word": 34,
+   "kjv": "mine",
+   "modernized": "Mine",
+   "by": "word"
+  },
+  {
+   "book": "EZK",
+   "chapter": 22,
+   "verse": 20,
+   "word": 38,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
   },
   {
    "book": "EZK",
@@ -38444,6 +41243,24 @@
   {
    "book": "EZK",
    "chapter": 36,
+   "verse": 6,
+   "word": 38,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "EZK",
+   "chapter": 36,
+   "verse": 6,
+   "word": 34,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "EZK",
+   "chapter": 36,
    "verse": 8,
    "word": 18,
    "kjv": "my",
@@ -38708,6 +41525,42 @@
   {
    "book": "EZK",
    "chapter": 38,
+   "verse": 18,
+   "word": 25,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "EZK",
+   "chapter": 38,
+   "verse": 18,
+   "word": 31,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "EZK",
+   "chapter": 38,
+   "verse": 19,
+   "word": 3,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "EZK",
+   "chapter": 38,
+   "verse": 19,
+   "word": 10,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "EZK",
+   "chapter": 38,
    "verse": 20,
    "word": 44,
    "kjv": "my",
@@ -38744,6 +41597,33 @@
    "word": 7,
    "kjv": "my",
    "modernized": "My"
+  },
+  {
+   "book": "EZK",
+   "chapter": 39,
+   "verse": 21,
+   "word": 5,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "EZK",
+   "chapter": 39,
+   "verse": 21,
+   "word": 16,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "EZK",
+   "chapter": 39,
+   "verse": 21,
+   "word": 23,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
   },
   {
    "book": "EZK",
@@ -38956,6 +41836,78 @@
   {
    "book": "EZK",
    "chapter": 44,
+   "verse": 7,
+   "word": 20,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "EZK",
+   "chapter": 44,
+   "verse": 7,
+   "word": 26,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "EZK",
+   "chapter": 44,
+   "verse": 7,
+   "word": 31,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "EZK",
+   "chapter": 44,
+   "verse": 7,
+   "word": 42,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "EZK",
+   "chapter": 44,
+   "verse": 7,
+   "word": 7,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "EZK",
+   "chapter": 44,
+   "verse": 8,
+   "word": 9,
+   "kjv": "mine",
+   "modernized": "Mine",
+   "by": "word"
+  },
+  {
+   "book": "EZK",
+   "chapter": 44,
+   "verse": 8,
+   "word": 21,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "EZK",
+   "chapter": 44,
+   "verse": 8,
+   "word": 18,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "EZK",
+   "chapter": 44,
    "verse": 9,
    "word": 18,
    "kjv": "my",
@@ -39096,6 +42048,51 @@
    "word": 5,
    "kjv": "my",
    "modernized": "My"
+  },
+  {
+   "book": "EZK",
+   "chapter": 44,
+   "verse": 24,
+   "word": 16,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "EZK",
+   "chapter": 44,
+   "verse": 24,
+   "word": 22,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "EZK",
+   "chapter": 44,
+   "verse": 24,
+   "word": 29,
+   "kjv": "mine",
+   "modernized": "Mine",
+   "by": "word"
+  },
+  {
+   "book": "EZK",
+   "chapter": 44,
+   "verse": 24,
+   "word": 35,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "EZK",
+   "chapter": 44,
+   "verse": 24,
+   "word": 25,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
   },
   {
    "book": "EZK",
@@ -39420,6 +42417,24 @@
   {
    "book": "DAN",
    "chapter": 9,
+   "verse": 5,
+   "word": 19,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "DAN",
+   "chapter": 9,
+   "verse": 5,
+   "word": 23,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "DAN",
+   "chapter": 9,
    "verse": 6,
    "word": 6,
    "kjv": "thy",
@@ -39616,6 +42631,42 @@
    "word": 10,
    "kjv": "my",
    "modernized": "My"
+  },
+  {
+   "book": "HOS",
+   "chapter": 2,
+   "verse": 9,
+   "word": 8,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "HOS",
+   "chapter": 2,
+   "verse": 9,
+   "word": 15,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "HOS",
+   "chapter": 2,
+   "verse": 9,
+   "word": 24,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "HOS",
+   "chapter": 2,
+   "verse": 9,
+   "word": 27,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
   },
   {
    "book": "HOS",
@@ -40404,6 +43455,33 @@
   {
    "book": "JOL",
    "chapter": 3,
+   "verse": 5,
+   "word": 5,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "JOL",
+   "chapter": 3,
+   "verse": 5,
+   "word": 16,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "JOL",
+   "chapter": 3,
+   "verse": 5,
+   "word": 8,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "JOL",
+   "chapter": 3,
    "verse": 11,
    "word": 16,
    "kjv": "thy",
@@ -40780,6 +43858,33 @@
   {
    "book": "JON",
    "chapter": 2,
+   "verse": 3,
+   "word": 2,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "JON",
+   "chapter": 2,
+   "verse": 3,
+   "word": 22,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "JON",
+   "chapter": 2,
+   "verse": 3,
+   "word": 25,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
+  },
+  {
+   "book": "JON",
+   "chapter": 2,
    "verse": 4,
    "word": 9,
    "kjv": "thy",
@@ -41032,6 +44137,15 @@
    "word": 19,
    "kjv": "him",
    "modernized": "Him"
+  },
+  {
+   "book": "MIC",
+   "chapter": 6,
+   "verse": 9,
+   "word": 15,
+   "kjv": "thy",
+   "modernized": "Thy",
+   "by": "word"
   },
   {
    "book": "MIC",
@@ -42091,6 +45205,24 @@
   },
   {
    "book": "ZEC",
+   "chapter": 13,
+   "verse": 9,
+   "word": 31,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "ZEC",
+   "chapter": 13,
+   "verse": 9,
+   "word": 43,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "ZEC",
    "chapter": 14,
    "verse": 3,
    "word": 14,
@@ -42560,6 +45692,15 @@
    "word": 30,
    "kjv": "my",
    "modernized": "My"
+  },
+  {
+   "book": "MAT",
+   "chapter": 2,
+   "verse": 20,
+   "word": 9,
+   "kjv": "his",
+   "modernized": "His",
+   "by": "word"
   },
   {
    "book": "MAT",
@@ -43112,6 +46253,33 @@
    "word": 20,
    "kjv": "him",
    "modernized": "Him"
+  },
+  {
+   "book": "MAT",
+   "chapter": 8,
+   "verse": 29,
+   "word": 13,
+   "kjv": "thee",
+   "modernized": "Thee",
+   "by": "word"
+  },
+  {
+   "book": "MAT",
+   "chapter": 8,
+   "verse": 29,
+   "word": 20,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "MAT",
+   "chapter": 8,
+   "verse": 29,
+   "word": 15,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
   },
   {
    "book": "MAT",
@@ -43768,6 +46936,15 @@
    "word": 11,
    "kjv": "he",
    "modernized": "He"
+  },
+  {
+   "book": "MAT",
+   "chapter": 13,
+   "verse": 3,
+   "word": 2,
+   "kjv": "he",
+   "modernized": "He",
+   "by": "word"
   },
   {
    "book": "MAT",
@@ -44564,6 +47741,24 @@
   {
    "book": "MAT",
    "chapter": 21,
+   "verse": 18,
+   "word": 11,
+   "kjv": "he",
+   "modernized": "He",
+   "by": "word"
+  },
+  {
+   "book": "MAT",
+   "chapter": 21,
+   "verse": 18,
+   "word": 6,
+   "kjv": "he",
+   "modernized": "He",
+   "by": "word"
+  },
+  {
+   "book": "MAT",
+   "chapter": 21,
    "verse": 19,
    "word": 3,
    "kjv": "he",
@@ -45436,6 +48631,15 @@
   {
    "book": "MAT",
    "chapter": 26,
+   "verse": 58,
+   "word": 4,
+   "kjv": "him",
+   "modernized": "Him",
+   "by": "word"
+  },
+  {
+   "book": "MAT",
+   "chapter": 26,
    "verse": 59,
    "word": 18,
    "kjv": "him",
@@ -45488,6 +48692,24 @@
    "word": 14,
    "kjv": "him",
    "modernized": "Him"
+  },
+  {
+   "book": "MAT",
+   "chapter": 26,
+   "verse": 68,
+   "word": 12,
+   "kjv": "thee",
+   "modernized": "Thee",
+   "by": "word"
+  },
+  {
+   "book": "MAT",
+   "chapter": 26,
+   "verse": 68,
+   "word": 5,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
   },
   {
    "book": "MAT",
@@ -46304,6 +49526,15 @@
    "word": 13,
    "kjv": "he",
    "modernized": "He"
+  },
+  {
+   "book": "MRK",
+   "chapter": 3,
+   "verse": 17,
+   "word": 14,
+   "kjv": "he",
+   "modernized": "He",
+   "by": "word"
   },
   {
    "book": "MRK",
@@ -47216,6 +50447,42 @@
    "word": 13,
    "kjv": "me",
    "modernized": "Me"
+  },
+  {
+   "book": "MRK",
+   "chapter": 10,
+   "verse": 1,
+   "word": 24,
+   "kjv": "him",
+   "modernized": "Him",
+   "by": "word"
+  },
+  {
+   "book": "MRK",
+   "chapter": 10,
+   "verse": 1,
+   "word": 28,
+   "kjv": "he",
+   "modernized": "He",
+   "by": "word"
+  },
+  {
+   "book": "MRK",
+   "chapter": 10,
+   "verse": 1,
+   "word": 31,
+   "kjv": "he",
+   "modernized": "He",
+   "by": "word"
+  },
+  {
+   "book": "MRK",
+   "chapter": 10,
+   "verse": 1,
+   "word": 2,
+   "kjv": "he",
+   "modernized": "He",
+   "by": "word"
   },
   {
    "book": "MRK",
@@ -48384,6 +51651,24 @@
    "word": 9,
    "kjv": "his",
    "modernized": "His"
+  },
+  {
+   "book": "LUK",
+   "chapter": 1,
+   "verse": 49,
+   "word": 15,
+   "kjv": "his",
+   "modernized": "His",
+   "by": "word"
+  },
+  {
+   "book": "LUK",
+   "chapter": 1,
+   "verse": 49,
+   "word": 2,
+   "kjv": "he",
+   "modernized": "He",
+   "by": "word"
   },
   {
    "book": "LUK",
@@ -49540,6 +52825,33 @@
   {
    "book": "LUK",
    "chapter": 8,
+   "verse": 45,
+   "word": 22,
+   "kjv": "thee",
+   "modernized": "Thee",
+   "by": "word"
+  },
+  {
+   "book": "LUK",
+   "chapter": 8,
+   "verse": 45,
+   "word": 25,
+   "kjv": "thee",
+   "modernized": "Thee",
+   "by": "word"
+  },
+  {
+   "book": "LUK",
+   "chapter": 8,
+   "verse": 45,
+   "word": 28,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "LUK",
+   "chapter": 8,
    "verse": 46,
    "word": 7,
    "kjv": "me",
@@ -49648,6 +52960,33 @@
    "word": 10,
    "kjv": "my",
    "modernized": "My"
+  },
+  {
+   "book": "LUK",
+   "chapter": 9,
+   "verse": 26,
+   "word": 22,
+   "kjv": "he",
+   "modernized": "He",
+   "by": "word"
+  },
+  {
+   "book": "LUK",
+   "chapter": 9,
+   "verse": 26,
+   "word": 26,
+   "kjv": "his",
+   "modernized": "His",
+   "by": "word"
+  },
+  {
+   "book": "LUK",
+   "chapter": 9,
+   "verse": 26,
+   "word": 31,
+   "kjv": "his",
+   "modernized": "His",
+   "by": "word"
   },
   {
    "book": "LUK",
@@ -49948,6 +53287,15 @@
   {
    "book": "LUK",
    "chapter": 10,
+   "verse": 25,
+   "word": 10,
+   "kjv": "him",
+   "modernized": "Him",
+   "by": "word"
+  },
+  {
+   "book": "LUK",
+   "chapter": 10,
    "verse": 39,
    "word": 16,
    "kjv": "his",
@@ -50120,6 +53468,24 @@
    "word": 12,
    "kjv": "him",
    "modernized": "Him"
+  },
+  {
+   "book": "LUK",
+   "chapter": 13,
+   "verse": 31,
+   "word": 23,
+   "kjv": "thee",
+   "modernized": "Thee",
+   "by": "word"
+  },
+  {
+   "book": "LUK",
+   "chapter": 13,
+   "verse": 31,
+   "word": 14,
+   "kjv": "thee",
+   "modernized": "Thee",
+   "by": "word"
   },
   {
    "book": "LUK",
@@ -51136,6 +54502,15 @@
    "word": 8,
    "kjv": "him",
    "modernized": "Him"
+  },
+  {
+   "book": "LUK",
+   "chapter": 23,
+   "verse": 39,
+   "word": 11,
+   "kjv": "him",
+   "modernized": "Him",
+   "by": "word"
   },
   {
    "book": "LUK",
@@ -53572,6 +56947,15 @@
   {
    "book": "JHN",
    "chapter": 8,
+   "verse": 33,
+   "word": 18,
+   "kjv": "thou",
+   "modernized": "Thou",
+   "by": "word"
+  },
+  {
+   "book": "JHN",
+   "chapter": 8,
    "verse": 37,
    "word": 13,
    "kjv": "me",
@@ -54108,6 +57492,24 @@
   {
    "book": "JHN",
    "chapter": 10,
+   "verse": 32,
+   "word": 22,
+   "kjv": "me",
+   "modernized": "Me",
+   "by": "word"
+  },
+  {
+   "book": "JHN",
+   "chapter": 10,
+   "verse": 32,
+   "word": 12,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
+  },
+  {
+   "book": "JHN",
+   "chapter": 10,
    "verse": 33,
    "word": 12,
    "kjv": "thee",
@@ -54184,6 +57586,15 @@
    "word": 17,
    "kjv": "he",
    "modernized": "He"
+  },
+  {
+   "book": "JHN",
+   "chapter": 10,
+   "verse": 41,
+   "word": 5,
+   "kjv": "him",
+   "modernized": "Him",
+   "by": "word"
   },
   {
    "book": "JHN",
@@ -55128,6 +58539,24 @@
    "word": 34,
    "kjv": "he",
    "modernized": "He"
+  },
+  {
+   "book": "JHN",
+   "chapter": 14,
+   "verse": 12,
+   "word": 11,
+   "kjv": "me",
+   "modernized": "Me",
+   "by": "word"
+  },
+  {
+   "book": "JHN",
+   "chapter": 14,
+   "verse": 12,
+   "word": 33,
+   "kjv": "my",
+   "modernized": "My",
+   "by": "word"
   },
   {
    "book": "JHN",
@@ -58636,6 +62065,24 @@
   {
    "book": "ROM",
    "chapter": 9,
+   "verse": 19,
+   "word": 17,
+   "kjv": "his",
+   "modernized": "His",
+   "by": "word"
+  },
+  {
+   "book": "ROM",
+   "chapter": 9,
+   "verse": 19,
+   "word": 9,
+   "kjv": "he",
+   "modernized": "He",
+   "by": "word"
+  },
+  {
+   "book": "ROM",
+   "chapter": 9,
    "verse": 20,
    "word": 24,
    "kjv": "thou",
@@ -61080,6 +64527,24 @@
    "word": 20,
    "kjv": "he",
    "modernized": "He"
+  },
+  {
+   "book": "HEB",
+   "chapter": 10,
+   "verse": 5,
+   "word": 8,
+   "kjv": "he",
+   "modernized": "He",
+   "by": "word"
+  },
+  {
+   "book": "HEB",
+   "chapter": 10,
+   "verse": 5,
+   "word": 3,
+   "kjv": "he",
+   "modernized": "He",
+   "by": "word"
   },
   {
    "book": "HEB",
@@ -62475,6 +65940,42 @@
   },
   {
    "book": "REV",
+   "chapter": 10,
+   "verse": 7,
+   "word": 26,
+   "kjv": "he",
+   "modernized": "He",
+   "by": "word"
+  },
+  {
+   "book": "REV",
+   "chapter": 10,
+   "verse": 7,
+   "word": 30,
+   "kjv": "his",
+   "modernized": "His",
+   "by": "word"
+  },
+  {
+   "book": "REV",
+   "chapter": 11,
+   "verse": 15,
+   "word": 28,
+   "kjv": "his",
+   "modernized": "His",
+   "by": "word"
+  },
+  {
+   "book": "REV",
+   "chapter": 11,
+   "verse": 15,
+   "word": 31,
+   "kjv": "he",
+   "modernized": "He",
+   "by": "word"
+  },
+  {
+   "book": "REV",
    "chapter": 11,
    "verse": 19,
    "word": 15,
@@ -62496,6 +65997,15 @@
    "word": 29,
    "kjv": "his",
    "modernized": "His"
+  },
+  {
+   "book": "REV",
+   "chapter": 12,
+   "verse": 10,
+   "word": 26,
+   "kjv": "his",
+   "modernized": "His",
+   "by": "word"
   },
   {
    "book": "REV",
@@ -62929,15 +66439,6 @@
   },
   {
    "book": "GEN",
-   "chapter": 17,
-   "verse": 10,
-   "group": "me",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "This is my covenant, which ye shall keep, between me and you and thy seed after thee; Every man child among you shall be circumcised."
-  },
-  {
-   "book": "GEN",
    "chapter": 18,
    "verse": 19,
    "group": "he",
@@ -63109,30 +66610,12 @@
   },
   {
    "book": "EXO",
-   "chapter": 3,
-   "verse": 20,
-   "group": "me",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "And I will stretch out my hand, and smite Egypt with all my wonders which I will do in the midst thereof: and after that he will let you go."
-  },
-  {
-   "book": "EXO",
    "chapter": 4,
    "verse": 14,
    "group": "he",
    "bsb": 7,
    "kjv": 6,
    "text": "And the anger of the Lord was kindled against Moses, and he said, Is not Aaron the Levite thy brother? I know that he can speak well. And also, behold, he cometh forth to meet thee: and when he seeth thee, he will be glad in his heart."
-  },
-  {
-   "book": "EXO",
-   "chapter": 4,
-   "verse": 22,
-   "group": "me",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "And thou shalt say unto Pharaoh, Thus saith the Lord, Israel is my son, even my firstborn:"
   },
   {
    "book": "EXO",
@@ -63160,24 +66643,6 @@
    "bsb": 2,
    "kjv": 0,
    "text": "That the Lord spake unto Moses, saying, I am the Lord: speak thou unto Pharaoh king of Egypt all that I say unto thee."
-  },
-  {
-   "book": "EXO",
-   "chapter": 7,
-   "verse": 3,
-   "group": "me",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "And I will harden Pharaoh’s heart, and multiply my signs and my wonders in the land of Egypt."
-  },
-  {
-   "book": "EXO",
-   "chapter": 7,
-   "verse": 4,
-   "group": "me",
-   "bsb": 2,
-   "kjv": 3,
-   "text": "But Pharaoh shall not hearken unto you, that I may lay my hand upon Egypt, and bring forth mine armies, and my people the children of Israel, out of the land of Egypt by great judgments."
   },
   {
    "book": "EXO",
@@ -63289,15 +66754,6 @@
   },
   {
    "book": "EXO",
-   "chapter": 16,
-   "verse": 28,
-   "group": "me",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "And the Lord said unto Moses, How long refuse ye to keep my commandments and my laws?"
-  },
-  {
-   "book": "EXO",
    "chapter": 17,
    "verse": 15,
    "group": "me",
@@ -63370,15 +66826,6 @@
   },
   {
    "book": "EXO",
-   "chapter": 32,
-   "verse": 32,
-   "group": "you",
-   "bsb": 2,
-   "kjv": 4,
-   "text": "Yet now, if thou wilt forgive their sin—; and if not, blot me, I pray thee, out of thy book which thou hast written."
-  },
-  {
-   "book": "EXO",
    "chapter": 33,
    "verse": 13,
    "group": "you",
@@ -63394,15 +66841,6 @@
    "bsb": 3,
    "kjv": 4,
    "text": "For wherein shall it be known here that I and thy people have found grace in thy sight? is it not in that thou goest with us? so shall we be separated, I and thy people, from all the people that are upon the face of the earth."
-  },
-  {
-   "book": "EXO",
-   "chapter": 33,
-   "verse": 18,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "And he said, I beseech thee, shew me thy glory."
   },
   {
    "book": "EXO",
@@ -63430,15 +66868,6 @@
    "bsb": 2,
    "kjv": 0,
    "text": "Keeping mercy for thousands, forgiving iniquity and transgression and sin, and that will by no means clear the guilty; visiting the iniquity of the fathers upon the children, and upon the children’s children, unto the third and to the fourth generation."
-  },
-  {
-   "book": "EXO",
-   "chapter": 34,
-   "verse": 9,
-   "group": "you",
-   "bsb": 2,
-   "kjv": 3,
-   "text": "And he said, If now I have found grace in thy sight, O Lord, let my Lord, I pray thee, go among us; for it is a stiffnecked people; and pardon our iniquity and our sin, and take us for thine inheritance."
   },
   {
    "book": "EXO",
@@ -63475,24 +66904,6 @@
    "bsb": 3,
    "kjv": 2,
    "text": "And bringeth it not unto the door of the tabernacle of the congregation, to offer an offering unto the Lord before the tabernacle of the Lord; blood shall be imputed unto that man; he hath shed blood; and that man shall be cut off from among his people:"
-  },
-  {
-   "book": "LEV",
-   "chapter": 18,
-   "verse": 26,
-   "group": "me",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "Ye shall therefore keep my statutes and my judgments, and shall not commit any of these abominations; neither any of your own nation, nor any stranger that sojourneth among you:"
-  },
-  {
-   "book": "LEV",
-   "chapter": 20,
-   "verse": 22,
-   "group": "me",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "Ye shall therefore keep all my statutes, and all my judgments, and do them: that the land, whither I bring you to dwell therein, spue you not out."
   },
   {
    "book": "NUM",
@@ -63542,29 +66953,11 @@
   {
    "book": "NUM",
    "chapter": 14,
-   "verse": 17,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "And now, I beseech thee, let the power of my Lord be great, according as thou hast spoken, saying,"
-  },
-  {
-   "book": "NUM",
-   "chapter": 14,
    "verse": 18,
    "group": "he",
    "bsb": 2,
    "kjv": 0,
    "text": "The Lord is longsuffering, and of great mercy, forgiving iniquity and transgression, and by no means clearing the guilty, visiting the iniquity of the fathers upon the children unto the third and fourth generation."
-  },
-  {
-   "book": "NUM",
-   "chapter": 14,
-   "verse": 19,
-   "group": "you",
-   "bsb": 2,
-   "kjv": 3,
-   "text": "Pardon, I beseech thee, the iniquity of this people according unto the greatness of thy mercy, and as thou hast forgiven this people, from Egypt even until now."
   },
   {
    "book": "NUM",
@@ -63776,15 +67169,6 @@
   {
    "book": "DEU",
    "chapter": 4,
-   "verse": 35,
-   "group": "he",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "Unto thee it was shewed, that thou mightest know that the Lord he is God; there is none else beside him."
-  },
-  {
-   "book": "DEU",
-   "chapter": 4,
    "verse": 36,
    "group": "he",
    "bsb": 5,
@@ -63988,24 +67372,6 @@
    "bsb": 3,
    "kjv": 2,
    "text": "Likewise when the Lord sent you from Kadesh–barnea, saying, Go up and possess the land which I have given you; then ye rebelled against the commandment of the Lord your God, and ye believed him not, nor hearkened to his voice."
-  },
-  {
-   "book": "DEU",
-   "chapter": 9,
-   "verse": 26,
-   "group": "you",
-   "bsb": 4,
-   "kjv": 5,
-   "text": "I prayed therefore unto the Lord, and said, O Lord God, destroy not thy people and thine inheritance, which thou hast redeemed through thy greatness, which thou hast brought forth out of Egypt with a mighty hand."
-  },
-  {
-   "book": "DEU",
-   "chapter": 9,
-   "verse": 29,
-   "group": "you",
-   "bsb": 4,
-   "kjv": 5,
-   "text": "Yet they are thy people and thine inheritance, which thou broughtest out by thy mighty power and by thy stretched out arm."
   },
   {
    "book": "DEU",
@@ -64351,15 +67717,6 @@
   },
   {
    "book": "DEU",
-   "chapter": 31,
-   "verse": 16,
-   "group": "me",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "And the Lord said unto Moses, Behold, thou shalt sleep with thy fathers; and this people will rise up, and go a whoring after the gods of the strangers of the land, whither they go to be among them, and will forsake me, and break my covenant which I have made with them."
-  },
-  {
-   "book": "DEU",
    "chapter": 32,
    "verse": 5,
    "group": "he",
@@ -64429,15 +67786,6 @@
    "bsb": 4,
    "kjv": 3,
    "text": "Yea, he loved the people; all his saints are in thy hand: and they sat down at thy feet; every one shall receive of thy words."
-  },
-  {
-   "book": "DEU",
-   "chapter": 33,
-   "verse": 8,
-   "group": "you",
-   "bsb": 4,
-   "kjv": 5,
-   "text": "And of Levi he said, Let thy Thummim and thy Urim be with thy holy one, whom thou didst prove at Massah, and with whom thou didst strive at the waters of Meribah;"
   },
   {
    "book": "DEU",
@@ -64537,15 +67885,6 @@
    "bsb": 2,
    "kjv": 3,
    "text": "And they said unto him, From a very far country thy servants are come because of the name of the Lord thy God: for we have heard the fame of him, and all that he did in Egypt,"
-  },
-  {
-   "book": "JOS",
-   "chapter": 9,
-   "verse": 27,
-   "group": "he",
-   "bsb": 2,
-   "kjv": 1,
-   "text": "And Joshua made them that day hewers of wood and drawers of water for the congregation, and for the altar of the Lord, even unto this day, in the place which he should choose."
   },
   {
    "book": "JOS",
@@ -64666,24 +68005,6 @@
   },
   {
    "book": "JDG",
-   "chapter": 2,
-   "verse": 20,
-   "group": "me",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "And the anger of the Lord was hot against Israel; and he said, Because that this people hath transgressed my covenant which I commanded their fathers, and have not hearkened unto my voice;"
-  },
-  {
-   "book": "JDG",
-   "chapter": 3,
-   "verse": 8,
-   "group": "he",
-   "bsb": 2,
-   "kjv": 1,
-   "text": "Therefore the anger of the Lord was hot against Israel, and he sold them into the hand of Chushan–rishathaim king of Mesopotamia: and the children of Israel served Chushan–rishathaim eight years."
-  },
-  {
-   "book": "JDG",
    "chapter": 3,
    "verse": 9,
    "group": "he",
@@ -64762,15 +68083,6 @@
    "bsb": 2,
    "kjv": 3,
    "text": "And Gideon went in, and made ready a kid, and unleavened cakes of an ephah of flour: the flesh he put in a basket, and he put the broth in a pot, and brought it out unto him under the oak, and presented it."
-  },
-  {
-   "book": "JDG",
-   "chapter": 10,
-   "verse": 15,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 3,
-   "text": "And the children of Israel said unto the Lord, We have sinned: do thou unto us whatsoever seemeth good unto thee; deliver us only, we pray thee, this day."
   },
   {
    "book": "JDG",
@@ -64861,15 +68173,6 @@
    "bsb": 3,
    "kjv": 4,
    "text": "And I will raise me up a faithful priest, that shall do according to that which is in mine heart and in my mind: and I will build him a sure house; and he shall walk before mine anointed for ever."
-  },
-  {
-   "book": "1SA",
-   "chapter": 3,
-   "verse": 9,
-   "group": "he",
-   "bsb": 3,
-   "kjv": 2,
-   "text": "Therefore Eli said unto Samuel, Go, lie down: and it shall be, if he call thee, that thou shalt say, Speak, Lord; for thy servant heareth. So Samuel went and lay down in his place."
   },
   {
    "book": "1SA",
@@ -64996,15 +68299,6 @@
    "bsb": 2,
    "kjv": 0,
    "text": "Therefore Saul said unto the Lord God of Israel, Give a perfect lot. And Saul and Jonathan were taken: but the people escaped."
-  },
-  {
-   "book": "1SA",
-   "chapter": 15,
-   "verse": 11,
-   "group": "me",
-   "bsb": 2,
-   "kjv": 3,
-   "text": "It repenteth me that I have set up Saul to be king: for he is turned back from following me, and hath not performed my commandments. And it grieved Samuel; and he cried unto the Lord all night."
   },
   {
    "book": "1SA",
@@ -65305,24 +68599,6 @@
   },
   {
    "book": "1KI",
-   "chapter": 3,
-   "verse": 14,
-   "group": "me",
-   "bsb": 2,
-   "kjv": 3,
-   "text": "And if thou wilt walk in my ways, to keep my statutes and my commandments, as thy father David did walk, then I will lengthen thy days."
-  },
-  {
-   "book": "1KI",
-   "chapter": 6,
-   "verse": 12,
-   "group": "me",
-   "bsb": 3,
-   "kjv": 4,
-   "text": "Concerning this house which thou art in building, if thou wilt walk in my statutes, and execute my judgments, and keep all my commandments to walk in them; then will I perform my word with thee, which I spake unto David thy father:"
-  },
-  {
-   "book": "1KI",
    "chapter": 8,
    "verse": 20,
    "group": "he",
@@ -65414,15 +68690,6 @@
   {
    "book": "1KI",
    "chapter": 8,
-   "verse": 42,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 3,
-   "text": "For they shall hear of thy great name, and of thy strong hand, and of thy stretched out arm;) when he shall come and pray toward this house;"
-  },
-  {
-   "book": "1KI",
-   "chapter": 8,
    "verse": 45,
    "group": "you",
    "bsb": 2,
@@ -65494,66 +68761,12 @@
   },
   {
    "book": "1KI",
-   "chapter": 9,
-   "verse": 4,
-   "group": "me",
-   "bsb": 2,
-   "kjv": 3,
-   "text": "And if thou wilt walk before me, as David thy father walked, in integrity of heart, and in uprightness, to do according to all that I have commanded thee, and wilt keep my statutes and my judgments:"
-  },
-  {
-   "book": "1KI",
-   "chapter": 9,
-   "verse": 6,
-   "group": "me",
-   "bsb": 1,
-   "kjv": 3,
-   "text": "But if ye shall at all turn from following me, ye or your children, and will not keep my commandments and my statutes which I have set before you, but go and serve other gods, and worship them:"
-  },
-  {
-   "book": "1KI",
    "chapter": 11,
    "verse": 10,
    "group": "he",
    "bsb": 1,
    "kjv": 3,
    "text": "And had commanded him concerning this thing, that he should not go after other gods: but he kept not that which the Lord commanded."
-  },
-  {
-   "book": "1KI",
-   "chapter": 11,
-   "verse": 33,
-   "group": "me",
-   "bsb": 4,
-   "kjv": 5,
-   "text": "Because that they have forsaken me, and have worshipped Ashtoreth the goddess of the Zidonians, Chemosh the god of the Moabites, and Milcom the god of the children of Ammon, and have not walked in my ways, to do that which is right in mine eyes, and to keep my statutes and my judgments, as did David his father."
-  },
-  {
-   "book": "1KI",
-   "chapter": 11,
-   "verse": 34,
-   "group": "me",
-   "bsb": 2,
-   "kjv": 3,
-   "text": "Howbeit I will not take the whole kingdom out of his hand: but I will make him prince all the days of his life for David my servant’s sake, whom I chose, because he kept my commandments and my statutes:"
-  },
-  {
-   "book": "1KI",
-   "chapter": 11,
-   "verse": 36,
-   "group": "me",
-   "bsb": 3,
-   "kjv": 4,
-   "text": "And unto his son will I give one tribe, that David my servant may have a light alway before me in Jerusalem, the city which I have chosen me to put my name there."
-  },
-  {
-   "book": "1KI",
-   "chapter": 11,
-   "verse": 38,
-   "group": "me",
-   "bsb": 4,
-   "kjv": 5,
-   "text": "And it shall be, if thou wilt hearken unto all that I command thee, and wilt walk in my ways, and do that is right in my sight, to keep my statutes and my commandments, as David my servant did; that I will be with thee, and build thee a sure house, as I built for David, and will give Israel unto thee."
   },
   {
    "book": "1KI",
@@ -65674,15 +68887,6 @@
   },
   {
    "book": "2KI",
-   "chapter": 13,
-   "verse": 3,
-   "group": "he",
-   "bsb": 2,
-   "kjv": 1,
-   "text": "And the anger of the Lord was kindled against Israel, and he delivered them into the hand of Hazael king of Syria, and into the hand of Ben–hadad the son of Hazael, all their days."
-  },
-  {
-   "book": "2KI",
    "chapter": 14,
    "verse": 25,
    "group": "he",
@@ -65697,15 +68901,6 @@
    "group": "he",
    "bsb": 1,
    "kjv": 0,
-   "text": "Yet the Lord testified against Israel, and against Judah, by all the prophets, and by all the seers, saying, Turn ye from your evil ways, and keep my commandments and my statutes, according to all the law which I commanded your fathers, and which I sent to you by my servants the prophets."
-  },
-  {
-   "book": "2KI",
-   "chapter": 17,
-   "verse": 13,
-   "group": "me",
-   "bsb": 2,
-   "kjv": 3,
    "text": "Yet the Lord testified against Israel, and against Judah, by all the prophets, and by all the seers, saying, Turn ye from your evil ways, and keep my commandments and my statutes, according to all the law which I commanded your fathers, and which I sent to you by my servants the prophets."
   },
   {
@@ -65792,15 +68987,6 @@
   {
    "book": "2KI",
    "chapter": 20,
-   "verse": 3,
-   "group": "you",
-   "bsb": 2,
-   "kjv": 3,
-   "text": "I beseech thee, O Lord, remember now how I have walked before thee in truth and with a perfect heart, and have done that which is good in thy sight. And Hezekiah wept sore."
-  },
-  {
-   "book": "2KI",
-   "chapter": 20,
    "verse": 9,
    "group": "he",
    "bsb": 2,
@@ -65824,15 +69010,6 @@
    "bsb": 1,
    "kjv": 3,
    "text": "And the Lord sent against him bands of the Chaldees, and bands of the Syrians, and bands of the Moabites, and bands of the children of Ammon, and sent them against Judah to destroy it, according to the word of the Lord, which he spake by his servants the prophets."
-  },
-  {
-   "book": "1CH",
-   "chapter": 4,
-   "verse": 10,
-   "group": "you",
-   "bsb": 2,
-   "kjv": 3,
-   "text": "And Jabez called on the God of Israel, saying, Oh that thou wouldest bless me indeed, and enlarge my coast, and that thine hand might be with me, and that thou wouldest keep me from evil, that it may not grieve me! And God granted him that which he requested."
   },
   {
    "book": "1CH",
@@ -65878,15 +69055,6 @@
    "bsb": 3,
    "kjv": 2,
    "text": "Give unto the Lord the glory due unto his name: bring an offering, and come before him: worship the Lord in the beauty of holiness."
-  },
-  {
-   "book": "1CH",
-   "chapter": 16,
-   "verse": 35,
-   "group": "you",
-   "bsb": 2,
-   "kjv": 3,
-   "text": "And say ye, Save us, O God of our salvation, and gather us together, and deliver us from the heathen, that we may give thanks to thy holy name, and glory in thy praise."
   },
   {
    "book": "1CH",
@@ -65968,15 +69136,6 @@
    "bsb": 3,
    "kjv": 4,
    "text": "And he said unto me, Solomon thy son, he shall build my house and my courts: for I have chosen him to be my son, and I will be his father."
-  },
-  {
-   "book": "1CH",
-   "chapter": 28,
-   "verse": 7,
-   "group": "me",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "Moreover I will establish his kingdom for ever, if he be constant to do my commandments and my judgments, as at this day."
   },
   {
    "book": "1CH",
@@ -66062,15 +69221,6 @@
   {
    "book": "2CH",
    "chapter": 6,
-   "verse": 17,
-   "group": "you",
-   "bsb": 2,
-   "kjv": 3,
-   "text": "Now then, O Lord God of Israel, let thy word be verified, which thou hast spoken unto thy servant David."
-  },
-  {
-   "book": "2CH",
-   "chapter": 6,
    "verse": 19,
    "group": "you",
    "bsb": 4,
@@ -66134,15 +69284,6 @@
   {
    "book": "2CH",
    "chapter": 6,
-   "verse": 32,
-   "group": "you",
-   "bsb": 3,
-   "kjv": 4,
-   "text": "Moreover concerning the stranger, which is not of thy people Israel, but is come from a far country for thy great name’s sake, and thy mighty hand, and thy stretched out arm; if they come and pray in this house;"
-  },
-  {
-   "book": "2CH",
-   "chapter": 6,
    "verse": 35,
    "group": "you",
    "bsb": 2,
@@ -66161,15 +69302,6 @@
   {
    "book": "2CH",
    "chapter": 6,
-   "verse": 40,
-   "group": "you",
-   "bsb": 2,
-   "kjv": 3,
-   "text": "Now, my God, let, I beseech thee, thine eyes be open, and let thine ears be attent unto the prayer that is made in this place."
-  },
-  {
-   "book": "2CH",
-   "chapter": 6,
    "verse": 42,
    "group": "you",
    "bsb": 3,
@@ -66184,24 +69316,6 @@
    "bsb": 1,
    "kjv": 2,
    "text": "And on the three and twentieth day of the seventh month he sent the people away into their tents, glad and merry in heart for the goodness that the Lord had shewed unto David, and to Solomon, and to Israel his people."
-  },
-  {
-   "book": "2CH",
-   "chapter": 7,
-   "verse": 17,
-   "group": "me",
-   "bsb": 2,
-   "kjv": 3,
-   "text": "And as for thee, if thou wilt walk before me, as David thy father walked, and do according to all that I have commanded thee, and shalt observe my statutes and my judgments;"
-  },
-  {
-   "book": "2CH",
-   "chapter": 7,
-   "verse": 20,
-   "group": "me",
-   "bsb": 2,
-   "kjv": 3,
-   "text": "Then will I pluck them up by the roots out of my land which I have given them; and this house, which I have sanctified for my name, will I cast out of my sight, and will make it to be a proverb and a byword among all nations."
   },
   {
    "book": "2CH",
@@ -66232,15 +69346,6 @@
   },
   {
    "book": "2CH",
-   "chapter": 17,
-   "verse": 4,
-   "group": "he",
-   "bsb": 3,
-   "kjv": 2,
-   "text": "But sought to the Lord God of his father, and walked in his commandments, and not after the doings of Israel."
-  },
-  {
-   "book": "2CH",
    "chapter": 18,
    "verse": 18,
    "group": "he",
@@ -66265,15 +69370,6 @@
    "bsb": 1,
    "kjv": 0,
    "text": "And Judah gathered themselves together, to ask help of the Lord: even out of all the cities of Judah they came to seek the Lord."
-  },
-  {
-   "book": "2CH",
-   "chapter": 20,
-   "verse": 8,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "And they dwelt therein, and have built thee a sanctuary therein for thy name, saying,"
   },
   {
    "book": "2CH",
@@ -66373,24 +69469,6 @@
    "bsb": 3,
    "kjv": 2,
    "text": "For if ye turn again unto the Lord, your brethren and your children shall find compassion before them that lead them captive, so that they shall come again into this land: for the Lord your God is gracious and merciful, and will not turn away his face from you, if ye return unto him."
-  },
-  {
-   "book": "2CH",
-   "chapter": 31,
-   "verse": 8,
-   "group": "he",
-   "bsb": 2,
-   "kjv": 1,
-   "text": "And when Hezekiah and the princes came and saw the heaps, they blessed the Lord, and his people Israel."
-  },
-  {
-   "book": "2CH",
-   "chapter": 32,
-   "verse": 12,
-   "group": "he",
-   "bsb": 3,
-   "kjv": 2,
-   "text": "Hath not the same Hezekiah taken away his high places and his altars, and commanded Judah and Jerusalem, saying, Ye shall worship before one altar, and burn incense upon it?"
   },
   {
    "book": "2CH",
@@ -66529,24 +69607,6 @@
   },
   {
    "book": "NEH",
-   "chapter": 2,
-   "verse": 20,
-   "group": "he",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "Then answered I them, and said unto them, The God of heaven, he will prosper us; therefore we his servants will arise and build: but ye have no portion, nor right, nor memorial, in Jerusalem."
-  },
-  {
-   "book": "NEH",
-   "chapter": 4,
-   "verse": 5,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "And cover not their iniquity, and let not their sin be blotted out from before thee: for they have provoked thee to anger before the builders."
-  },
-  {
-   "book": "NEH",
    "chapter": 9,
    "verse": 6,
    "group": "you",
@@ -66634,24 +69694,6 @@
    "bsb": 1,
    "kjv": 0,
    "text": "Now therefore, our God, the great, the mighty, and the terrible God, who keepest covenant and mercy, let not all the trouble seem little before thee, that hath come upon us, on our kings, on our princes, and on our priests, and on our prophets, and on our fathers, and on all thy people, since the time of the kings of Assyria unto this day."
-  },
-  {
-   "book": "NEH",
-   "chapter": 9,
-   "verse": 32,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "Now therefore, our God, the great, the mighty, and the terrible God, who keepest covenant and mercy, let not all the trouble seem little before thee, that hath come upon us, on our kings, on our princes, and on our priests, and on our prophets, and on our fathers, and on all thy people, since the time of the kings of Assyria unto this day."
-  },
-  {
-   "book": "NEH",
-   "chapter": 9,
-   "verse": 34,
-   "group": "you",
-   "bsb": 3,
-   "kjv": 4,
-   "text": "Neither have our kings, our princes, our priests, nor our fathers, kept thy law, nor hearkened unto thy commandments and thy testimonies, wherewith thou didst testify against them."
   },
   {
    "book": "NEH",
@@ -66800,33 +69842,6 @@
   {
    "book": "JOB",
    "chapter": 10,
-   "verse": 9,
-   "group": "you",
-   "bsb": 2,
-   "kjv": 3,
-   "text": "Remember, I beseech thee, that thou hast made me as the clay; and wilt thou bring me into dust again?"
-  },
-  {
-   "book": "JOB",
-   "chapter": 10,
-   "verse": 14,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "If I sin, then thou markest me, and thou wilt not acquit me from mine iniquity."
-  },
-  {
-   "book": "JOB",
-   "chapter": 10,
-   "verse": 16,
-   "group": "you",
-   "bsb": 2,
-   "kjv": 3,
-   "text": "For it increaseth. Thou huntest me as a fierce lion: and again thou shewest thyself marvellous upon me."
-  },
-  {
-   "book": "JOB",
-   "chapter": 10,
    "verse": 17,
    "group": "you",
    "bsb": 2,
@@ -66899,38 +69914,11 @@
   {
    "book": "JOB",
    "chapter": 14,
-   "verse": 13,
-   "group": "you",
-   "bsb": 3,
-   "kjv": 4,
-   "text": "O that thou wouldest hide me in the grave, that thou wouldest keep me secret, until thy wrath be past, that thou wouldest appoint me a set time, and remember me!"
-  },
-  {
-   "book": "JOB",
-   "chapter": 14,
    "verse": 15,
    "group": "you",
    "bsb": 3,
    "kjv": 4,
    "text": "Thou shalt call, and I will answer thee: thou wilt have a desire to the work of thine hands."
-  },
-  {
-   "book": "JOB",
-   "chapter": 14,
-   "verse": 16,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "For now thou numberest my steps: dost thou not watch over my sin?"
-  },
-  {
-   "book": "JOB",
-   "chapter": 14,
-   "verse": 19,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "The waters wear the stones: thou washest away the things which grow out of the dust of the earth; and thou destroyest the hope of man."
   },
   {
    "book": "JOB",
@@ -67384,39 +70372,12 @@
   },
   {
    "book": "PSA",
-   "chapter": 2,
-   "verse": 8,
-   "group": "you",
-   "bsb": 2,
-   "kjv": 3,
-   "text": "Ask of me, and I shall give thee the heathen for thine inheritance, and the uttermost parts of the earth for thy possession."
-  },
-  {
-   "book": "PSA",
    "chapter": 4,
    "verse": 3,
    "group": "he",
    "bsb": 2,
    "kjv": 3,
    "text": "But know that the Lord hath set apart him that is godly for himself: the Lord will hear when I call unto him."
-  },
-  {
-   "book": "PSA",
-   "chapter": 4,
-   "verse": 6,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "There be many that say, Who will shew us any good? Lord, lift thou up the light of thy countenance upon us."
-  },
-  {
-   "book": "PSA",
-   "chapter": 5,
-   "verse": 7,
-   "group": "you",
-   "bsb": 3,
-   "kjv": 4,
-   "text": "But as for me, I will come into thy house in the multitude of thy mercy: and in thy fear will I worship toward thy holy temple."
   },
   {
    "book": "PSA",
@@ -67439,15 +70400,6 @@
   {
    "book": "PSA",
    "chapter": 7,
-   "verse": 6,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 3,
-   "text": "Arise, O Lord, in thine anger, lift up thyself because of the rage of mine enemies: and awake for me to the judgment that thou hast commanded."
-  },
-  {
-   "book": "PSA",
-   "chapter": 7,
    "verse": 12,
    "group": "he",
    "bsb": 3,
@@ -67466,29 +70418,11 @@
   {
    "book": "PSA",
    "chapter": 8,
-   "verse": 2,
-   "group": "you",
-   "bsb": 2,
-   "kjv": 3,
-   "text": "Out of the mouth of babes and sucklings hast thou ordained strength because of thine enemies, that thou mightest still the enemy and the avenger."
-  },
-  {
-   "book": "PSA",
-   "chapter": 8,
    "verse": 5,
    "group": "you",
    "bsb": 2,
    "kjv": 1,
    "text": "For thou hast made him a little lower than the angels, and hast crowned him with glory and honour."
-  },
-  {
-   "book": "PSA",
-   "chapter": 9,
-   "verse": 1,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "To the chief Musician upon Muth–labben, A Psalm of David. I will praise thee, O Lord, with my whole heart; I will shew forth all thy marvellous works."
   },
   {
    "book": "PSA",
@@ -67507,15 +70441,6 @@
    "bsb": 3,
    "kjv": 2,
    "text": "For thou hast maintained my right and my cause; thou satest in the throne judging right."
-  },
-  {
-   "book": "PSA",
-   "chapter": 9,
-   "verse": 6,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "O thou enemy, destructions are come to a perpetual end: and thou hast destroyed cities; their memorial is perished with them."
   },
   {
    "book": "PSA",
@@ -67690,15 +70615,6 @@
   },
   {
    "book": "PSA",
-   "chapter": 21,
-   "verse": 13,
-   "group": "you",
-   "bsb": 2,
-   "kjv": 3,
-   "text": "Be thou exalted, Lord, in thine own strength: so will we sing and praise thy power."
-  },
-  {
-   "book": "PSA",
    "chapter": 22,
    "verse": 3,
    "group": "you",
@@ -67768,15 +70684,6 @@
    "bsb": 2,
    "kjv": 1,
    "text": "Who is this King of glory? The Lord of hosts, he is the King of glory. Selah."
-  },
-  {
-   "book": "PSA",
-   "chapter": 25,
-   "verse": 6,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "Remember, O Lord, thy tender mercies and thy lovingkindnesses; for they have been ever of old."
   },
   {
    "book": "PSA",
@@ -67853,15 +70760,6 @@
   {
    "book": "PSA",
    "chapter": 31,
-   "verse": 2,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "Bow down thine ear to me; deliver me speedily: be thou my strong rock, for an house of defence to save me."
-  },
-  {
-   "book": "PSA",
-   "chapter": 31,
    "verse": 4,
    "group": "you",
    "bsb": 2,
@@ -67921,15 +70819,6 @@
    "bsb": 4,
    "kjv": 3,
    "text": "This poor man cried, and the Lord heard him, and saved him out of all his troubles."
-  },
-  {
-   "book": "PSA",
-   "chapter": 34,
-   "verse": 7,
-   "group": "he",
-   "bsb": 2,
-   "kjv": 1,
-   "text": "The angel of the Lord encampeth round about them that fear him, and delivereth them."
   },
   {
    "book": "PSA",
@@ -68015,29 +70904,11 @@
   {
    "book": "PSA",
    "chapter": 40,
-   "verse": 10,
-   "group": "you",
-   "bsb": 3,
-   "kjv": 5,
-   "text": "I have not hid thy righteousness within my heart; I have declared thy faithfulness and thy salvation: I have not concealed thy lovingkindness and thy truth from the great congregation."
-  },
-  {
-   "book": "PSA",
-   "chapter": 40,
    "verse": 11,
    "group": "you",
    "bsb": 2,
    "kjv": 4,
    "text": "Withhold not thou thy tender mercies from me, O Lord: let thy lovingkindness and thy truth continually preserve me."
-  },
-  {
-   "book": "PSA",
-   "chapter": 42,
-   "verse": 7,
-   "group": "you",
-   "bsb": 2,
-   "kjv": 3,
-   "text": "Deep calleth unto deep at the noise of thy waterspouts: all thy waves and thy billows are gone over me."
   },
   {
    "book": "PSA",
@@ -68113,51 +70984,6 @@
   },
   {
    "book": "PSA",
-   "chapter": 51,
-   "verse": 12,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "Restore unto me the joy of thy salvation; and uphold me with thy free spirit."
-  },
-  {
-   "book": "PSA",
-   "chapter": 51,
-   "verse": 14,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "Deliver me from bloodguiltiness, O God, thou God of my salvation: and my tongue shall sing aloud of thy righteousness."
-  },
-  {
-   "book": "PSA",
-   "chapter": 51,
-   "verse": 15,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "O Lord, open thou my lips; and my mouth shall shew forth thy praise."
-  },
-  {
-   "book": "PSA",
-   "chapter": 51,
-   "verse": 18,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "Do good in thy good pleasure unto Zion: build thou the walls of Jerusalem."
-  },
-  {
-   "book": "PSA",
-   "chapter": 52,
-   "verse": 4,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "Thou lovest all devouring words, O thou deceitful tongue."
-  },
-  {
-   "book": "PSA",
    "chapter": 52,
    "verse": 5,
    "group": "he",
@@ -68185,39 +71011,12 @@
   },
   {
    "book": "PSA",
-   "chapter": 56,
-   "verse": 13,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "For thou hast delivered my soul from death: wilt not thou deliver my feet from falling, that I may walk before God in the light of the living?"
-  },
-  {
-   "book": "PSA",
    "chapter": 57,
    "verse": 2,
    "group": "he",
    "bsb": 1,
    "kjv": 0,
    "text": "I will cry unto God most high; unto God that performeth all things for me."
-  },
-  {
-   "book": "PSA",
-   "chapter": 57,
-   "verse": 5,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "Be thou exalted, O God, above the heavens; let thy glory be above all the earth."
-  },
-  {
-   "book": "PSA",
-   "chapter": 57,
-   "verse": 11,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "Be thou exalted, O God, above the heavens: let thy glory be above all the earth."
   },
   {
    "book": "PSA",
@@ -68272,15 +71071,6 @@
    "bsb": 2,
    "kjv": 0,
    "text": "He shall abide before God for ever: O prepare mercy and truth, which may preserve him."
-  },
-  {
-   "book": "PSA",
-   "chapter": 63,
-   "verse": 2,
-   "group": "you",
-   "bsb": 2,
-   "kjv": 3,
-   "text": "To see thy power and thy glory, so as I have seen thee in the sanctuary."
   },
   {
    "book": "PSA",
@@ -68434,15 +71224,6 @@
    "bsb": 1,
    "kjv": 2,
    "text": "As a dream when one awaketh; so, O Lord, when thou awakest, thou shalt despise their image."
-  },
-  {
-   "book": "PSA",
-   "chapter": 74,
-   "verse": 2,
-   "group": "you",
-   "bsb": 4,
-   "kjv": 5,
-   "text": "Remember thy congregation, which thou hast purchased of old; the rod of thine inheritance, which thou hast redeemed; this mount Zion, wherein thou hast dwelt."
   },
   {
    "book": "PSA",
@@ -68726,15 +71507,6 @@
   {
    "book": "PSA",
    "chapter": 80,
-   "verse": 1,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "To the chief Musician upon Shoshannim–Eduth, A Psalm of Asaph. Give ear, O Shepherd of Israel, thou that leadest Joseph like a flock; thou that dwellest between the cherubims, shine forth."
-  },
-  {
-   "book": "PSA",
-   "chapter": 80,
    "verse": 16,
    "group": "you",
    "bsb": 2,
@@ -68851,30 +71623,12 @@
   },
   {
    "book": "PSA",
-   "chapter": 90,
-   "verse": 13,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "Return, O Lord, how long? and let it repent thee concerning thy servants."
-  },
-  {
-   "book": "PSA",
    "chapter": 93,
    "verse": 1,
    "group": "he",
    "bsb": 2,
    "kjv": 3,
    "text": "The Lord reigneth, he is clothed with majesty; the Lord is clothed with strength, wherewith he hath girded himself: the world also is stablished, that it cannot be moved."
-  },
-  {
-   "book": "PSA",
-   "chapter": 95,
-   "verse": 9,
-   "group": "me",
-   "bsb": 2,
-   "kjv": 3,
-   "text": "When your fathers tempted me, proved me, and saw my work."
   },
   {
    "book": "PSA",
@@ -68938,15 +71692,6 @@
    "bsb": 2,
    "kjv": 1,
    "text": "A Psalm of David. I will sing of mercy and judgment: unto thee, O Lord, will I sing."
-  },
-  {
-   "book": "PSA",
-   "chapter": 102,
-   "verse": 10,
-   "group": "you",
-   "bsb": 2,
-   "kjv": 3,
-   "text": "Because of thine indignation and thy wrath: for thou hast lifted me up, and cast me down."
   },
   {
    "book": "PSA",
@@ -69112,15 +71857,6 @@
   },
   {
    "book": "PSA",
-   "chapter": 108,
-   "verse": 5,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "Be thou exalted, O God, above the heavens: and thy glory above all the earth;"
-  },
-  {
-   "book": "PSA",
    "chapter": 109,
    "verse": 21,
    "group": "you",
@@ -69136,15 +71872,6 @@
    "bsb": 2,
    "kjv": 3,
    "text": "A Psalm of David. The Lord said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool."
-  },
-  {
-   "book": "PSA",
-   "chapter": 110,
-   "verse": 2,
-   "group": "you",
-   "bsb": 2,
-   "kjv": 3,
-   "text": "The Lord shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies."
   },
   {
    "book": "PSA",
@@ -69275,42 +72002,6 @@
   {
    "book": "PSA",
    "chapter": 119,
-   "verse": 18,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "Open thou mine eyes, that I may behold wondrous things out of thy law."
-  },
-  {
-   "book": "PSA",
-   "chapter": 119,
-   "verse": 25,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "My soul cleaveth unto the dust: quicken thou me according to thy word."
-  },
-  {
-   "book": "PSA",
-   "chapter": 119,
-   "verse": 28,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "My soul melteth for heaviness: strengthen thou me according unto thy word."
-  },
-  {
-   "book": "PSA",
-   "chapter": 119,
-   "verse": 37,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "Turn away mine eyes from beholding vanity; and quicken thou me in thy way."
-  },
-  {
-   "book": "PSA",
-   "chapter": 119,
    "verse": 43,
    "group": "you",
    "bsb": 2,
@@ -69329,15 +72020,6 @@
   {
    "book": "PSA",
    "chapter": 119,
-   "verse": 57,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "Thou art my portion, O Lord: I have said that I would keep thy words."
-  },
-  {
-   "book": "PSA",
-   "chapter": 119,
    "verse": 68,
    "group": "you",
    "bsb": 3,
@@ -69347,74 +72029,11 @@
   {
    "book": "PSA",
    "chapter": 119,
-   "verse": 76,
-   "group": "you",
-   "bsb": 3,
-   "kjv": 4,
-   "text": "Let, I pray thee, thy merciful kindness be for my comfort, according to thy word unto thy servant."
-  },
-  {
-   "book": "PSA",
-   "chapter": 119,
-   "verse": 86,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "All thy commandments are faithful: they persecute me wrongfully; help thou me."
-  },
-  {
-   "book": "PSA",
-   "chapter": 119,
    "verse": 102,
    "group": "you",
    "bsb": 3,
    "kjv": 2,
    "text": "I have not departed from thy judgments: for thou hast taught me."
-  },
-  {
-   "book": "PSA",
-   "chapter": 119,
-   "verse": 108,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "Accept, I beseech thee, the freewill offerings of my mouth, O Lord, and teach me thy judgments."
-  },
-  {
-   "book": "PSA",
-   "chapter": 119,
-   "verse": 117,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "Hold thou me up, and I shall be safe: and I will have respect unto thy statutes continually."
-  },
-  {
-   "book": "PSA",
-   "chapter": 119,
-   "verse": 126,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "It is time for thee, Lord, to work: for they have made void thy law."
-  },
-  {
-   "book": "PSA",
-   "chapter": 119,
-   "verse": 132,
-   "group": "you",
-   "bsb": 2,
-   "kjv": 3,
-   "text": "Look thou upon me, and be merciful unto me, as thou usest to do unto those that love thy name."
-  },
-  {
-   "book": "PSA",
-   "chapter": 119,
-   "verse": 138,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "Thy testimonies that thou hast commanded are righteous and very faithful."
   },
   {
    "book": "PSA",
@@ -69442,15 +72061,6 @@
    "bsb": 1,
    "kjv": 2,
    "text": "And he shall redeem Israel from all his iniquities."
-  },
-  {
-   "book": "PSA",
-   "chapter": 132,
-   "verse": 12,
-   "group": "me",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "If thy children will keep my covenant and my testimony that I shall teach them, their children shall also sit upon thy throne for evermore."
   },
   {
    "book": "PSA",
@@ -69787,15 +72397,6 @@
   },
   {
    "book": "ISA",
-   "chapter": 1,
-   "verse": 24,
-   "group": "me",
-   "bsb": 3,
-   "kjv": 4,
-   "text": "Therefore saith the Lord, the Lord of hosts, the mighty One of Israel, Ah, I will ease me of mine adversaries, and avenge me of mine enemies:"
-  },
-  {
-   "book": "ISA",
    "chapter": 3,
    "verse": 13,
    "group": "he",
@@ -70058,15 +72659,6 @@
   {
    "book": "ISA",
    "chapter": 26,
-   "verse": 13,
-   "group": "you",
-   "bsb": 2,
-   "kjv": 3,
-   "text": "O Lord our God, other lords beside thee have had dominion over us: but by thee only will we make mention of thy name."
-  },
-  {
-   "book": "ISA",
-   "chapter": 26,
    "verse": 14,
    "group": "you",
    "bsb": 2,
@@ -70081,15 +72673,6 @@
    "bsb": 5,
    "kjv": 4,
    "text": "Thou hast increased the nation, O Lord, thou hast increased the nation: thou art glorified: thou hadst removed it far unto all the ends of the earth."
-  },
-  {
-   "book": "ISA",
-   "chapter": 27,
-   "verse": 4,
-   "group": "me",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "Fury is not in me: who would set the briers and thorns against me in battle? I would go through them, I would burn them together."
   },
   {
    "book": "ISA",
@@ -70238,15 +72821,6 @@
   {
    "book": "ISA",
    "chapter": 34,
-   "verse": 5,
-   "group": "me",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "For my sword shall be bathed in heaven: behold, it shall come down upon Idumea, and upon the people of my curse, to judgment."
-  },
-  {
-   "book": "ISA",
-   "chapter": 34,
    "verse": 16,
    "group": "he",
    "bsb": 4,
@@ -70288,15 +72862,6 @@
    "bsb": 1,
    "kjv": 2,
    "text": "Now therefore, O Lord our God, save us from his hand, that all the kingdoms of the earth may know that thou art the Lord, even thou only."
-  },
-  {
-   "book": "ISA",
-   "chapter": 38,
-   "verse": 3,
-   "group": "you",
-   "bsb": 2,
-   "kjv": 3,
-   "text": "And said, Remember now, O Lord, I beseech thee, how I have walked before thee in truth and with a perfect heart, and have done that which is good in thy sight. And Hezekiah wept sore."
   },
   {
    "book": "ISA",
@@ -70399,15 +72964,6 @@
   },
   {
    "book": "ISA",
-   "chapter": 43,
-   "verse": 20,
-   "group": "me",
-   "bsb": 2,
-   "kjv": 3,
-   "text": "The beast of the field shall honour me, the dragons and the owls: because I give waters in the wilderness, and rivers in the desert, to give drink to my people, my chosen."
-  },
-  {
-   "book": "ISA",
    "chapter": 44,
    "verse": 7,
    "group": "me",
@@ -70450,15 +73006,6 @@
    "bsb": 1,
    "kjv": 0,
    "text": "Surely, shall one say, in the Lord have I righteousness and strength: even to him shall men come; and all that are incensed against him shall be ashamed."
-  },
-  {
-   "book": "ISA",
-   "chapter": 46,
-   "verse": 3,
-   "group": "me",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "Hearken unto me, O house of Jacob, and all the remnant of the house of Israel, which are borne by me from the belly, which are carried from the womb:"
   },
   {
    "book": "ISA",
@@ -70769,15 +73316,6 @@
   {
    "book": "ISA",
    "chapter": 63,
-   "verse": 2,
-   "group": "you",
-   "bsb": 2,
-   "kjv": 3,
-   "text": "Wherefore art thou red in thine apparel, and thy garments like him that treadeth in the winefat?"
-  },
-  {
-   "book": "ISA",
-   "chapter": 63,
    "verse": 7,
    "group": "he",
    "bsb": 2,
@@ -70841,15 +73379,6 @@
   {
    "book": "ISA",
    "chapter": 64,
-   "verse": 1,
-   "group": "you",
-   "bsb": 2,
-   "kjv": 3,
-   "text": "Oh that thou wouldest rend the heavens, that thou wouldest come down, that the mountains might flow down at thy presence,"
-  },
-  {
-   "book": "ISA",
-   "chapter": 64,
    "verse": 4,
    "group": "he",
    "bsb": 1,
@@ -70864,15 +73393,6 @@
    "bsb": 3,
    "kjv": 4,
    "text": "Thou meetest him that rejoiceth and worketh righteousness, those that remember thee in thy ways: behold, thou art wroth; for we have sinned: in those is continuance, and we shall be saved."
-  },
-  {
-   "book": "ISA",
-   "chapter": 64,
-   "verse": 9,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "Be not wroth very sore, O Lord, neither remember iniquity for ever: behold, see, we beseech thee, we are all thy people."
   },
   {
    "book": "ISA",
@@ -70912,15 +73432,6 @@
   },
   {
    "book": "JER",
-   "chapter": 1,
-   "verse": 12,
-   "group": "me",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "Then said the Lord unto me, Thou hast well seen: for I will hasten my word to perform it."
-  },
-  {
-   "book": "JER",
    "chapter": 2,
    "verse": 3,
    "group": "he",
@@ -70957,15 +73468,6 @@
   },
   {
    "book": "JER",
-   "chapter": 7,
-   "verse": 12,
-   "group": "me",
-   "bsb": 2,
-   "kjv": 3,
-   "text": "But go ye now unto my place which was in Shiloh, where I set my name at the first, and see what I did to it for the wickedness of my people Israel."
-  },
-  {
-   "book": "JER",
    "chapter": 10,
    "verse": 12,
    "group": "he",
@@ -70984,15 +73486,6 @@
   },
   {
    "book": "JER",
-   "chapter": 11,
-   "verse": 10,
-   "group": "me",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "They are turned back to the iniquities of their forefathers, which refused to hear my words; and they went after other gods to serve them: the house of Israel and the house of Judah have broken my covenant which I made with their fathers."
-  },
-  {
-   "book": "JER",
    "chapter": 13,
    "verse": 11,
    "group": "me",
@@ -71008,15 +73501,6 @@
    "bsb": 1,
    "kjv": 0,
    "text": "And I will dash them one against another, even the fathers and the sons together, saith the Lord: I will not pity, nor spare, nor have mercy, but destroy them."
-  },
-  {
-   "book": "JER",
-   "chapter": 13,
-   "verse": 25,
-   "group": "me",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "This is thy lot, the portion of thy measures from me, saith the Lord; because thou hast forgotten me, and trusted in falsehood."
   },
   {
    "book": "JER",
@@ -71155,15 +73639,6 @@
   },
   {
    "book": "JER",
-   "chapter": 27,
-   "verse": 5,
-   "group": "me",
-   "bsb": 1,
-   "kjv": 3,
-   "text": "I have made the earth, the man and the beast that are upon the ground, by my great power and by my outstretched arm, and have given it unto whom it seemed meet unto me."
-  },
-  {
-   "book": "JER",
    "chapter": 28,
    "verse": 6,
    "group": "he",
@@ -71245,15 +73720,6 @@
   },
   {
    "book": "JER",
-   "chapter": 32,
-   "verse": 31,
-   "group": "me",
-   "bsb": 2,
-   "kjv": 4,
-   "text": "For this city hath been to me as a provocation of mine anger and of my fury from the day that they built it even unto this day; that I should remove it from before my face,"
-  },
-  {
-   "book": "JER",
    "chapter": 34,
    "verse": 5,
    "group": "me",
@@ -71287,24 +73753,6 @@
    "bsb": 2,
    "kjv": 3,
    "text": "For thus saith the Lord of hosts, the God of Israel; As mine anger and my fury hath been poured forth upon the inhabitants of Jerusalem; so shall my fury be poured forth upon you, when ye shall enter into Egypt: and ye shall be an execration, and an astonishment, and a curse, and a reproach; and ye shall see this place no more."
-  },
-  {
-   "book": "JER",
-   "chapter": 44,
-   "verse": 6,
-   "group": "me",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "Wherefore my fury and mine anger was poured forth, and was kindled in the cities of Judah and in the streets of Jerusalem; and they are wasted and desolate, as at this day."
-  },
-  {
-   "book": "JER",
-   "chapter": 44,
-   "verse": 10,
-   "group": "me",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "They are not humbled even unto this day, neither have they feared, nor walked in my law, nor in my statutes, that I set before you and before your fathers."
   },
   {
    "book": "JER",
@@ -71587,15 +74035,6 @@
   },
   {
    "book": "EZK",
-   "chapter": 8,
-   "verse": 18,
-   "group": "me",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "Therefore will I also deal in fury: mine eye shall not spare, neither will I have pity: and though they cry in mine ears with a loud voice, yet will I not hear them."
-  },
-  {
-   "book": "EZK",
    "chapter": 9,
    "verse": 1,
    "group": "he",
@@ -71642,15 +74081,6 @@
   {
    "book": "EZK",
    "chapter": 16,
-   "verse": 18,
-   "group": "me",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "And tookest thy broidered garments, and coveredst them: and thou hast set mine oil and mine incense before them."
-  },
-  {
-   "book": "EZK",
-   "chapter": 16,
    "verse": 61,
    "group": "me",
    "bsb": 1,
@@ -71678,24 +74108,6 @@
   {
    "book": "EZK",
    "chapter": 20,
-   "verse": 12,
-   "group": "me",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "Moreover also I gave them my sabbaths, to be a sign between me and them, that they might know that I am the Lord that sanctify them."
-  },
-  {
-   "book": "EZK",
-   "chapter": 20,
-   "verse": 20,
-   "group": "me",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "And hallow my sabbaths; and they shall be a sign between me and you, that ye may know that I am the Lord your God."
-  },
-  {
-   "book": "EZK",
-   "chapter": 20,
    "verse": 41,
    "group": "me",
    "bsb": 1,
@@ -71710,15 +74122,6 @@
    "bsb": 1,
    "kjv": 2,
    "text": "I will overturn, overturn, overturn, it: and it shall be no more, until he come whose right it is; and I will give it him."
-  },
-  {
-   "book": "EZK",
-   "chapter": 22,
-   "verse": 20,
-   "group": "me",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "As they gather silver, and brass, and iron, and lead, and tin, into the midst of the furnace, to blow the fire upon it, to melt it; so will I gather you in mine anger and in my fury, and I will leave you there, and melt you."
   },
   {
    "book": "EZK",
@@ -71813,15 +74216,6 @@
   {
    "book": "EZK",
    "chapter": 36,
-   "verse": 6,
-   "group": "me",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "Prophesy therefore concerning the land of Israel, and say unto the mountains, and to the hills, to the rivers, and to the valleys, Thus saith the Lord God; Behold, I have spoken in my jealousy and in my fury, because ye have borne the shame of the heathen:"
-  },
-  {
-   "book": "EZK",
-   "chapter": 36,
    "verse": 23,
    "group": "me",
    "bsb": 2,
@@ -71848,24 +74242,6 @@
   },
   {
    "book": "EZK",
-   "chapter": 38,
-   "verse": 18,
-   "group": "me",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "And it shall come to pass at the same time when Gog shall come against the land of Israel, saith the Lord God, that my fury shall come up in my face."
-  },
-  {
-   "book": "EZK",
-   "chapter": 38,
-   "verse": 19,
-   "group": "me",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "For in my jealousy and in the fire of my wrath have I spoken, Surely in that day there shall be a great shaking in the land of Israel;"
-  },
-  {
-   "book": "EZK",
    "chapter": 39,
    "verse": 7,
    "group": "me",
@@ -71881,15 +74257,6 @@
    "bsb": 1,
    "kjv": 0,
    "text": "Yea, all the people of the land shall bury them; and it shall be to them a renown the day that I shall be glorified, saith the Lord God."
-  },
-  {
-   "book": "EZK",
-   "chapter": 39,
-   "verse": 21,
-   "group": "me",
-   "bsb": 1,
-   "kjv": 3,
-   "text": "And I will set my glory among the heathen, and all the heathen shall see my judgment that I have executed, and my hand that I have laid upon them."
   },
   {
    "book": "EZK",
@@ -71917,33 +74284,6 @@
    "bsb": 1,
    "kjv": 0,
    "text": "And it was according to the appearance of the vision which I saw, even according to the vision that I saw when I came to destroy the city: and the visions were like the vision that I saw by the river Chebar; and I fell upon my face."
-  },
-  {
-   "book": "EZK",
-   "chapter": 44,
-   "verse": 7,
-   "group": "me",
-   "bsb": 4,
-   "kjv": 5,
-   "text": "In that ye have brought into my sanctuary strangers, uncircumcised in heart, and uncircumcised in flesh, to be in my sanctuary, to pollute it, even my house, when ye offer my bread, the fat and the blood, and they have broken my covenant because of all your abominations."
-  },
-  {
-   "book": "EZK",
-   "chapter": 44,
-   "verse": 8,
-   "group": "me",
-   "bsb": 2,
-   "kjv": 3,
-   "text": "And ye have not kept the charge of mine holy things: but ye have set keepers of my charge in my sanctuary for yourselves."
-  },
-  {
-   "book": "EZK",
-   "chapter": 44,
-   "verse": 24,
-   "group": "me",
-   "bsb": 4,
-   "kjv": 5,
-   "text": "And in controversy they shall stand in judgment; and they shall judge it according to my judgments: and they shall keep my laws and my statutes in all mine assemblies; and they shall hallow my sabbaths."
   },
   {
    "book": "DAN",
@@ -72083,15 +74423,6 @@
   {
    "book": "DAN",
    "chapter": 9,
-   "verse": 5,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "We have sinned, and have committed iniquity, and have done wickedly, and have rebelled, even by departing from thy precepts and from thy judgments:"
-  },
-  {
-   "book": "DAN",
-   "chapter": 9,
    "verse": 11,
    "group": "you",
    "bsb": 3,
@@ -72151,15 +74482,6 @@
    "bsb": 2,
    "kjv": 0,
    "text": "The beginning of the word of the Lord by Hosea. And the Lord said to Hosea, Go, take unto thee a wife of whoredoms and children of whoredoms: for the land hath committed great whoredom, departing from the Lord."
-  },
-  {
-   "book": "HOS",
-   "chapter": 2,
-   "verse": 9,
-   "group": "me",
-   "bsb": 3,
-   "kjv": 4,
-   "text": "Therefore will I return, and take away my corn in the time thereof, and my wine in the season thereof, and will recover my wool and my flax given to cover her nakedness."
   },
   {
    "book": "HOS",
@@ -72277,15 +74599,6 @@
    "bsb": 2,
    "kjv": 1,
    "text": "And also upon the servants and upon the handmaids in those days will I pour out my spirit."
-  },
-  {
-   "book": "JOL",
-   "chapter": 3,
-   "verse": 5,
-   "group": "me",
-   "bsb": 2,
-   "kjv": 3,
-   "text": "Because ye have taken my silver and my gold, and have carried into your temples my goodly pleasant things:"
   },
   {
    "book": "AMO",
@@ -72443,15 +74756,6 @@
   {
    "book": "JON",
    "chapter": 2,
-   "verse": 3,
-   "group": "you",
-   "bsb": 2,
-   "kjv": 3,
-   "text": "For thou hadst cast me into the deep, in the midst of the seas; and the floods compassed me about: all thy billows and thy waves passed over me."
-  },
-  {
-   "book": "JON",
-   "chapter": 2,
    "verse": 8,
    "group": "he",
    "bsb": 1,
@@ -72538,15 +74842,6 @@
    "bsb": 1,
    "kjv": 0,
    "text": "And I will execute vengeance in anger and fury upon the heathen, such as they have not heard."
-  },
-  {
-   "book": "MIC",
-   "chapter": 6,
-   "verse": 9,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "The Lord’s voice crieth unto the city, and the man of wisdom shall see thy name: hear ye the rod, and who hath appointed it."
   },
   {
    "book": "MIC",
@@ -72775,15 +75070,6 @@
   },
   {
    "book": "ZEC",
-   "chapter": 13,
-   "verse": 9,
-   "group": "me",
-   "bsb": 2,
-   "kjv": 3,
-   "text": "And I will bring the third part through the fire, and will refine them as silver is refined, and will try them as gold is tried: they shall call on my name, and I will hear them: I will say, It is my people: and they shall say, The Lord is my God."
-  },
-  {
-   "book": "ZEC",
    "chapter": 14,
    "verse": 5,
    "group": "me",
@@ -72871,15 +75157,6 @@
    "bsb": 2,
    "kjv": 3,
    "text": "When he arose, he took the young child and his mother by night, and departed into Egypt:"
-  },
-  {
-   "book": "MAT",
-   "chapter": 2,
-   "verse": 20,
-   "group": "he",
-   "bsb": 2,
-   "kjv": 1,
-   "text": "Saying, Arise, and take the young child and his mother, and go into the land of Israel: for they are dead which sought the young child’s life."
   },
   {
    "book": "MAT",
@@ -73082,15 +75359,6 @@
   {
    "book": "MAT",
    "chapter": 8,
-   "verse": 29,
-   "group": "you",
-   "bsb": 2,
-   "kjv": 3,
-   "text": "And, behold, they cried out, saying, What have we to do with thee, Jesus, thou Son of God? art thou come hither to torment us before the time?"
-  },
-  {
-   "book": "MAT",
-   "chapter": 8,
    "verse": 34,
    "group": "he",
    "bsb": 2,
@@ -73276,15 +75544,6 @@
    "bsb": 2,
    "kjv": 3,
    "text": "And he stretched forth his hand toward his disciples, and said, Behold my mother and my brethren!"
-  },
-  {
-   "book": "MAT",
-   "chapter": 13,
-   "verse": 3,
-   "group": "he",
-   "bsb": 2,
-   "kjv": 1,
-   "text": "And he spake many things unto them in parables, saying, Behold, a sower went forth to sow;"
   },
   {
    "book": "MAT",
@@ -73604,15 +75863,6 @@
   {
    "book": "MAT",
    "chapter": 21,
-   "verse": 18,
-   "group": "he",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "Now in the morning as he returned into the city, he hungered."
-  },
-  {
-   "book": "MAT",
-   "chapter": 21,
    "verse": 23,
    "group": "he",
    "bsb": 1,
@@ -73829,15 +76079,6 @@
   {
    "book": "MAT",
    "chapter": 26,
-   "verse": 58,
-   "group": "he",
-   "bsb": 2,
-   "kjv": 1,
-   "text": "But Peter followed him afar off unto the high priest’s palace, and went in, and sat with the servants, to see the end."
-  },
-  {
-   "book": "MAT",
-   "chapter": 26,
    "verse": 63,
    "group": "he",
    "bsb": 1,
@@ -73852,15 +76093,6 @@
    "bsb": 2,
    "kjv": 3,
    "text": "But Jesus held his peace. And the high priest answered and said unto him, I adjure thee by the living God, that thou tell us whether thou be the Christ, the Son of God."
-  },
-  {
-   "book": "MAT",
-   "chapter": 26,
-   "verse": 68,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "Saying, Prophesy unto us, thou Christ, Who is he that smote thee?"
   },
   {
    "book": "MAT",
@@ -74194,15 +76426,6 @@
    "bsb": 2,
    "kjv": 1,
    "text": "And Simon he surnamed Peter;"
-  },
-  {
-   "book": "MRK",
-   "chapter": 3,
-   "verse": 17,
-   "group": "he",
-   "bsb": 2,
-   "kjv": 1,
-   "text": "And James the son of Zebedee, and John the brother of James; and he surnamed them Boanerges, which is, The sons of thunder:"
   },
   {
    "book": "MRK",
@@ -74671,15 +76894,6 @@
    "bsb": 3,
    "kjv": 4,
    "text": "And John answered him, saying, Master, we saw one casting out devils in thy name, and he followeth not us: and we forbad him, because he followeth not us."
-  },
-  {
-   "book": "MRK",
-   "chapter": 10,
-   "verse": 1,
-   "group": "he",
-   "bsb": 3,
-   "kjv": 4,
-   "text": "And he arose from thence, and cometh into the coasts of Judea by the farther side of Jordan: and the people resort unto him again; and, as he was wont, he taught them again."
   },
   {
    "book": "MRK",
@@ -75175,15 +77389,6 @@
    "bsb": 1,
    "kjv": 0,
    "text": "And they went forth, and preached every where, the Lord working with them, and confirming the word with signs following. Amen."
-  },
-  {
-   "book": "LUK",
-   "chapter": 1,
-   "verse": 49,
-   "group": "he",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "For he that is mighty hath done to me great things; and holy is his name."
   },
   {
    "book": "LUK",
@@ -75845,15 +78050,6 @@
   {
    "book": "LUK",
    "chapter": 8,
-   "verse": 45,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 3,
-   "text": "And Jesus said, Who touched me? When all denied, Peter and they that were with him said, Master, the multitude throng thee and press thee, and sayest thou, Who touched me?"
-  },
-  {
-   "book": "LUK",
-   "chapter": 8,
    "verse": 47,
    "group": "he",
    "bsb": 2,
@@ -75913,15 +78109,6 @@
    "bsb": 3,
    "kjv": 0,
    "text": "Saying, The Son of man must suffer many things, and be rejected of the elders and chief priests and scribes, and be slain, and be raised the third day."
-  },
-  {
-   "book": "LUK",
-   "chapter": 9,
-   "verse": 26,
-   "group": "he",
-   "bsb": 3,
-   "kjv": 4,
-   "text": "For whosoever shall be ashamed of me and of my words, of him shall the Son of man be ashamed, when he shall come in his own glory, and in his Father’s, and of the holy angels."
   },
   {
    "book": "LUK",
@@ -76021,15 +78208,6 @@
    "bsb": 1,
    "kjv": 2,
    "text": "All things are delivered to me of my Father: and no man knoweth who the Son is, but the Father; and who the Father is, but the Son, and he to whom the Son will reveal him."
-  },
-  {
-   "book": "LUK",
-   "chapter": 10,
-   "verse": 25,
-   "group": "he",
-   "bsb": 2,
-   "kjv": 1,
-   "text": "And, behold, a certain lawyer stood up, and tempted him, saying, Master, what shall I do to inherit eternal life?"
   },
   {
    "book": "LUK",
@@ -76192,15 +78370,6 @@
    "bsb": 1,
    "kjv": 2,
    "text": "Then said one unto him, Lord, are there few that be saved? And he said unto them,"
-  },
-  {
-   "book": "LUK",
-   "chapter": 13,
-   "verse": 31,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "The same day there came certain of the Pharisees, saying unto him, Get thee out, and depart hence: for Herod will kill thee."
   },
   {
    "book": "LUK",
@@ -76714,15 +78883,6 @@
    "bsb": 2,
    "kjv": 3,
    "text": "And the soldiers also mocked him, coming to him, and offering him vinegar,"
-  },
-  {
-   "book": "LUK",
-   "chapter": 23,
-   "verse": 39,
-   "group": "he",
-   "bsb": 2,
-   "kjv": 1,
-   "text": "And one of the malefactors which were hanged railed on him, saying, If thou be Christ, save thyself and us."
   },
   {
    "book": "LUK",
@@ -77420,15 +79580,6 @@
   {
    "book": "JHN",
    "chapter": 8,
-   "verse": 33,
-   "group": "you",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "They answered him, We be Abraham’s seed, and were never in bondage to any man: how sayest thou, Ye shall be made free?"
-  },
-  {
-   "book": "JHN",
-   "chapter": 8,
    "verse": 43,
    "group": "me",
    "bsb": 1,
@@ -77600,29 +79751,11 @@
   {
    "book": "JHN",
    "chapter": 10,
-   "verse": 32,
-   "group": "me",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "Jesus answered them, Many good works have I shewed you from my Father; for which of those works do ye stone me?"
-  },
-  {
-   "book": "JHN",
-   "chapter": 10,
    "verse": 36,
    "group": "me",
    "bsb": 1,
    "kjv": 0,
    "text": "Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God?"
-  },
-  {
-   "book": "JHN",
-   "chapter": 10,
-   "verse": 41,
-   "group": "he",
-   "bsb": 2,
-   "kjv": 1,
-   "text": "And many resorted unto him, and said, John did no miracle: but all things that John spake of this man were true."
   },
   {
    "book": "JHN",
@@ -77848,15 +79981,6 @@
    "bsb": 2,
    "kjv": 3,
    "text": "Believe me that I am in the Father, and the Father in me: or else believe me for the very works’ sake."
-  },
-  {
-   "book": "JHN",
-   "chapter": 14,
-   "verse": 12,
-   "group": "me",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father."
   },
   {
    "book": "JHN",
@@ -78869,15 +80993,6 @@
   {
    "book": "ROM",
    "chapter": 9,
-   "verse": 19,
-   "group": "he",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "Thou wilt say then unto me, Why doth he yet find fault? For who hath resisted his will?"
-  },
-  {
-   "book": "ROM",
-   "chapter": 9,
    "verse": 22,
    "group": "he",
    "bsb": 3,
@@ -79868,15 +81983,6 @@
   {
    "book": "HEB",
    "chapter": 10,
-   "verse": 5,
-   "group": "he",
-   "bsb": 1,
-   "kjv": 2,
-   "text": "Wherefore when he cometh into the world, he saith, Sacrifice and offering thou wouldest not, but a body hast thou prepared me:"
-  },
-  {
-   "book": "HEB",
-   "chapter": 10,
    "verse": 8,
    "group": "you",
    "bsb": 2,
@@ -80461,24 +82567,6 @@
   },
   {
    "book": "REV",
-   "chapter": 10,
-   "verse": 7,
-   "group": "he",
-   "bsb": 4,
-   "kjv": 3,
-   "text": "But in the days of the voice of the seventh angel, when he shall begin to sound, the mystery of God should be finished, as he hath declared to his servants the prophets."
-  },
-  {
-   "book": "REV",
-   "chapter": 11,
-   "verse": 15,
-   "group": "he",
-   "bsb": 3,
-   "kjv": 2,
-   "text": "And the seventh angel sounded; and there were great voices in heaven, saying, The kingdoms of this world are become the kingdoms of our Lord, and of his Christ; and he shall reign for ever and ever."
-  },
-  {
-   "book": "REV",
    "chapter": 11,
    "verse": 17,
    "group": "you",
@@ -80494,15 +82582,6 @@
    "bsb": 3,
    "kjv": 4,
    "text": "And the nations were angry, and thy wrath is come, and the time of the dead, that they should be judged, and that thou shouldest give reward unto thy servants the prophets, and to the saints, and them that fear thy name, small and great; and shouldest destroy them which destroy the earth."
-  },
-  {
-   "book": "REV",
-   "chapter": 12,
-   "verse": 10,
-   "group": "he",
-   "bsb": 2,
-   "kjv": 1,
-   "text": "And I heard a loud voice saying in heaven, Now is come salvation, and strength, and the kingdom of our God, and the power of his Christ: for the accuser of our brethren is cast down, which accused them before our God day and night."
   },
   {
    "book": "REV",

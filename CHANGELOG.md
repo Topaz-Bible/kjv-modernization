@@ -8,11 +8,22 @@
   1:11 ("“I am Alpha and Omega, the first and the last:” and, “What thou seest…”"). Acts 1:4 turns
   direct at "which", as the Greek does: "wait for the promise of the Father, “which,” saith he, “ye
   have heard of me.”"
+- **More capitals for God.** 390 pronouns in 158 of the verses the pairing had left for review: where
+  the KJV and BSB count their pronouns differently, they now pair through the Hebrew or Greek word
+  ("walked in My law, nor in My statutes", Jeremiah 44:10). A verse is settled whole or left whole;
+  1,823 remain, most of them *he*.
 - **Capitals for God by hand.** [`capitals/by-hand.csv`](capitals/by-hand.csv) settles verses the
   pairing leaves for review: "Rejoice, ye Gentiles, with His people" (Romans 15:10).
-- **Name spellings surveyed** ([`names/spelling-survey.md`](names/spelling-survey.md)): 20 Greek and Latin
-  names the KJV spells the old English way (Phebe, Cesar, Timotheus), 356 Hebrew names the BSB
-  transliterates another way, 47 places the BSB names differently. Nothing changed yet.
+- **Names in their modern spelling.** Every name, in both Testaments, takes the BSB's spelling where it
+  is only a spelling: 871 words, 381 names. Phebe → Phoebe, Cesar → Caesar, Tyrus → Tyre, Zidon → Sidon,
+  Timotheus → Timothy, Pharez → Perez, Maachah → Maacah. Where the KJV spells one name two ways and the
+  BSB evens them out, so does the KJVm (Nebuchadrezzar → Nebuchadnezzar). Rebekah stays. The BSB's other
+  names for the same place or person (Syria → Aram, Ahasuerus → Xerxes, Diana → Artemis) are
+  translating, and stay out: see [LEFT-ALONE.md](LEFT-ALONE.md). The survey that found them is
+  [`names/spelling-survey.md`](names/spelling-survey.md).
+- **Red letters stop at reported speech.** Acts 1:4 was red from "wait for the promise of the Father";
+  the KJV never colours reported speech red elsewhere (Mark 8:30, Luke 9:21), and the Greek turns
+  direct at "which". The red now starts there too.
 - **The last unplaced quotes read by hand.** 152 quotes that failed a check and had never shipped,
   with the quotes inside them; nothing the matching found is left unreviewed. 72 are left unmarked,
   because the KJV has no speech there: it reports what was said ("he asked him if he saw ought", "told

@@ -1,5 +1,5 @@
 {
- "kjv_package": "1.4-primary.20261025.139.1",
+ "kjv_package": "1.4-primary.20261025.139.29",
  "names": [
   {
    "kjv_nt": "Elias",
@@ -446,7 +446,7674 @@
    "changed": 1
   }
  ],
+ "spellings": [
+  {
+   "kjv": "Abez",
+   "modernized": "Ebez",
+   "changed": 1
+  },
+  {
+   "kjv": "Abiah",
+   "modernized": "Abijah",
+   "changed": 4
+  },
+  {
+   "kjv": "Accho",
+   "modernized": "Acco",
+   "changed": 1
+  },
+  {
+   "kjv": "Aceldama",
+   "modernized": "Akeldama",
+   "changed": 1
+  },
+  {
+   "kjv": "Achsah",
+   "modernized": "Acsah",
+   "changed": 5
+  },
+  {
+   "kjv": "Adar",
+   "modernized": "Addar",
+   "changed": 1
+  },
+  {
+   "kjv": "Ader",
+   "modernized": "Eder",
+   "changed": 1
+  },
+  {
+   "kjv": "Ahiah",
+   "modernized": "Ahijah",
+   "changed": 4
+  },
+  {
+   "kjv": "Aholah",
+   "modernized": "Oholah",
+   "changed": 5
+  },
+  {
+   "kjv": "Aholiab",
+   "modernized": "Oholiab",
+   "changed": 5
+  },
+  {
+   "kjv": "Aholibah",
+   "modernized": "Oholibah",
+   "changed": 6
+  },
+  {
+   "kjv": "Aholibamah",
+   "modernized": "Oholibamah",
+   "changed": 8
+  },
+  {
+   "kjv": "Ahuzam",
+   "modernized": "Ahuzzam",
+   "changed": 1
+  },
+  {
+   "kjv": "Ajah",
+   "modernized": "Aiah",
+   "changed": 1
+  },
+  {
+   "kjv": "Ajalon",
+   "modernized": "Aijalon",
+   "changed": 3
+  },
+  {
+   "kjv": "Alammelech",
+   "modernized": "Allammelech",
+   "changed": 1
+  },
+  {
+   "kjv": "Aliah",
+   "modernized": "Alvah",
+   "changed": 1
+  },
+  {
+   "kjv": "Alian",
+   "modernized": "Alvan",
+   "changed": 1
+  },
+  {
+   "kjv": "Alpheus",
+   "modernized": "Alphaeus",
+   "changed": 5
+  },
+  {
+   "kjv": "Antothijah",
+   "modernized": "Anthothijah",
+   "changed": 1
+  },
+  {
+   "kjv": "Arphad",
+   "modernized": "Arpad",
+   "changed": 2
+  },
+  {
+   "kjv": "Aruboth",
+   "modernized": "Arubboth",
+   "changed": 1
+  },
+  {
+   "kjv": "Asahiah",
+   "modernized": "Asaiah",
+   "changed": 2
+  },
+  {
+   "kjv": "Asareel",
+   "modernized": "Asarel",
+   "changed": 1
+  },
+  {
+   "kjv": "Ashchenaz",
+   "modernized": "Ashkenaz",
+   "changed": 2
+  },
+  {
+   "kjv": "Ashriel",
+   "modernized": "Asriel",
+   "changed": 1
+  },
+  {
+   "kjv": "Ashur",
+   "modernized": "Ashhur",
+   "changed": 2
+  },
+  {
+   "kjv": "Askelon",
+   "modernized": "Ashkelon",
+   "changed": 3
+  },
+  {
+   "kjv": "Astaroth",
+   "modernized": "Ashtaroth",
+   "changed": 1
+  },
+  {
+   "kjv": "Ava",
+   "modernized": "Avva",
+   "changed": 1
+  },
+  {
+   "kjv": "Avim",
+   "modernized": "Avvim",
+   "changed": 1
+  },
+  {
+   "kjv": "Avims",
+   "modernized": "Avvim",
+   "changed": 1
+  },
+  {
+   "kjv": "Avites",
+   "modernized": "Avvites",
+   "changed": 2
+  },
+  {
+   "kjv": "Azarael",
+   "modernized": "Azarel",
+   "changed": 1
+  },
+  {
+   "kjv": "Azareel",
+   "modernized": "Azarel",
+   "changed": 5
+  },
+  {
+   "kjv": "Azem",
+   "modernized": "Ezem",
+   "changed": 2
+  },
+  {
+   "kjv": "Azur",
+   "modernized": "Azzur",
+   "changed": 2
+  },
+  {
+   "kjv": "Azzah",
+   "modernized": "Gaza",
+   "changed": 3
+  },
+  {
+   "kjv": "Baanah",
+   "modernized": "Baana",
+   "changed": 1
+  },
+  {
+   "kjv": "Barachias",
+   "modernized": "Berechiah",
+   "changed": 1
+  },
+  {
+   "kjv": "Barsabas",
+   "modernized": "Barsabbas",
+   "changed": 2
+  },
+  {
+   "kjv": "Bartimeus",
+   "modernized": "Bartimaeus",
+   "changed": 1
+  },
+  {
+   "kjv": "Bashemath",
+   "modernized": "Basemath",
+   "changed": 6
+  },
+  {
+   "kjv": "Basmath",
+   "modernized": "Basemath",
+   "changed": 1
+  },
+  {
+   "kjv": "Bechorath",
+   "modernized": "Becorath",
+   "changed": 1
+  },
+  {
+   "kjv": "Beelzebub",
+   "modernized": "Beelzebul",
+   "changed": 7
+  },
+  {
+   "kjv": "Belah",
+   "modernized": "Bela",
+   "changed": 1
+  },
+  {
+   "kjv": "Berachah",
+   "modernized": "Beracah",
+   "changed": 1
+  },
+  {
+   "kjv": "Bezaleel",
+   "modernized": "Bezalel",
+   "changed": 8
+  },
+  {
+   "kjv": "Birzavith",
+   "modernized": "Birzaith",
+   "changed": 1
+  },
+  {
+   "kjv": "Bizjothjah",
+   "modernized": "Biziothiah",
+   "changed": 1
+  },
+  {
+   "kjv": "Boscath",
+   "modernized": "Bozkath",
+   "changed": 1
+  },
+  {
+   "kjv": "Camon",
+   "modernized": "Kamon",
+   "changed": 1
+  },
+  {
+   "kjv": "Carcas",
+   "modernized": "Carkas",
+   "changed": 1
+  },
+  {
+   "kjv": "Careah",
+   "modernized": "Kareah",
+   "changed": 1
+  },
+  {
+   "kjv": "Cesar",
+   "modernized": "Caesar",
+   "changed": 30
+  },
+  {
+   "kjv": "Cesarea",
+   "modernized": "Caesarea",
+   "changed": 17
+  },
+  {
+   "kjv": "Chalcol",
+   "modernized": "Calcol",
+   "changed": 1
+  },
+  {
+   "kjv": "Chebar",
+   "modernized": "Kebar",
+   "changed": 8
+  },
+  {
+   "kjv": "Chinneroth",
+   "modernized": "Chinnereth",
+   "changed": 2
+  },
+  {
+   "kjv": "Chisleu",
+   "modernized": "Chislev",
+   "changed": 2
+  },
+  {
+   "kjv": "Chittim",
+   "modernized": "Kittim",
+   "changed": 1
+  },
+  {
+   "kjv": "Chozeba",
+   "modernized": "Cozeba",
+   "changed": 1
+  },
+  {
+   "kjv": "Chun",
+   "modernized": "Cun",
+   "changed": 1
+  },
+  {
+   "kjv": "Cinneroth",
+   "modernized": "Chinnereth",
+   "changed": 1
+  },
+  {
+   "kjv": "Cleophas",
+   "modernized": "Clopas",
+   "changed": 1
+  },
+  {
+   "kjv": "Colosse",
+   "modernized": "Colossae",
+   "changed": 1
+  },
+  {
+   "kjv": "Cononiah",
+   "modernized": "Conaniah",
+   "changed": 2
+  },
+  {
+   "kjv": "Coos",
+   "modernized": "Cos",
+   "changed": 1
+  },
+  {
+   "kjv": "Coz",
+   "modernized": "Koz",
+   "changed": 1
+  },
+  {
+   "kjv": "Dabareh",
+   "modernized": "Daberath",
+   "changed": 1
+  },
+  {
+   "kjv": "Dabbasheth",
+   "modernized": "Dabbesheth",
+   "changed": 1
+  },
+  {
+   "kjv": "Dalaiah",
+   "modernized": "Delaiah",
+   "changed": 1
+  },
+  {
+   "kjv": "Diblath",
+   "modernized": "Diblah",
+   "changed": 1
+  },
+  {
+   "kjv": "Dilean",
+   "modernized": "Dilan",
+   "changed": 1
+  },
+  {
+   "kjv": "Dodavah",
+   "modernized": "Dodavahu",
+   "changed": 1
+  },
+  {
+   "kjv": "Ebronah",
+   "modernized": "Abronah",
+   "changed": 2
+  },
+  {
+   "kjv": "Edar",
+   "modernized": "Eder",
+   "changed": 1
+  },
+  {
+   "kjv": "Elah",
+   "modernized": "Ela",
+   "changed": 1
+  },
+  {
+   "kjv": "Eleasah",
+   "modernized": "Elasah",
+   "changed": 3
+  },
+  {
+   "kjv": "Eliadah",
+   "modernized": "Eliada",
+   "changed": 1
+  },
+  {
+   "kjv": "Eliah",
+   "modernized": "Elijah",
+   "changed": 2
+  },
+  {
+   "kjv": "Eliphalet",
+   "modernized": "Eliphelet",
+   "changed": 2
+  },
+  {
+   "kjv": "Elipheleh",
+   "modernized": "Eliphelehu",
+   "changed": 2
+  },
+  {
+   "kjv": "Elisabeth",
+   "modernized": "Elizabeth",
+   "changed": 9
+  },
+  {
+   "kjv": "Elizaphan",
+   "modernized": "Eli-zaphan",
+   "changed": 1
+  },
+  {
+   "kjv": "Elmodam",
+   "modernized": "Elmadam",
+   "changed": 1
+  },
+  {
+   "kjv": "Elpalet",
+   "modernized": "Elpelet",
+   "changed": 1
+  },
+  {
+   "kjv": "Eltekeh",
+   "modernized": "Elteke",
+   "changed": 1
+  },
+  {
+   "kjv": "Eneas",
+   "modernized": "Aeneas",
+   "changed": 2
+  },
+  {
+   "kjv": "Enos",
+   "modernized": "Enosh",
+   "changed": 7
+  },
+  {
+   "kjv": "Ephratah",
+   "modernized": "Ephrathah",
+   "changed": 5
+  },
+  {
+   "kjv": "Eshean",
+   "modernized": "Eshan",
+   "changed": 1
+  },
+  {
+   "kjv": "Ezra",
+   "modernized": "Ezrah",
+   "changed": 1
+  },
+  {
+   "kjv": "Gaba",
+   "modernized": "Geba",
+   "changed": 2
+  },
+  {
+   "kjv": "Gazer",
+   "modernized": "Gezer",
+   "changed": 2
+  },
+  {
+   "kjv": "Gibeath",
+   "modernized": "Gibeah",
+   "changed": 1
+  },
+  {
+   "kjv": "Gispa",
+   "modernized": "Gishpa",
+   "changed": 1
+  },
+  {
+   "kjv": "Goath",
+   "modernized": "Goah",
+   "changed": 1
+  },
+  {
+   "kjv": "Grecia",
+   "modernized": "Greece",
+   "changed": 3
+  },
+  {
+   "kjv": "Habaiah",
+   "modernized": "Hobaiah",
+   "changed": 2
+  },
+  {
+   "kjv": "Habaziniah",
+   "modernized": "Habazziniah",
+   "changed": 1
+  },
+  {
+   "kjv": "Hachaliah",
+   "modernized": "Hacaliah",
+   "changed": 2
+  },
+  {
+   "kjv": "Hadadrimmon",
+   "modernized": "Hadad-rimmon",
+   "changed": 1
+  },
+  {
+   "kjv": "Hagaba",
+   "modernized": "Hagabah",
+   "changed": 1
+  },
+  {
+   "kjv": "Haggeri",
+   "modernized": "Hagri",
+   "changed": 1
+  },
+  {
+   "kjv": "Hai",
+   "modernized": "Ai",
+   "changed": 2
+  },
+  {
+   "kjv": "Halohesh",
+   "modernized": "Hallohesh",
+   "changed": 1
+  },
+  {
+   "kjv": "Hammoleketh",
+   "modernized": "Hammolecheth",
+   "changed": 1
+  },
+  {
+   "kjv": "Hamuel",
+   "modernized": "Hammuel",
+   "changed": 1
+  },
+  {
+   "kjv": "Hanameel",
+   "modernized": "Hanamel",
+   "changed": 4
+  },
+  {
+   "kjv": "Hananeel",
+   "modernized": "Hananel",
+   "changed": 4
+  },
+  {
+   "kjv": "Haniel",
+   "modernized": "Hanniel",
+   "changed": 1
+  },
+  {
+   "kjv": "Hareth",
+   "modernized": "Hereth",
+   "changed": 1
+  },
+  {
+   "kjv": "Hashabniah",
+   "modernized": "Hashabneiah",
+   "changed": 2
+  },
+  {
+   "kjv": "Hashbadana",
+   "modernized": "Hash-baddanah",
+   "changed": 1
+  },
+  {
+   "kjv": "Hashub",
+   "modernized": "Hasshub",
+   "changed": 4
+  },
+  {
+   "kjv": "Hashupha",
+   "modernized": "Hasupha",
+   "changed": 1
+  },
+  {
+   "kjv": "Hatach",
+   "modernized": "Hathach",
+   "changed": 4
+  },
+  {
+   "kjv": "Hazelelponi",
+   "modernized": "Hazzelelponi",
+   "changed": 1
+  },
+  {
+   "kjv": "Heber",
+   "modernized": "Eber",
+   "changed": 2
+  },
+  {
+   "kjv": "Hege",
+   "modernized": "Hegai",
+   "changed": 1
+  },
+  {
+   "kjv": "Hemath",
+   "modernized": "Hammath",
+   "changed": 3
+  },
+  {
+   "kjv": "Henoch",
+   "modernized": "Enoch",
+   "changed": 1
+  },
+  {
+   "kjv": "Henoch",
+   "modernized": "Hanoch",
+   "changed": 1
+  },
+  {
+   "kjv": "Hezeki",
+   "modernized": "Hizki",
+   "changed": 1
+  },
+  {
+   "kjv": "Hodijah",
+   "modernized": "Hodiah",
+   "changed": 5
+  },
+  {
+   "kjv": "Hothan",
+   "modernized": "Hotham",
+   "changed": 1
+  },
+  {
+   "kjv": "Huz",
+   "modernized": "Uz",
+   "changed": 1
+  },
+  {
+   "kjv": "Hymeneus",
+   "modernized": "Hymenaeus",
+   "changed": 2
+  },
+  {
+   "kjv": "Igeal",
+   "modernized": "Igal",
+   "changed": 1
+  },
+  {
+   "kjv": "Iim",
+   "modernized": "Iyim",
+   "changed": 1
+  },
+  {
+   "kjv": "Imla",
+   "modernized": "Imlah",
+   "changed": 1
+  },
+  {
+   "kjv": "Iphedeiah",
+   "modernized": "Iphdeiah",
+   "changed": 1
+  },
+  {
+   "kjv": "Ishod",
+   "modernized": "Ishhod",
+   "changed": 1
+  },
+  {
+   "kjv": "Ishuah",
+   "modernized": "Ishvah",
+   "changed": 1
+  },
+  {
+   "kjv": "Ishuai",
+   "modernized": "Ishvi",
+   "changed": 1
+  },
+  {
+   "kjv": "Ishui",
+   "modernized": "Ishvi",
+   "changed": 1
+  },
+  {
+   "kjv": "Ismaiah",
+   "modernized": "Ishmaiah",
+   "changed": 1
+  },
+  {
+   "kjv": "Ispah",
+   "modernized": "Ishpah",
+   "changed": 1
+  },
+  {
+   "kjv": "Isuah",
+   "modernized": "Ishvah",
+   "changed": 1
+  },
+  {
+   "kjv": "Isui",
+   "modernized": "Ishvi",
+   "changed": 1
+  },
+  {
+   "kjv": "Ivah",
+   "modernized": "Ivvah",
+   "changed": 3
+  },
+  {
+   "kjv": "Izehar",
+   "modernized": "Izhar",
+   "changed": 1
+  },
+  {
+   "kjv": "Jaalah",
+   "modernized": "Jaala",
+   "changed": 1
+  },
+  {
+   "kjv": "Jaalam",
+   "modernized": "Jalam",
+   "changed": 4
+  },
+  {
+   "kjv": "Jaazer",
+   "modernized": "Jazer",
+   "changed": 2
+  },
+  {
+   "kjv": "Jachan",
+   "modernized": "Jacan",
+   "changed": 1
+  },
+  {
+   "kjv": "Jahazah",
+   "modernized": "Jahaz",
+   "changed": 2
+  },
+  {
+   "kjv": "Jahazah",
+   "modernized": "Jahzah",
+   "changed": 1
+  },
+  {
+   "kjv": "Jahaziah",
+   "modernized": "Jahzeiah",
+   "changed": 1
+  },
+  {
+   "kjv": "Jakan",
+   "modernized": "Akan",
+   "changed": 1
+  },
+  {
+   "kjv": "Janohah",
+   "modernized": "Janoah",
+   "changed": 2
+  },
+  {
+   "kjv": "Janum",
+   "modernized": "Janim",
+   "changed": 1
+  },
+  {
+   "kjv": "Jaresiah",
+   "modernized": "Jaareshiah",
+   "changed": 1
+  },
+  {
+   "kjv": "Jasiel",
+   "modernized": "Jaasiel",
+   "changed": 1
+  },
+  {
+   "kjv": "Jeaterai",
+   "modernized": "Jeatherai",
+   "changed": 1
+  },
+  {
+   "kjv": "Jeberechiah",
+   "modernized": "Jeberekiah",
+   "changed": 1
+  },
+  {
+   "kjv": "Jecamiah",
+   "modernized": "Jekamiah",
+   "changed": 1
+  },
+  {
+   "kjv": "Jecholiah",
+   "modernized": "Jecoliah",
+   "changed": 1
+  },
+  {
+   "kjv": "Jeezer",
+   "modernized": "Iezer",
+   "changed": 1
+  },
+  {
+   "kjv": "Jehaleleel",
+   "modernized": "Jehallelel",
+   "changed": 1
+  },
+  {
+   "kjv": "Jehalelel",
+   "modernized": "Jehallelel",
+   "changed": 1
+  },
+  {
+   "kjv": "Jehezekel",
+   "modernized": "Jehezkel",
+   "changed": 1
+  },
+  {
+   "kjv": "Jehoadah",
+   "modernized": "Jehoaddah",
+   "changed": 2
+  },
+  {
+   "kjv": "Jehoshua",
+   "modernized": "Joshua",
+   "changed": 2
+  },
+  {
+   "kjv": "Jehubbah",
+   "modernized": "Hubbah",
+   "changed": 1
+  },
+  {
+   "kjv": "Jemima",
+   "modernized": "Jemimah",
+   "changed": 1
+  },
+  {
+   "kjv": "Jered",
+   "modernized": "Jared",
+   "changed": 1
+  },
+  {
+   "kjv": "Jesaiah",
+   "modernized": "Jeshaiah",
+   "changed": 2
+  },
+  {
+   "kjv": "Jesharelah",
+   "modernized": "Jesarelah",
+   "changed": 1
+  },
+  {
+   "kjv": "Jesiah",
+   "modernized": "Isshiah",
+   "changed": 2
+  },
+  {
+   "kjv": "Jesurun",
+   "modernized": "Jeshurun",
+   "changed": 1
+  },
+  {
+   "kjv": "Jethlah",
+   "modernized": "Ithlah",
+   "changed": 1
+  },
+  {
+   "kjv": "Jeziah",
+   "modernized": "Izziah",
+   "changed": 1
+  },
+  {
+   "kjv": "Jezliah",
+   "modernized": "Izliah",
+   "changed": 1
+  },
+  {
+   "kjv": "Jibsam",
+   "modernized": "Ibsam",
+   "changed": 1
+  },
+  {
+   "kjv": "Jimnah",
+   "modernized": "Imnah",
+   "changed": 1
+  },
+  {
+   "kjv": "Jiphtah",
+   "modernized": "Iphtah",
+   "changed": 1
+  },
+  {
+   "kjv": "Joanna",
+   "modernized": "Joanan",
+   "changed": 1
+  },
+  {
+   "kjv": "Jokneam",
+   "modernized": "Jokmeam",
+   "changed": 1
+  },
+  {
+   "kjv": "Jorkoam",
+   "modernized": "Jorkeam",
+   "changed": 1
+  },
+  {
+   "kjv": "Josabad",
+   "modernized": "Jozabad",
+   "changed": 1
+  },
+  {
+   "kjv": "Josibiah",
+   "modernized": "Joshibiah",
+   "changed": 1
+  },
+  {
+   "kjv": "Jotbath",
+   "modernized": "Jotbathah",
+   "changed": 1
+  },
+  {
+   "kjv": "Karkaa",
+   "modernized": "Karka",
+   "changed": 1
+  },
+  {
+   "kjv": "Kezia",
+   "modernized": "Keziah",
+   "changed": 1
+  },
+  {
+   "kjv": "Kirjathaim",
+   "modernized": "Kiriathaim",
+   "changed": 3
+  },
+  {
+   "kjv": "Kishon",
+   "modernized": "Kishion",
+   "changed": 1
+  },
+  {
+   "kjv": "Kison",
+   "modernized": "Kishon",
+   "changed": 1
+  },
+  {
+   "kjv": "Kithlish",
+   "modernized": "Chitlish",
+   "changed": 1
+  },
+  {
+   "kjv": "Laadan",
+   "modernized": "Ladan",
+   "changed": 7
+  },
+  {
+   "kjv": "Lahmam",
+   "modernized": "Lahmas",
+   "changed": 1
+  },
+  {
+   "kjv": "Laish",
+   "modernized": "Laishah",
+   "changed": 1
+  },
+  {
+   "kjv": "Lakum",
+   "modernized": "Lakkum",
+   "changed": 1
+  },
+  {
+   "kjv": "Lapidoth",
+   "modernized": "Lappidoth",
+   "changed": 1
+  },
+  {
+   "kjv": "Lebana",
+   "modernized": "Lebanah",
+   "changed": 1
+  },
+  {
+   "kjv": "Maachah",
+   "modernized": "Maacah",
+   "changed": 18
+  },
+  {
+   "kjv": "Maaseiah",
+   "modernized": "Mahseiah",
+   "changed": 2
+  },
+  {
+   "kjv": "Maasiai",
+   "modernized": "Maasai",
+   "changed": 1
+  },
+  {
+   "kjv": "Mahalah",
+   "modernized": "Mahlah",
+   "changed": 1
+  },
+  {
+   "kjv": "Mahalaleel",
+   "modernized": "Mahalalel",
+   "changed": 8
+  },
+  {
+   "kjv": "Mahali",
+   "modernized": "Mahli",
+   "changed": 1
+  },
+  {
+   "kjv": "Malchiah",
+   "modernized": "Malchijah",
+   "changed": 5
+  },
+  {
+   "kjv": "Marcus",
+   "modernized": "Mark",
+   "changed": 3
+  },
+  {
+   "kjv": "Mattathah",
+   "modernized": "Mattattah",
+   "changed": 1
+  },
+  {
+   "kjv": "Mehetabeel",
+   "modernized": "Mehetabel",
+   "changed": 1
+  },
+  {
+   "kjv": "Mehunim",
+   "modernized": "Meunim",
+   "changed": 1
+  },
+  {
+   "kjv": "Mekonah",
+   "modernized": "Meconah",
+   "changed": 1
+  },
+  {
+   "kjv": "Melchiah",
+   "modernized": "Malchijah",
+   "changed": 1
+  },
+  {
+   "kjv": "Melita",
+   "modernized": "Malta",
+   "changed": 1
+  },
+  {
+   "kjv": "Mesech",
+   "modernized": "Meshech",
+   "changed": 1
+  },
+  {
+   "kjv": "Meshezabeel",
+   "modernized": "Meshezabel",
+   "changed": 3
+  },
+  {
+   "kjv": "Mesobaite",
+   "modernized": "Mezobaite",
+   "changed": 1
+  },
+  {
+   "kjv": "Mezahab",
+   "modernized": "Me-zahab",
+   "changed": 2
+  },
+  {
+   "kjv": "Miamin",
+   "modernized": "Mijamin",
+   "changed": 2
+  },
+  {
+   "kjv": "Micah",
+   "modernized": "Mica",
+   "changed": 1
+  },
+  {
+   "kjv": "Micha",
+   "modernized": "Mica",
+   "changed": 4
+  },
+  {
+   "kjv": "Michah",
+   "modernized": "Micah",
+   "changed": 4
+  },
+  {
+   "kjv": "Michaiah",
+   "modernized": "Micaiah",
+   "changed": 7
+  },
+  {
+   "kjv": "Michmas",
+   "modernized": "Michmash",
+   "changed": 2
+  },
+  {
+   "kjv": "Michmethah",
+   "modernized": "Michmethath",
+   "changed": 2
+  },
+  {
+   "kjv": "Miletum",
+   "modernized": "Miletus",
+   "changed": 1
+  },
+  {
+   "kjv": "Mirma",
+   "modernized": "Mirmah",
+   "changed": 1
+  },
+  {
+   "kjv": "Misheal",
+   "modernized": "Mishal",
+   "changed": 1
+  },
+  {
+   "kjv": "Mithcah",
+   "modernized": "Mithkah",
+   "changed": 2
+  },
+  {
+   "kjv": "Mizpeh",
+   "modernized": "Mizpah",
+   "changed": 17
+  },
+  {
+   "kjv": "Mosera",
+   "modernized": "Moserah",
+   "changed": 1
+  },
+  {
+   "kjv": "Naarath",
+   "modernized": "Naarah",
+   "changed": 1
+  },
+  {
+   "kjv": "Naashon",
+   "modernized": "Nahshon",
+   "changed": 1
+  },
+  {
+   "kjv": "Nachon",
+   "modernized": "Nacon",
+   "changed": 1
+  },
+  {
+   "kjv": "Nachor",
+   "modernized": "Nahor",
+   "changed": 1
+  },
+  {
+   "kjv": "Nagge",
+   "modernized": "Naggai",
+   "changed": 1
+  },
+  {
+   "kjv": "Nahallal",
+   "modernized": "Nahalal",
+   "changed": 1
+  },
+  {
+   "kjv": "Naum",
+   "modernized": "Nahum",
+   "changed": 1
+  },
+  {
+   "kjv": "Nebajoth",
+   "modernized": "Nebaioth",
+   "changed": 3
+  },
+  {
+   "kjv": "Nebuchadrezzar",
+   "modernized": "Nebuchadnezzar",
+   "changed": 31
+  },
+  {
+   "kjv": "Nebushasban",
+   "modernized": "Nebushazban",
+   "changed": 1
+  },
+  {
+   "kjv": "Necho",
+   "modernized": "Neco",
+   "changed": 3
+  },
+  {
+   "kjv": "Nephish",
+   "modernized": "Naphish",
+   "changed": 1
+  },
+  {
+   "kjv": "Nethaneel",
+   "modernized": "Nethanel",
+   "changed": 14
+  },
+  {
+   "kjv": "Non",
+   "modernized": "Nun",
+   "changed": 1
+  },
+  {
+   "kjv": "Oshea",
+   "modernized": "Hoshea",
+   "changed": 2
+  },
+  {
+   "kjv": "Padan",
+   "modernized": "Paddan",
+   "changed": 1
+  },
+  {
+   "kjv": "Pai",
+   "modernized": "Pau",
+   "changed": 1
+  },
+  {
+   "kjv": "Pashur",
+   "modernized": "Pashhur",
+   "changed": 14
+  },
+  {
+   "kjv": "Pergamos",
+   "modernized": "Pergamum",
+   "changed": 2
+  },
+  {
+   "kjv": "Peulthai",
+   "modernized": "Peullethai",
+   "changed": 1
+  },
+  {
+   "kjv": "Phallu",
+   "modernized": "Pallu",
+   "changed": 1
+  },
+  {
+   "kjv": "Phalti",
+   "modernized": "Palti",
+   "changed": 1
+  },
+  {
+   "kjv": "Phaltiel",
+   "modernized": "Paltiel",
+   "changed": 1
+  },
+  {
+   "kjv": "Pharez",
+   "modernized": "Perez",
+   "changed": 15
+  },
+  {
+   "kjv": "Pharosh",
+   "modernized": "Parosh",
+   "changed": 1
+  },
+  {
+   "kjv": "Phaseah",
+   "modernized": "Paseah",
+   "changed": 1
+  },
+  {
+   "kjv": "Phebe",
+   "modernized": "Phoebe",
+   "changed": 2
+  },
+  {
+   "kjv": "Phenice",
+   "modernized": "Phoenicia",
+   "changed": 2
+  },
+  {
+   "kjv": "Phenice",
+   "modernized": "Phoenix",
+   "changed": 1
+  },
+  {
+   "kjv": "Phenicia",
+   "modernized": "Phoenicia",
+   "changed": 1
+  },
+  {
+   "kjv": "Phichol",
+   "modernized": "Phicol",
+   "changed": 3
+  },
+  {
+   "kjv": "Phurah",
+   "modernized": "Purah",
+   "changed": 2
+  },
+  {
+   "kjv": "Phut",
+   "modernized": "Put",
+   "changed": 2
+  },
+  {
+   "kjv": "Phuvah",
+   "modernized": "Puvah",
+   "changed": 1
+  },
+  {
+   "kjv": "Phygellus",
+   "modernized": "Phygelus",
+   "changed": 1
+  },
+  {
+   "kjv": "Pileha",
+   "modernized": "Pilha",
+   "changed": 1
+  },
+  {
+   "kjv": "Pison",
+   "modernized": "Pishon",
+   "changed": 1
+  },
+  {
+   "kjv": "Pispah",
+   "modernized": "Pispa",
+   "changed": 1
+  },
+  {
+   "kjv": "Pua",
+   "modernized": "Puvah",
+   "changed": 1
+  },
+  {
+   "kjv": "Raamses",
+   "modernized": "Rameses",
+   "changed": 1
+  },
+  {
+   "kjv": "Rachal",
+   "modernized": "Racal",
+   "changed": 1
+  },
+  {
+   "kjv": "Raguel",
+   "modernized": "Reuel",
+   "changed": 1
+  },
+  {
+   "kjv": "Rahel",
+   "modernized": "Rachel",
+   "changed": 1
+  },
+  {
+   "kjv": "Rakem",
+   "modernized": "Rekem",
+   "changed": 1
+  },
+  {
+   "kjv": "Rapha",
+   "modernized": "Raphah",
+   "changed": 1
+  },
+  {
+   "kjv": "Reaia",
+   "modernized": "Reaiah",
+   "changed": 1
+  },
+  {
+   "kjv": "Rechah",
+   "modernized": "Recah",
+   "changed": 1
+  },
+  {
+   "kjv": "Remmon",
+   "modernized": "Rimmon",
+   "changed": 1
+  },
+  {
+   "kjv": "Remphan",
+   "modernized": "Rephan",
+   "changed": 1
+  },
+  {
+   "kjv": "Rezia",
+   "modernized": "Rizia",
+   "changed": 1
+  },
+  {
+   "kjv": "Sabtecha",
+   "modernized": "Sabteca",
+   "changed": 2
+  },
+  {
+   "kjv": "Sacar",
+   "modernized": "Sachar",
+   "changed": 2
+  },
+  {
+   "kjv": "Sadoc",
+   "modernized": "Zadok",
+   "changed": 2
+  },
+  {
+   "kjv": "Salah",
+   "modernized": "Shelah",
+   "changed": 7
+  },
+  {
+   "kjv": "Salathiel",
+   "modernized": "Shealtiel",
+   "changed": 4
+  },
+  {
+   "kjv": "Salcah",
+   "modernized": "Salecah",
+   "changed": 2
+  },
+  {
+   "kjv": "Salchah",
+   "modernized": "Salecah",
+   "changed": 2
+  },
+  {
+   "kjv": "Salmon",
+   "modernized": "Zalmon",
+   "changed": 1
+  },
+  {
+   "kjv": "Samothracia",
+   "modernized": "Samothrace",
+   "changed": 1
+  },
+  {
+   "kjv": "Saphir",
+   "modernized": "Shaphir",
+   "changed": 1
+  },
+  {
+   "kjv": "Sarah",
+   "modernized": "Serah",
+   "changed": 1
+  },
+  {
+   "kjv": "Sebat",
+   "modernized": "Shebat",
+   "changed": 1
+  },
+  {
+   "kjv": "Sechu",
+   "modernized": "Secu",
+   "changed": 1
+  },
+  {
+   "kjv": "Seirath",
+   "modernized": "Seirah",
+   "changed": 1
+  },
+  {
+   "kjv": "Shachia",
+   "modernized": "Sachia",
+   "changed": 1
+  },
+  {
+   "kjv": "Shage",
+   "modernized": "Shagee",
+   "changed": 1
+  },
+  {
+   "kjv": "Shahazimah",
+   "modernized": "Shahazumah",
+   "changed": 1
+  },
+  {
+   "kjv": "Shalim",
+   "modernized": "Shaalim",
+   "changed": 1
+  },
+  {
+   "kjv": "Shalisha",
+   "modernized": "Shalishah",
+   "changed": 1
+  },
+  {
+   "kjv": "Shamariah",
+   "modernized": "Shemariah",
+   "changed": 1
+  },
+  {
+   "kjv": "Shamer",
+   "modernized": "Shemer",
+   "changed": 2
+  },
+  {
+   "kjv": "Shapher",
+   "modernized": "Shepher",
+   "changed": 2
+  },
+  {
+   "kjv": "Sharaim",
+   "modernized": "Shaaraim",
+   "changed": 1
+  },
+  {
+   "kjv": "Shebah",
+   "modernized": "Shibah",
+   "changed": 1
+  },
+  {
+   "kjv": "Shebam",
+   "modernized": "Sebam",
+   "changed": 1
+  },
+  {
+   "kjv": "Shebna",
+   "modernized": "Shebnah",
+   "changed": 2
+  },
+  {
+   "kjv": "Shechaniah",
+   "modernized": "Shecaniah",
+   "changed": 8
+  },
+  {
+   "kjv": "Shenazar",
+   "modernized": "Shenazzar",
+   "changed": 1
+  },
+  {
+   "kjv": "Shenir",
+   "modernized": "Senir",
+   "changed": 2
+  },
+  {
+   "kjv": "Shephathiah",
+   "modernized": "Shephatiah",
+   "changed": 1
+  },
+  {
+   "kjv": "Shephi",
+   "modernized": "Shepho",
+   "changed": 1
+  },
+  {
+   "kjv": "Sherah",
+   "modernized": "Sheerah",
+   "changed": 1
+  },
+  {
+   "kjv": "Sheth",
+   "modernized": "Seth",
+   "changed": 2
+  },
+  {
+   "kjv": "Shibmah",
+   "modernized": "Sibmah",
+   "changed": 1
+  },
+  {
+   "kjv": "Shicron",
+   "modernized": "Shikkeron",
+   "changed": 1
+  },
+  {
+   "kjv": "Shimhi",
+   "modernized": "Shimei",
+   "changed": 1
+  },
+  {
+   "kjv": "Shimi",
+   "modernized": "Shimei",
+   "changed": 1
+  },
+  {
+   "kjv": "Shimma",
+   "modernized": "Shimea",
+   "changed": 1
+  },
+  {
+   "kjv": "Shocho",
+   "modernized": "Soco",
+   "changed": 1
+  },
+  {
+   "kjv": "Shoco",
+   "modernized": "Soco",
+   "changed": 1
+  },
+  {
+   "kjv": "Shuah",
+   "modernized": "Shua",
+   "changed": 2
+  },
+  {
+   "kjv": "Shuah",
+   "modernized": "Shuhah",
+   "changed": 1
+  },
+  {
+   "kjv": "Sibbechai",
+   "modernized": "Sibbecai",
+   "changed": 2
+  },
+  {
+   "kjv": "Sichem",
+   "modernized": "Shechem",
+   "changed": 1
+  },
+  {
+   "kjv": "Sihor",
+   "modernized": "Shihor",
+   "changed": 2
+  },
+  {
+   "kjv": "Simri",
+   "modernized": "Shimri",
+   "changed": 1
+  },
+  {
+   "kjv": "Sion",
+   "modernized": "Siyon",
+   "changed": 1
+  },
+  {
+   "kjv": "Sion",
+   "modernized": "Zion",
+   "changed": 1
+  },
+  {
+   "kjv": "Sisamai",
+   "modernized": "Sismai",
+   "changed": 2
+  },
+  {
+   "kjv": "Socho",
+   "modernized": "Soco",
+   "changed": 1
+  },
+  {
+   "kjv": "Sochoh",
+   "modernized": "Socoh",
+   "changed": 1
+  },
+  {
+   "kjv": "Syrophenician",
+   "modernized": "Syrophoenician",
+   "changed": 1
+  },
+  {
+   "kjv": "Tabrimon",
+   "modernized": "Tabrimmon",
+   "changed": 1
+  },
+  {
+   "kjv": "Tahapanes",
+   "modernized": "Tahpanhes",
+   "changed": 1
+  },
+  {
+   "kjv": "Tamah",
+   "modernized": "Temah",
+   "changed": 1
+  },
+  {
+   "kjv": "Tanach",
+   "modernized": "Taanach",
+   "changed": 1
+  },
+  {
+   "kjv": "Tarah",
+   "modernized": "Terah",
+   "changed": 2
+  },
+  {
+   "kjv": "Tatnai",
+   "modernized": "Tattenai",
+   "changed": 4
+  },
+  {
+   "kjv": "Tehaphnehes",
+   "modernized": "Tahpanhes",
+   "changed": 1
+  },
+  {
+   "kjv": "Tekoah",
+   "modernized": "Tekoa",
+   "changed": 1
+  },
+  {
+   "kjv": "Thaddeus",
+   "modernized": "Thaddaeus",
+   "changed": 2
+  },
+  {
+   "kjv": "Thahash",
+   "modernized": "Tahash",
+   "changed": 1
+  },
+  {
+   "kjv": "Thamah",
+   "modernized": "Temah",
+   "changed": 1
+  },
+  {
+   "kjv": "Tharshish",
+   "modernized": "Tarshish",
+   "changed": 4
+  },
+  {
+   "kjv": "Thelasar",
+   "modernized": "Telassar",
+   "changed": 1
+  },
+  {
+   "kjv": "Thimnathah",
+   "modernized": "Timnah",
+   "changed": 1
+  },
+  {
+   "kjv": "Timeus",
+   "modernized": "Timaeus",
+   "changed": 1
+  },
+  {
+   "kjv": "Timnah",
+   "modernized": "Timna",
+   "changed": 2
+  },
+  {
+   "kjv": "Timnath",
+   "modernized": "Timnah",
+   "changed": 8
+  },
+  {
+   "kjv": "Timotheus",
+   "modernized": "Timothy",
+   "changed": 19
+  },
+  {
+   "kjv": "Tophet",
+   "modernized": "Topheth",
+   "changed": 8
+  },
+  {
+   "kjv": "Tyrus",
+   "modernized": "Tyre",
+   "changed": 22
+  },
+  {
+   "kjv": "Urbane",
+   "modernized": "Urbanus",
+   "changed": 1
+  },
+  {
+   "kjv": "Urijah",
+   "modernized": "Uriah",
+   "changed": 11
+  },
+  {
+   "kjv": "Uzza",
+   "modernized": "Uzzah",
+   "changed": 4
+  },
+  {
+   "kjv": "Vajezatha",
+   "modernized": "Vaizatha",
+   "changed": 1
+  },
+  {
+   "kjv": "Zaanaim",
+   "modernized": "Zaanannim",
+   "changed": 1
+  },
+  {
+   "kjv": "Zaccheus",
+   "modernized": "Zacchaeus",
+   "changed": 3
+  },
+  {
+   "kjv": "Zacchur",
+   "modernized": "Zaccur",
+   "changed": 1
+  },
+  {
+   "kjv": "Zachariah",
+   "modernized": "Zechariah",
+   "changed": 4
+  },
+  {
+   "kjv": "Zacharias",
+   "modernized": "Zechariah",
+   "changed": 11
+  },
+  {
+   "kjv": "Zacher",
+   "modernized": "Zecher",
+   "changed": 1
+  },
+  {
+   "kjv": "Zarah",
+   "modernized": "Zerah",
+   "changed": 2
+  },
+  {
+   "kjv": "Zareah",
+   "modernized": "Zorah",
+   "changed": 1
+  },
+  {
+   "kjv": "Zared",
+   "modernized": "Zered",
+   "changed": 1
+  },
+  {
+   "kjv": "Zaretan",
+   "modernized": "Zarethan",
+   "changed": 1
+  },
+  {
+   "kjv": "Zartanah",
+   "modernized": "Zarethan",
+   "changed": 1
+  },
+  {
+   "kjv": "Zarthan",
+   "modernized": "Zarethan",
+   "changed": 1
+  },
+  {
+   "kjv": "Zatthu",
+   "modernized": "Zattu",
+   "changed": 1
+  },
+  {
+   "kjv": "Zavan",
+   "modernized": "Zaavan",
+   "changed": 1
+  },
+  {
+   "kjv": "Zeboim",
+   "modernized": "Zeboiim",
+   "changed": 3
+  },
+  {
+   "kjv": "Zebudah",
+   "modernized": "Zebidah",
+   "changed": 1
+  },
+  {
+   "kjv": "Zelah",
+   "modernized": "Zela",
+   "changed": 1
+  },
+  {
+   "kjv": "Zephi",
+   "modernized": "Zepho",
+   "changed": 1
+  },
+  {
+   "kjv": "Zereda",
+   "modernized": "Zeredah",
+   "changed": 1
+  },
+  {
+   "kjv": "Zeredathah",
+   "modernized": "Zeredah",
+   "changed": 1
+  },
+  {
+   "kjv": "Zererath",
+   "modernized": "Zererah",
+   "changed": 1
+  },
+  {
+   "kjv": "Zidon",
+   "modernized": "Sidon",
+   "changed": 20
+  },
+  {
+   "kjv": "Zif",
+   "modernized": "Ziv",
+   "changed": 2
+  },
+  {
+   "kjv": "Zilthai",
+   "modernized": "Zillethai",
+   "changed": 2
+  },
+  {
+   "kjv": "Zithri",
+   "modernized": "Sithri",
+   "changed": 1
+  },
+  {
+   "kjv": "Zoba",
+   "modernized": "Zobah",
+   "changed": 1
+  },
+  {
+   "kjv": "Ænon",
+   "modernized": "Aenon",
+   "changed": 1
+  }
+ ],
  "changes": [
+  {
+   "book": "GEN",
+   "chapter": 2,
+   "verse": 11,
+   "word": 7,
+   "kjv": "Pison",
+   "modernized": "Pishon"
+  },
+  {
+   "book": "GEN",
+   "chapter": 4,
+   "verse": 26,
+   "word": 17,
+   "kjv": "Enos",
+   "modernized": "Enosh"
+  },
+  {
+   "book": "GEN",
+   "chapter": 5,
+   "verse": 6,
+   "word": 11,
+   "kjv": "Enos",
+   "modernized": "Enosh"
+  },
+  {
+   "book": "GEN",
+   "chapter": 5,
+   "verse": 7,
+   "word": 7,
+   "kjv": "Enos",
+   "modernized": "Enosh"
+  },
+  {
+   "book": "GEN",
+   "chapter": 5,
+   "verse": 9,
+   "word": 2,
+   "kjv": "Enos",
+   "modernized": "Enosh"
+  },
+  {
+   "book": "GEN",
+   "chapter": 5,
+   "verse": 10,
+   "word": 2,
+   "kjv": "Enos",
+   "modernized": "Enosh"
+  },
+  {
+   "book": "GEN",
+   "chapter": 5,
+   "verse": 11,
+   "word": 6,
+   "kjv": "Enos",
+   "modernized": "Enosh"
+  },
+  {
+   "book": "GEN",
+   "chapter": 5,
+   "verse": 12,
+   "word": 8,
+   "kjv": "Mahalaleel",
+   "modernized": "Mahalalel"
+  },
+  {
+   "book": "GEN",
+   "chapter": 5,
+   "verse": 13,
+   "word": 7,
+   "kjv": "Mahalaleel",
+   "modernized": "Mahalalel"
+  },
+  {
+   "book": "GEN",
+   "chapter": 5,
+   "verse": 15,
+   "word": 2,
+   "kjv": "Mahalaleel",
+   "modernized": "Mahalalel"
+  },
+  {
+   "book": "GEN",
+   "chapter": 5,
+   "verse": 16,
+   "word": 2,
+   "kjv": "Mahalaleel",
+   "modernized": "Mahalalel"
+  },
+  {
+   "book": "GEN",
+   "chapter": 5,
+   "verse": 17,
+   "word": 6,
+   "kjv": "Mahalaleel",
+   "modernized": "Mahalalel"
+  },
+  {
+   "book": "GEN",
+   "chapter": 10,
+   "verse": 6,
+   "word": 10,
+   "kjv": "Phut",
+   "modernized": "Put"
+  },
+  {
+   "book": "GEN",
+   "chapter": 10,
+   "verse": 7,
+   "word": 14,
+   "kjv": "Sabtecha",
+   "modernized": "Sabteca"
+  },
+  {
+   "book": "GEN",
+   "chapter": 10,
+   "verse": 19,
+   "word": 27,
+   "kjv": "Zeboim",
+   "modernized": "Zeboiim"
+  },
+  {
+   "book": "GEN",
+   "chapter": 10,
+   "verse": 24,
+   "word": 4,
+   "kjv": "Salah",
+   "modernized": "Shelah"
+  },
+  {
+   "book": "GEN",
+   "chapter": 10,
+   "verse": 24,
+   "word": 6,
+   "kjv": "Salah",
+   "modernized": "Shelah"
+  },
+  {
+   "book": "GEN",
+   "chapter": 11,
+   "verse": 12,
+   "word": 10,
+   "kjv": "Salah",
+   "modernized": "Shelah"
+  },
+  {
+   "book": "GEN",
+   "chapter": 11,
+   "verse": 13,
+   "word": 7,
+   "kjv": "Salah",
+   "modernized": "Shelah"
+  },
+  {
+   "book": "GEN",
+   "chapter": 11,
+   "verse": 14,
+   "word": 2,
+   "kjv": "Salah",
+   "modernized": "Shelah"
+  },
+  {
+   "book": "GEN",
+   "chapter": 11,
+   "verse": 15,
+   "word": 2,
+   "kjv": "Salah",
+   "modernized": "Shelah"
+  },
+  {
+   "book": "GEN",
+   "chapter": 12,
+   "verse": 6,
+   "word": 11,
+   "kjv": "Sichem",
+   "modernized": "Shechem"
+  },
+  {
+   "book": "GEN",
+   "chapter": 12,
+   "verse": 8,
+   "word": 24,
+   "kjv": "Hai",
+   "modernized": "Ai"
+  },
+  {
+   "book": "GEN",
+   "chapter": 13,
+   "verse": 3,
+   "word": 27,
+   "kjv": "Hai",
+   "modernized": "Ai"
+  },
+  {
+   "book": "GEN",
+   "chapter": 21,
+   "verse": 22,
+   "word": 12,
+   "kjv": "Phichol",
+   "modernized": "Phicol"
+  },
+  {
+   "book": "GEN",
+   "chapter": 21,
+   "verse": 32,
+   "word": 13,
+   "kjv": "Phichol",
+   "modernized": "Phicol"
+  },
+  {
+   "book": "GEN",
+   "chapter": 22,
+   "verse": 21,
+   "word": 1,
+   "kjv": "Huz",
+   "modernized": "Uz"
+  },
+  {
+   "book": "GEN",
+   "chapter": 22,
+   "verse": 24,
+   "word": 15,
+   "kjv": "Thahash",
+   "modernized": "Tahash"
+  },
+  {
+   "book": "GEN",
+   "chapter": 22,
+   "verse": 24,
+   "word": 17,
+   "kjv": "Maachah",
+   "modernized": "Maacah"
+  },
+  {
+   "book": "GEN",
+   "chapter": 25,
+   "verse": 13,
+   "word": 22,
+   "kjv": "Nebajoth",
+   "modernized": "Nebaioth"
+  },
+  {
+   "book": "GEN",
+   "chapter": 26,
+   "verse": 26,
+   "word": 15,
+   "kjv": "Phichol",
+   "modernized": "Phicol"
+  },
+  {
+   "book": "GEN",
+   "chapter": 26,
+   "verse": 33,
+   "word": 5,
+   "kjv": "Shebah",
+   "modernized": "Shibah"
+  },
+  {
+   "book": "GEN",
+   "chapter": 26,
+   "verse": 34,
+   "word": 20,
+   "kjv": "Bashemath",
+   "modernized": "Basemath"
+  },
+  {
+   "book": "GEN",
+   "chapter": 28,
+   "verse": 9,
+   "word": 24,
+   "kjv": "Nebajoth",
+   "modernized": "Nebaioth"
+  },
+  {
+   "book": "GEN",
+   "chapter": 35,
+   "verse": 21,
+   "word": 12,
+   "kjv": "Edar",
+   "modernized": "Eder"
+  },
+  {
+   "book": "GEN",
+   "chapter": 36,
+   "verse": 2,
+   "word": 18,
+   "kjv": "Aholibamah",
+   "modernized": "Oholibamah"
+  },
+  {
+   "book": "GEN",
+   "chapter": 36,
+   "verse": 3,
+   "word": 2,
+   "kjv": "Bashemath",
+   "modernized": "Basemath"
+  },
+  {
+   "book": "GEN",
+   "chapter": 36,
+   "verse": 3,
+   "word": 7,
+   "kjv": "Nebajoth",
+   "modernized": "Nebaioth"
+  },
+  {
+   "book": "GEN",
+   "chapter": 36,
+   "verse": 4,
+   "word": 8,
+   "kjv": "Bashemath",
+   "modernized": "Basemath"
+  },
+  {
+   "book": "GEN",
+   "chapter": 36,
+   "verse": 5,
+   "word": 2,
+   "kjv": "Aholibamah",
+   "modernized": "Oholibamah"
+  },
+  {
+   "book": "GEN",
+   "chapter": 36,
+   "verse": 5,
+   "word": 6,
+   "kjv": "Jaalam",
+   "modernized": "Jalam"
+  },
+  {
+   "book": "GEN",
+   "chapter": 36,
+   "verse": 10,
+   "word": 21,
+   "kjv": "Bashemath",
+   "modernized": "Basemath"
+  },
+  {
+   "book": "GEN",
+   "chapter": 36,
+   "verse": 13,
+   "word": 19,
+   "kjv": "Bashemath",
+   "modernized": "Basemath"
+  },
+  {
+   "book": "GEN",
+   "chapter": 36,
+   "verse": 14,
+   "word": 7,
+   "kjv": "Aholibamah",
+   "modernized": "Oholibamah"
+  },
+  {
+   "book": "GEN",
+   "chapter": 36,
+   "verse": 14,
+   "word": 25,
+   "kjv": "Jaalam",
+   "modernized": "Jalam"
+  },
+  {
+   "book": "GEN",
+   "chapter": 36,
+   "verse": 17,
+   "word": 36,
+   "kjv": "Bashemath",
+   "modernized": "Basemath"
+  },
+  {
+   "book": "GEN",
+   "chapter": 36,
+   "verse": 18,
+   "word": 7,
+   "kjv": "Aholibamah",
+   "modernized": "Oholibamah"
+  },
+  {
+   "book": "GEN",
+   "chapter": 36,
+   "verse": 18,
+   "word": 13,
+   "kjv": "Jaalam",
+   "modernized": "Jalam"
+  },
+  {
+   "book": "GEN",
+   "chapter": 36,
+   "verse": 18,
+   "word": 23,
+   "kjv": "Aholibamah",
+   "modernized": "Oholibamah"
+  },
+  {
+   "book": "GEN",
+   "chapter": 36,
+   "verse": 24,
+   "word": 9,
+   "kjv": "Ajah",
+   "modernized": "Aiah"
+  },
+  {
+   "book": "GEN",
+   "chapter": 36,
+   "verse": 25,
+   "word": 10,
+   "kjv": "Aholibamah",
+   "modernized": "Oholibamah"
+  },
+  {
+   "book": "GEN",
+   "chapter": 36,
+   "verse": 39,
+   "word": 35,
+   "kjv": "Mezahab",
+   "modernized": "Me-zahab"
+  },
+  {
+   "book": "GEN",
+   "chapter": 36,
+   "verse": 40,
+   "word": 24,
+   "kjv": "Timnah",
+   "modernized": "Timna"
+  },
+  {
+   "book": "GEN",
+   "chapter": 36,
+   "verse": 41,
+   "word": 2,
+   "kjv": "Aholibamah",
+   "modernized": "Oholibamah"
+  },
+  {
+   "book": "GEN",
+   "chapter": 38,
+   "verse": 2,
+   "word": 14,
+   "kjv": "Shuah",
+   "modernized": "Shua"
+  },
+  {
+   "book": "GEN",
+   "chapter": 38,
+   "verse": 12,
+   "word": 9,
+   "kjv": "Shuah",
+   "modernized": "Shua"
+  },
+  {
+   "book": "GEN",
+   "chapter": 38,
+   "verse": 12,
+   "word": 24,
+   "kjv": "Timnath",
+   "modernized": "Timnah"
+  },
+  {
+   "book": "GEN",
+   "chapter": 38,
+   "verse": 13,
+   "word": 15,
+   "kjv": "Timnath",
+   "modernized": "Timnah"
+  },
+  {
+   "book": "GEN",
+   "chapter": 38,
+   "verse": 14,
+   "word": 31,
+   "kjv": "Timnath",
+   "modernized": "Timnah"
+  },
+  {
+   "book": "GEN",
+   "chapter": 38,
+   "verse": 29,
+   "word": 36,
+   "kjv": "Pharez",
+   "modernized": "Perez"
+  },
+  {
+   "book": "GEN",
+   "chapter": 38,
+   "verse": 30,
+   "word": 20,
+   "kjv": "Zarah",
+   "modernized": "Zerah"
+  },
+  {
+   "book": "GEN",
+   "chapter": 46,
+   "verse": 9,
+   "word": 8,
+   "kjv": "Phallu",
+   "modernized": "Pallu"
+  },
+  {
+   "book": "GEN",
+   "chapter": 46,
+   "verse": 12,
+   "word": 12,
+   "kjv": "Pharez",
+   "modernized": "Perez"
+  },
+  {
+   "book": "GEN",
+   "chapter": 46,
+   "verse": 12,
+   "word": 29,
+   "kjv": "Pharez",
+   "modernized": "Perez"
+  },
+  {
+   "book": "GEN",
+   "chapter": 46,
+   "verse": 13,
+   "word": 8,
+   "kjv": "Phuvah",
+   "modernized": "Puvah"
+  },
+  {
+   "book": "GEN",
+   "chapter": 46,
+   "verse": 17,
+   "word": 6,
+   "kjv": "Jimnah",
+   "modernized": "Imnah"
+  },
+  {
+   "book": "GEN",
+   "chapter": 46,
+   "verse": 17,
+   "word": 8,
+   "kjv": "Ishuah",
+   "modernized": "Ishvah"
+  },
+  {
+   "book": "GEN",
+   "chapter": 46,
+   "verse": 17,
+   "word": 10,
+   "kjv": "Isui",
+   "modernized": "Ishvi"
+  },
+  {
+   "book": "GEN",
+   "chapter": 46,
+   "verse": 21,
+   "word": 7,
+   "kjv": "Belah",
+   "modernized": "Bela"
+  },
+  {
+   "book": "GEN",
+   "chapter": 48,
+   "verse": 7,
+   "word": 9,
+   "kjv": "Padan",
+   "modernized": "Paddan"
+  },
+  {
+   "book": "GEN",
+   "chapter": 49,
+   "verse": 13,
+   "word": 25,
+   "kjv": "Zidon",
+   "modernized": "Sidon"
+  },
+  {
+   "book": "EXO",
+   "chapter": 1,
+   "verse": 11,
+   "word": 23,
+   "kjv": "Raamses",
+   "modernized": "Rameses"
+  },
+  {
+   "book": "EXO",
+   "chapter": 6,
+   "verse": 17,
+   "word": 7,
+   "kjv": "Shimi",
+   "modernized": "Shimei"
+  },
+  {
+   "book": "EXO",
+   "chapter": 6,
+   "verse": 19,
+   "word": 6,
+   "kjv": "Mahali",
+   "modernized": "Mahli"
+  },
+  {
+   "book": "EXO",
+   "chapter": 6,
+   "verse": 22,
+   "word": 10,
+   "kjv": "Zithri",
+   "modernized": "Sithri"
+  },
+  {
+   "book": "EXO",
+   "chapter": 6,
+   "verse": 23,
+   "word": 11,
+   "kjv": "Naashon",
+   "modernized": "Nahshon"
+  },
+  {
+   "book": "EXO",
+   "chapter": 31,
+   "verse": 2,
+   "word": 7,
+   "kjv": "Bezaleel",
+   "modernized": "Bezalel"
+  },
+  {
+   "book": "EXO",
+   "chapter": 31,
+   "verse": 6,
+   "word": 9,
+   "kjv": "Aholiab",
+   "modernized": "Oholiab"
+  },
+  {
+   "book": "EXO",
+   "chapter": 35,
+   "verse": 30,
+   "word": 16,
+   "kjv": "Bezaleel",
+   "modernized": "Bezalel"
+  },
+  {
+   "book": "EXO",
+   "chapter": 35,
+   "verse": 34,
+   "word": 15,
+   "kjv": "Aholiab",
+   "modernized": "Oholiab"
+  },
+  {
+   "book": "EXO",
+   "chapter": 36,
+   "verse": 1,
+   "word": 3,
+   "kjv": "Bezaleel",
+   "modernized": "Bezalel"
+  },
+  {
+   "book": "EXO",
+   "chapter": 36,
+   "verse": 1,
+   "word": 5,
+   "kjv": "Aholiab",
+   "modernized": "Oholiab"
+  },
+  {
+   "book": "EXO",
+   "chapter": 36,
+   "verse": 2,
+   "word": 4,
+   "kjv": "Bezaleel",
+   "modernized": "Bezalel"
+  },
+  {
+   "book": "EXO",
+   "chapter": 36,
+   "verse": 2,
+   "word": 6,
+   "kjv": "Aholiab",
+   "modernized": "Oholiab"
+  },
+  {
+   "book": "EXO",
+   "chapter": 38,
+   "verse": 22,
+   "word": 2,
+   "kjv": "Bezaleel",
+   "modernized": "Bezalel"
+  },
+  {
+   "book": "EXO",
+   "chapter": 38,
+   "verse": 23,
+   "word": 5,
+   "kjv": "Aholiab",
+   "modernized": "Oholiab"
+  },
+  {
+   "book": "NUM",
+   "chapter": 1,
+   "verse": 8,
+   "word": 3,
+   "kjv": "Nethaneel",
+   "modernized": "Nethanel"
+  },
+  {
+   "book": "NUM",
+   "chapter": 2,
+   "verse": 5,
+   "word": 16,
+   "kjv": "Nethaneel",
+   "modernized": "Nethanel"
+  },
+  {
+   "book": "NUM",
+   "chapter": 3,
+   "verse": 19,
+   "word": 11,
+   "kjv": "Izehar",
+   "modernized": "Izhar"
+  },
+  {
+   "book": "NUM",
+   "chapter": 7,
+   "verse": 18,
+   "word": 5,
+   "kjv": "Nethaneel",
+   "modernized": "Nethanel"
+  },
+  {
+   "book": "NUM",
+   "chapter": 7,
+   "verse": 23,
+   "word": 26,
+   "kjv": "Nethaneel",
+   "modernized": "Nethanel"
+  },
+  {
+   "book": "NUM",
+   "chapter": 10,
+   "verse": 15,
+   "word": 14,
+   "kjv": "Nethaneel",
+   "modernized": "Nethanel"
+  },
+  {
+   "book": "NUM",
+   "chapter": 10,
+   "verse": 29,
+   "word": 9,
+   "kjv": "Raguel",
+   "modernized": "Reuel"
+  },
+  {
+   "book": "NUM",
+   "chapter": 13,
+   "verse": 8,
+   "word": 6,
+   "kjv": "Oshea",
+   "modernized": "Hoshea"
+  },
+  {
+   "book": "NUM",
+   "chapter": 13,
+   "verse": 16,
+   "word": 19,
+   "kjv": "Oshea",
+   "modernized": "Hoshea"
+  },
+  {
+   "book": "NUM",
+   "chapter": 13,
+   "verse": 16,
+   "word": 24,
+   "kjv": "Jehoshua",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "NUM",
+   "chapter": 21,
+   "verse": 12,
+   "word": 11,
+   "kjv": "Zared",
+   "modernized": "Zered"
+  },
+  {
+   "book": "NUM",
+   "chapter": 21,
+   "verse": 32,
+   "word": 7,
+   "kjv": "Jaazer",
+   "modernized": "Jazer"
+  },
+  {
+   "book": "NUM",
+   "chapter": 24,
+   "verse": 17,
+   "word": 44,
+   "kjv": "Sheth",
+   "modernized": "Seth"
+  },
+  {
+   "book": "NUM",
+   "chapter": 26,
+   "verse": 20,
+   "word": 18,
+   "kjv": "Pharez",
+   "modernized": "Perez"
+  },
+  {
+   "book": "NUM",
+   "chapter": 26,
+   "verse": 21,
+   "word": 5,
+   "kjv": "Pharez",
+   "modernized": "Perez"
+  },
+  {
+   "book": "NUM",
+   "chapter": 26,
+   "verse": 23,
+   "word": 17,
+   "kjv": "Pua",
+   "modernized": "Puvah"
+  },
+  {
+   "book": "NUM",
+   "chapter": 26,
+   "verse": 30,
+   "word": 8,
+   "kjv": "Jeezer",
+   "modernized": "Iezer"
+  },
+  {
+   "book": "NUM",
+   "chapter": 26,
+   "verse": 46,
+   "word": 10,
+   "kjv": "Sarah",
+   "modernized": "Serah"
+  },
+  {
+   "book": "NUM",
+   "chapter": 32,
+   "verse": 3,
+   "word": 13,
+   "kjv": "Shebam",
+   "modernized": "Sebam"
+  },
+  {
+   "book": "NUM",
+   "chapter": 32,
+   "verse": 35,
+   "word": 5,
+   "kjv": "Jaazer",
+   "modernized": "Jazer"
+  },
+  {
+   "book": "NUM",
+   "chapter": 32,
+   "verse": 37,
+   "word": 11,
+   "kjv": "Kirjathaim",
+   "modernized": "Kiriathaim"
+  },
+  {
+   "book": "NUM",
+   "chapter": 32,
+   "verse": 38,
+   "word": 10,
+   "kjv": "Shibmah",
+   "modernized": "Sibmah"
+  },
+  {
+   "book": "NUM",
+   "chapter": 33,
+   "verse": 23,
+   "word": 10,
+   "kjv": "Shapher",
+   "modernized": "Shepher"
+  },
+  {
+   "book": "NUM",
+   "chapter": 33,
+   "verse": 24,
+   "word": 6,
+   "kjv": "Shapher",
+   "modernized": "Shepher"
+  },
+  {
+   "book": "NUM",
+   "chapter": 33,
+   "verse": 27,
+   "word": 9,
+   "kjv": "Tarah",
+   "modernized": "Terah"
+  },
+  {
+   "book": "NUM",
+   "chapter": 33,
+   "verse": 28,
+   "word": 5,
+   "kjv": "Tarah",
+   "modernized": "Terah"
+  },
+  {
+   "book": "NUM",
+   "chapter": 33,
+   "verse": 28,
+   "word": 9,
+   "kjv": "Mithcah",
+   "modernized": "Mithkah"
+  },
+  {
+   "book": "NUM",
+   "chapter": 33,
+   "verse": 29,
+   "word": 5,
+   "kjv": "Mithcah",
+   "modernized": "Mithkah"
+  },
+  {
+   "book": "NUM",
+   "chapter": 33,
+   "verse": 34,
+   "word": 9,
+   "kjv": "Ebronah",
+   "modernized": "Abronah"
+  },
+  {
+   "book": "NUM",
+   "chapter": 33,
+   "verse": 35,
+   "word": 5,
+   "kjv": "Ebronah",
+   "modernized": "Abronah"
+  },
+  {
+   "book": "NUM",
+   "chapter": 33,
+   "verse": 45,
+   "word": 5,
+   "kjv": "Iim",
+   "modernized": "Iyim"
+  },
+  {
+   "book": "NUM",
+   "chapter": 34,
+   "verse": 25,
+   "word": 12,
+   "kjv": "Elizaphan",
+   "modernized": "Eli-zaphan"
+  },
+  {
+   "book": "DEU",
+   "chapter": 1,
+   "verse": 4,
+   "word": 24,
+   "kjv": "Astaroth",
+   "modernized": "Ashtaroth"
+  },
+  {
+   "book": "DEU",
+   "chapter": 2,
+   "verse": 23,
+   "word": 3,
+   "kjv": "Avims",
+   "modernized": "Avvim"
+  },
+  {
+   "book": "DEU",
+   "chapter": 2,
+   "verse": 23,
+   "word": 10,
+   "kjv": "Azzah",
+   "modernized": "Gaza"
+  },
+  {
+   "book": "DEU",
+   "chapter": 3,
+   "verse": 9,
+   "word": 12,
+   "kjv": "Shenir",
+   "modernized": "Senir"
+  },
+  {
+   "book": "DEU",
+   "chapter": 3,
+   "verse": 10,
+   "word": 14,
+   "kjv": "Salchah",
+   "modernized": "Salecah"
+  },
+  {
+   "book": "DEU",
+   "chapter": 4,
+   "verse": 48,
+   "word": 15,
+   "kjv": "Sion",
+   "modernized": "Siyon"
+  },
+  {
+   "book": "DEU",
+   "chapter": 10,
+   "verse": 6,
+   "word": 17,
+   "kjv": "Mosera",
+   "modernized": "Moserah"
+  },
+  {
+   "book": "DEU",
+   "chapter": 10,
+   "verse": 7,
+   "word": 11,
+   "kjv": "Jotbath",
+   "modernized": "Jotbathah"
+  },
+  {
+   "book": "DEU",
+   "chapter": 29,
+   "verse": 23,
+   "word": 34,
+   "kjv": "Zeboim",
+   "modernized": "Zeboiim"
+  },
+  {
+   "book": "JOS",
+   "chapter": 3,
+   "verse": 16,
+   "word": 25,
+   "kjv": "Zaretan",
+   "modernized": "Zarethan"
+  },
+  {
+   "book": "JOS",
+   "chapter": 10,
+   "verse": 12,
+   "word": 43,
+   "kjv": "Ajalon",
+   "modernized": "Aijalon"
+  },
+  {
+   "book": "JOS",
+   "chapter": 11,
+   "verse": 2,
+   "word": 19,
+   "kjv": "Chinneroth",
+   "modernized": "Chinnereth"
+  },
+  {
+   "book": "JOS",
+   "chapter": 11,
+   "verse": 3,
+   "word": 38,
+   "kjv": "Mizpeh",
+   "modernized": "Mizpah"
+  },
+  {
+   "book": "JOS",
+   "chapter": 11,
+   "verse": 8,
+   "word": 19,
+   "kjv": "Zidon",
+   "modernized": "Sidon"
+  },
+  {
+   "book": "JOS",
+   "chapter": 12,
+   "verse": 3,
+   "word": 9,
+   "kjv": "Chinneroth",
+   "modernized": "Chinnereth"
+  },
+  {
+   "book": "JOS",
+   "chapter": 12,
+   "verse": 5,
+   "word": 8,
+   "kjv": "Salcah",
+   "modernized": "Salecah"
+  },
+  {
+   "book": "JOS",
+   "chapter": 13,
+   "verse": 3,
+   "word": 2,
+   "kjv": "Sihor",
+   "modernized": "Shihor"
+  },
+  {
+   "book": "JOS",
+   "chapter": 13,
+   "verse": 3,
+   "word": 39,
+   "kjv": "Avites",
+   "modernized": "Avvites"
+  },
+  {
+   "book": "JOS",
+   "chapter": 13,
+   "verse": 11,
+   "word": 19,
+   "kjv": "Salcah",
+   "modernized": "Salecah"
+  },
+  {
+   "book": "JOS",
+   "chapter": 13,
+   "verse": 18,
+   "word": 2,
+   "kjv": "Jahazah",
+   "modernized": "Jahaz"
+  },
+  {
+   "book": "JOS",
+   "chapter": 13,
+   "verse": 19,
+   "word": 2,
+   "kjv": "Kirjathaim",
+   "modernized": "Kiriathaim"
+  },
+  {
+   "book": "JOS",
+   "chapter": 15,
+   "verse": 3,
+   "word": 34,
+   "kjv": "Adar",
+   "modernized": "Addar"
+  },
+  {
+   "book": "JOS",
+   "chapter": 15,
+   "verse": 3,
+   "word": 40,
+   "kjv": "Karkaa",
+   "modernized": "Karka"
+  },
+  {
+   "book": "JOS",
+   "chapter": 15,
+   "verse": 11,
+   "word": 18,
+   "kjv": "Shicron",
+   "modernized": "Shikkeron"
+  },
+  {
+   "book": "JOS",
+   "chapter": 15,
+   "verse": 16,
+   "word": 16,
+   "kjv": "Achsah",
+   "modernized": "Acsah"
+  },
+  {
+   "book": "JOS",
+   "chapter": 15,
+   "verse": 17,
+   "word": 17,
+   "kjv": "Achsah",
+   "modernized": "Acsah"
+  },
+  {
+   "book": "JOS",
+   "chapter": 15,
+   "verse": 28,
+   "word": 6,
+   "kjv": "Bizjothjah",
+   "modernized": "Biziothiah"
+  },
+  {
+   "book": "JOS",
+   "chapter": 15,
+   "verse": 29,
+   "word": 5,
+   "kjv": "Azem",
+   "modernized": "Ezem"
+  },
+  {
+   "book": "JOS",
+   "chapter": 15,
+   "verse": 36,
+   "word": 2,
+   "kjv": "Sharaim",
+   "modernized": "Shaaraim"
+  },
+  {
+   "book": "JOS",
+   "chapter": 15,
+   "verse": 38,
+   "word": 2,
+   "kjv": "Dilean",
+   "modernized": "Dilan"
+  },
+  {
+   "book": "JOS",
+   "chapter": 15,
+   "verse": 40,
+   "word": 4,
+   "kjv": "Lahmam",
+   "modernized": "Lahmas"
+  },
+  {
+   "book": "JOS",
+   "chapter": 15,
+   "verse": 40,
+   "word": 6,
+   "kjv": "Kithlish",
+   "modernized": "Chitlish"
+  },
+  {
+   "book": "JOS",
+   "chapter": 15,
+   "verse": 43,
+   "word": 2,
+   "kjv": "Jiphtah",
+   "modernized": "Iphtah"
+  },
+  {
+   "book": "JOS",
+   "chapter": 15,
+   "verse": 52,
+   "word": 5,
+   "kjv": "Eshean",
+   "modernized": "Eshan"
+  },
+  {
+   "book": "JOS",
+   "chapter": 15,
+   "verse": 53,
+   "word": 2,
+   "kjv": "Janum",
+   "modernized": "Janim"
+  },
+  {
+   "book": "JOS",
+   "chapter": 16,
+   "verse": 6,
+   "word": 10,
+   "kjv": "Michmethah",
+   "modernized": "Michmethath"
+  },
+  {
+   "book": "JOS",
+   "chapter": 16,
+   "verse": 6,
+   "word": 31,
+   "kjv": "Janohah",
+   "modernized": "Janoah"
+  },
+  {
+   "book": "JOS",
+   "chapter": 16,
+   "verse": 7,
+   "word": 6,
+   "kjv": "Janohah",
+   "modernized": "Janoah"
+  },
+  {
+   "book": "JOS",
+   "chapter": 16,
+   "verse": 7,
+   "word": 11,
+   "kjv": "Naarath",
+   "modernized": "Naarah"
+  },
+  {
+   "book": "JOS",
+   "chapter": 17,
+   "verse": 7,
+   "word": 10,
+   "kjv": "Michmethah",
+   "modernized": "Michmethath"
+  },
+  {
+   "book": "JOS",
+   "chapter": 18,
+   "verse": 23,
+   "word": 2,
+   "kjv": "Avim",
+   "modernized": "Avvim"
+  },
+  {
+   "book": "JOS",
+   "chapter": 18,
+   "verse": 24,
+   "word": 6,
+   "kjv": "Gaba",
+   "modernized": "Geba"
+  },
+  {
+   "book": "JOS",
+   "chapter": 18,
+   "verse": 28,
+   "word": 9,
+   "kjv": "Gibeath",
+   "modernized": "Gibeah"
+  },
+  {
+   "book": "JOS",
+   "chapter": 19,
+   "verse": 3,
+   "word": 6,
+   "kjv": "Azem",
+   "modernized": "Ezem"
+  },
+  {
+   "book": "JOS",
+   "chapter": 19,
+   "verse": 7,
+   "word": 2,
+   "kjv": "Remmon",
+   "modernized": "Rimmon"
+  },
+  {
+   "book": "JOS",
+   "chapter": 19,
+   "verse": 11,
+   "word": 14,
+   "kjv": "Dabbasheth",
+   "modernized": "Dabbesheth"
+  },
+  {
+   "book": "JOS",
+   "chapter": 19,
+   "verse": 15,
+   "word": 4,
+   "kjv": "Nahallal",
+   "modernized": "Nahalal"
+  },
+  {
+   "book": "JOS",
+   "chapter": 19,
+   "verse": 20,
+   "word": 6,
+   "kjv": "Abez",
+   "modernized": "Ebez"
+  },
+  {
+   "book": "JOS",
+   "chapter": 19,
+   "verse": 22,
+   "word": 8,
+   "kjv": "Shahazimah",
+   "modernized": "Shahazumah"
+  },
+  {
+   "book": "JOS",
+   "chapter": 19,
+   "verse": 26,
+   "word": 2,
+   "kjv": "Alammelech",
+   "modernized": "Allammelech"
+  },
+  {
+   "book": "JOS",
+   "chapter": 19,
+   "verse": 26,
+   "word": 6,
+   "kjv": "Misheal",
+   "modernized": "Mishal"
+  },
+  {
+   "book": "JOS",
+   "chapter": 19,
+   "verse": 28,
+   "word": 12,
+   "kjv": "Zidon",
+   "modernized": "Sidon"
+  },
+  {
+   "book": "JOS",
+   "chapter": 19,
+   "verse": 33,
+   "word": 17,
+   "kjv": "Lakum",
+   "modernized": "Lakkum"
+  },
+  {
+   "book": "JOS",
+   "chapter": 19,
+   "verse": 42,
+   "word": 4,
+   "kjv": "Ajalon",
+   "modernized": "Aijalon"
+  },
+  {
+   "book": "JOS",
+   "chapter": 19,
+   "verse": 42,
+   "word": 6,
+   "kjv": "Jethlah",
+   "modernized": "Ithlah"
+  },
+  {
+   "book": "JOS",
+   "chapter": 19,
+   "verse": 43,
+   "word": 4,
+   "kjv": "Thimnathah",
+   "modernized": "Timnah"
+  },
+  {
+   "book": "JOS",
+   "chapter": 21,
+   "verse": 23,
+   "word": 8,
+   "kjv": "Eltekeh",
+   "modernized": "Elteke"
+  },
+  {
+   "book": "JOS",
+   "chapter": 21,
+   "verse": 25,
+   "word": 9,
+   "kjv": "Tanach",
+   "modernized": "Taanach"
+  },
+  {
+   "book": "JOS",
+   "chapter": 21,
+   "verse": 28,
+   "word": 8,
+   "kjv": "Kishon",
+   "modernized": "Kishion"
+  },
+  {
+   "book": "JOS",
+   "chapter": 21,
+   "verse": 28,
+   "word": 12,
+   "kjv": "Dabareh",
+   "modernized": "Daberath"
+  },
+  {
+   "book": "JOS",
+   "chapter": 21,
+   "verse": 36,
+   "word": 13,
+   "kjv": "Jahazah",
+   "modernized": "Jahaz"
+  },
+  {
+   "book": "JOS",
+   "chapter": 24,
+   "verse": 2,
+   "word": 38,
+   "kjv": "Nachor",
+   "modernized": "Nahor"
+  },
+  {
+   "book": "JDG",
+   "chapter": 1,
+   "verse": 12,
+   "word": 16,
+   "kjv": "Achsah",
+   "modernized": "Acsah"
+  },
+  {
+   "book": "JDG",
+   "chapter": 1,
+   "verse": 13,
+   "word": 16,
+   "kjv": "Achsah",
+   "modernized": "Acsah"
+  },
+  {
+   "book": "JDG",
+   "chapter": 1,
+   "verse": 18,
+   "word": 10,
+   "kjv": "Askelon",
+   "modernized": "Ashkelon"
+  },
+  {
+   "book": "JDG",
+   "chapter": 1,
+   "verse": 31,
+   "word": 9,
+   "kjv": "Accho",
+   "modernized": "Acco"
+  },
+  {
+   "book": "JDG",
+   "chapter": 1,
+   "verse": 31,
+   "word": 14,
+   "kjv": "Zidon",
+   "modernized": "Sidon"
+  },
+  {
+   "book": "JDG",
+   "chapter": 3,
+   "verse": 26,
+   "word": 15,
+   "kjv": "Seirath",
+   "modernized": "Seirah"
+  },
+  {
+   "book": "JDG",
+   "chapter": 4,
+   "verse": 4,
+   "word": 8,
+   "kjv": "Lapidoth",
+   "modernized": "Lappidoth"
+  },
+  {
+   "book": "JDG",
+   "chapter": 4,
+   "verse": 11,
+   "word": 32,
+   "kjv": "Zaanaim",
+   "modernized": "Zaanannim"
+  },
+  {
+   "book": "JDG",
+   "chapter": 7,
+   "verse": 10,
+   "word": 11,
+   "kjv": "Phurah",
+   "modernized": "Purah"
+  },
+  {
+   "book": "JDG",
+   "chapter": 7,
+   "verse": 11,
+   "word": 26,
+   "kjv": "Phurah",
+   "modernized": "Purah"
+  },
+  {
+   "book": "JDG",
+   "chapter": 7,
+   "verse": 22,
+   "word": 30,
+   "kjv": "Zererath",
+   "modernized": "Zererah"
+  },
+  {
+   "book": "JDG",
+   "chapter": 10,
+   "verse": 5,
+   "word": 8,
+   "kjv": "Camon",
+   "modernized": "Kamon"
+  },
+  {
+   "book": "JDG",
+   "chapter": 10,
+   "verse": 6,
+   "word": 29,
+   "kjv": "Zidon",
+   "modernized": "Sidon"
+  },
+  {
+   "book": "JDG",
+   "chapter": 10,
+   "verse": 17,
+   "word": 24,
+   "kjv": "Mizpeh",
+   "modernized": "Mizpah"
+  },
+  {
+   "book": "JDG",
+   "chapter": 11,
+   "verse": 11,
+   "word": 29,
+   "kjv": "Mizpeh",
+   "modernized": "Mizpah"
+  },
+  {
+   "book": "JDG",
+   "chapter": 11,
+   "verse": 34,
+   "word": 5,
+   "kjv": "Mizpeh",
+   "modernized": "Mizpah"
+  },
+  {
+   "book": "JDG",
+   "chapter": 14,
+   "verse": 1,
+   "word": 6,
+   "kjv": "Timnath",
+   "modernized": "Timnah"
+  },
+  {
+   "book": "JDG",
+   "chapter": 14,
+   "verse": 1,
+   "word": 12,
+   "kjv": "Timnath",
+   "modernized": "Timnah"
+  },
+  {
+   "book": "JDG",
+   "chapter": 14,
+   "verse": 2,
+   "word": 20,
+   "kjv": "Timnath",
+   "modernized": "Timnah"
+  },
+  {
+   "book": "JDG",
+   "chapter": 14,
+   "verse": 5,
+   "word": 12,
+   "kjv": "Timnath",
+   "modernized": "Timnah"
+  },
+  {
+   "book": "JDG",
+   "chapter": 14,
+   "verse": 5,
+   "word": 19,
+   "kjv": "Timnath",
+   "modernized": "Timnah"
+  },
+  {
+   "book": "JDG",
+   "chapter": 18,
+   "verse": 28,
+   "word": 11,
+   "kjv": "Zidon",
+   "modernized": "Sidon"
+  },
+  {
+   "book": "JDG",
+   "chapter": 20,
+   "verse": 1,
+   "word": 32,
+   "kjv": "Mizpeh",
+   "modernized": "Mizpah"
+  },
+  {
+   "book": "JDG",
+   "chapter": 20,
+   "verse": 3,
+   "word": 16,
+   "kjv": "Mizpeh",
+   "modernized": "Mizpah"
+  },
+  {
+   "book": "JDG",
+   "chapter": 21,
+   "verse": 1,
+   "word": 9,
+   "kjv": "Mizpeh",
+   "modernized": "Mizpah"
+  },
+  {
+   "book": "JDG",
+   "chapter": 21,
+   "verse": 5,
+   "word": 43,
+   "kjv": "Mizpeh",
+   "modernized": "Mizpah"
+  },
+  {
+   "book": "JDG",
+   "chapter": 21,
+   "verse": 8,
+   "word": 18,
+   "kjv": "Mizpeh",
+   "modernized": "Mizpah"
+  },
+  {
+   "book": "RUT",
+   "chapter": 4,
+   "verse": 11,
+   "word": 46,
+   "kjv": "Ephratah",
+   "modernized": "Ephrathah"
+  },
+  {
+   "book": "RUT",
+   "chapter": 4,
+   "verse": 12,
+   "word": 10,
+   "kjv": "Pharez",
+   "modernized": "Perez"
+  },
+  {
+   "book": "RUT",
+   "chapter": 4,
+   "verse": 18,
+   "word": 7,
+   "kjv": "Pharez",
+   "modernized": "Perez"
+  },
+  {
+   "book": "RUT",
+   "chapter": 4,
+   "verse": 18,
+   "word": 8,
+   "kjv": "Pharez",
+   "modernized": "Perez"
+  },
+  {
+   "book": "1SA",
+   "chapter": 6,
+   "verse": 17,
+   "word": 25,
+   "kjv": "Askelon",
+   "modernized": "Ashkelon"
+  },
+  {
+   "book": "1SA",
+   "chapter": 7,
+   "verse": 5,
+   "word": 8,
+   "kjv": "Mizpeh",
+   "modernized": "Mizpah"
+  },
+  {
+   "book": "1SA",
+   "chapter": 7,
+   "verse": 6,
+   "word": 6,
+   "kjv": "Mizpeh",
+   "modernized": "Mizpah"
+  },
+  {
+   "book": "1SA",
+   "chapter": 7,
+   "verse": 6,
+   "word": 39,
+   "kjv": "Mizpeh",
+   "modernized": "Mizpah"
+  },
+  {
+   "book": "1SA",
+   "chapter": 7,
+   "verse": 7,
+   "word": 15,
+   "kjv": "Mizpeh",
+   "modernized": "Mizpah"
+  },
+  {
+   "book": "1SA",
+   "chapter": 7,
+   "verse": 11,
+   "word": 9,
+   "kjv": "Mizpeh",
+   "modernized": "Mizpah"
+  },
+  {
+   "book": "1SA",
+   "chapter": 7,
+   "verse": 12,
+   "word": 10,
+   "kjv": "Mizpeh",
+   "modernized": "Mizpah"
+  },
+  {
+   "book": "1SA",
+   "chapter": 7,
+   "verse": 16,
+   "word": 15,
+   "kjv": "Mizpeh",
+   "modernized": "Mizpah"
+  },
+  {
+   "book": "1SA",
+   "chapter": 8,
+   "verse": 2,
+   "word": 15,
+   "kjv": "Abiah",
+   "modernized": "Abijah"
+  },
+  {
+   "book": "1SA",
+   "chapter": 9,
+   "verse": 1,
+   "word": 23,
+   "kjv": "Bechorath",
+   "modernized": "Becorath"
+  },
+  {
+   "book": "1SA",
+   "chapter": 9,
+   "verse": 4,
+   "word": 13,
+   "kjv": "Shalisha",
+   "modernized": "Shalishah"
+  },
+  {
+   "book": "1SA",
+   "chapter": 9,
+   "verse": 4,
+   "word": 26,
+   "kjv": "Shalim",
+   "modernized": "Shaalim"
+  },
+  {
+   "book": "1SA",
+   "chapter": 10,
+   "verse": 17,
+   "word": 11,
+   "kjv": "Mizpeh",
+   "modernized": "Mizpah"
+  },
+  {
+   "book": "1SA",
+   "chapter": 14,
+   "verse": 3,
+   "word": 2,
+   "kjv": "Ahiah",
+   "modernized": "Ahijah"
+  },
+  {
+   "book": "1SA",
+   "chapter": 14,
+   "verse": 18,
+   "word": 5,
+   "kjv": "Ahiah",
+   "modernized": "Ahijah"
+  },
+  {
+   "book": "1SA",
+   "chapter": 14,
+   "verse": 49,
+   "word": 9,
+   "kjv": "Ishui",
+   "modernized": "Ishvi"
+  },
+  {
+   "book": "1SA",
+   "chapter": 19,
+   "verse": 22,
+   "word": 16,
+   "kjv": "Sechu",
+   "modernized": "Secu"
+  },
+  {
+   "book": "1SA",
+   "chapter": 22,
+   "verse": 5,
+   "word": 31,
+   "kjv": "Hareth",
+   "modernized": "Hereth"
+  },
+  {
+   "book": "1SA",
+   "chapter": 25,
+   "verse": 44,
+   "word": 11,
+   "kjv": "Phalti",
+   "modernized": "Palti"
+  },
+  {
+   "book": "1SA",
+   "chapter": 30,
+   "verse": 29,
+   "word": 7,
+   "kjv": "Rachal",
+   "modernized": "Racal"
+  },
+  {
+   "book": "2SA",
+   "chapter": 1,
+   "verse": 20,
+   "word": 13,
+   "kjv": "Askelon",
+   "modernized": "Ashkelon"
+  },
+  {
+   "book": "2SA",
+   "chapter": 3,
+   "verse": 15,
+   "word": 12,
+   "kjv": "Phaltiel",
+   "modernized": "Paltiel"
+  },
+  {
+   "book": "2SA",
+   "chapter": 5,
+   "verse": 16,
+   "word": 6,
+   "kjv": "Eliphalet",
+   "modernized": "Eliphelet"
+  },
+  {
+   "book": "2SA",
+   "chapter": 5,
+   "verse": 25,
+   "word": 21,
+   "kjv": "Gazer",
+   "modernized": "Gezer"
+  },
+  {
+   "book": "2SA",
+   "chapter": 6,
+   "verse": 6,
+   "word": 6,
+   "kjv": "Nachon’s",
+   "modernized": "Nacon’s"
+  },
+  {
+   "book": "2SA",
+   "chapter": 9,
+   "verse": 12,
+   "word": 10,
+   "kjv": "Micha",
+   "modernized": "Mica"
+  },
+  {
+   "book": "2SA",
+   "chapter": 10,
+   "verse": 8,
+   "word": 25,
+   "kjv": "Zoba",
+   "modernized": "Zobah"
+  },
+  {
+   "book": "2SA",
+   "chapter": 14,
+   "verse": 2,
+   "word": 5,
+   "kjv": "Tekoah",
+   "modernized": "Tekoa"
+  },
+  {
+   "book": "2SA",
+   "chapter": 21,
+   "verse": 14,
+   "word": 18,
+   "kjv": "Zelah",
+   "modernized": "Zela"
+  },
+  {
+   "book": "2SA",
+   "chapter": 21,
+   "verse": 18,
+   "word": 20,
+   "kjv": "Sibbechai",
+   "modernized": "Sibbecai"
+  },
+  {
+   "book": "2SA",
+   "chapter": 24,
+   "verse": 6,
+   "word": 20,
+   "kjv": "Zidon",
+   "modernized": "Sidon"
+  },
+  {
+   "book": "1KI",
+   "chapter": 2,
+   "verse": 39,
+   "word": 25,
+   "kjv": "Maachah",
+   "modernized": "Maacah"
+  },
+  {
+   "book": "1KI",
+   "chapter": 4,
+   "verse": 3,
+   "word": 3,
+   "kjv": "Ahiah",
+   "modernized": "Ahijah"
+  },
+  {
+   "book": "1KI",
+   "chapter": 4,
+   "verse": 10,
+   "word": 6,
+   "kjv": "Aruboth",
+   "modernized": "Arubboth"
+  },
+  {
+   "book": "1KI",
+   "chapter": 4,
+   "verse": 10,
+   "word": 10,
+   "kjv": "Sochoh",
+   "modernized": "Socoh"
+  },
+  {
+   "book": "1KI",
+   "chapter": 4,
+   "verse": 12,
+   "word": 18,
+   "kjv": "Zartanah",
+   "modernized": "Zarethan"
+  },
+  {
+   "book": "1KI",
+   "chapter": 4,
+   "verse": 12,
+   "word": 32,
+   "kjv": "Jokneam",
+   "modernized": "Jokmeam"
+  },
+  {
+   "book": "1KI",
+   "chapter": 4,
+   "verse": 15,
+   "word": 8,
+   "kjv": "Basmath",
+   "modernized": "Basemath"
+  },
+  {
+   "book": "1KI",
+   "chapter": 4,
+   "verse": 16,
+   "word": 1,
+   "kjv": "Baanah",
+   "modernized": "Baana"
+  },
+  {
+   "book": "1KI",
+   "chapter": 4,
+   "verse": 18,
+   "word": 5,
+   "kjv": "Elah",
+   "modernized": "Ela"
+  },
+  {
+   "book": "1KI",
+   "chapter": 4,
+   "verse": 24,
+   "word": 18,
+   "kjv": "Azzah",
+   "modernized": "Gaza"
+  },
+  {
+   "book": "1KI",
+   "chapter": 4,
+   "verse": 31,
+   "word": 15,
+   "kjv": "Chalcol",
+   "modernized": "Calcol"
+  },
+  {
+   "book": "1KI",
+   "chapter": 6,
+   "verse": 1,
+   "word": 38,
+   "kjv": "Zif",
+   "modernized": "Ziv"
+  },
+  {
+   "book": "1KI",
+   "chapter": 6,
+   "verse": 37,
+   "word": 18,
+   "kjv": "Zif",
+   "modernized": "Ziv"
+  },
+  {
+   "book": "1KI",
+   "chapter": 7,
+   "verse": 46,
+   "word": 18,
+   "kjv": "Zarthan",
+   "modernized": "Zarethan"
+  },
+  {
+   "book": "1KI",
+   "chapter": 10,
+   "verse": 22,
+   "word": 10,
+   "kjv": "Tharshish",
+   "modernized": "Tarshish"
+  },
+  {
+   "book": "1KI",
+   "chapter": 10,
+   "verse": 22,
+   "word": 24,
+   "kjv": "Tharshish",
+   "modernized": "Tarshish"
+  },
+  {
+   "book": "1KI",
+   "chapter": 11,
+   "verse": 23,
+   "word": 12,
+   "kjv": "Eliadah",
+   "modernized": "Eliada"
+  },
+  {
+   "book": "1KI",
+   "chapter": 11,
+   "verse": 26,
+   "word": 10,
+   "kjv": "Zereda",
+   "modernized": "Zeredah"
+  },
+  {
+   "book": "1KI",
+   "chapter": 15,
+   "verse": 2,
+   "word": 12,
+   "kjv": "Maachah",
+   "modernized": "Maacah"
+  },
+  {
+   "book": "1KI",
+   "chapter": 15,
+   "verse": 10,
+   "word": 15,
+   "kjv": "Maachah",
+   "modernized": "Maacah"
+  },
+  {
+   "book": "1KI",
+   "chapter": 15,
+   "verse": 13,
+   "word": 3,
+   "kjv": "Maachah",
+   "modernized": "Maacah"
+  },
+  {
+   "book": "1KI",
+   "chapter": 15,
+   "verse": 18,
+   "word": 48,
+   "kjv": "Tabrimon",
+   "modernized": "Tabrimmon"
+  },
+  {
+   "book": "1KI",
+   "chapter": 15,
+   "verse": 20,
+   "word": 31,
+   "kjv": "Cinneroth",
+   "modernized": "Chinnereth"
+  },
+  {
+   "book": "1KI",
+   "chapter": 17,
+   "verse": 9,
+   "word": 9,
+   "kjv": "Zidon",
+   "modernized": "Sidon"
+  },
+  {
+   "book": "1KI",
+   "chapter": 22,
+   "verse": 48,
+   "word": 5,
+   "kjv": "Tharshish",
+   "modernized": "Tarshish"
+  },
+  {
+   "book": "2KI",
+   "chapter": 14,
+   "verse": 29,
+   "word": 14,
+   "kjv": "Zachariah",
+   "modernized": "Zechariah"
+  },
+  {
+   "book": "2KI",
+   "chapter": 15,
+   "verse": 2,
+   "word": 25,
+   "kjv": "Jecholiah",
+   "modernized": "Jecoliah"
+  },
+  {
+   "book": "2KI",
+   "chapter": 15,
+   "verse": 8,
+   "word": 13,
+   "kjv": "Zachariah",
+   "modernized": "Zechariah"
+  },
+  {
+   "book": "2KI",
+   "chapter": 15,
+   "verse": 11,
+   "word": 8,
+   "kjv": "Zachariah",
+   "modernized": "Zechariah"
+  },
+  {
+   "book": "2KI",
+   "chapter": 16,
+   "verse": 10,
+   "word": 26,
+   "kjv": "Urijah",
+   "modernized": "Uriah"
+  },
+  {
+   "book": "2KI",
+   "chapter": 16,
+   "verse": 11,
+   "word": 2,
+   "kjv": "Urijah",
+   "modernized": "Uriah"
+  },
+  {
+   "book": "2KI",
+   "chapter": 16,
+   "verse": 11,
+   "word": 19,
+   "kjv": "Urijah",
+   "modernized": "Uriah"
+  },
+  {
+   "book": "2KI",
+   "chapter": 16,
+   "verse": 15,
+   "word": 5,
+   "kjv": "Urijah",
+   "modernized": "Uriah"
+  },
+  {
+   "book": "2KI",
+   "chapter": 16,
+   "verse": 16,
+   "word": 3,
+   "kjv": "Urijah",
+   "modernized": "Uriah"
+  },
+  {
+   "book": "2KI",
+   "chapter": 17,
+   "verse": 24,
+   "word": 15,
+   "kjv": "Ava",
+   "modernized": "Avva"
+  },
+  {
+   "book": "2KI",
+   "chapter": 17,
+   "verse": 31,
+   "word": 3,
+   "kjv": "Avites",
+   "modernized": "Avvites"
+  },
+  {
+   "book": "2KI",
+   "chapter": 18,
+   "verse": 2,
+   "word": 31,
+   "kjv": "Zachariah",
+   "modernized": "Zechariah"
+  },
+  {
+   "book": "2KI",
+   "chapter": 18,
+   "verse": 18,
+   "word": 25,
+   "kjv": "Shebna",
+   "modernized": "Shebnah"
+  },
+  {
+   "book": "2KI",
+   "chapter": 18,
+   "verse": 26,
+   "word": 9,
+   "kjv": "Shebna",
+   "modernized": "Shebnah"
+  },
+  {
+   "book": "2KI",
+   "chapter": 18,
+   "verse": 34,
+   "word": 18,
+   "kjv": "Ivah",
+   "modernized": "Ivvah"
+  },
+  {
+   "book": "2KI",
+   "chapter": 19,
+   "verse": 12,
+   "word": 28,
+   "kjv": "Thelasar",
+   "modernized": "Telassar"
+  },
+  {
+   "book": "2KI",
+   "chapter": 19,
+   "verse": 13,
+   "word": 23,
+   "kjv": "Ivah",
+   "modernized": "Ivvah"
+  },
+  {
+   "book": "2KI",
+   "chapter": 22,
+   "verse": 1,
+   "word": 31,
+   "kjv": "Boscath",
+   "modernized": "Bozkath"
+  },
+  {
+   "book": "2KI",
+   "chapter": 22,
+   "verse": 12,
+   "word": 19,
+   "kjv": "Michaiah",
+   "modernized": "Micaiah"
+  },
+  {
+   "book": "2KI",
+   "chapter": 22,
+   "verse": 12,
+   "word": 25,
+   "kjv": "Asahiah",
+   "modernized": "Asaiah"
+  },
+  {
+   "book": "2KI",
+   "chapter": 22,
+   "verse": 14,
+   "word": 12,
+   "kjv": "Asahiah",
+   "modernized": "Asaiah"
+  },
+  {
+   "book": "2KI",
+   "chapter": 23,
+   "verse": 36,
+   "word": 25,
+   "kjv": "Zebudah",
+   "modernized": "Zebidah"
+  },
+  {
+   "book": "2KI",
+   "chapter": 25,
+   "verse": 23,
+   "word": 40,
+   "kjv": "Careah",
+   "modernized": "Kareah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 1,
+   "verse": 1,
+   "word": 2,
+   "kjv": "Sheth",
+   "modernized": "Seth"
+  },
+  {
+   "book": "1CH",
+   "chapter": 1,
+   "verse": 2,
+   "word": 2,
+   "kjv": "Mahalaleel",
+   "modernized": "Mahalalel"
+  },
+  {
+   "book": "1CH",
+   "chapter": 1,
+   "verse": 2,
+   "word": 3,
+   "kjv": "Jered",
+   "modernized": "Jared"
+  },
+  {
+   "book": "1CH",
+   "chapter": 1,
+   "verse": 3,
+   "word": 1,
+   "kjv": "Henoch",
+   "modernized": "Enoch"
+  },
+  {
+   "book": "1CH",
+   "chapter": 1,
+   "verse": 6,
+   "word": 6,
+   "kjv": "Ashchenaz",
+   "modernized": "Ashkenaz"
+  },
+  {
+   "book": "1CH",
+   "chapter": 1,
+   "verse": 9,
+   "word": 14,
+   "kjv": "Sabtecha",
+   "modernized": "Sabteca"
+  },
+  {
+   "book": "1CH",
+   "chapter": 1,
+   "verse": 13,
+   "word": 4,
+   "kjv": "Zidon",
+   "modernized": "Sidon"
+  },
+  {
+   "book": "1CH",
+   "chapter": 1,
+   "verse": 33,
+   "word": 10,
+   "kjv": "Henoch",
+   "modernized": "Hanoch"
+  },
+  {
+   "book": "1CH",
+   "chapter": 1,
+   "verse": 35,
+   "word": 10,
+   "kjv": "Jaalam",
+   "modernized": "Jalam"
+  },
+  {
+   "book": "1CH",
+   "chapter": 1,
+   "verse": 36,
+   "word": 8,
+   "kjv": "Zephi",
+   "modernized": "Zepho"
+  },
+  {
+   "book": "1CH",
+   "chapter": 1,
+   "verse": 40,
+   "word": 5,
+   "kjv": "Alian",
+   "modernized": "Alvan"
+  },
+  {
+   "book": "1CH",
+   "chapter": 1,
+   "verse": 40,
+   "word": 10,
+   "kjv": "Shephi",
+   "modernized": "Shepho"
+  },
+  {
+   "book": "1CH",
+   "chapter": 1,
+   "verse": 42,
+   "word": 7,
+   "kjv": "Zavan",
+   "modernized": "Zaavan"
+  },
+  {
+   "book": "1CH",
+   "chapter": 1,
+   "verse": 42,
+   "word": 9,
+   "kjv": "Jakan",
+   "modernized": "Akan"
+  },
+  {
+   "book": "1CH",
+   "chapter": 1,
+   "verse": 50,
+   "word": 18,
+   "kjv": "Pai",
+   "modernized": "Pau"
+  },
+  {
+   "book": "1CH",
+   "chapter": 1,
+   "verse": 50,
+   "word": 32,
+   "kjv": "Mezahab",
+   "modernized": "Me-zahab"
+  },
+  {
+   "book": "1CH",
+   "chapter": 1,
+   "verse": 51,
+   "word": 11,
+   "kjv": "Timnah",
+   "modernized": "Timna"
+  },
+  {
+   "book": "1CH",
+   "chapter": 1,
+   "verse": 51,
+   "word": 13,
+   "kjv": "Aliah",
+   "modernized": "Alvah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 1,
+   "verse": 52,
+   "word": 2,
+   "kjv": "Aholibamah",
+   "modernized": "Oholibamah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 2,
+   "verse": 4,
+   "word": 9,
+   "kjv": "Pharez",
+   "modernized": "Perez"
+  },
+  {
+   "book": "1CH",
+   "chapter": 2,
+   "verse": 5,
+   "word": 4,
+   "kjv": "Pharez",
+   "modernized": "Perez"
+  },
+  {
+   "book": "1CH",
+   "chapter": 2,
+   "verse": 13,
+   "word": 12,
+   "kjv": "Shimma",
+   "modernized": "Shimea"
+  },
+  {
+   "book": "1CH",
+   "chapter": 2,
+   "verse": 14,
+   "word": 1,
+   "kjv": "Nethaneel",
+   "modernized": "Nethanel"
+  },
+  {
+   "book": "1CH",
+   "chapter": 2,
+   "verse": 20,
+   "word": 8,
+   "kjv": "Bezaleel",
+   "modernized": "Bezalel"
+  },
+  {
+   "book": "1CH",
+   "chapter": 2,
+   "verse": 24,
+   "word": 10,
+   "kjv": "Abiah",
+   "modernized": "Abijah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 2,
+   "verse": 24,
+   "word": 15,
+   "kjv": "Ashur",
+   "modernized": "Ashhur"
+  },
+  {
+   "book": "1CH",
+   "chapter": 2,
+   "verse": 39,
+   "word": 8,
+   "kjv": "Eleasah",
+   "modernized": "Elasah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 2,
+   "verse": 40,
+   "word": 2,
+   "kjv": "Eleasah",
+   "modernized": "Elasah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 2,
+   "verse": 40,
+   "word": 4,
+   "kjv": "Sisamai",
+   "modernized": "Sismai"
+  },
+  {
+   "book": "1CH",
+   "chapter": 2,
+   "verse": 40,
+   "word": 6,
+   "kjv": "Sisamai",
+   "modernized": "Sismai"
+  },
+  {
+   "book": "1CH",
+   "chapter": 2,
+   "verse": 44,
+   "word": 8,
+   "kjv": "Jorkoam",
+   "modernized": "Jorkeam"
+  },
+  {
+   "book": "1CH",
+   "chapter": 2,
+   "verse": 48,
+   "word": 1,
+   "kjv": "Maachah",
+   "modernized": "Maacah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 2,
+   "verse": 49,
+   "word": 25,
+   "kjv": "Achsah",
+   "modernized": "Acsah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 2,
+   "verse": 50,
+   "word": 14,
+   "kjv": "Ephratah",
+   "modernized": "Ephrathah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 2,
+   "verse": 55,
+   "word": 24,
+   "kjv": "Hemath",
+   "modernized": "Hammath"
+  },
+  {
+   "book": "1CH",
+   "chapter": 3,
+   "verse": 2,
+   "word": 7,
+   "kjv": "Maachah",
+   "modernized": "Maacah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 3,
+   "verse": 17,
+   "word": 7,
+   "kjv": "Salathiel",
+   "modernized": "Shealtiel"
+  },
+  {
+   "book": "1CH",
+   "chapter": 3,
+   "verse": 18,
+   "word": 6,
+   "kjv": "Shenazar",
+   "modernized": "Shenazzar"
+  },
+  {
+   "book": "1CH",
+   "chapter": 3,
+   "verse": 18,
+   "word": 7,
+   "kjv": "Jecamiah",
+   "modernized": "Jekamiah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 3,
+   "verse": 21,
+   "word": 8,
+   "kjv": "Jesaiah",
+   "modernized": "Jeshaiah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 3,
+   "verse": 21,
+   "word": 24,
+   "kjv": "Shechaniah",
+   "modernized": "Shecaniah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 3,
+   "verse": 22,
+   "word": 5,
+   "kjv": "Shechaniah",
+   "modernized": "Shecaniah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 3,
+   "verse": 22,
+   "word": 14,
+   "kjv": "Igeal",
+   "modernized": "Igal"
+  },
+  {
+   "book": "1CH",
+   "chapter": 3,
+   "verse": 24,
+   "word": 17,
+   "kjv": "Dalaiah",
+   "modernized": "Delaiah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 4,
+   "verse": 1,
+   "word": 5,
+   "kjv": "Pharez",
+   "modernized": "Perez"
+  },
+  {
+   "book": "1CH",
+   "chapter": 4,
+   "verse": 3,
+   "word": 21,
+   "kjv": "Hazelelponi",
+   "modernized": "Hazzelelponi"
+  },
+  {
+   "book": "1CH",
+   "chapter": 4,
+   "verse": 4,
+   "word": 22,
+   "kjv": "Ephratah",
+   "modernized": "Ephrathah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 4,
+   "verse": 5,
+   "word": 2,
+   "kjv": "Ashur",
+   "modernized": "Ashhur"
+  },
+  {
+   "book": "1CH",
+   "chapter": 4,
+   "verse": 6,
+   "word": 5,
+   "kjv": "Ahuzam",
+   "modernized": "Ahuzzam"
+  },
+  {
+   "book": "1CH",
+   "chapter": 4,
+   "verse": 8,
+   "word": 2,
+   "kjv": "Coz",
+   "modernized": "Koz"
+  },
+  {
+   "book": "1CH",
+   "chapter": 4,
+   "verse": 11,
+   "word": 6,
+   "kjv": "Shuah",
+   "modernized": "Shuhah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 4,
+   "verse": 12,
+   "word": 18,
+   "kjv": "Rechah",
+   "modernized": "Recah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 4,
+   "verse": 16,
+   "word": 5,
+   "kjv": "Jehaleleel",
+   "modernized": "Jehallelel"
+  },
+  {
+   "book": "1CH",
+   "chapter": 4,
+   "verse": 16,
+   "word": 11,
+   "kjv": "Asareel",
+   "modernized": "Asarel"
+  },
+  {
+   "book": "1CH",
+   "chapter": 4,
+   "verse": 17,
+   "word": 5,
+   "kjv": "Ezra",
+   "modernized": "Ezrah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 4,
+   "verse": 18,
+   "word": 16,
+   "kjv": "Socho",
+   "modernized": "Soco"
+  },
+  {
+   "book": "1CH",
+   "chapter": 4,
+   "verse": 22,
+   "word": 7,
+   "kjv": "Chozeba",
+   "modernized": "Cozeba"
+  },
+  {
+   "book": "1CH",
+   "chapter": 4,
+   "verse": 26,
+   "word": 6,
+   "kjv": "Hamuel",
+   "modernized": "Hammuel"
+  },
+  {
+   "book": "1CH",
+   "chapter": 4,
+   "verse": 26,
+   "word": 9,
+   "kjv": "Zacchur",
+   "modernized": "Zaccur"
+  },
+  {
+   "book": "1CH",
+   "chapter": 4,
+   "verse": 35,
+   "word": 8,
+   "kjv": "Josibiah",
+   "modernized": "Joshibiah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 5,
+   "verse": 5,
+   "word": 4,
+   "kjv": "Reaia",
+   "modernized": "Reaiah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 5,
+   "verse": 11,
+   "word": 16,
+   "kjv": "Salchah",
+   "modernized": "Salecah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 5,
+   "verse": 13,
+   "word": 19,
+   "kjv": "Jachan",
+   "modernized": "Jacan"
+  },
+  {
+   "book": "1CH",
+   "chapter": 5,
+   "verse": 13,
+   "word": 23,
+   "kjv": "Heber",
+   "modernized": "Eber"
+  },
+  {
+   "book": "1CH",
+   "chapter": 5,
+   "verse": 19,
+   "word": 11,
+   "kjv": "Nephish",
+   "modernized": "Naphish"
+  },
+  {
+   "book": "1CH",
+   "chapter": 6,
+   "verse": 21,
+   "word": 10,
+   "kjv": "Jeaterai",
+   "modernized": "Jeatherai"
+  },
+  {
+   "book": "1CH",
+   "chapter": 6,
+   "verse": 28,
+   "word": 10,
+   "kjv": "Abiah",
+   "modernized": "Abijah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 6,
+   "verse": 40,
+   "word": 12,
+   "kjv": "Malchiah",
+   "modernized": "Malchijah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 6,
+   "verse": 46,
+   "word": 12,
+   "kjv": "Shamer",
+   "modernized": "Shemer"
+  },
+  {
+   "book": "1CH",
+   "chapter": 6,
+   "verse": 76,
+   "word": 20,
+   "kjv": "Kirjathaim",
+   "modernized": "Kiriathaim"
+  },
+  {
+   "book": "1CH",
+   "chapter": 7,
+   "verse": 2,
+   "word": 14,
+   "kjv": "Jibsam",
+   "modernized": "Ibsam"
+  },
+  {
+   "book": "1CH",
+   "chapter": 7,
+   "verse": 8,
+   "word": 18,
+   "kjv": "Abiah",
+   "modernized": "Abijah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 7,
+   "verse": 10,
+   "word": 22,
+   "kjv": "Tharshish",
+   "modernized": "Tarshish"
+  },
+  {
+   "book": "1CH",
+   "chapter": 7,
+   "verse": 14,
+   "word": 5,
+   "kjv": "Ashriel",
+   "modernized": "Asriel"
+  },
+  {
+   "book": "1CH",
+   "chapter": 7,
+   "verse": 15,
+   "word": 16,
+   "kjv": "Maachah",
+   "modernized": "Maacah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 7,
+   "verse": 16,
+   "word": 2,
+   "kjv": "Maachah",
+   "modernized": "Maacah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 7,
+   "verse": 16,
+   "word": 30,
+   "kjv": "Rakem",
+   "modernized": "Rekem"
+  },
+  {
+   "book": "1CH",
+   "chapter": 7,
+   "verse": 18,
+   "word": 4,
+   "kjv": "Hammoleketh",
+   "modernized": "Hammolecheth"
+  },
+  {
+   "book": "1CH",
+   "chapter": 7,
+   "verse": 18,
+   "word": 6,
+   "kjv": "Ishod",
+   "modernized": "Ishhod"
+  },
+  {
+   "book": "1CH",
+   "chapter": 7,
+   "verse": 18,
+   "word": 10,
+   "kjv": "Mahalah",
+   "modernized": "Mahlah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 7,
+   "verse": 24,
+   "word": 5,
+   "kjv": "Sherah",
+   "modernized": "Sheerah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 7,
+   "verse": 26,
+   "word": 1,
+   "kjv": "Laadan",
+   "modernized": "Ladan"
+  },
+  {
+   "book": "1CH",
+   "chapter": 7,
+   "verse": 27,
+   "word": 1,
+   "kjv": "Non",
+   "modernized": "Nun"
+  },
+  {
+   "book": "1CH",
+   "chapter": 7,
+   "verse": 27,
+   "word": 4,
+   "kjv": "Jehoshua",
+   "modernized": "Joshua"
+  },
+  {
+   "book": "1CH",
+   "chapter": 7,
+   "verse": 30,
+   "word": 7,
+   "kjv": "Isuah",
+   "modernized": "Ishvah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 7,
+   "verse": 30,
+   "word": 9,
+   "kjv": "Ishuai",
+   "modernized": "Ishvi"
+  },
+  {
+   "book": "1CH",
+   "chapter": 7,
+   "verse": 31,
+   "word": 14,
+   "kjv": "Birzavith",
+   "modernized": "Birzaith"
+  },
+  {
+   "book": "1CH",
+   "chapter": 7,
+   "verse": 34,
+   "word": 5,
+   "kjv": "Shamer",
+   "modernized": "Shemer"
+  },
+  {
+   "book": "1CH",
+   "chapter": 7,
+   "verse": 34,
+   "word": 9,
+   "kjv": "Jehubbah",
+   "modernized": "Hubbah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 7,
+   "verse": 38,
+   "word": 8,
+   "kjv": "Pispah",
+   "modernized": "Pispa"
+  },
+  {
+   "book": "1CH",
+   "chapter": 7,
+   "verse": 39,
+   "word": 8,
+   "kjv": "Haniel",
+   "modernized": "Hanniel"
+  },
+  {
+   "book": "1CH",
+   "chapter": 7,
+   "verse": 39,
+   "word": 10,
+   "kjv": "Rezia",
+   "modernized": "Rizia"
+  },
+  {
+   "book": "1CH",
+   "chapter": 8,
+   "verse": 7,
+   "word": 4,
+   "kjv": "Ahiah",
+   "modernized": "Ahijah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 8,
+   "verse": 10,
+   "word": 4,
+   "kjv": "Shachia",
+   "modernized": "Sachia"
+  },
+  {
+   "book": "1CH",
+   "chapter": 8,
+   "verse": 10,
+   "word": 6,
+   "kjv": "Mirma",
+   "modernized": "Mirmah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 8,
+   "verse": 15,
+   "word": 6,
+   "kjv": "Ader",
+   "modernized": "Eder"
+  },
+  {
+   "book": "1CH",
+   "chapter": 8,
+   "verse": 16,
+   "word": 4,
+   "kjv": "Ispah",
+   "modernized": "Ishpah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 8,
+   "verse": 17,
+   "word": 6,
+   "kjv": "Hezeki",
+   "modernized": "Hizki"
+  },
+  {
+   "book": "1CH",
+   "chapter": 8,
+   "verse": 18,
+   "word": 4,
+   "kjv": "Jezliah",
+   "modernized": "Izliah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 8,
+   "verse": 20,
+   "word": 4,
+   "kjv": "Zilthai",
+   "modernized": "Zillethai"
+  },
+  {
+   "book": "1CH",
+   "chapter": 8,
+   "verse": 21,
+   "word": 10,
+   "kjv": "Shimhi",
+   "modernized": "Shimei"
+  },
+  {
+   "book": "1CH",
+   "chapter": 8,
+   "verse": 22,
+   "word": 4,
+   "kjv": "Heber",
+   "modernized": "Eber"
+  },
+  {
+   "book": "1CH",
+   "chapter": 8,
+   "verse": 24,
+   "word": 6,
+   "kjv": "Antothijah",
+   "modernized": "Anthothijah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 8,
+   "verse": 25,
+   "word": 2,
+   "kjv": "Iphedeiah",
+   "modernized": "Iphdeiah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 8,
+   "verse": 27,
+   "word": 2,
+   "kjv": "Jaresiah",
+   "modernized": "Jaareshiah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 8,
+   "verse": 27,
+   "word": 4,
+   "kjv": "Eliah",
+   "modernized": "Elijah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 8,
+   "verse": 29,
+   "word": 13,
+   "kjv": "Maachah",
+   "modernized": "Maacah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 8,
+   "verse": 31,
+   "word": 6,
+   "kjv": "Zacher",
+   "modernized": "Zecher"
+  },
+  {
+   "book": "1CH",
+   "chapter": 8,
+   "verse": 36,
+   "word": 4,
+   "kjv": "Jehoadah",
+   "modernized": "Jehoaddah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 8,
+   "verse": 36,
+   "word": 6,
+   "kjv": "Jehoadah",
+   "modernized": "Jehoaddah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 8,
+   "verse": 37,
+   "word": 5,
+   "kjv": "Rapha",
+   "modernized": "Raphah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 9,
+   "verse": 4,
+   "word": 22,
+   "kjv": "Pharez",
+   "modernized": "Perez"
+  },
+  {
+   "book": "1CH",
+   "chapter": 9,
+   "verse": 8,
+   "word": 22,
+   "kjv": "Shephathiah",
+   "modernized": "Shephatiah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 9,
+   "verse": 12,
+   "word": 10,
+   "kjv": "Pashur",
+   "modernized": "Pashhur"
+  },
+  {
+   "book": "1CH",
+   "chapter": 9,
+   "verse": 12,
+   "word": 16,
+   "kjv": "Maasiai",
+   "modernized": "Maasai"
+  },
+  {
+   "book": "1CH",
+   "chapter": 9,
+   "verse": 15,
+   "word": 11,
+   "kjv": "Micah",
+   "modernized": "Mica"
+  },
+  {
+   "book": "1CH",
+   "chapter": 9,
+   "verse": 35,
+   "word": 14,
+   "kjv": "Maachah",
+   "modernized": "Maacah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 9,
+   "verse": 43,
+   "word": 9,
+   "kjv": "Eleasah",
+   "modernized": "Elasah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 11,
+   "verse": 34,
+   "word": 11,
+   "kjv": "Shage",
+   "modernized": "Shagee"
+  },
+  {
+   "book": "1CH",
+   "chapter": 11,
+   "verse": 35,
+   "word": 5,
+   "kjv": "Sacar",
+   "modernized": "Sachar"
+  },
+  {
+   "book": "1CH",
+   "chapter": 11,
+   "verse": 38,
+   "word": 10,
+   "kjv": "Haggeri",
+   "modernized": "Hagri"
+  },
+  {
+   "book": "1CH",
+   "chapter": 11,
+   "verse": 43,
+   "word": 5,
+   "kjv": "Maachah",
+   "modernized": "Maacah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 11,
+   "verse": 44,
+   "word": 10,
+   "kjv": "Hothan",
+   "modernized": "Hotham"
+  },
+  {
+   "book": "1CH",
+   "chapter": 11,
+   "verse": 47,
+   "word": 5,
+   "kjv": "Jasiel",
+   "modernized": "Jaasiel"
+  },
+  {
+   "book": "1CH",
+   "chapter": 11,
+   "verse": 47,
+   "word": 7,
+   "kjv": "Mesobaite",
+   "modernized": "Mezobaite"
+  },
+  {
+   "book": "1CH",
+   "chapter": 12,
+   "verse": 3,
+   "word": 22,
+   "kjv": "Berachah",
+   "modernized": "Beracah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 12,
+   "verse": 4,
+   "word": 2,
+   "kjv": "Ismaiah",
+   "modernized": "Ishmaiah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 12,
+   "verse": 4,
+   "word": 22,
+   "kjv": "Josabad",
+   "modernized": "Jozabad"
+  },
+  {
+   "book": "1CH",
+   "chapter": 12,
+   "verse": 6,
+   "word": 3,
+   "kjv": "Jesiah",
+   "modernized": "Isshiah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 12,
+   "verse": 6,
+   "word": 5,
+   "kjv": "Azareel",
+   "modernized": "Azarel"
+  },
+  {
+   "book": "1CH",
+   "chapter": 12,
+   "verse": 20,
+   "word": 24,
+   "kjv": "Zilthai",
+   "modernized": "Zillethai"
+  },
+  {
+   "book": "1CH",
+   "chapter": 13,
+   "verse": 5,
+   "word": 16,
+   "kjv": "Hemath",
+   "modernized": "Hammath"
+  },
+  {
+   "book": "1CH",
+   "chapter": 13,
+   "verse": 7,
+   "word": 19,
+   "kjv": "Uzza",
+   "modernized": "Uzzah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 13,
+   "verse": 9,
+   "word": 10,
+   "kjv": "Uzza",
+   "modernized": "Uzzah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 13,
+   "verse": 10,
+   "word": 10,
+   "kjv": "Uzza",
+   "modernized": "Uzzah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 13,
+   "verse": 11,
+   "word": 13,
+   "kjv": "Uzza",
+   "modernized": "Uzzah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 14,
+   "verse": 5,
+   "word": 6,
+   "kjv": "Elpalet",
+   "modernized": "Elpelet"
+  },
+  {
+   "book": "1CH",
+   "chapter": 14,
+   "verse": 7,
+   "word": 6,
+   "kjv": "Eliphalet",
+   "modernized": "Eliphelet"
+  },
+  {
+   "book": "1CH",
+   "chapter": 14,
+   "verse": 16,
+   "word": 20,
+   "kjv": "Gazer",
+   "modernized": "Gezer"
+  },
+  {
+   "book": "1CH",
+   "chapter": 15,
+   "verse": 18,
+   "word": 28,
+   "kjv": "Elipheleh",
+   "modernized": "Eliphelehu"
+  },
+  {
+   "book": "1CH",
+   "chapter": 15,
+   "verse": 21,
+   "word": 4,
+   "kjv": "Elipheleh",
+   "modernized": "Eliphelehu"
+  },
+  {
+   "book": "1CH",
+   "chapter": 15,
+   "verse": 24,
+   "word": 6,
+   "kjv": "Nethaneel",
+   "modernized": "Nethanel"
+  },
+  {
+   "book": "1CH",
+   "chapter": 18,
+   "verse": 8,
+   "word": 6,
+   "kjv": "Chun",
+   "modernized": "Cun"
+  },
+  {
+   "book": "1CH",
+   "chapter": 19,
+   "verse": 7,
+   "word": 13,
+   "kjv": "Maachah",
+   "modernized": "Maacah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 20,
+   "verse": 4,
+   "word": 20,
+   "kjv": "Sibbechai",
+   "modernized": "Sibbecai"
+  },
+  {
+   "book": "1CH",
+   "chapter": 23,
+   "verse": 7,
+   "word": 5,
+   "kjv": "Laadan",
+   "modernized": "Ladan"
+  },
+  {
+   "book": "1CH",
+   "chapter": 23,
+   "verse": 8,
+   "word": 4,
+   "kjv": "Laadan",
+   "modernized": "Ladan"
+  },
+  {
+   "book": "1CH",
+   "chapter": 23,
+   "verse": 9,
+   "word": 19,
+   "kjv": "Laadan",
+   "modernized": "Ladan"
+  },
+  {
+   "book": "1CH",
+   "chapter": 23,
+   "verse": 20,
+   "word": 6,
+   "kjv": "Michah",
+   "modernized": "Micah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 23,
+   "verse": 20,
+   "word": 10,
+   "kjv": "Jesiah",
+   "modernized": "Isshiah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 24,
+   "verse": 6,
+   "word": 6,
+   "kjv": "Nethaneel",
+   "modernized": "Nethanel"
+  },
+  {
+   "book": "1CH",
+   "chapter": 24,
+   "verse": 16,
+   "word": 8,
+   "kjv": "Jehezekel",
+   "modernized": "Jehezkel"
+  },
+  {
+   "book": "1CH",
+   "chapter": 24,
+   "verse": 24,
+   "word": 6,
+   "kjv": "Michah",
+   "modernized": "Micah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 24,
+   "verse": 24,
+   "word": 11,
+   "kjv": "Michah",
+   "modernized": "Micah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 24,
+   "verse": 25,
+   "word": 4,
+   "kjv": "Michah",
+   "modernized": "Micah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 25,
+   "verse": 14,
+   "word": 4,
+   "kjv": "Jesharelah",
+   "modernized": "Jesarelah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 25,
+   "verse": 18,
+   "word": 4,
+   "kjv": "Azareel",
+   "modernized": "Azarel"
+  },
+  {
+   "book": "1CH",
+   "chapter": 26,
+   "verse": 4,
+   "word": 17,
+   "kjv": "Sacar",
+   "modernized": "Sachar"
+  },
+  {
+   "book": "1CH",
+   "chapter": 26,
+   "verse": 4,
+   "word": 21,
+   "kjv": "Nethaneel",
+   "modernized": "Nethanel"
+  },
+  {
+   "book": "1CH",
+   "chapter": 26,
+   "verse": 5,
+   "word": 7,
+   "kjv": "Peulthai",
+   "modernized": "Peullethai"
+  },
+  {
+   "book": "1CH",
+   "chapter": 26,
+   "verse": 10,
+   "word": 10,
+   "kjv": "Simri",
+   "modernized": "Shimri"
+  },
+  {
+   "book": "1CH",
+   "chapter": 26,
+   "verse": 21,
+   "word": 6,
+   "kjv": "Laadan",
+   "modernized": "Ladan"
+  },
+  {
+   "book": "1CH",
+   "chapter": 26,
+   "verse": 21,
+   "word": 12,
+   "kjv": "Laadan",
+   "modernized": "Ladan"
+  },
+  {
+   "book": "1CH",
+   "chapter": 26,
+   "verse": 21,
+   "word": 17,
+   "kjv": "Laadan",
+   "modernized": "Ladan"
+  },
+  {
+   "book": "1CH",
+   "chapter": 27,
+   "verse": 16,
+   "word": 25,
+   "kjv": "Maachah",
+   "modernized": "Maacah"
+  },
+  {
+   "book": "1CH",
+   "chapter": 27,
+   "verse": 22,
+   "word": 3,
+   "kjv": "Azareel",
+   "modernized": "Azarel"
+  },
+  {
+   "book": "2CH",
+   "chapter": 1,
+   "verse": 5,
+   "word": 6,
+   "kjv": "Bezaleel",
+   "modernized": "Bezalel"
+  },
+  {
+   "book": "2CH",
+   "chapter": 4,
+   "verse": 17,
+   "word": 18,
+   "kjv": "Zeredathah",
+   "modernized": "Zeredah"
+  },
+  {
+   "book": "2CH",
+   "chapter": 11,
+   "verse": 7,
+   "word": 4,
+   "kjv": "Shoco",
+   "modernized": "Soco"
+  },
+  {
+   "book": "2CH",
+   "chapter": 11,
+   "verse": 19,
+   "word": 7,
+   "kjv": "Shamariah",
+   "modernized": "Shemariah"
+  },
+  {
+   "book": "2CH",
+   "chapter": 11,
+   "verse": 20,
+   "word": 6,
+   "kjv": "Maachah",
+   "modernized": "Maacah"
+  },
+  {
+   "book": "2CH",
+   "chapter": 11,
+   "verse": 21,
+   "word": 4,
+   "kjv": "Maachah",
+   "modernized": "Maacah"
+  },
+  {
+   "book": "2CH",
+   "chapter": 11,
+   "verse": 22,
+   "word": 8,
+   "kjv": "Maachah",
+   "modernized": "Maacah"
+  },
+  {
+   "book": "2CH",
+   "chapter": 13,
+   "verse": 2,
+   "word": 12,
+   "kjv": "Michaiah",
+   "modernized": "Micaiah"
+  },
+  {
+   "book": "2CH",
+   "chapter": 15,
+   "verse": 16,
+   "word": 4,
+   "kjv": "Maachah",
+   "modernized": "Maacah"
+  },
+  {
+   "book": "2CH",
+   "chapter": 17,
+   "verse": 7,
+   "word": 25,
+   "kjv": "Nethaneel",
+   "modernized": "Nethanel"
+  },
+  {
+   "book": "2CH",
+   "chapter": 17,
+   "verse": 7,
+   "word": 28,
+   "kjv": "Michaiah",
+   "modernized": "Micaiah"
+  },
+  {
+   "book": "2CH",
+   "chapter": 18,
+   "verse": 7,
+   "word": 43,
+   "kjv": "Imla",
+   "modernized": "Imlah"
+  },
+  {
+   "book": "2CH",
+   "chapter": 20,
+   "verse": 37,
+   "word": 6,
+   "kjv": "Dodavah",
+   "modernized": "Dodavahu"
+  },
+  {
+   "book": "2CH",
+   "chapter": 28,
+   "verse": 18,
+   "word": 23,
+   "kjv": "Ajalon",
+   "modernized": "Aijalon"
+  },
+  {
+   "book": "2CH",
+   "chapter": 28,
+   "verse": 18,
+   "word": 27,
+   "kjv": "Shocho",
+   "modernized": "Soco"
+  },
+  {
+   "book": "2CH",
+   "chapter": 29,
+   "verse": 12,
+   "word": 38,
+   "kjv": "Jehalelel",
+   "modernized": "Jehallelel"
+  },
+  {
+   "book": "2CH",
+   "chapter": 31,
+   "verse": 12,
+   "word": 16,
+   "kjv": "Cononiah",
+   "modernized": "Conaniah"
+  },
+  {
+   "book": "2CH",
+   "chapter": 31,
+   "verse": 13,
+   "word": 27,
+   "kjv": "Cononiah",
+   "modernized": "Conaniah"
+  },
+  {
+   "book": "2CH",
+   "chapter": 35,
+   "verse": 9,
+   "word": 6,
+   "kjv": "Nethaneel",
+   "modernized": "Nethanel"
+  },
+  {
+   "book": "2CH",
+   "chapter": 35,
+   "verse": 20,
+   "word": 10,
+   "kjv": "Necho",
+   "modernized": "Neco"
+  },
+  {
+   "book": "2CH",
+   "chapter": 35,
+   "verse": 22,
+   "word": 26,
+   "kjv": "Necho",
+   "modernized": "Neco"
+  },
+  {
+   "book": "2CH",
+   "chapter": 36,
+   "verse": 4,
+   "word": 22,
+   "kjv": "Necho",
+   "modernized": "Neco"
+  },
+  {
+   "book": "EZR",
+   "chapter": 2,
+   "verse": 26,
+   "word": 6,
+   "kjv": "Gaba",
+   "modernized": "Geba"
+  },
+  {
+   "book": "EZR",
+   "chapter": 2,
+   "verse": 27,
+   "word": 4,
+   "kjv": "Michmas",
+   "modernized": "Michmash"
+  },
+  {
+   "book": "EZR",
+   "chapter": 2,
+   "verse": 38,
+   "word": 4,
+   "kjv": "Pashur",
+   "modernized": "Pashhur"
+  },
+  {
+   "book": "EZR",
+   "chapter": 2,
+   "verse": 50,
+   "word": 8,
+   "kjv": "Mehunim",
+   "modernized": "Meunim"
+  },
+  {
+   "book": "EZR",
+   "chapter": 2,
+   "verse": 53,
+   "word": 12,
+   "kjv": "Thamah",
+   "modernized": "Temah"
+  },
+  {
+   "book": "EZR",
+   "chapter": 2,
+   "verse": 56,
+   "word": 4,
+   "kjv": "Jaalah",
+   "modernized": "Jaala"
+  },
+  {
+   "book": "EZR",
+   "chapter": 2,
+   "verse": 61,
+   "word": 11,
+   "kjv": "Habaiah",
+   "modernized": "Hobaiah"
+  },
+  {
+   "book": "EZR",
+   "chapter": 5,
+   "verse": 3,
+   "word": 8,
+   "kjv": "Tatnai",
+   "modernized": "Tattenai"
+  },
+  {
+   "book": "EZR",
+   "chapter": 5,
+   "verse": 6,
+   "word": 7,
+   "kjv": "Tatnai",
+   "modernized": "Tattenai"
+  },
+  {
+   "book": "EZR",
+   "chapter": 6,
+   "verse": 6,
+   "word": 3,
+   "kjv": "Tatnai",
+   "modernized": "Tattenai"
+  },
+  {
+   "book": "EZR",
+   "chapter": 6,
+   "verse": 13,
+   "word": 2,
+   "kjv": "Tatnai",
+   "modernized": "Tattenai"
+  },
+  {
+   "book": "EZR",
+   "chapter": 8,
+   "verse": 3,
+   "word": 5,
+   "kjv": "Shechaniah",
+   "modernized": "Shecaniah"
+  },
+  {
+   "book": "EZR",
+   "chapter": 8,
+   "verse": 3,
+   "word": 10,
+   "kjv": "Pharosh",
+   "modernized": "Parosh"
+  },
+  {
+   "book": "EZR",
+   "chapter": 8,
+   "verse": 5,
+   "word": 5,
+   "kjv": "Shechaniah",
+   "modernized": "Shecaniah"
+  },
+  {
+   "book": "EZR",
+   "chapter": 10,
+   "verse": 2,
+   "word": 2,
+   "kjv": "Shechaniah",
+   "modernized": "Shecaniah"
+  },
+  {
+   "book": "EZR",
+   "chapter": 10,
+   "verse": 15,
+   "word": 8,
+   "kjv": "Jahaziah",
+   "modernized": "Jahzeiah"
+  },
+  {
+   "book": "EZR",
+   "chapter": 10,
+   "verse": 22,
+   "word": 6,
+   "kjv": "Pashur",
+   "modernized": "Pashhur"
+  },
+  {
+   "book": "EZR",
+   "chapter": 10,
+   "verse": 22,
+   "word": 10,
+   "kjv": "Nethaneel",
+   "modernized": "Nethanel"
+  },
+  {
+   "book": "EZR",
+   "chapter": 10,
+   "verse": 25,
+   "word": 11,
+   "kjv": "Jeziah",
+   "modernized": "Izziah"
+  },
+  {
+   "book": "EZR",
+   "chapter": 10,
+   "verse": 25,
+   "word": 15,
+   "kjv": "Miamin",
+   "modernized": "Mijamin"
+  },
+  {
+   "book": "EZR",
+   "chapter": 10,
+   "verse": 26,
+   "word": 16,
+   "kjv": "Eliah",
+   "modernized": "Elijah"
+  },
+  {
+   "book": "EZR",
+   "chapter": 10,
+   "verse": 30,
+   "word": 13,
+   "kjv": "Bezaleel",
+   "modernized": "Bezalel"
+  },
+  {
+   "book": "EZR",
+   "chapter": 10,
+   "verse": 33,
+   "word": 7,
+   "kjv": "Mattathah",
+   "modernized": "Mattattah"
+  },
+  {
+   "book": "EZR",
+   "chapter": 10,
+   "verse": 41,
+   "word": 1,
+   "kjv": "Azareel",
+   "modernized": "Azarel"
+  },
+  {
+   "book": "NEH",
+   "chapter": 1,
+   "verse": 1,
+   "word": 8,
+   "kjv": "Hachaliah",
+   "modernized": "Hacaliah"
+  },
+  {
+   "book": "NEH",
+   "chapter": 1,
+   "verse": 1,
+   "word": 17,
+   "kjv": "Chisleu",
+   "modernized": "Chislev"
+  },
+  {
+   "book": "NEH",
+   "chapter": 3,
+   "verse": 1,
+   "word": 42,
+   "kjv": "Hananeel",
+   "modernized": "Hananel"
+  },
+  {
+   "book": "NEH",
+   "chapter": 3,
+   "verse": 4,
+   "word": 10,
+   "kjv": "Urijah",
+   "modernized": "Uriah"
+  },
+  {
+   "book": "NEH",
+   "chapter": 3,
+   "verse": 4,
+   "word": 28,
+   "kjv": "Meshezabeel",
+   "modernized": "Meshezabel"
+  },
+  {
+   "book": "NEH",
+   "chapter": 3,
+   "verse": 10,
+   "word": 25,
+   "kjv": "Hashabniah",
+   "modernized": "Hashabneiah"
+  },
+  {
+   "book": "NEH",
+   "chapter": 3,
+   "verse": 11,
+   "word": 7,
+   "kjv": "Hashub",
+   "modernized": "Hasshub"
+  },
+  {
+   "book": "NEH",
+   "chapter": 3,
+   "verse": 12,
+   "word": 10,
+   "kjv": "Halohesh",
+   "modernized": "Hallohesh"
+  },
+  {
+   "book": "NEH",
+   "chapter": 3,
+   "verse": 14,
+   "word": 6,
+   "kjv": "Malchiah",
+   "modernized": "Malchijah"
+  },
+  {
+   "book": "NEH",
+   "chapter": 3,
+   "verse": 21,
+   "word": 8,
+   "kjv": "Urijah",
+   "modernized": "Uriah"
+  },
+  {
+   "book": "NEH",
+   "chapter": 3,
+   "verse": 23,
+   "word": 6,
+   "kjv": "Hashub",
+   "modernized": "Hasshub"
+  },
+  {
+   "book": "NEH",
+   "chapter": 3,
+   "verse": 29,
+   "word": 21,
+   "kjv": "Shechaniah",
+   "modernized": "Shecaniah"
+  },
+  {
+   "book": "NEH",
+   "chapter": 3,
+   "verse": 31,
+   "word": 4,
+   "kjv": "Malchiah",
+   "modernized": "Malchijah"
+  },
+  {
+   "book": "NEH",
+   "chapter": 6,
+   "verse": 10,
+   "word": 16,
+   "kjv": "Mehetabeel",
+   "modernized": "Mehetabel"
+  },
+  {
+   "book": "NEH",
+   "chapter": 6,
+   "verse": 18,
+   "word": 18,
+   "kjv": "Shechaniah",
+   "modernized": "Shecaniah"
+  },
+  {
+   "book": "NEH",
+   "chapter": 7,
+   "verse": 31,
+   "word": 4,
+   "kjv": "Michmas",
+   "modernized": "Michmash"
+  },
+  {
+   "book": "NEH",
+   "chapter": 7,
+   "verse": 41,
+   "word": 4,
+   "kjv": "Pashur",
+   "modernized": "Pashhur"
+  },
+  {
+   "book": "NEH",
+   "chapter": 7,
+   "verse": 46,
+   "word": 10,
+   "kjv": "Hashupha",
+   "modernized": "Hasupha"
+  },
+  {
+   "book": "NEH",
+   "chapter": 7,
+   "verse": 48,
+   "word": 4,
+   "kjv": "Lebana",
+   "modernized": "Lebanah"
+  },
+  {
+   "book": "NEH",
+   "chapter": 7,
+   "verse": 48,
+   "word": 8,
+   "kjv": "Hagaba",
+   "modernized": "Hagabah"
+  },
+  {
+   "book": "NEH",
+   "chapter": 7,
+   "verse": 51,
+   "word": 12,
+   "kjv": "Phaseah",
+   "modernized": "Paseah"
+  },
+  {
+   "book": "NEH",
+   "chapter": 7,
+   "verse": 55,
+   "word": 12,
+   "kjv": "Tamah",
+   "modernized": "Temah"
+  },
+  {
+   "book": "NEH",
+   "chapter": 7,
+   "verse": 63,
+   "word": 8,
+   "kjv": "Habaiah",
+   "modernized": "Hobaiah"
+  },
+  {
+   "book": "NEH",
+   "chapter": 8,
+   "verse": 4,
+   "word": 28,
+   "kjv": "Urijah",
+   "modernized": "Uriah"
+  },
+  {
+   "book": "NEH",
+   "chapter": 8,
+   "verse": 4,
+   "word": 46,
+   "kjv": "Malchiah",
+   "modernized": "Malchijah"
+  },
+  {
+   "book": "NEH",
+   "chapter": 8,
+   "verse": 4,
+   "word": 50,
+   "kjv": "Hashbadana",
+   "modernized": "Hash-baddanah"
+  },
+  {
+   "book": "NEH",
+   "chapter": 8,
+   "verse": 7,
+   "word": 10,
+   "kjv": "Hodijah",
+   "modernized": "Hodiah"
+  },
+  {
+   "book": "NEH",
+   "chapter": 9,
+   "verse": 5,
+   "word": 8,
+   "kjv": "Hashabniah",
+   "modernized": "Hashabneiah"
+  },
+  {
+   "book": "NEH",
+   "chapter": 9,
+   "verse": 5,
+   "word": 10,
+   "kjv": "Hodijah",
+   "modernized": "Hodiah"
+  },
+  {
+   "book": "NEH",
+   "chapter": 10,
+   "verse": 1,
+   "word": 12,
+   "kjv": "Hachaliah",
+   "modernized": "Hacaliah"
+  },
+  {
+   "book": "NEH",
+   "chapter": 10,
+   "verse": 3,
+   "word": 1,
+   "kjv": "Pashur",
+   "modernized": "Pashhur"
+  },
+  {
+   "book": "NEH",
+   "chapter": 10,
+   "verse": 10,
+   "word": 5,
+   "kjv": "Hodijah",
+   "modernized": "Hodiah"
+  },
+  {
+   "book": "NEH",
+   "chapter": 10,
+   "verse": 11,
+   "word": 1,
+   "kjv": "Micha",
+   "modernized": "Mica"
+  },
+  {
+   "book": "NEH",
+   "chapter": 10,
+   "verse": 13,
+   "word": 1,
+   "kjv": "Hodijah",
+   "modernized": "Hodiah"
+  },
+  {
+   "book": "NEH",
+   "chapter": 10,
+   "verse": 14,
+   "word": 9,
+   "kjv": "Zatthu",
+   "modernized": "Zattu"
+  },
+  {
+   "book": "NEH",
+   "chapter": 10,
+   "verse": 18,
+   "word": 1,
+   "kjv": "Hodijah",
+   "modernized": "Hodiah"
+  },
+  {
+   "book": "NEH",
+   "chapter": 10,
+   "verse": 21,
+   "word": 1,
+   "kjv": "Meshezabeel",
+   "modernized": "Meshezabel"
+  },
+  {
+   "book": "NEH",
+   "chapter": 10,
+   "verse": 23,
+   "word": 3,
+   "kjv": "Hashub",
+   "modernized": "Hasshub"
+  },
+  {
+   "book": "NEH",
+   "chapter": 10,
+   "verse": 24,
+   "word": 2,
+   "kjv": "Pileha",
+   "modernized": "Pilha"
+  },
+  {
+   "book": "NEH",
+   "chapter": 11,
+   "verse": 4,
+   "word": 42,
+   "kjv": "Mahalaleel",
+   "modernized": "Mahalalel"
+  },
+  {
+   "book": "NEH",
+   "chapter": 11,
+   "verse": 7,
+   "word": 36,
+   "kjv": "Jesaiah",
+   "modernized": "Jeshaiah"
+  },
+  {
+   "book": "NEH",
+   "chapter": 11,
+   "verse": 12,
+   "word": 38,
+   "kjv": "Pashur",
+   "modernized": "Pashhur"
+  },
+  {
+   "book": "NEH",
+   "chapter": 11,
+   "verse": 13,
+   "word": 18,
+   "kjv": "Azareel",
+   "modernized": "Azarel"
+  },
+  {
+   "book": "NEH",
+   "chapter": 11,
+   "verse": 15,
+   "word": 9,
+   "kjv": "Hashub",
+   "modernized": "Hasshub"
+  },
+  {
+   "book": "NEH",
+   "chapter": 11,
+   "verse": 17,
+   "word": 6,
+   "kjv": "Micha",
+   "modernized": "Mica"
+  },
+  {
+   "book": "NEH",
+   "chapter": 11,
+   "verse": 21,
+   "word": 10,
+   "kjv": "Gispa",
+   "modernized": "Gishpa"
+  },
+  {
+   "book": "NEH",
+   "chapter": 11,
+   "verse": 22,
+   "word": 26,
+   "kjv": "Micha",
+   "modernized": "Mica"
+  },
+  {
+   "book": "NEH",
+   "chapter": 11,
+   "verse": 24,
+   "word": 6,
+   "kjv": "Meshezabeel",
+   "modernized": "Meshezabel"
+  },
+  {
+   "book": "NEH",
+   "chapter": 11,
+   "verse": 28,
+   "word": 6,
+   "kjv": "Mekonah",
+   "modernized": "Meconah"
+  },
+  {
+   "book": "NEH",
+   "chapter": 11,
+   "verse": 29,
+   "word": 6,
+   "kjv": "Zareah",
+   "modernized": "Zorah"
+  },
+  {
+   "book": "NEH",
+   "chapter": 12,
+   "verse": 3,
+   "word": 1,
+   "kjv": "Shechaniah",
+   "modernized": "Shecaniah"
+  },
+  {
+   "book": "NEH",
+   "chapter": 12,
+   "verse": 5,
+   "word": 1,
+   "kjv": "Miamin",
+   "modernized": "Mijamin"
+  },
+  {
+   "book": "NEH",
+   "chapter": 12,
+   "verse": 21,
+   "word": 6,
+   "kjv": "Nethaneel",
+   "modernized": "Nethanel"
+  },
+  {
+   "book": "NEH",
+   "chapter": 12,
+   "verse": 35,
+   "word": 26,
+   "kjv": "Michaiah",
+   "modernized": "Micaiah"
+  },
+  {
+   "book": "NEH",
+   "chapter": 12,
+   "verse": 36,
+   "word": 6,
+   "kjv": "Azarael",
+   "modernized": "Azarel"
+  },
+  {
+   "book": "NEH",
+   "chapter": 12,
+   "verse": 36,
+   "word": 10,
+   "kjv": "Nethaneel",
+   "modernized": "Nethanel"
+  },
+  {
+   "book": "NEH",
+   "chapter": 12,
+   "verse": 39,
+   "word": 22,
+   "kjv": "Hananeel",
+   "modernized": "Hananel"
+  },
+  {
+   "book": "NEH",
+   "chapter": 12,
+   "verse": 41,
+   "word": 7,
+   "kjv": "Michaiah",
+   "modernized": "Micaiah"
+  },
+  {
+   "book": "EST",
+   "chapter": 1,
+   "verse": 10,
+   "word": 25,
+   "kjv": "Carcas",
+   "modernized": "Carkas"
+  },
+  {
+   "book": "EST",
+   "chapter": 2,
+   "verse": 3,
+   "word": 38,
+   "kjv": "Hege",
+   "modernized": "Hegai"
+  },
+  {
+   "book": "EST",
+   "chapter": 4,
+   "verse": 5,
+   "word": 5,
+   "kjv": "Hatach",
+   "modernized": "Hathach"
+  },
+  {
+   "book": "EST",
+   "chapter": 4,
+   "verse": 6,
+   "word": 2,
+   "kjv": "Hatach",
+   "modernized": "Hathach"
+  },
+  {
+   "book": "EST",
+   "chapter": 4,
+   "verse": 9,
+   "word": 2,
+   "kjv": "Hatach",
+   "modernized": "Hathach"
+  },
+  {
+   "book": "EST",
+   "chapter": 4,
+   "verse": 10,
+   "word": 5,
+   "kjv": "Hatach",
+   "modernized": "Hathach"
+  },
+  {
+   "book": "EST",
+   "chapter": 9,
+   "verse": 9,
+   "word": 8,
+   "kjv": "Vajezatha",
+   "modernized": "Vaizatha"
+  },
+  {
+   "book": "JOB",
+   "chapter": 42,
+   "verse": 14,
+   "word": 9,
+   "kjv": "Jemima",
+   "modernized": "Jemimah"
+  },
+  {
+   "book": "JOB",
+   "chapter": 42,
+   "verse": 14,
+   "word": 16,
+   "kjv": "Kezia",
+   "modernized": "Keziah"
+  },
+  {
+   "book": "PSA",
+   "chapter": 65,
+   "verse": 1,
+   "word": 18,
+   "kjv": "Sion",
+   "modernized": "Zion"
+  },
+  {
+   "book": "PSA",
+   "chapter": 68,
+   "verse": 14,
+   "word": 14,
+   "kjv": "Salmon",
+   "modernized": "Zalmon"
+  },
+  {
+   "book": "PSA",
+   "chapter": 83,
+   "verse": 9,
+   "word": 18,
+   "kjv": "Kison",
+   "modernized": "Kishon"
+  },
+  {
+   "book": "PSA",
+   "chapter": 120,
+   "verse": 5,
+   "word": 8,
+   "kjv": "Mesech",
+   "modernized": "Meshech"
+  },
+  {
+   "book": "PSA",
+   "chapter": 132,
+   "verse": 6,
+   "word": 7,
+   "kjv": "Ephratah",
+   "modernized": "Ephrathah"
+  },
+  {
+   "book": "SNG",
+   "chapter": 4,
+   "verse": 8,
+   "word": 22,
+   "kjv": "Shenir",
+   "modernized": "Senir"
+  },
+  {
+   "book": "ISA",
+   "chapter": 8,
+   "verse": 2,
+   "word": 18,
+   "kjv": "Jeberechiah",
+   "modernized": "Jeberekiah"
+  },
+  {
+   "book": "ISA",
+   "chapter": 10,
+   "verse": 30,
+   "word": 15,
+   "kjv": "Laish",
+   "modernized": "Laishah"
+  },
+  {
+   "book": "ISA",
+   "chapter": 23,
+   "verse": 2,
+   "word": 13,
+   "kjv": "Zidon",
+   "modernized": "Sidon"
+  },
+  {
+   "book": "ISA",
+   "chapter": 23,
+   "verse": 3,
+   "word": 8,
+   "kjv": "Sihor",
+   "modernized": "Shihor"
+  },
+  {
+   "book": "ISA",
+   "chapter": 23,
+   "verse": 4,
+   "word": 5,
+   "kjv": "Zidon",
+   "modernized": "Sidon"
+  },
+  {
+   "book": "ISA",
+   "chapter": 23,
+   "verse": 12,
+   "word": 15,
+   "kjv": "Zidon",
+   "modernized": "Sidon"
+  },
+  {
+   "book": "ISA",
+   "chapter": 36,
+   "verse": 19,
+   "word": 8,
+   "kjv": "Arphad",
+   "modernized": "Arpad"
+  },
+  {
+   "book": "ISA",
+   "chapter": 37,
+   "verse": 13,
+   "word": 11,
+   "kjv": "Arphad",
+   "modernized": "Arpad"
+  },
+  {
+   "book": "ISA",
+   "chapter": 37,
+   "verse": 13,
+   "word": 22,
+   "kjv": "Ivah",
+   "modernized": "Ivvah"
+  },
+  {
+   "book": "ISA",
+   "chapter": 44,
+   "verse": 2,
+   "word": 26,
+   "kjv": "Jesurun",
+   "modernized": "Jeshurun"
+  },
+  {
+   "book": "JER",
+   "chapter": 2,
+   "verse": 16,
+   "word": 7,
+   "kjv": "Tahapanes",
+   "modernized": "Tahpanhes"
+  },
+  {
+   "book": "JER",
+   "chapter": 7,
+   "verse": 31,
+   "word": 9,
+   "kjv": "Tophet",
+   "modernized": "Topheth"
+  },
+  {
+   "book": "JER",
+   "chapter": 7,
+   "verse": 32,
+   "word": 16,
+   "kjv": "Tophet",
+   "modernized": "Topheth"
+  },
+  {
+   "book": "JER",
+   "chapter": 7,
+   "verse": 32,
+   "word": 35,
+   "kjv": "Tophet",
+   "modernized": "Topheth"
+  },
+  {
+   "book": "JER",
+   "chapter": 19,
+   "verse": 6,
+   "word": 17,
+   "kjv": "Tophet",
+   "modernized": "Topheth"
+  },
+  {
+   "book": "JER",
+   "chapter": 19,
+   "verse": 11,
+   "word": 40,
+   "kjv": "Tophet",
+   "modernized": "Topheth"
+  },
+  {
+   "book": "JER",
+   "chapter": 19,
+   "verse": 12,
+   "word": 22,
+   "kjv": "Tophet",
+   "modernized": "Topheth"
+  },
+  {
+   "book": "JER",
+   "chapter": 19,
+   "verse": 13,
+   "word": 21,
+   "kjv": "Tophet",
+   "modernized": "Topheth"
+  },
+  {
+   "book": "JER",
+   "chapter": 19,
+   "verse": 14,
+   "word": 5,
+   "kjv": "Tophet",
+   "modernized": "Topheth"
+  },
+  {
+   "book": "JER",
+   "chapter": 20,
+   "verse": 1,
+   "word": 2,
+   "kjv": "Pashur",
+   "modernized": "Pashhur"
+  },
+  {
+   "book": "JER",
+   "chapter": 20,
+   "verse": 2,
+   "word": 2,
+   "kjv": "Pashur",
+   "modernized": "Pashhur"
+  },
+  {
+   "book": "JER",
+   "chapter": 20,
+   "verse": 3,
+   "word": 10,
+   "kjv": "Pashur",
+   "modernized": "Pashhur"
+  },
+  {
+   "book": "JER",
+   "chapter": 20,
+   "verse": 3,
+   "word": 30,
+   "kjv": "Pashur",
+   "modernized": "Pashhur"
+  },
+  {
+   "book": "JER",
+   "chapter": 20,
+   "verse": 6,
+   "word": 3,
+   "kjv": "Pashur",
+   "modernized": "Pashhur"
+  },
+  {
+   "book": "JER",
+   "chapter": 21,
+   "verse": 1,
+   "word": 16,
+   "kjv": "Pashur",
+   "modernized": "Pashhur"
+  },
+  {
+   "book": "JER",
+   "chapter": 21,
+   "verse": 1,
+   "word": 20,
+   "kjv": "Melchiah",
+   "modernized": "Malchijah"
+  },
+  {
+   "book": "JER",
+   "chapter": 21,
+   "verse": 2,
+   "word": 11,
+   "kjv": "Nebuchadrezzar",
+   "modernized": "Nebuchadnezzar"
+  },
+  {
+   "book": "JER",
+   "chapter": 21,
+   "verse": 7,
+   "word": 41,
+   "kjv": "Nebuchadrezzar",
+   "modernized": "Nebuchadnezzar"
+  },
+  {
+   "book": "JER",
+   "chapter": 22,
+   "verse": 25,
+   "word": 30,
+   "kjv": "Nebuchadrezzar",
+   "modernized": "Nebuchadnezzar"
+  },
+  {
+   "book": "JER",
+   "chapter": 24,
+   "verse": 1,
+   "word": 21,
+   "kjv": "Nebuchadrezzar",
+   "modernized": "Nebuchadnezzar"
+  },
+  {
+   "book": "JER",
+   "chapter": 25,
+   "verse": 1,
+   "word": 32,
+   "kjv": "Nebuchadrezzar",
+   "modernized": "Nebuchadnezzar"
+  },
+  {
+   "book": "JER",
+   "chapter": 25,
+   "verse": 9,
+   "word": 17,
+   "kjv": "Nebuchadrezzar",
+   "modernized": "Nebuchadnezzar"
+  },
+  {
+   "book": "JER",
+   "chapter": 25,
+   "verse": 20,
+   "word": 28,
+   "kjv": "Azzah",
+   "modernized": "Gaza"
+  },
+  {
+   "book": "JER",
+   "chapter": 25,
+   "verse": 22,
+   "word": 6,
+   "kjv": "Tyrus",
+   "modernized": "Tyre"
+  },
+  {
+   "book": "JER",
+   "chapter": 25,
+   "verse": 22,
+   "word": 12,
+   "kjv": "Zidon",
+   "modernized": "Sidon"
+  },
+  {
+   "book": "JER",
+   "chapter": 26,
+   "verse": 20,
+   "word": 15,
+   "kjv": "Urijah",
+   "modernized": "Uriah"
+  },
+  {
+   "book": "JER",
+   "chapter": 26,
+   "verse": 21,
+   "word": 28,
+   "kjv": "Urijah",
+   "modernized": "Uriah"
+  },
+  {
+   "book": "JER",
+   "chapter": 26,
+   "verse": 23,
+   "word": 5,
+   "kjv": "Urijah",
+   "modernized": "Uriah"
+  },
+  {
+   "book": "JER",
+   "chapter": 27,
+   "verse": 3,
+   "word": 27,
+   "kjv": "Tyrus",
+   "modernized": "Tyre"
+  },
+  {
+   "book": "JER",
+   "chapter": 27,
+   "verse": 3,
+   "word": 33,
+   "kjv": "Zidon",
+   "modernized": "Sidon"
+  },
+  {
+   "book": "JER",
+   "chapter": 28,
+   "verse": 1,
+   "word": 34,
+   "kjv": "Azur",
+   "modernized": "Azzur"
+  },
+  {
+   "book": "JER",
+   "chapter": 29,
+   "verse": 21,
+   "word": 42,
+   "kjv": "Nebuchadrezzar",
+   "modernized": "Nebuchadnezzar"
+  },
+  {
+   "book": "JER",
+   "chapter": 31,
+   "verse": 15,
+   "word": 15,
+   "kjv": "Rahel",
+   "modernized": "Rachel"
+  },
+  {
+   "book": "JER",
+   "chapter": 31,
+   "verse": 38,
+   "word": 21,
+   "kjv": "Hananeel",
+   "modernized": "Hananel"
+  },
+  {
+   "book": "JER",
+   "chapter": 31,
+   "verse": 39,
+   "word": 21,
+   "kjv": "Goath",
+   "modernized": "Goah"
+  },
+  {
+   "book": "JER",
+   "chapter": 32,
+   "verse": 1,
+   "word": 25,
+   "kjv": "Nebuchadrezzar",
+   "modernized": "Nebuchadnezzar"
+  },
+  {
+   "book": "JER",
+   "chapter": 32,
+   "verse": 7,
+   "word": 2,
+   "kjv": "Hanameel",
+   "modernized": "Hanamel"
+  },
+  {
+   "book": "JER",
+   "chapter": 32,
+   "verse": 8,
+   "word": 2,
+   "kjv": "Hanameel",
+   "modernized": "Hanamel"
+  },
+  {
+   "book": "JER",
+   "chapter": 32,
+   "verse": 9,
+   "word": 7,
+   "kjv": "Hanameel",
+   "modernized": "Hanamel"
+  },
+  {
+   "book": "JER",
+   "chapter": 32,
+   "verse": 12,
+   "word": 18,
+   "kjv": "Maaseiah",
+   "modernized": "Mahseiah"
+  },
+  {
+   "book": "JER",
+   "chapter": 32,
+   "verse": 12,
+   "word": 23,
+   "kjv": "Hanameel",
+   "modernized": "Hanamel"
+  },
+  {
+   "book": "JER",
+   "chapter": 32,
+   "verse": 28,
+   "word": 23,
+   "kjv": "Nebuchadrezzar",
+   "modernized": "Nebuchadnezzar"
+  },
+  {
+   "book": "JER",
+   "chapter": 35,
+   "verse": 3,
+   "word": 12,
+   "kjv": "Habaziniah",
+   "modernized": "Habazziniah"
+  },
+  {
+   "book": "JER",
+   "chapter": 35,
+   "verse": 11,
+   "word": 7,
+   "kjv": "Nebuchadrezzar",
+   "modernized": "Nebuchadnezzar"
+  },
+  {
+   "book": "JER",
+   "chapter": 36,
+   "verse": 11,
+   "word": 2,
+   "kjv": "Michaiah",
+   "modernized": "Micaiah"
+  },
+  {
+   "book": "JER",
+   "chapter": 36,
+   "verse": 13,
+   "word": 2,
+   "kjv": "Michaiah",
+   "modernized": "Micaiah"
+  },
+  {
+   "book": "JER",
+   "chapter": 37,
+   "verse": 1,
+   "word": 17,
+   "kjv": "Nebuchadrezzar",
+   "modernized": "Nebuchadnezzar"
+  },
+  {
+   "book": "JER",
+   "chapter": 38,
+   "verse": 1,
+   "word": 12,
+   "kjv": "Pashur",
+   "modernized": "Pashhur"
+  },
+  {
+   "book": "JER",
+   "chapter": 38,
+   "verse": 1,
+   "word": 20,
+   "kjv": "Pashur",
+   "modernized": "Pashhur"
+  },
+  {
+   "book": "JER",
+   "chapter": 38,
+   "verse": 1,
+   "word": 24,
+   "kjv": "Malchiah",
+   "modernized": "Malchijah"
+  },
+  {
+   "book": "JER",
+   "chapter": 39,
+   "verse": 1,
+   "word": 15,
+   "kjv": "Nebuchadrezzar",
+   "modernized": "Nebuchadnezzar"
+  },
+  {
+   "book": "JER",
+   "chapter": 39,
+   "verse": 11,
+   "word": 2,
+   "kjv": "Nebuchadrezzar",
+   "modernized": "Nebuchadnezzar"
+  },
+  {
+   "book": "JER",
+   "chapter": 39,
+   "verse": 13,
+   "word": 10,
+   "kjv": "Nebushasban",
+   "modernized": "Nebushazban"
+  },
+  {
+   "book": "JER",
+   "chapter": 43,
+   "verse": 10,
+   "word": 21,
+   "kjv": "Nebuchadrezzar",
+   "modernized": "Nebuchadnezzar"
+  },
+  {
+   "book": "JER",
+   "chapter": 44,
+   "verse": 30,
+   "word": 40,
+   "kjv": "Nebuchadrezzar",
+   "modernized": "Nebuchadnezzar"
+  },
+  {
+   "book": "JER",
+   "chapter": 46,
+   "verse": 2,
+   "word": 20,
+   "kjv": "Nebuchadrezzar",
+   "modernized": "Nebuchadnezzar"
+  },
+  {
+   "book": "JER",
+   "chapter": 46,
+   "verse": 13,
+   "word": 12,
+   "kjv": "Nebuchadrezzar",
+   "modernized": "Nebuchadnezzar"
+  },
+  {
+   "book": "JER",
+   "chapter": 46,
+   "verse": 26,
+   "word": 20,
+   "kjv": "Nebuchadrezzar",
+   "modernized": "Nebuchadnezzar"
+  },
+  {
+   "book": "JER",
+   "chapter": 47,
+   "verse": 4,
+   "word": 17,
+   "kjv": "Tyrus",
+   "modernized": "Tyre"
+  },
+  {
+   "book": "JER",
+   "chapter": 47,
+   "verse": 4,
+   "word": 19,
+   "kjv": "Zidon",
+   "modernized": "Sidon"
+  },
+  {
+   "book": "JER",
+   "chapter": 48,
+   "verse": 21,
+   "word": 13,
+   "kjv": "Jahazah",
+   "modernized": "Jahzah"
+  },
+  {
+   "book": "JER",
+   "chapter": 49,
+   "verse": 28,
+   "word": 10,
+   "kjv": "Nebuchadrezzar",
+   "modernized": "Nebuchadnezzar"
+  },
+  {
+   "book": "JER",
+   "chapter": 49,
+   "verse": 30,
+   "word": 17,
+   "kjv": "Nebuchadrezzar",
+   "modernized": "Nebuchadnezzar"
+  },
+  {
+   "book": "JER",
+   "chapter": 50,
+   "verse": 17,
+   "word": 23,
+   "kjv": "Nebuchadrezzar",
+   "modernized": "Nebuchadnezzar"
+  },
+  {
+   "book": "JER",
+   "chapter": 51,
+   "verse": 27,
+   "word": 30,
+   "kjv": "Ashchenaz",
+   "modernized": "Ashkenaz"
+  },
+  {
+   "book": "JER",
+   "chapter": 51,
+   "verse": 34,
+   "word": 1,
+   "kjv": "Nebuchadrezzar",
+   "modernized": "Nebuchadnezzar"
+  },
+  {
+   "book": "JER",
+   "chapter": 51,
+   "verse": 59,
+   "word": 16,
+   "kjv": "Maaseiah",
+   "modernized": "Mahseiah"
+  },
+  {
+   "book": "JER",
+   "chapter": 52,
+   "verse": 4,
+   "word": 25,
+   "kjv": "Nebuchadrezzar",
+   "modernized": "Nebuchadnezzar"
+  },
+  {
+   "book": "JER",
+   "chapter": 52,
+   "verse": 12,
+   "word": 19,
+   "kjv": "Nebuchadrezzar",
+   "modernized": "Nebuchadnezzar"
+  },
+  {
+   "book": "JER",
+   "chapter": 52,
+   "verse": 28,
+   "word": 6,
+   "kjv": "Nebuchadrezzar",
+   "modernized": "Nebuchadnezzar"
+  },
+  {
+   "book": "JER",
+   "chapter": 52,
+   "verse": 29,
+   "word": 6,
+   "kjv": "Nebuchadrezzar",
+   "modernized": "Nebuchadnezzar"
+  },
+  {
+   "book": "JER",
+   "chapter": 52,
+   "verse": 30,
+   "word": 8,
+   "kjv": "Nebuchadrezzar",
+   "modernized": "Nebuchadnezzar"
+  },
+  {
+   "book": "EZK",
+   "chapter": 1,
+   "verse": 1,
+   "word": 31,
+   "kjv": "Chebar",
+   "modernized": "Kebar"
+  },
+  {
+   "book": "EZK",
+   "chapter": 1,
+   "verse": 3,
+   "word": 25,
+   "kjv": "Chebar",
+   "modernized": "Kebar"
+  },
+  {
+   "book": "EZK",
+   "chapter": 3,
+   "verse": 15,
+   "word": 17,
+   "kjv": "Chebar",
+   "modernized": "Kebar"
+  },
+  {
+   "book": "EZK",
+   "chapter": 3,
+   "verse": 23,
+   "word": 29,
+   "kjv": "Chebar",
+   "modernized": "Kebar"
+  },
+  {
+   "book": "EZK",
+   "chapter": 6,
+   "verse": 14,
+   "word": 22,
+   "kjv": "Diblath",
+   "modernized": "Diblah"
+  },
+  {
+   "book": "EZK",
+   "chapter": 10,
+   "verse": 15,
+   "word": 19,
+   "kjv": "Chebar",
+   "modernized": "Kebar"
+  },
+  {
+   "book": "EZK",
+   "chapter": 10,
+   "verse": 20,
+   "word": 18,
+   "kjv": "Chebar",
+   "modernized": "Kebar"
+  },
+  {
+   "book": "EZK",
+   "chapter": 10,
+   "verse": 22,
+   "word": 18,
+   "kjv": "Chebar",
+   "modernized": "Kebar"
+  },
+  {
+   "book": "EZK",
+   "chapter": 11,
+   "verse": 1,
+   "word": 41,
+   "kjv": "Azur",
+   "modernized": "Azzur"
+  },
+  {
+   "book": "EZK",
+   "chapter": 23,
+   "verse": 4,
+   "word": 7,
+   "kjv": "Aholah",
+   "modernized": "Oholah"
+  },
+  {
+   "book": "EZK",
+   "chapter": 23,
+   "verse": 4,
+   "word": 11,
+   "kjv": "Aholibah",
+   "modernized": "Oholibah"
+  },
+  {
+   "book": "EZK",
+   "chapter": 23,
+   "verse": 4,
+   "word": 30,
+   "kjv": "Aholah",
+   "modernized": "Oholah"
+  },
+  {
+   "book": "EZK",
+   "chapter": 23,
+   "verse": 4,
+   "word": 33,
+   "kjv": "Aholibah",
+   "modernized": "Oholibah"
+  },
+  {
+   "book": "EZK",
+   "chapter": 23,
+   "verse": 5,
+   "word": 2,
+   "kjv": "Aholah",
+   "modernized": "Oholah"
+  },
+  {
+   "book": "EZK",
+   "chapter": 23,
+   "verse": 11,
+   "word": 5,
+   "kjv": "Aholibah",
+   "modernized": "Oholibah"
+  },
+  {
+   "book": "EZK",
+   "chapter": 23,
+   "verse": 22,
+   "word": 3,
+   "kjv": "Aholibah",
+   "modernized": "Oholibah"
+  },
+  {
+   "book": "EZK",
+   "chapter": 23,
+   "verse": 36,
+   "word": 13,
+   "kjv": "Aholah",
+   "modernized": "Oholah"
+  },
+  {
+   "book": "EZK",
+   "chapter": 23,
+   "verse": 36,
+   "word": 15,
+   "kjv": "Aholibah",
+   "modernized": "Oholibah"
+  },
+  {
+   "book": "EZK",
+   "chapter": 23,
+   "verse": 44,
+   "word": 23,
+   "kjv": "Aholah",
+   "modernized": "Oholah"
+  },
+  {
+   "book": "EZK",
+   "chapter": 23,
+   "verse": 44,
+   "word": 26,
+   "kjv": "Aholibah",
+   "modernized": "Oholibah"
+  },
+  {
+   "book": "EZK",
+   "chapter": 26,
+   "verse": 2,
+   "word": 6,
+   "kjv": "Tyrus",
+   "modernized": "Tyre"
+  },
+  {
+   "book": "EZK",
+   "chapter": 26,
+   "verse": 3,
+   "word": 13,
+   "kjv": "Tyrus",
+   "modernized": "Tyre"
+  },
+  {
+   "book": "EZK",
+   "chapter": 26,
+   "verse": 4,
+   "word": 8,
+   "kjv": "Tyrus",
+   "modernized": "Tyre"
+  },
+  {
+   "book": "EZK",
+   "chapter": 26,
+   "verse": 7,
+   "word": 12,
+   "kjv": "Tyrus",
+   "modernized": "Tyre"
+  },
+  {
+   "book": "EZK",
+   "chapter": 26,
+   "verse": 7,
+   "word": 13,
+   "kjv": "Nebuchadrezzar",
+   "modernized": "Nebuchadnezzar"
+  },
+  {
+   "book": "EZK",
+   "chapter": 26,
+   "verse": 15,
+   "word": 7,
+   "kjv": "Tyrus",
+   "modernized": "Tyre"
+  },
+  {
+   "book": "EZK",
+   "chapter": 27,
+   "verse": 2,
+   "word": 11,
+   "kjv": "Tyrus",
+   "modernized": "Tyre"
+  },
+  {
+   "book": "EZK",
+   "chapter": 27,
+   "verse": 3,
+   "word": 4,
+   "kjv": "Tyrus",
+   "modernized": "Tyre"
+  },
+  {
+   "book": "EZK",
+   "chapter": 27,
+   "verse": 3,
+   "word": 32,
+   "kjv": "Tyrus",
+   "modernized": "Tyre"
+  },
+  {
+   "book": "EZK",
+   "chapter": 27,
+   "verse": 8,
+   "word": 4,
+   "kjv": "Zidon",
+   "modernized": "Sidon"
+  },
+  {
+   "book": "EZK",
+   "chapter": 27,
+   "verse": 8,
+   "word": 14,
+   "kjv": "Tyrus",
+   "modernized": "Tyre"
+  },
+  {
+   "book": "EZK",
+   "chapter": 27,
+   "verse": 10,
+   "word": 9,
+   "kjv": "Phut",
+   "modernized": "Put"
+  },
+  {
+   "book": "EZK",
+   "chapter": 27,
+   "verse": 32,
+   "word": 22,
+   "kjv": "Tyrus",
+   "modernized": "Tyre"
+  },
+  {
+   "book": "EZK",
+   "chapter": 28,
+   "verse": 2,
+   "word": 9,
+   "kjv": "Tyrus",
+   "modernized": "Tyre"
+  },
+  {
+   "book": "EZK",
+   "chapter": 28,
+   "verse": 12,
+   "word": 12,
+   "kjv": "Tyrus",
+   "modernized": "Tyre"
+  },
+  {
+   "book": "EZK",
+   "chapter": 28,
+   "verse": 21,
+   "word": 8,
+   "kjv": "Zidon",
+   "modernized": "Sidon"
+  },
+  {
+   "book": "EZK",
+   "chapter": 28,
+   "verse": 22,
+   "word": 14,
+   "kjv": "Zidon",
+   "modernized": "Sidon"
+  },
+  {
+   "book": "EZK",
+   "chapter": 29,
+   "verse": 18,
+   "word": 4,
+   "kjv": "Nebuchadrezzar",
+   "modernized": "Nebuchadnezzar"
+  },
+  {
+   "book": "EZK",
+   "chapter": 29,
+   "verse": 18,
+   "word": 17,
+   "kjv": "Tyrus",
+   "modernized": "Tyre"
+  },
+  {
+   "book": "EZK",
+   "chapter": 29,
+   "verse": 18,
+   "word": 37,
+   "kjv": "Tyrus",
+   "modernized": "Tyre"
+  },
+  {
+   "book": "EZK",
+   "chapter": 29,
+   "verse": 19,
+   "word": 16,
+   "kjv": "Nebuchadrezzar",
+   "modernized": "Nebuchadnezzar"
+  },
+  {
+   "book": "EZK",
+   "chapter": 30,
+   "verse": 10,
+   "word": 20,
+   "kjv": "Nebuchadrezzar",
+   "modernized": "Nebuchadnezzar"
+  },
+  {
+   "book": "EZK",
+   "chapter": 30,
+   "verse": 18,
+   "word": 2,
+   "kjv": "Tehaphnehes",
+   "modernized": "Tahpanhes"
+  },
+  {
+   "book": "EZK",
+   "chapter": 43,
+   "verse": 3,
+   "word": 42,
+   "kjv": "Chebar",
+   "modernized": "Kebar"
+  },
+  {
+   "book": "DAN",
+   "chapter": 8,
+   "verse": 21,
+   "word": 9,
+   "kjv": "Grecia",
+   "modernized": "Greece"
+  },
+  {
+   "book": "DAN",
+   "chapter": 10,
+   "verse": 20,
+   "word": 33,
+   "kjv": "Grecia",
+   "modernized": "Greece"
+  },
+  {
+   "book": "DAN",
+   "chapter": 11,
+   "verse": 2,
+   "word": 45,
+   "kjv": "Grecia",
+   "modernized": "Greece"
+  },
+  {
+   "book": "DAN",
+   "chapter": 11,
+   "verse": 30,
+   "word": 5,
+   "kjv": "Chittim",
+   "modernized": "Kittim"
+  },
+  {
+   "book": "HOS",
+   "chapter": 9,
+   "verse": 13,
+   "word": 5,
+   "kjv": "Tyrus",
+   "modernized": "Tyre"
+  },
+  {
+   "book": "HOS",
+   "chapter": 11,
+   "verse": 8,
+   "word": 27,
+   "kjv": "Zeboim",
+   "modernized": "Zeboiim"
+  },
+  {
+   "book": "JOL",
+   "chapter": 3,
+   "verse": 4,
+   "word": 13,
+   "kjv": "Zidon",
+   "modernized": "Sidon"
+  },
+  {
+   "book": "AMO",
+   "chapter": 1,
+   "verse": 9,
+   "word": 9,
+   "kjv": "Tyrus",
+   "modernized": "Tyre"
+  },
+  {
+   "book": "AMO",
+   "chapter": 1,
+   "verse": 10,
+   "word": 11,
+   "kjv": "Tyrus",
+   "modernized": "Tyre"
+  },
+  {
+   "book": "AMO",
+   "chapter": 6,
+   "verse": 14,
+   "word": 32,
+   "kjv": "Hemath",
+   "modernized": "Hammath"
+  },
+  {
+   "book": "MIC",
+   "chapter": 1,
+   "verse": 11,
+   "word": 7,
+   "kjv": "Saphir",
+   "modernized": "Shaphir"
+  },
+  {
+   "book": "MIC",
+   "chapter": 5,
+   "verse": 2,
+   "word": 4,
+   "kjv": "Ephratah",
+   "modernized": "Ephrathah"
+  },
+  {
+   "book": "ZEC",
+   "chapter": 1,
+   "verse": 7,
+   "word": 15,
+   "kjv": "Sebat",
+   "modernized": "Shebat"
+  },
+  {
+   "book": "ZEC",
+   "chapter": 7,
+   "verse": 1,
+   "word": 32,
+   "kjv": "Chisleu",
+   "modernized": "Chislev"
+  },
+  {
+   "book": "ZEC",
+   "chapter": 9,
+   "verse": 2,
+   "word": 7,
+   "kjv": "Tyrus",
+   "modernized": "Tyre"
+  },
+  {
+   "book": "ZEC",
+   "chapter": 9,
+   "verse": 2,
+   "word": 9,
+   "kjv": "Zidon",
+   "modernized": "Sidon"
+  },
+  {
+   "book": "ZEC",
+   "chapter": 9,
+   "verse": 3,
+   "word": 2,
+   "kjv": "Tyrus",
+   "modernized": "Tyre"
+  },
+  {
+   "book": "ZEC",
+   "chapter": 12,
+   "verse": 11,
+   "word": 16,
+   "kjv": "Hadadrimmon",
+   "modernized": "Hadad-rimmon"
+  },
+  {
+   "book": "ZEC",
+   "chapter": 14,
+   "verse": 10,
+   "word": 47,
+   "kjv": "Hananeel",
+   "modernized": "Hananel"
+  },
   {
    "book": "MAT",
    "chapter": 1,
@@ -469,7 +8136,7 @@
    "verse": 3,
    "word": 4,
    "kjv": "Phares",
-   "modernized": "Pharez"
+   "modernized": "Perez"
   },
   {
    "book": "MAT",
@@ -477,7 +8144,7 @@
    "verse": 3,
    "word": 6,
    "kjv": "Zara",
-   "modernized": "Zarah"
+   "modernized": "Zerah"
   },
   {
    "book": "MAT",
@@ -493,7 +8160,7 @@
    "verse": 3,
    "word": 10,
    "kjv": "Phares",
-   "modernized": "Pharez"
+   "modernized": "Perez"
   },
   {
    "book": "MAT",
@@ -755,6 +8422,22 @@
    "book": "MAT",
    "chapter": 1,
    "verse": 12,
+   "word": 10,
+   "kjv": "Salathiel",
+   "modernized": "Shealtiel"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 12,
+   "word": 12,
+   "kjv": "Salathiel",
+   "modernized": "Shealtiel"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 12,
    "word": 14,
    "kjv": "Zorobabel",
    "modernized": "Zerubbabel"
@@ -766,6 +8449,22 @@
    "word": 2,
    "kjv": "Zorobabel",
    "modernized": "Zerubbabel"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 14,
+   "word": 4,
+   "kjv": "Sadoc",
+   "modernized": "Zadok"
+  },
+  {
+   "book": "MAT",
+   "chapter": 1,
+   "verse": 14,
+   "word": 6,
+   "kjv": "Sadoc",
+   "modernized": "Zadok"
   },
   {
    "book": "MAT",
@@ -866,10 +8565,34 @@
   {
    "book": "MAT",
    "chapter": 10,
+   "verse": 3,
+   "word": 13,
+   "kjv": "Alpheus",
+   "modernized": "Alphaeus"
+  },
+  {
+   "book": "MAT",
+   "chapter": 10,
+   "verse": 3,
+   "word": 19,
+   "kjv": "Thaddeus",
+   "modernized": "Thaddaeus"
+  },
+  {
+   "book": "MAT",
+   "chapter": 10,
    "verse": 15,
    "word": 17,
    "kjv": "Gomorrha",
    "modernized": "Gomorrah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 10,
+   "verse": 25,
+   "word": 28,
+   "kjv": "Beelzebub",
+   "modernized": "Beelzebul"
   },
   {
    "book": "MAT",
@@ -886,6 +8609,22 @@
    "word": 10,
    "kjv": "Esaias",
    "modernized": "Isaiah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 12,
+   "verse": 24,
+   "word": 18,
+   "kjv": "Beelzebub",
+   "modernized": "Beelzebul"
+  },
+  {
+   "book": "MAT",
+   "chapter": 12,
+   "verse": 27,
+   "word": 5,
+   "kjv": "Beelzebub",
+   "modernized": "Beelzebul"
   },
   {
    "book": "MAT",
@@ -942,6 +8681,14 @@
    "word": 25,
    "kjv": "Jonas",
    "modernized": "Jonah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 16,
+   "verse": 13,
+   "word": 8,
+   "kjv": "Cesarea",
+   "modernized": "Caesarea"
   },
   {
    "book": "MAT",
@@ -1009,6 +8756,54 @@
   },
   {
    "book": "MAT",
+   "chapter": 22,
+   "verse": 17,
+   "word": 14,
+   "kjv": "Cesar",
+   "modernized": "Caesar"
+  },
+  {
+   "book": "MAT",
+   "chapter": 22,
+   "verse": 21,
+   "word": 5,
+   "kjv": "Cesar’s",
+   "modernized": "Caesar’s"
+  },
+  {
+   "book": "MAT",
+   "chapter": 22,
+   "verse": 21,
+   "word": 14,
+   "kjv": "Cesar",
+   "modernized": "Caesar"
+  },
+  {
+   "book": "MAT",
+   "chapter": 22,
+   "verse": 21,
+   "word": 19,
+   "kjv": "Cesar’s",
+   "modernized": "Caesar’s"
+  },
+  {
+   "book": "MAT",
+   "chapter": 23,
+   "verse": 35,
+   "word": 24,
+   "kjv": "Zacharias",
+   "modernized": "Zechariah"
+  },
+  {
+   "book": "MAT",
+   "chapter": 23,
+   "verse": 35,
+   "word": 27,
+   "kjv": "Barachias",
+   "modernized": "Berechiah"
+  },
+  {
+   "book": "MAT",
    "chapter": 24,
    "verse": 37,
    "word": 6,
@@ -1049,6 +8844,38 @@
   },
   {
    "book": "MRK",
+   "chapter": 2,
+   "verse": 14,
+   "word": 12,
+   "kjv": "Alpheus",
+   "modernized": "Alphaeus"
+  },
+  {
+   "book": "MRK",
+   "chapter": 3,
+   "verse": 18,
+   "word": 16,
+   "kjv": "Alpheus",
+   "modernized": "Alphaeus"
+  },
+  {
+   "book": "MRK",
+   "chapter": 3,
+   "verse": 18,
+   "word": 18,
+   "kjv": "Thaddeus",
+   "modernized": "Thaddaeus"
+  },
+  {
+   "book": "MRK",
+   "chapter": 3,
+   "verse": 22,
+   "word": 12,
+   "kjv": "Beelzebub",
+   "modernized": "Beelzebul"
+  },
+  {
+   "book": "MRK",
    "chapter": 6,
    "verse": 11,
    "word": 39,
@@ -1070,6 +8897,22 @@
    "word": 9,
    "kjv": "Esaias",
    "modernized": "Isaiah"
+  },
+  {
+   "book": "MRK",
+   "chapter": 7,
+   "verse": 26,
+   "word": 7,
+   "kjv": "Syrophenician",
+   "modernized": "Syrophoenician"
+  },
+  {
+   "book": "MRK",
+   "chapter": 8,
+   "verse": 27,
+   "word": 12,
+   "kjv": "Cesarea",
+   "modernized": "Caesarea"
   },
   {
    "book": "MRK",
@@ -1121,6 +8964,54 @@
   },
   {
    "book": "MRK",
+   "chapter": 10,
+   "verse": 46,
+   "word": 23,
+   "kjv": "Bartimeus",
+   "modernized": "Bartimaeus"
+  },
+  {
+   "book": "MRK",
+   "chapter": 10,
+   "verse": 46,
+   "word": 27,
+   "kjv": "Timeus",
+   "modernized": "Timaeus"
+  },
+  {
+   "book": "MRK",
+   "chapter": 12,
+   "verse": 14,
+   "word": 45,
+   "kjv": "Cesar",
+   "modernized": "Caesar"
+  },
+  {
+   "book": "MRK",
+   "chapter": 12,
+   "verse": 16,
+   "word": 21,
+   "kjv": "Cesar’s",
+   "modernized": "Caesar’s"
+  },
+  {
+   "book": "MRK",
+   "chapter": 12,
+   "verse": 17,
+   "word": 9,
+   "kjv": "Cesar",
+   "modernized": "Caesar"
+  },
+  {
+   "book": "MRK",
+   "chapter": 12,
+   "verse": 17,
+   "word": 14,
+   "kjv": "Cesar’s",
+   "modernized": "Caesar’s"
+  },
+  {
+   "book": "MRK",
    "chapter": 15,
    "verse": 35,
    "word": 16,
@@ -1139,9 +9030,57 @@
    "book": "LUK",
    "chapter": 1,
    "verse": 5,
+   "word": 16,
+   "kjv": "Zacharias",
+   "modernized": "Zechariah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 1,
+   "verse": 5,
    "word": 21,
    "kjv": "Abia",
    "modernized": "Abijah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 1,
+   "verse": 5,
+   "word": 35,
+   "kjv": "Elisabeth",
+   "modernized": "Elizabeth"
+  },
+  {
+   "book": "LUK",
+   "chapter": 1,
+   "verse": 7,
+   "word": 8,
+   "kjv": "Elisabeth",
+   "modernized": "Elizabeth"
+  },
+  {
+   "book": "LUK",
+   "chapter": 1,
+   "verse": 12,
+   "word": 3,
+   "kjv": "Zacharias",
+   "modernized": "Zechariah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 1,
+   "verse": 13,
+   "word": 9,
+   "kjv": "Zacharias",
+   "modernized": "Zechariah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 1,
+   "verse": 13,
+   "word": 18,
+   "kjv": "Elisabeth",
+   "modernized": "Elizabeth"
   },
   {
    "book": "LUK",
@@ -1154,10 +9093,106 @@
   {
    "book": "LUK",
    "chapter": 1,
+   "verse": 18,
+   "word": 2,
+   "kjv": "Zacharias",
+   "modernized": "Zechariah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 1,
+   "verse": 21,
+   "word": 6,
+   "kjv": "Zacharias",
+   "modernized": "Zechariah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 1,
+   "verse": 24,
+   "word": 7,
+   "kjv": "Elisabeth",
+   "modernized": "Elizabeth"
+  },
+  {
+   "book": "LUK",
+   "chapter": 1,
+   "verse": 36,
+   "word": 5,
+   "kjv": "Elisabeth",
+   "modernized": "Elizabeth"
+  },
+  {
+   "book": "LUK",
+   "chapter": 1,
    "verse": 39,
    "word": 19,
    "kjv": "Juda",
    "modernized": "Judah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 1,
+   "verse": 40,
+   "word": 7,
+   "kjv": "Zacharias",
+   "modernized": "Zechariah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 1,
+   "verse": 40,
+   "word": 10,
+   "kjv": "Elisabeth",
+   "modernized": "Elizabeth"
+  },
+  {
+   "book": "LUK",
+   "chapter": 1,
+   "verse": 41,
+   "word": 8,
+   "kjv": "Elisabeth",
+   "modernized": "Elizabeth"
+  },
+  {
+   "book": "LUK",
+   "chapter": 1,
+   "verse": 41,
+   "word": 21,
+   "kjv": "Elisabeth",
+   "modernized": "Elizabeth"
+  },
+  {
+   "book": "LUK",
+   "chapter": 1,
+   "verse": 57,
+   "word": 2,
+   "kjv": "Elisabeth’s",
+   "modernized": "Elizabeth’s"
+  },
+  {
+   "book": "LUK",
+   "chapter": 1,
+   "verse": 59,
+   "word": 21,
+   "kjv": "Zacharias",
+   "modernized": "Zechariah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 1,
+   "verse": 67,
+   "word": 4,
+   "kjv": "Zacharias",
+   "modernized": "Zechariah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 2,
+   "verse": 1,
+   "word": 16,
+   "kjv": "Cesar",
+   "modernized": "Caesar"
   },
   {
    "book": "LUK",
@@ -1170,6 +9205,22 @@
   {
    "book": "LUK",
    "chapter": 3,
+   "verse": 1,
+   "word": 11,
+   "kjv": "Cesar",
+   "modernized": "Caesar"
+  },
+  {
+   "book": "LUK",
+   "chapter": 3,
+   "verse": 2,
+   "word": 18,
+   "kjv": "Zacharias",
+   "modernized": "Zechariah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 3,
    "verse": 4,
    "word": 12,
    "kjv": "Esaias",
@@ -1178,10 +9229,50 @@
   {
    "book": "LUK",
    "chapter": 3,
+   "verse": 25,
+   "word": 18,
+   "kjv": "Naum",
+   "modernized": "Nahum"
+  },
+  {
+   "book": "LUK",
+   "chapter": 3,
+   "verse": 25,
+   "word": 30,
+   "kjv": "Nagge",
+   "modernized": "Naggai"
+  },
+  {
+   "book": "LUK",
+   "chapter": 3,
+   "verse": 27,
+   "word": 6,
+   "kjv": "Joanna",
+   "modernized": "Joanan"
+  },
+  {
+   "book": "LUK",
+   "chapter": 3,
    "verse": 27,
    "word": 18,
    "kjv": "Zorobabel",
    "modernized": "Zerubbabel"
+  },
+  {
+   "book": "LUK",
+   "chapter": 3,
+   "verse": 27,
+   "word": 24,
+   "kjv": "Salathiel",
+   "modernized": "Shealtiel"
+  },
+  {
+   "book": "LUK",
+   "chapter": 3,
+   "verse": 28,
+   "word": 24,
+   "kjv": "Elmodam",
+   "modernized": "Elmadam"
   },
   {
    "book": "LUK",
@@ -1237,7 +9328,7 @@
    "verse": 33,
    "word": 24,
    "kjv": "Phares",
-   "modernized": "Pharez"
+   "modernized": "Perez"
   },
   {
    "book": "LUK",
@@ -1301,7 +9392,7 @@
    "verse": 35,
    "word": 30,
    "kjv": "Sala",
-   "modernized": "Salah"
+   "modernized": "Shelah"
   },
   {
    "book": "LUK",
@@ -1333,7 +9424,15 @@
    "verse": 37,
    "word": 24,
    "kjv": "Maleleel",
-   "modernized": "Mahalaleel"
+   "modernized": "Mahalalel"
+  },
+  {
+   "book": "LUK",
+   "chapter": 3,
+   "verse": 38,
+   "word": 6,
+   "kjv": "Enos",
+   "modernized": "Enosh"
   },
   {
    "book": "LUK",
@@ -1374,6 +9473,14 @@
    "word": 11,
    "kjv": "Eliseus",
    "modernized": "Elisha"
+  },
+  {
+   "book": "LUK",
+   "chapter": 6,
+   "verse": 15,
+   "word": 8,
+   "kjv": "Alpheus",
+   "modernized": "Alphaeus"
   },
   {
    "book": "LUK",
@@ -1418,6 +9525,30 @@
   {
    "book": "LUK",
    "chapter": 11,
+   "verse": 15,
+   "word": 11,
+   "kjv": "Beelzebub",
+   "modernized": "Beelzebul"
+  },
+  {
+   "book": "LUK",
+   "chapter": 11,
+   "verse": 18,
+   "word": 22,
+   "kjv": "Beelzebub",
+   "modernized": "Beelzebul"
+  },
+  {
+   "book": "LUK",
+   "chapter": 11,
+   "verse": 19,
+   "word": 5,
+   "kjv": "Beelzebub",
+   "modernized": "Beelzebul"
+  },
+  {
+   "book": "LUK",
+   "chapter": 11,
    "verse": 29,
    "word": 34,
    "kjv": "Jonas",
@@ -1457,6 +9588,14 @@
   },
   {
    "book": "LUK",
+   "chapter": 11,
+   "verse": 51,
+   "word": 10,
+   "kjv": "Zacharias",
+   "modernized": "Zechariah"
+  },
+  {
+   "book": "LUK",
    "chapter": 17,
    "verse": 26,
    "word": 9,
@@ -1470,6 +9609,70 @@
    "word": 18,
    "kjv": "Noe",
    "modernized": "Noah"
+  },
+  {
+   "book": "LUK",
+   "chapter": 19,
+   "verse": 2,
+   "word": 8,
+   "kjv": "Zaccheus",
+   "modernized": "Zacchaeus"
+  },
+  {
+   "book": "LUK",
+   "chapter": 19,
+   "verse": 5,
+   "word": 18,
+   "kjv": "Zaccheus",
+   "modernized": "Zacchaeus"
+  },
+  {
+   "book": "LUK",
+   "chapter": 19,
+   "verse": 8,
+   "word": 2,
+   "kjv": "Zaccheus",
+   "modernized": "Zacchaeus"
+  },
+  {
+   "book": "LUK",
+   "chapter": 20,
+   "verse": 22,
+   "word": 10,
+   "kjv": "Cesar",
+   "modernized": "Caesar"
+  },
+  {
+   "book": "LUK",
+   "chapter": 20,
+   "verse": 24,
+   "word": 15,
+   "kjv": "Cesar’s",
+   "modernized": "Caesar’s"
+  },
+  {
+   "book": "LUK",
+   "chapter": 20,
+   "verse": 25,
+   "word": 9,
+   "kjv": "Cesar",
+   "modernized": "Caesar"
+  },
+  {
+   "book": "LUK",
+   "chapter": 20,
+   "verse": 25,
+   "word": 14,
+   "kjv": "Cesar’s",
+   "modernized": "Caesar’s"
+  },
+  {
+   "book": "LUK",
+   "chapter": 23,
+   "verse": 2,
+   "word": 21,
+   "kjv": "Cesar",
+   "modernized": "Caesar"
   },
   {
    "book": "JHN",
@@ -1502,6 +9705,14 @@
    "word": 16,
    "kjv": "Messias",
    "modernized": "Messiah"
+  },
+  {
+   "book": "JHN",
+   "chapter": 3,
+   "verse": 23,
+   "word": 7,
+   "kjv": "Ænon",
+   "modernized": "Aenon"
   },
   {
    "book": "JHN",
@@ -1550,6 +9761,62 @@
    "word": 16,
    "kjv": "Cedron",
    "modernized": "Kidron"
+  },
+  {
+   "book": "JHN",
+   "chapter": 19,
+   "verse": 12,
+   "word": 24,
+   "kjv": "Cesar’s",
+   "modernized": "Caesar’s"
+  },
+  {
+   "book": "JHN",
+   "chapter": 19,
+   "verse": 12,
+   "word": 33,
+   "kjv": "Cesar",
+   "modernized": "Caesar"
+  },
+  {
+   "book": "JHN",
+   "chapter": 19,
+   "verse": 15,
+   "word": 31,
+   "kjv": "Cesar",
+   "modernized": "Caesar"
+  },
+  {
+   "book": "JHN",
+   "chapter": 19,
+   "verse": 25,
+   "word": 19,
+   "kjv": "Cleophas",
+   "modernized": "Clopas"
+  },
+  {
+   "book": "ACT",
+   "chapter": 1,
+   "verse": 13,
+   "word": 34,
+   "kjv": "Alpheus",
+   "modernized": "Alphaeus"
+  },
+  {
+   "book": "ACT",
+   "chapter": 1,
+   "verse": 19,
+   "word": 21,
+   "kjv": "Aceldama",
+   "modernized": "Akeldama"
+  },
+  {
+   "book": "ACT",
+   "chapter": 1,
+   "verse": 23,
+   "word": 7,
+   "kjv": "Barsabas",
+   "modernized": "Barsabbas"
   },
   {
    "book": "ACT",
@@ -1634,6 +9901,14 @@
   {
    "book": "ACT",
    "chapter": 7,
+   "verse": 43,
+   "word": 15,
+   "kjv": "Remphan",
+   "modernized": "Rephan"
+  },
+  {
+   "book": "ACT",
+   "chapter": 7,
    "verse": 45,
    "word": 11,
    "kjv": "Jesus",
@@ -1657,11 +9932,91 @@
   },
   {
    "book": "ACT",
+   "chapter": 8,
+   "verse": 40,
+   "word": 20,
+   "kjv": "Cesarea",
+   "modernized": "Caesarea"
+  },
+  {
+   "book": "ACT",
+   "chapter": 9,
+   "verse": 30,
+   "word": 11,
+   "kjv": "Cesarea",
+   "modernized": "Caesarea"
+  },
+  {
+   "book": "ACT",
+   "chapter": 9,
+   "verse": 33,
+   "word": 9,
+   "kjv": "Eneas",
+   "modernized": "Aeneas"
+  },
+  {
+   "book": "ACT",
+   "chapter": 9,
+   "verse": 34,
+   "word": 6,
+   "kjv": "Eneas",
+   "modernized": "Aeneas"
+  },
+  {
+   "book": "ACT",
    "chapter": 9,
    "verse": 35,
    "word": 8,
    "kjv": "Saron",
    "modernized": "Sharon"
+  },
+  {
+   "book": "ACT",
+   "chapter": 10,
+   "verse": 1,
+   "word": 7,
+   "kjv": "Cesarea",
+   "modernized": "Caesarea"
+  },
+  {
+   "book": "ACT",
+   "chapter": 10,
+   "verse": 24,
+   "word": 8,
+   "kjv": "Cesarea",
+   "modernized": "Caesarea"
+  },
+  {
+   "book": "ACT",
+   "chapter": 11,
+   "verse": 11,
+   "word": 18,
+   "kjv": "Cesarea",
+   "modernized": "Caesarea"
+  },
+  {
+   "book": "ACT",
+   "chapter": 11,
+   "verse": 19,
+   "word": 18,
+   "kjv": "Phenice",
+   "modernized": "Phoenicia"
+  },
+  {
+   "book": "ACT",
+   "chapter": 11,
+   "verse": 28,
+   "word": 34,
+   "kjv": "Cesar",
+   "modernized": "Caesar"
+  },
+  {
+   "book": "ACT",
+   "chapter": 12,
+   "verse": 19,
+   "word": 32,
+   "kjv": "Cesarea",
+   "modernized": "Caesarea"
   },
   {
    "book": "ACT",
@@ -1678,6 +10033,262 @@
    "word": 16,
    "kjv": "Cis",
    "modernized": "Kish"
+  },
+  {
+   "book": "ACT",
+   "chapter": 15,
+   "verse": 3,
+   "word": 13,
+   "kjv": "Phenice",
+   "modernized": "Phoenicia"
+  },
+  {
+   "book": "ACT",
+   "chapter": 15,
+   "verse": 22,
+   "word": 29,
+   "kjv": "Barsabas",
+   "modernized": "Barsabbas"
+  },
+  {
+   "book": "ACT",
+   "chapter": 16,
+   "verse": 1,
+   "word": 16,
+   "kjv": "Timotheus",
+   "modernized": "Timothy"
+  },
+  {
+   "book": "ACT",
+   "chapter": 16,
+   "verse": 11,
+   "word": 12,
+   "kjv": "Samothracia",
+   "modernized": "Samothrace"
+  },
+  {
+   "book": "ACT",
+   "chapter": 17,
+   "verse": 7,
+   "word": 14,
+   "kjv": "Cesar",
+   "modernized": "Caesar"
+  },
+  {
+   "book": "ACT",
+   "chapter": 17,
+   "verse": 14,
+   "word": 20,
+   "kjv": "Timotheus",
+   "modernized": "Timothy"
+  },
+  {
+   "book": "ACT",
+   "chapter": 17,
+   "verse": 15,
+   "word": 17,
+   "kjv": "Timotheus",
+   "modernized": "Timothy"
+  },
+  {
+   "book": "ACT",
+   "chapter": 18,
+   "verse": 5,
+   "word": 5,
+   "kjv": "Timotheus",
+   "modernized": "Timothy"
+  },
+  {
+   "book": "ACT",
+   "chapter": 18,
+   "verse": 22,
+   "word": 7,
+   "kjv": "Cesarea",
+   "modernized": "Caesarea"
+  },
+  {
+   "book": "ACT",
+   "chapter": 19,
+   "verse": 22,
+   "word": 13,
+   "kjv": "Timotheus",
+   "modernized": "Timothy"
+  },
+  {
+   "book": "ACT",
+   "chapter": 20,
+   "verse": 4,
+   "word": 22,
+   "kjv": "Timotheus",
+   "modernized": "Timothy"
+  },
+  {
+   "book": "ACT",
+   "chapter": 21,
+   "verse": 1,
+   "word": 23,
+   "kjv": "Coos",
+   "modernized": "Cos"
+  },
+  {
+   "book": "ACT",
+   "chapter": 21,
+   "verse": 2,
+   "word": 8,
+   "kjv": "Phenicia",
+   "modernized": "Phoenicia"
+  },
+  {
+   "book": "ACT",
+   "chapter": 21,
+   "verse": 8,
+   "word": 15,
+   "kjv": "Cesarea",
+   "modernized": "Caesarea"
+  },
+  {
+   "book": "ACT",
+   "chapter": 21,
+   "verse": 16,
+   "word": 11,
+   "kjv": "Cesarea",
+   "modernized": "Caesarea"
+  },
+  {
+   "book": "ACT",
+   "chapter": 23,
+   "verse": 23,
+   "word": 17,
+   "kjv": "Cesarea",
+   "modernized": "Caesarea"
+  },
+  {
+   "book": "ACT",
+   "chapter": 23,
+   "verse": 33,
+   "word": 6,
+   "kjv": "Cesarea",
+   "modernized": "Caesarea"
+  },
+  {
+   "book": "ACT",
+   "chapter": 25,
+   "verse": 1,
+   "word": 15,
+   "kjv": "Cesarea",
+   "modernized": "Caesarea"
+  },
+  {
+   "book": "ACT",
+   "chapter": 25,
+   "verse": 4,
+   "word": 10,
+   "kjv": "Cesarea",
+   "modernized": "Caesarea"
+  },
+  {
+   "book": "ACT",
+   "chapter": 25,
+   "verse": 6,
+   "word": 16,
+   "kjv": "Cesarea",
+   "modernized": "Caesarea"
+  },
+  {
+   "book": "ACT",
+   "chapter": 25,
+   "verse": 8,
+   "word": 20,
+   "kjv": "Cesar",
+   "modernized": "Caesar"
+  },
+  {
+   "book": "ACT",
+   "chapter": 25,
+   "verse": 10,
+   "word": 7,
+   "kjv": "Cesar’s",
+   "modernized": "Caesar’s"
+  },
+  {
+   "book": "ACT",
+   "chapter": 25,
+   "verse": 11,
+   "word": 42,
+   "kjv": "Cesar",
+   "modernized": "Caesar"
+  },
+  {
+   "book": "ACT",
+   "chapter": 25,
+   "verse": 12,
+   "word": 15,
+   "kjv": "Cesar",
+   "modernized": "Caesar"
+  },
+  {
+   "book": "ACT",
+   "chapter": 25,
+   "verse": 12,
+   "word": 17,
+   "kjv": "Cesar",
+   "modernized": "Caesar"
+  },
+  {
+   "book": "ACT",
+   "chapter": 25,
+   "verse": 13,
+   "word": 11,
+   "kjv": "Cesarea",
+   "modernized": "Caesarea"
+  },
+  {
+   "book": "ACT",
+   "chapter": 25,
+   "verse": 21,
+   "word": 26,
+   "kjv": "Cesar",
+   "modernized": "Caesar"
+  },
+  {
+   "book": "ACT",
+   "chapter": 26,
+   "verse": 32,
+   "word": 20,
+   "kjv": "Cesar",
+   "modernized": "Caesar"
+  },
+  {
+   "book": "ACT",
+   "chapter": 27,
+   "verse": 12,
+   "word": 27,
+   "kjv": "Phenice",
+   "modernized": "Phoenix"
+  },
+  {
+   "book": "ACT",
+   "chapter": 27,
+   "verse": 24,
+   "word": 10,
+   "kjv": "Cesar",
+   "modernized": "Caesar"
+  },
+  {
+   "book": "ACT",
+   "chapter": 28,
+   "verse": 1,
+   "word": 14,
+   "kjv": "Melita",
+   "modernized": "Malta"
+  },
+  {
+   "book": "ACT",
+   "chapter": 28,
+   "verse": 19,
+   "word": 14,
+   "kjv": "Cesar",
+   "modernized": "Caesar"
   },
   {
    "book": "ACT",
@@ -1800,6 +10411,70 @@
    "modernized": "Isaiah"
   },
   {
+   "book": "ROM",
+   "chapter": 16,
+   "verse": 1,
+   "word": 5,
+   "kjv": "Phebe",
+   "modernized": "Phoebe"
+  },
+  {
+   "book": "ROM",
+   "chapter": 16,
+   "verse": 9,
+   "word": 2,
+   "kjv": "Urbane",
+   "modernized": "Urbanus"
+  },
+  {
+   "book": "ROM",
+   "chapter": 16,
+   "verse": 21,
+   "word": 1,
+   "kjv": "Timotheus",
+   "modernized": "Timothy"
+  },
+  {
+   "book": "ROM",
+   "chapter": 16,
+   "verse": 27,
+   "word": 22,
+   "kjv": "Phebe",
+   "modernized": "Phoebe"
+  },
+  {
+   "book": "1CO",
+   "chapter": 4,
+   "verse": 17,
+   "word": 9,
+   "kjv": "Timotheus",
+   "modernized": "Timothy"
+  },
+  {
+   "book": "1CO",
+   "chapter": 16,
+   "verse": 10,
+   "word": 3,
+   "kjv": "Timotheus",
+   "modernized": "Timothy"
+  },
+  {
+   "book": "1CO",
+   "chapter": 16,
+   "verse": 24,
+   "word": 28,
+   "kjv": "Timotheus",
+   "modernized": "Timothy"
+  },
+  {
+   "book": "2CO",
+   "chapter": 1,
+   "verse": 19,
+   "word": 21,
+   "kjv": "Timotheus",
+   "modernized": "Timothy"
+  },
+  {
    "book": "GAL",
    "chapter": 4,
    "verse": 24,
@@ -1814,6 +10489,134 @@
    "word": 3,
    "kjv": "Agar",
    "modernized": "Hagar"
+  },
+  {
+   "book": "PHP",
+   "chapter": 1,
+   "verse": 1,
+   "word": 3,
+   "kjv": "Timotheus",
+   "modernized": "Timothy"
+  },
+  {
+   "book": "PHP",
+   "chapter": 2,
+   "verse": 19,
+   "word": 10,
+   "kjv": "Timotheus",
+   "modernized": "Timothy"
+  },
+  {
+   "book": "PHP",
+   "chapter": 4,
+   "verse": 22,
+   "word": 11,
+   "kjv": "Cesar’s",
+   "modernized": "Caesar’s"
+  },
+  {
+   "book": "COL",
+   "chapter": 1,
+   "verse": 1,
+   "word": 13,
+   "kjv": "Timotheus",
+   "modernized": "Timothy"
+  },
+  {
+   "book": "COL",
+   "chapter": 1,
+   "verse": 2,
+   "word": 12,
+   "kjv": "Colosse",
+   "modernized": "Colossae"
+  },
+  {
+   "book": "COL",
+   "chapter": 4,
+   "verse": 10,
+   "word": 7,
+   "kjv": "Marcus",
+   "modernized": "Mark"
+  },
+  {
+   "book": "1TH",
+   "chapter": 1,
+   "verse": 1,
+   "word": 5,
+   "kjv": "Timotheus",
+   "modernized": "Timothy"
+  },
+  {
+   "book": "1TH",
+   "chapter": 3,
+   "verse": 2,
+   "word": 3,
+   "kjv": "Timotheus",
+   "modernized": "Timothy"
+  },
+  {
+   "book": "1TH",
+   "chapter": 3,
+   "verse": 6,
+   "word": 4,
+   "kjv": "Timotheus",
+   "modernized": "Timothy"
+  },
+  {
+   "book": "2TH",
+   "chapter": 1,
+   "verse": 1,
+   "word": 5,
+   "kjv": "Timotheus",
+   "modernized": "Timothy"
+  },
+  {
+   "book": "1TI",
+   "chapter": 1,
+   "verse": 20,
+   "word": 4,
+   "kjv": "Hymeneus",
+   "modernized": "Hymenaeus"
+  },
+  {
+   "book": "2TI",
+   "chapter": 1,
+   "verse": 15,
+   "word": 19,
+   "kjv": "Phygellus",
+   "modernized": "Phygelus"
+  },
+  {
+   "book": "2TI",
+   "chapter": 2,
+   "verse": 17,
+   "word": 13,
+   "kjv": "Hymeneus",
+   "modernized": "Hymenaeus"
+  },
+  {
+   "book": "2TI",
+   "chapter": 4,
+   "verse": 20,
+   "word": 11,
+   "kjv": "Miletum",
+   "modernized": "Miletus"
+  },
+  {
+   "book": "2TI",
+   "chapter": 4,
+   "verse": 22,
+   "word": 18,
+   "kjv": "Timotheus",
+   "modernized": "Timothy"
+  },
+  {
+   "book": "PHM",
+   "chapter": 1,
+   "verse": 24,
+   "word": 1,
+   "kjv": "Marcus",
+   "modernized": "Mark"
   },
   {
    "book": "HEB",
@@ -1960,6 +10763,14 @@
    "modernized": "Sarah"
   },
   {
+   "book": "1PE",
+   "chapter": 5,
+   "verse": 13,
+   "word": 16,
+   "kjv": "Marcus",
+   "modernized": "Mark"
+  },
+  {
    "book": "2PE",
    "chapter": 2,
    "verse": 6,
@@ -1990,6 +10801,22 @@
    "word": 29,
    "kjv": "Core",
    "modernized": "Korah"
+  },
+  {
+   "book": "REV",
+   "chapter": 1,
+   "verse": 11,
+   "word": 38,
+   "kjv": "Pergamos",
+   "modernized": "Pergamum"
+  },
+  {
+   "book": "REV",
+   "chapter": 2,
+   "verse": 12,
+   "word": 9,
+   "kjv": "Pergamos",
+   "modernized": "Pergamum"
   },
   {
    "book": "REV",

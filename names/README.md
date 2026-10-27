@@ -1,12 +1,29 @@
 # Names (draft)
 
 The KJV New Testament spells Old Testament people and places the way the Greek does, so one person
-can appear under two names: Elijah in Kings, Elias in Matthew. This layer gives them the spelling
+can appear under two names: Elijah in Kings, Elias in Matthew. This layer first gives them the spelling
 **the KJV itself uses in the Old Testament**: Elias → Elijah, Esaias → Isaiah, Noe → Noah,
-Sion → Zion, Booz → Boaz, Phares → Pharez. The target is always the KJV's own Old Testament spelling,
-not a modern one (so Pharez, not Perez).
+Sion → Zion, Booz → Boaz, Phares → Pharez.
+
+Then every name, in both Testaments, takes **the BSB's spelling** where it is only a spelling:
+Phebe → Phoebe, Cesar → Caesar, Tyrus → Tyre, Zidon → Sidon, Timotheus → Timothy, Pharez → Perez,
+Maachah → Maacah. The BSB stands in for what modern translations do on the whole. Where the KJV spells
+one person or place two ways and the BSB evens them out, the KJVm follows (Nebuchadrezzar →
+Nebuchadnezzar, Urijah → Uriah, Azzah → Gaza). Rebekah stays: the BSB's Rebecca in Romans 9:10 is the
+Greek spelling.
 
 It's the same name in another form, not a different word, so it stays within "form, not translation".
+Where the BSB uses another name (Syria → Aram, Ahasuerus → Xerxes, Diana → Artemis), the KJV's stays;
+see [LEFT-ALONE.md](../LEFT-ALONE.md).
+
+## How the spellings are matched
+
+A KJV name and a BSB name in the same verse that translate the same Hebrew or Greek word are paired.
+The KJV word takes the BSB's spelling when the two are the same name spelled another way: close in
+letters, not a people for a land (Philistines, Philistia) or a plural for one, not the BSB reading
+another word in the manuscripts (Heleb, Heled). `tools/build_names.py` lists those it leaves alone by
+hand. A name the BSB has no word to pair with takes the spelling the BSB uses for it everywhere else,
+if there is only one. The Apocrypha has no BSB, so its names are left as they are.
 
 ## The hard calls
 

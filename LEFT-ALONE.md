@@ -73,11 +73,35 @@ person. **1,011 shared names are left alone** because the BSB names someone else
 son of Jonas" (John 21:15) keeps *Jonas*; only the prophet becomes Jonah. Every case is in
 [`names/changes.md`](names/changes.md).
 
+**Renames.** Names take the BSB's spelling (Phebe → Phoebe, Zidon → Sidon), but not the BSB's choice of
+another name for the same person or place. That is translating: deciding what to call it, not how to
+spell it.
+
+| KJV | BSB | Why it stays |
+|---|---|---|
+| Syria | Aram | the BSB uses the Hebrew name; *Syria* is the Greek and Latin one |
+| Ahasuerus | Xerxes | the BSB gives the Greek name for the Persian king |
+| Ethiopia | Cush | *Ethiopia* is the Greek translators' word for Cush |
+| Diana | Artemis | the Latin goddess for the Greek one |
+| Jupiter, Mercurius | Zeus, Hermes | the same |
+| Noph | Memphis | the Greek name for the Egyptian city |
+| Chittim | Cyprus | the BSB reads the people as their island |
+| Shushan | Susa | the Greek name for the Persian city |
+| Idumea | Edom | the Greek form of the land against the Hebrew |
+| Hiddekel | Tigris | the Hebrew name against the Greek |
+| Jewry | Judea | an old English name for the land |
+| Babel, Olivet | Babylon, Mount of Olives | the KJV's own name for the place |
+
+Also left alone: where the BSB writes the people for the land or the reverse (*Philistines* →
+*Philistia*), a plural for one (*Assyrian* → *Assyrians*), and where it reads another word in the
+manuscripts (*Heleb* → *Heled*). Those are listed in `tools/build_names.py`.
+
 ## Capitals for God
 
-He, Him, Thou, Thy… are capitalized only where they can be paired one to one with the BSB's. **1,982
-verses are left lowercase** because the two count their pronouns differently and a guess could
-capitalize the wrong person. See [`capitals/review.md`](capitals/review.md).
+He, Him, Thou, Thy… are capitalized only where they can be paired one to one with the BSB's, by
+order or through the Hebrew or Greek word. **1,823 verses are left lowercase** because a guess could
+capitalize the wrong person; 1,417 of them are *he, him, his*, where a verse often has God and a person
+both as "he". See [`capitals/review.md`](capitals/review.md).
 
 ## Quotation marks
 
