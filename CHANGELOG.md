@@ -2,6 +2,9 @@
 
 ## Unreleased
 
+- **Pronouns for God are lowercase again.** The capitals layer is switched off: most modern Bibles
+  don't capitalize them, and it followed the BSB into interpretation (who "he" is). The three "That"
+  lowerings set by hand move to `quotes/that-by-hand.csv`.
 - **The last 200 quotes the matching couldn't place, read by hand.** Most were already right: the BSB
   splits a saying around "he said" where the KJV keeps it whole. 27 sayings the KJV has but wasn't
   quoting are now quoted ("Is he well?" Genesis 29:6, "Here am I; send me." Isaiah 6:8, "Who art

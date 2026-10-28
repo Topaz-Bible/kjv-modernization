@@ -4,8 +4,10 @@
 The word rules already live in mod.json. This adds, from this repository's layer files:
   token_edits    single-word changes made before the word rules run:
                    name     Elias → Elijah             (names/names.json)
-                   capital  thee → Thee                (capitals/capitals.json, capitals/by-hand.csv)
-                   case     "said, That …" → "that"   (worked out here; see quotes/README.md)
+                   case     "said, That …" → "that"   (worked out here, and quotes/that-by-hand.csv where the
+                            Hebrew word isn't one that introduces a saying; see quotes/README.md)
+The pronoun capitals (capitals/) are switched off: most modern Bibles don't capitalize pronouns for God,
+and deciding who "he" is would be interpretation (capitals/README.md).
                             "called the light Day" → “day”: a quoted term is lowercased where the BSB has
                             it lowercase and the KJV uses the word lowercase elsewhere (quotes or a capital,
                             not both)
@@ -127,11 +129,8 @@ def main():
     edits = []
     for r in json.load(open(REPO / 'names' / 'names.json'))['changes']:
         edits.append(edit(r['book'], r['chapter'], r['verse'], r['word'], r['kjv'], r['modernized'], 'name'))
-    for r in json.load(open(REPO / 'capitals' / 'capitals.json'))['changes']:
-        edits.append(edit(r['book'], r['chapter'], r['verse'], r['word'], r['kjv'], r['modernized'], 'capital'))
-    # Verses the pairing left for review (capitals/review.md), settled by hand.
-    for r in csv.DictReader(open(REPO / 'capitals' / 'by-hand.csv')):
-        edits.append(edit(r['book'], int(r['chapter']), int(r['verse']), int(r['word']), r['kjv'], r['modernized'], 'capital'))
+    for r in csv.DictReader(open(REPO / 'quotes' / 'that-by-hand.csv')):
+        edits.append(edit(r['book'], int(r['chapter']), int(r['verse']), int(r['word']), r['kjv'], r['modernized'], 'case'))
     thats = that_edits()
     edits += thats
     lowered = {(e['location']['book_id'], f"{e['location']['chapter']:03}.{e['location']['verse']:03}:{e['location']['token']:03}")

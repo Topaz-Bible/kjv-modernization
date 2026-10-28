@@ -17,7 +17,7 @@ spelling and punctuation. Each step changed how the text looks, not what it says
 | [Word forms](words/) | thou → you, believeth → believes, spake → spoke, shew → show | **Released** (1.2.0) |
 | [Quotation marks](quotes/) | Adds “ ” and ‘ ’ around speech, carried over from the BSB | Draft, in review |
 | [Names](names/) | Old Testament names in the New Testament take the KJV's Old Testament spelling: Elias → Elijah, Esaias → Isaiah | Draft |
-| [Pronouns for God](capitals/) | He, Him, His, Thou, Thy… capitalized where they refer to God, following the BSB | Draft |
+| [Pronouns for God](capitals/) | He, Him, His, Thou, Thy… capitalized where they refer to God, following the BSB | Off: most modern Bibles don't, and it would be interpretation |
 | [Headings](headings/) | Section headings written for the KJV | Planned |
 | [Paragraphs and poetry](breaks/) | The Cambridge Paragraph Bible's paragraphs, poetry lines and stanzas | **In the Topaz KJV** |
 

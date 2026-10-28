@@ -1,4 +1,11 @@
-# Pronouns for God (draft)
+# Pronouns for God (switched off)
+
+**Off since 2026-10-28.** The KJV never capitalized pronouns for God, and neither do most modern Bibles
+(NIV, ESV, NRSV, NLT, NET, CSB). The practice came back in the 1960s with the NASB and the NKJV; the
+CSB, revising the HCSB, dropped it in 2017 because the Hebrew and Greek don't mark it and deciding who
+"he" is would be interpretation. Here it rested almost wholly on the BSB, one of the few that still do
+it. The KJVm keeps "he", "his" and "thee" (→ "you") lowercase. This folder and its tool stay as they
+were, unused, in case that ever changes.
 
 The KJV never capitalized pronouns for God; that convention came later and is now what most readers
 expect. This layer capitalizes He, Him, His, Himself, Thou, Thee, Thy, Thine, Thyself, Me, My, Mine and
