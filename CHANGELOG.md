@@ -2,6 +2,16 @@
 
 ## Unreleased
 
+- **Quotes checked verse by verse against the NIV and ESV.** Of about 26,000 verses in chapters with
+  quotes, 24,600 agree with both; 93 verses where the two agreed with each other and not with the KJVm
+  were read by hand. Fixed about 30 places: quotes that opened a verse late or closed a verse early
+  (Genesis 37:6, Exodus 18:17, Deuteronomy 18:17, 2 Kings 3:15, Numbers 27:17, Lamentations 3:43–47),
+  quotes that ran on past the speaker (John 3:31–36 is the evangelist, not John the Baptist; Amos 4:13
+  and 5:6–15; Isaiah 8:9–10; Jeremiah 17:9 and 17:11; the Leviticus summaries "This is the law…"),
+  Isaiah 40:1–2 no longer quoted (the voice's words open at "Prepare ye the way"), and four sayings
+  added (Luke 5:26, Psalm 132:7, Isaiah 66:10–11, Revelation 18:20). Kept: places where the NIV
+  rewords direct speech as reported (Matthew 2:23), omits the KJV's words (Luke 20:23), or wraps a long
+  oracle in one outer quote (Jeremiah 32, 51).
 - **Pronouns for God are lowercase again.** The capitals layer is switched off: most modern Bibles
   don't capitalize them, and it followed the BSB into interpretation (who "he" is). The three "That"
   lowerings set by hand move to `quotes/that-by-hand.csv`.

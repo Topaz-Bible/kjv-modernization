@@ -992,3 +992,34 @@ MRK,012.036:015,012.036:027,drop,David's citation stays unquoted inside Jesus' w
 LUK,023.030:010,023.030:012,drop,"already quoted, one level shallower than the BSB's nesting reads right (2026-10-28)",,,3
 JER,034.005:034,034.005:035,drop,would be a third level of marks (a lament inside the Lord's word inside Jeremiah's); left unquoted (2026-10-28),,,2
 JER,029.010:007,029.014:057,add,"the Lord's word through the letter, ""saith the Lord"" inside as in 29:8–9; opens after the lowered ""that"" (NIV; 2026-10-28)",,,
+2KI,003.014:004,003.014:037,fix,"NIV and ESV agree against us (quote pass 2026-10-28): Elisha goes on: ""But now bring me a minstrel.""",003.014:004,003.015:006,1
+DEU,018.018:001,018.020:036,fix,"NIV and ESV agree against us (quote pass 2026-10-28): the Lord's words open at ""They have well spoken""",018.017:007,018.020:036,1
+EXO,018.018:001,018.023:030,fix,"NIV and ESV agree against us (quote pass 2026-10-28): Jethro's counsel opens at ""The thing that thou doest""",018.017:009,018.023:030,1
+GEN,037.007:001,037.007:031,fix,"NIV and ESV agree against us (quote pass 2026-10-28): Joseph's words open at ""Hear, I pray you""",037.006:006,037.007:031,1
+ISA,028.010:001,028.010:022,fix,"NIV and ESV agree against us (quote pass 2026-10-28): the mockers' words open at ""Whom shall he teach""",028.009:001,028.010:022,1
+ISA,029.023:001,029.024:017,fix,"NIV and ESV agree against us (quote pass 2026-10-28): the Lord's word opens at ""Jacob shall not now be ashamed""",029.022:014,029.024:017,1
+ISA,043.018:001,043.028:020,fix,NIV and ESV agree against us (quote pass 2026-10-28): the Lord's words run on through 44:1,043.018:001,044.001:013,1
+ISA,066.005:013,066.005:043,fix,NIV and ESV agree against us (quote pass 2026-10-28): 66:6 is still the Lord's word,066.005:013,066.006:023,1
+JER,029.017:007,029.018:051,fix,NIV and ESV agree against us (quote pass 2026-10-28): the Lord's word runs through 29:19,029.017:007,029.019:035,1
+JOB,009.002:001,009.034:015,fix,NIV and ESV agree against us (quote pass 2026-10-28): Job's speech ends at 9:35,009.002:001,009.035:015,1
+MAL,002.002:001,002.002:020,fix,NIV and ESV agree against us (quote pass 2026-10-28): the Lord's word to the priests opens at 2:1,002.001:001,002.002:020,1
+NUM,027.016:001,027.016:017,fix,NIV and ESV agree against us (quote pass 2026-10-28): Moses' prayer runs through 27:17,027.016:001,027.017:039,1
+REV,018.021:020,018.023:051,fix,NIV and ESV agree against us (quote pass 2026-10-28): the angel's words run through 18:24,018.021:020,018.024:021,1
+LAM,003.042:001,003.042:010,fix,NIV and ESV agree against us (quote pass 2026-10-28): the confession runs through 3:47,003.042:001,003.047:011,1
+AMO,004.012:001,004.013:042,fix,NIV and ESV agree against us (quote pass 2026-10-28): 4:13 is the prophet's hymn,004.012:001,004.012:024,1
+AMO,005.004:011,005.015:030,fix,NIV and ESV agree against us (quote pass 2026-10-28): 5:6-15 is the prophet's own appeal,005.004:011,005.005:026,1
+ISA,008.006:001,008.010:022,fix,NIV and ESV agree against us (quote pass 2026-10-28): 8:9-10 is the prophet's taunt,008.006:001,008.008:035,1
+ISA,033.011:001,033.013:018,fix,NIV and ESV agree against us (quote pass 2026-10-28): 33:13 opens a new call,033.011:001,033.012:021,1
+JER,017.005:005,017.011:036,fix,NIV and ESV agree against us (quote pass 2026-10-28): 17:9 and 17:11 are the prophet's sayings,017.005:005,017.008:049,1
+JER,017.010:001,017.010:027,add,"NIV and ESV agree against us (quote pass 2026-10-28): ""I the Lord search the heart""",,,
+JHN,003.027:005,003.036:028,fix,NIV and ESV agree against us (quote pass 2026-10-28): John the Baptist's words end at 3:30; 3:31-36 is the evangelist,003.027:005,003.030:007,1
+LEV,013.002:001,013.059:036,fix,"NIV and ESV agree against us (quote pass 2026-10-28): the summary ""This is the law…"" stands outside",013.002:001,013.058:037,1
+LEV,014.034:001,014.057:017,fix,"NIV and ESV agree against us (quote pass 2026-10-28): the summary ""This is the law…"" stands outside",014.034:001,014.053:028,1
+LEV,015.002:001,015.033:033,fix,"NIV and ESV agree against us (quote pass 2026-10-28): the summary ""This is the law…"" stands outside",015.002:001,015.031:027,1
+LEV,015.002:011,015.033:033,fix,"NIV and ESV agree against us (quote pass 2026-10-28): the summary ""This is the law…"" stands outside",015.002:011,015.031:027,2
+ISA,040.001:001,040.001:006,drop,"NIV and ESV agree against us (quote pass 2026-10-28): neither quotes ""Comfort ye""",,,1
+ISA,040.002:001,040.005:016,fix,"NIV and ESV agree against us (quote pass 2026-10-28): the voice's words open at ""Prepare ye""",040.003:010,040.005:016,1
+ISA,066.010:001,066.011:027,add,"NIV and ESV agree against us (quote pass 2026-10-28): ""Rejoice ye with Jerusalem…""",,,
+PSA,132.007:001,132.007:012,add,"NIV and ESV agree against us (quote pass 2026-10-28): ""We will go into his tabernacles""",,,
+REV,018.020:001,018.020:018,add,"NIV and ESV agree against us (quote pass 2026-10-28): ""Rejoice over her, thou heaven""",,,
+LUK,005.026:016,005.026:022,add,"NIV and ESV agree against us (quote pass 2026-10-28): ""We have seen strange things to day.""",,,
