@@ -198,6 +198,9 @@ for b in manifest['books']:
                         continue
                     review.append({'book': bk, 'chapter': c['chapter'], 'verse': v['verse'], 'group': g,
                                    'bsb': len(flags), 'kjv': len(ks),
+                                   # The BSB's pronouns of the group in order: G = God's, o = someone else's,
+                                   # ? = can't tell (capital at a sentence or quote start).
+                                   'bsb_pattern': ''.join('?' if f is None else 'G' if f else 'o' for f in flags),
                                    'text': ' '.join(t['t'] + (t.get('a') or '') for t in v['tokens'])})
                     continue
                 # A pronoun at a sentence or quote start hides the BSB's choice. When every other one of
