@@ -22,6 +22,13 @@ in the package's own marker format. Scrivener's text differs from the 1769 KJV i
 are not ashamed" for "ye are not ashamed"); a break goes right after the last word the two share, so
 it still opens the same line.
 
+Scrivener sets every Psalm line at one level. In the Psalms each line takes its level from the BSB:
+level 2 (the second line of a pair, set a step in) or level 1, by the BSB line its Hebrew words
+(Strong's numbers) fall in. The first word that points into a single BSB line decides; a line with no
+such word goes by a vote of its words, and the 15 lines with no matched word at all go by their place
+in the verse (first line 1, later lines 2). The breaks themselves stay where Scrivener put them, so
+where he joins two of the BSB's lines into one, the joined line takes the level of the first.
+
 The Additions to Esther are placed by the chapter and verse numbers the KJV prints (`\cp`, `\vp`).
 
 `tools/build_cambridge_breaks.py --apply` writes these breaks into the KJV package, in place of its

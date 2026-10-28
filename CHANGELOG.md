@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+- **Psalm lines set in a step.** Scrivener sets every Psalm line at one level; each now takes its level
+  from the BSB line its Hebrew words fall in, so the second line of a pair can sit a step in. The
+  line positions stay Scrivener's. 5,347 of 5,362 Psalm lines matched; the other 15 go by their place
+  in the verse.
 - **Quote edges checked against the BSB.** A new check, `tools/check_quote_edges.py`, finds quotes whose
   first or last words the BSB leaves outside its quotes. Fixed: "“I am of Apollos;” are ye not carnal?"
   (1 Corinthians 3:4), Jesus's words in Matthew 26:50 no longer run into "Then came they", Mark 4:35

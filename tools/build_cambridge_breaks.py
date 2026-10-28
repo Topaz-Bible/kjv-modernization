@@ -13,6 +13,11 @@ BSB's are made (topaz/scripts/bsb_pass2_usfm.py):
 A break is placed right after the KJV word that matches the last word before it (the two texts differ
 in a few words; the words are matched in order).
 
+Scrivener sets every Psalm line at one level. A Psalm line takes its level (1, or 2 for the second line
+of a pair, set in a step) from the BSB line its Hebrew words fall in: the first KJV word whose Strong's
+number points into one BSB line decides, else a vote of all its words, else the line's place in its
+verse (first line 1, later lines 2). The line positions stay Scrivener's.
+
 Reads: keyway-data/sources/kjv-cambridge-paragraph-ebible/usfm/*.usfm and the app's KJV package.
 Writes: breaks/cambridge/breaks.json, and with --apply the markers into the KJV package zip
 (replacing its paragraph marks, which follow the 1611 ¶ signs; headings stay).
@@ -27,6 +32,7 @@ SRC = REPO.parent / 'keyway-data' / 'sources' / 'kjv-cambridge-paragraph-ebible'
 PKG = REPO.parent / 'topaz-bible' / 'assets' / 'packages' / 'eng.bible.kjv.zip'
 OUT = REPO / 'breaks' / 'cambridge'
 BREAKS = {'p', 'm', 'q1', 'q2', 'q3', 'b', 'nb', 'mi', 'pi'}
+LEVEL_BOOKS = {'PSA'}  # books whose line levels come from the BSB
 
 
 def norm(t):
@@ -155,6 +161,8 @@ def main():
                         book['poetic_regions'].append(run)
                 else:
                     run = None
+        if bk in LEVEL_BOOKS:
+            bsb_levels(bk, book['markers'], counts)
         for r in book['poetic_regions']:
             r.pop('chapter', None)
         counts['poetic_regions'] += len(book['poetic_regions'])
@@ -169,6 +177,46 @@ def main():
     print(dict(counts), len(problems), 'problems')
     if '--apply' in sys.argv:
         apply(z, out)
+
+
+def bsb_levels(bk, markers, counts):
+    """Set each line_break's level from the BSB line its Hebrew words fall in (see the docstring)."""
+    argv, sys.argv = sys.argv, sys.argv[:1]  # build_quotes reads a package folder from argv
+    sys.path.insert(0, str(REPO / 'tools'))
+    import build_quotes as B
+    sys.argv = argv
+    bsb = B.read(B.bsb_zip, f'{bk}.json')
+    kw, bw = B.kjv_chapters(bk), B.bsb_chapters(bsb)
+    blines = {(c['chapter'], v['verse']): sorted((m['position'], m.get('level', 1)) for m in v.get('markers', [])
+                                                 if m['type'] == 'line_break')
+              for c in bsb['chapters'] for v in c['verses']}
+    for key, marks in markers.items():
+        ch, vs = map(int, key.split(':'))
+        lines = sorted((m for m in marks if m['type'] == 'line_break'), key=lambda m: m['position'])
+        bl = blines.get((ch, vs), [])
+
+        def bline(n):
+            hit = None
+            for j, (p, lv) in enumerate(bl):
+                if p <= n:
+                    hit = (j, lv)
+            return hit
+
+        kwords = [w for w in kw.get(ch, []) if w.v == vs and w.S]
+        bwords = [w for w in bw.get(ch, []) if w.v == vs]
+        for i, m in enumerate(lines):
+            end = lines[i + 1]['position'] if i + 1 < len(lines) else 10 ** 6
+            votes, first = collections.Counter(), None
+            for w in kwords:
+                if m['position'] <= w.n < end:
+                    hits = {bline(x.n) for x in bwords if x.S & w.S} - {None}
+                    for h in hits:
+                        votes[h[1]] += 1
+                    if first is None and len(hits) == 1:
+                        first = next(iter(hits))[1]
+            level = first or (votes.most_common(1)[0][0] if votes else (1 if m['position'] == 1 else 2))
+            counts['bsb_level' if votes else 'place_level'] += 1
+            m['level'] = level
 
 
 def apply(z, out):
