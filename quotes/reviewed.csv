@@ -939,7 +939,6 @@ MRK,004.035:001,004.035:021,fix,BSB boundary check: the narrator’s opening wor
 JUD,001.018:001,001.018:021,drop,BSB boundary check: reported speech in the KJV (“How that they told you…”),,,1
 JHN,001.038:026,001.038:029,drop,"BSB boundary check: one quote, the gloss inside its brackets",,,1
 JHN,001.038:019,001.038:019,drop,"BSB boundary check: one quote, the gloss inside its brackets",,,1
-JHN,001.038:019,001.038:029,add,"BSB boundary check: one quote, the gloss inside its brackets",,,
 2SA,017.008:001,017.013:034,fix,"BSB boundary check: “For,” said Hushai, “thou knowest…”",017.008:004,017.013:034,1
 2SA,017.008:001,017.008:001,add,"BSB boundary check: “For,” said Hushai, “thou knowest…”",,,
 2CO,010.010:001,010.010:019,fix,BSB boundary check: Paul’s “For” stays outside; “say they” splits it,010.010:002,010.010:003,1
@@ -958,3 +957,5 @@ PSA,118.002:006,118.002:010,add,"saying after a lowercase ""that"": quoted from 
 PSA,118.004:010,118.004:014,add,"saying after a lowercase ""that"": quoted from the word after it (EJ 2026-10-28)",,,
 DEU,001.030:001,001.031:036,fix,"Moses’ answer starts at “Dread not”, as the NIV",001.029:006,001.031:036,1
 DEU,001.042:010,001.042:027,add,"the words to pass on, as the NIV",,,2
+JHN,001.038:019,001.038:019,add,Rabbi and the question are John’s report of what they said; the gloss on Master is the narrator’s (EJ),,,
+JHN,001.038:027,001.038:029,add,Rabbi and the question are John’s report of what they said; the gloss on Master is the narrator’s (EJ),,,
