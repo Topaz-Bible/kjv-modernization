@@ -108,6 +108,14 @@ both as "he". See [`capitals/review.md`](capitals/review.md).
 
 - **A saying introduced by "that" gets no marks.** "And he said, that John the Baptist was risen from the
   dead" (Mark 6:14) is reported speech in the KJV's grammar; `said, that “…”` would read wrong.
+- **The writer's own sayings.** "Rejoice in the Lord alway: and again I say, Rejoice" (Philippians 4:4),
+  "For this we say unto you by the word of the Lord" (1 Thessalonians 4:15), "But I say, Have they not
+  heard?" (Romans 10:18), "This is a true saying" (1 Timothy 3:1). The writer is teaching, not quoting
+  anyone; no modern Bible we checked marks them. Scripture the writer quotes inside them still is.
+- **Not speech after all.** "Followed her, saying, She goeth unto the grave" (John 11:31) means
+  *supposing*; "Aceldama, that is to say, The field of blood" (Acts 1:19) is a gloss. A psalm handed to
+  Asaph (1 Chronicles 16:8–36) and the Scripture woven into a writer's sentence ("Who will render to every
+  man according to his deeds", Romans 2:6) are text, not speech.
 - **Psalm tune names.** The BSB quotes them ("To the tune of “Lilies”"); the KJV leaves them untranslated
   ("upon Shoshannim"), so there's nothing to quote.
 - **Speech the KJV reports.** "He asked him if he saw ought" (Mark 8:23), "told the disciples that she had

@@ -75,7 +75,7 @@ GEN,043.027:010,043.027:020,fix,one question runs on: “…of whom ye spake? Is
 GEN,016.008:004,016.008:009,fix,the speech goes on after the question in small letters,016.008:004,016.008:014,
 GEN,030.015:006,030.015:016,fix,the speech goes on after the question in small letters,030.015:006,030.015:025,
 EXO,032.026:012,032.026:017,fix,the speech goes on after the question in small letters,032.026:012,032.026:022,
-NUM,016.013:001,016.014:032,fix,the speech goes on after the question in small letters,016.013:001,016.014:037,
+NUM,016.013:001,016.014:032,drop,speech tag with no quote; modern Bibles quote it,,,
 DEU,012.030:030,012.030:036,fix,the speech goes on after the question in small letters,012.030:030,012.030:042,
 JDG,015.002:005,015.002:028,fix,the speech goes on after the question in small letters,015.002:005,015.002:036,
 JDG,018.003:028,018.003:038,fix,the speech goes on after the question in small letters,018.003:028,018.003:043,
@@ -218,7 +218,7 @@ JAS,002.008:011,002.008:017,ship,end checked by hand: the narrator or writer tak
 JAS,002.016:008,002.016:015,ship,end checked by hand: the narrator or writer takes over after the colon or comma,,,
 1JN,002.004:004,002.004:006,ship,end checked by hand: the narrator or writer takes over after the colon or comma,,,
 1JN,004.020:005,004.020:007,ship,end checked by hand: the narrator or writer takes over after the colon or comma,,,
-JHN,004.027:023,004.027:027,drop,inside “What seekest thou? or, Why talkest thou with her?”,,,
+JHN,004.027:023,004.027:027,drop,"inside “What seekest thou? or, Why talkest thou with her?”",,,
 2SA,015.034:001,015.036:030,fix,"David's speech starts at ""If thou passest on"" (15:33)",015.033:005,015.036:030,
 ISA,045.024:001,045.024:012,drop,"the tag sits inside the saying (""Surely, shall one say, in the Lord…""); no clean marks",,,
 PSA,075.004:006,075.005:013,fix,"two sayings: ""Deal not foolishly:"" and ""Lift not up the horn…""",075.004:006,075.004:008,
@@ -822,3 +822,113 @@ LUK,006.005:007,006.005:016,add,"woj review: the red letters after the lowered "
 LUK,009.055:009,009.056:016,add,woj review: the red letters; the BSB lacks these words (a textual difference),,,1
 REV,001.011:002,001.011:011,add,"woj review: the red letters before ""and,""",,,1
 ACT,001.004:024,001.004:024,add,"woj review: the Greek turns direct at ""which"" (ἣν ἠκούσατέ μου), as the NKJV marks it",,,1
+1CO,001.012:011,001.012:022,fix,"four sayings, one per party (EJ)",001.012:011,001.012:014,1
+1CO,001.012:016,001.012:018,add,"four sayings, one per party (EJ)",,,
+1CO,001.012:020,001.012:022,add,"four sayings, one per party (EJ)",,,
+GEN,042.022:012,042.022:029,drop,speech tag with no quote; modern Bibles quote it,,,1
+GEN,042.022:006,042.022:029,add,speech tag with no quote; modern Bibles quote it,,,
+GEN,042.022:012,042.022:017,add,speech tag with no quote; modern Bibles quote it,,,2
+GEN,045.016:011,045.016:014,add,"report quoted, as ESV/CSB",,,
+NUM,016.012:015,016.014:019,add,speech tag with no quote; modern Bibles quote it,,,
+NUM,022.030:037,022.030:037,add,speech tag with no quote; modern Bibles quote it,,,
+DEU,001.038:001,001.040:020,fix,"the Lord speaks from v37, as modern Bibles",001.037:012,001.040:020,1
+DEU,015.011:016,015.011:034,add,"command quoted, as ESV/NASB/CSB",,,
+DEU,019.007:006,019.007:012,add,"command quoted, as ESV/NASB",,,
+JOS,009.022:018,009.023:030,drop,speech tag with no quote; modern Bibles quote it,,,1
+JOS,009.022:012,009.023:024,add,speech tag with no quote; modern Bibles quote it,,,
+JOS,009.022:018,009.022:023,add,speech tag with no quote; modern Bibles quote it,,,2
+JOS,020.002:008,020.006:052,drop,speech tag with no quote; modern Bibles quote it,,,1
+JOS,020.002:001,020.006:052,add,speech tag with no quote; modern Bibles quote it,,,
+JOS,020.002:008,020.006:052,add,speech tag with no quote; modern Bibles quote it,,,2
+JDG,004.020:006,004.020:032,fix,speech tag with no quote; modern Bibles quote it,004.020:006,004.020:037,1
+JDG,004.020:037,004.020:037,add,speech tag with no quote; modern Bibles quote it,,,2
+JDG,012.005:043,012.005:043,add,speech tag with no quote; modern Bibles quote it,,,
+JDG,016.002:008,016.002:011,add,report quoted (EJ; NIV/ESV agree),,,
+JDG,020.013:001,020.013:045,fix,speech tag with no quote; modern Bibles quote it,020.012:015,020.013:045,1
+1SA,018.024:009,018.024:013,add,"report quoted, as ESV/CSB",,,
+1SA,019.019:007,019.019:013,add,speech tag with no quote; modern Bibles quote it,,,
+1KI,016.016:009,016.016:017,add,"report quoted, as ESV/NASB",,,
+1KI,018.033:022,018.033:037,add,speech tag with no quote; modern Bibles quote it,,,
+2KI,005.004:010,005.004:022,add,"report quoted, as ESV/NASB",,,
+2KI,009.012:025,009.012:031,drop,speech tag with no quote; modern Bibles quote it,,,2
+2KI,009.012:021,009.012:031,drop,speech tag with no quote; modern Bibles quote it,,,1
+2KI,009.012:013,009.012:031,add,speech tag with no quote; modern Bibles quote it,,,
+2KI,009.012:021,009.012:031,add,speech tag with no quote; modern Bibles quote it,,,2
+PSA,129.001:005,129.001:014,add,"refrain quoted, as NIV/ESV/NASB",,,
+ISA,007.002:010,007.002:014,add,speech tag with no quote; modern Bibles quote it,,,
+ISA,029.011:028,029.011:032,add,speech tag with no quote; modern Bibles quote it,,,
+JER,013.009:005,013.014:030,fix,"“Thus saith the Lord” inside the quote, as modern Bibles",013.009:001,013.014:030,1
+JER,026.002:005,026.006:022,fix,"“Thus saith the Lord” inside the quote, as modern Bibles",026.002:001,026.006:022,1
+JER,029.025:012,029.028:029,fix,"“Thus saith the Lord” inside the quote, as modern Bibles",029.025:001,029.028:029,1
+JER,033.020:005,033.022:032,fix,"“Thus saith the Lord” inside the quote, as modern Bibles",033.020:001,033.022:032,1
+JER,038.002:005,038.003:023,fix,"“Thus saith the Lord” inside the quote, as modern Bibles",038.002:001,038.003:023,1
+JER,027.016:017,027.022:033,fix,"“Thus saith the Lord” inside the quote, as modern Bibles",027.016:013,027.022:033,1
+JER,029.005:001,029.007:033,fix,"“Thus saith the Lord” inside the quote, as modern Bibles",029.004:001,029.007:033,1
+JER,049.035:007,049.037:029,fix,"“Thus saith the Lord” inside the quote, as modern Bibles",049.035:001,049.037:029,1
+ZEC,008.002:007,008.002:023,fix,"“Thus saith the Lord” inside the quote, as modern Bibles",008.002:001,008.002:023,1
+JER,034.002:024,034.005:044,drop,"“Thus saith the Lord” inside the quote, as modern Bibles",,,1
+JER,034.002:001,034.005:044,add,"“Thus saith the Lord” inside the quote, as modern Bibles",,,
+JER,034.002:020,034.005:044,add,"“Thus saith the Lord” inside the quote, as modern Bibles",,,2
+MAL,003.006:001,003.007:019,fix,closes before “saith the Lord”,003.006:001,003.007:028,1
+MAL,003.008:001,003.010:021,drop,reopens at “But ye said” in 3:7,,,1
+MAL,003.007:034,003.010:021,add,reopens at “But ye said”,,,
+MAL,003.007:037,003.007:040,add,reopens at “But ye said”,,,2
+MRK,008.016:007,008.016:013,add,KJV words are direct speech,,,
+MRK,015.028:008,015.028:014,add,Scripture cited,,,
+LUK,008.009:007,008.009:011,add,KJV words are direct speech,,,
+JHN,004.051:016,004.051:018,add,KJV words are direct speech,,,
+JHN,009.009:003,009.009:005,add,speech tag with no quote; modern Bibles quote it,,,
+JHN,012.029:016,012.029:020,add,speech tag with no quote; modern Bibles quote it,,,
+ACT,008.037:004,008.037:012,add,KJV words are direct speech,,,
+ACT,008.037:018,008.037:027,add,KJV words are direct speech,,,
+ACT,015.024:022,015.024:029,add,KJV words are direct speech,,,
+ACT,022.028:017,022.028:021,add,speech tag with no quote; modern Bibles quote it,,,
+ROM,003.004:017,003.004:031,add,Scripture cited,,,
+ROM,010.018:004,010.018:025,fix,Paul’s own question is not quoted; the Psalm is (NIV/ESV),010.018:010,010.018:025,1
+HEB,008.013:005,008.013:007,add,"term quoted, as NIV/NASB",,,
+HEB,011.018:006,011.018:013,add,Scripture cited,,,
+PSA,129.002:001,129.003:011,add,"refrain quoted, as NIV/ESV/NASB",,,
+2ES,005.034:004,005.034:038,add,"Apocrypha, safest set: one speech tag, the speech fills the rest of its verse, the next verse is narrative",,,
+2ES,005.041:004,005.041:040,add,"Apocrypha, safest set: one speech tag, the speech fills the rest of its verse, the next verse is narrative",,,
+2ES,010.032:004,010.032:037,add,"Apocrypha, safest set: one speech tag, the speech fills the rest of its verse, the next verse is narrative",,,
+TOB,002.003:007,002.003:020,add,"Apocrypha, safest set: one speech tag, the speech fills the rest of its verse, the next verse is narrative",,,
+TOB,003.010:021,003.010:052,add,"Apocrypha, safest set: one speech tag, the speech fills the rest of its verse, the next verse is narrative",,,
+TOB,005.006:006,005.006:024,add,"Apocrypha, safest set: one speech tag, the speech fills the rest of its verse, the next verse is narrative",,,
+TOB,005.012:004,005.012:016,add,"Apocrypha, safest set: one speech tag, the speech fills the rest of its verse, the next verse is narrative",,,
+TOB,007.012:003,007.012:031,add,"Apocrypha, safest set: one speech tag, the speech fills the rest of its verse, the next verse is narrative",,,
+TOB,008.004:018,008.004:030,add,"Apocrypha, safest set: one speech tag, the speech fills the rest of its verse, the next verse is narrative",,,
+TOB,010.009:004,010.009:011,add,"Apocrypha, safest set: one speech tag, the speech fills the rest of its verse, the next verse is narrative",,,
+JDT,012.002:004,012.002:027,add,"Apocrypha, safest set: one speech tag, the speech fills the rest of its verse, the next verse is narrative",,,
+JDT,012.013:016,012.013:061,add,"Apocrypha, safest set: one speech tag, the speech fills the rest of its verse, the next verse is narrative",,,
+JDT,012.018:004,012.018:027,add,"Apocrypha, safest set: one speech tag, the speech fills the rest of its verse, the next verse is narrative",,,
+SUS,001.036:005,001.036:028,add,"Apocrypha, safest set: one speech tag, the speech fills the rest of its verse, the next verse is narrative",,,
+SUS,001.047:011,001.047:018,add,"Apocrypha, safest set: one speech tag, the speech fills the rest of its verse, the next verse is narrative",,,
+SUS,001.055:004,001.055:030,add,"Apocrypha, safest set: one speech tag, the speech fills the rest of its verse, the next verse is narrative",,,
+BEL,001.007:006,001.007:027,add,"Apocrypha, safest set: one speech tag, the speech fills the rest of its verse, the next verse is narrative",,,
+BEL,001.019:016,001.019:026,add,"Apocrypha, safest set: one speech tag, the speech fills the rest of its verse, the next verse is narrative",,,
+BEL,001.035:004,001.035:016,add,"Apocrypha, safest set: one speech tag, the speech fills the rest of its verse, the next verse is narrative",,,
+BEL,001.038:004,001.038:020,add,"Apocrypha, safest set: one speech tag, the speech fills the rest of its verse, the next verse is narrative",,,
+1MA,001.011:015,001.011:040,add,"Apocrypha, safest set: one speech tag, the speech fills the rest of its verse, the next verse is narrative",,,
+1MA,002.034:004,002.034:020,add,"Apocrypha, safest set: one speech tag, the speech fills the rest of its verse, the next verse is narrative",,,
+1MA,002.041:008,002.041:039,add,"Apocrypha, safest set: one speech tag, the speech fills the rest of its verse, the next verse is narrative",,,
+1MA,005.042:026,005.042:040,add,"Apocrypha, safest set: one speech tag, the speech fills the rest of its verse, the next verse is narrative",,,
+1MA,005.057:004,005.057:021,add,"Apocrypha, safest set: one speech tag, the speech fills the rest of its verse, the next verse is narrative",,,
+1MA,007.003:008,007.003:013,add,"Apocrypha, safest set: one speech tag, the speech fills the rest of its verse, the next verse is narrative",,,
+1MA,009.009:006,009.009:034,add,"Apocrypha, safest set: one speech tag, the speech fills the rest of its verse, the next verse is narrative",,,
+1MA,009.058:010,009.058:036,add,"Apocrypha, safest set: one speech tag, the speech fills the rest of its verse, the next verse is narrative",,,
+1MA,013.046:004,013.046:016,add,"Apocrypha, safest set: one speech tag, the speech fills the rest of its verse, the next verse is narrative",,,
+2MA,015.002:012,015.002:038,add,"Apocrypha, safest set: one speech tag, the speech fills the rest of its verse, the next verse is narrative",,,
+1CH,016.018:002,016.018:015,drop,the psalm itself is not quoted; its sayings are,,,2
+1CH,016.018:002,016.018:015,add,the psalm itself is not quoted; its sayings are,,,
+1CH,016.022:002,016.022:011,drop,the psalm itself is not quoted; its sayings are,,,2
+1CH,016.022:002,016.022:011,add,the psalm itself is not quoted; its sayings are,,,
+1CH,016.031:018,016.031:020,drop,the psalm itself is not quoted; its sayings are,,,2
+1CH,016.031:018,016.031:020,add,the psalm itself is not quoted; its sayings are,,,
+1CH,016.035:004,016.035:034,drop,the psalm itself is not quoted; its sayings are,,,2
+1CH,016.035:004,016.035:034,add,the psalm itself is not quoted; its sayings are,,,
+1CH,016.008:001,016.036:011,drop,"a psalm handed to Asaph, not speech; modern Bibles leave it unquoted",,,1
+ISA,021.002:008,021.002:032,drop,no speech verb and modern Bibles (NIV/ESV/NASB/CSB) don’t quote it: the writer’s own words,,,1
+ROM,002.006:001,002.006:010,drop,no speech verb and modern Bibles (NIV/ESV/NASB/CSB) don’t quote it: the writer’s own words,,,1
+HEB,012.029:001,012.029:007,drop,no speech verb and modern Bibles (NIV/ESV/NASB/CSB) don’t quote it: the writer’s own words,,,1
+1PE,002.022:001,002.022:011,drop,no speech verb and modern Bibles (NIV/ESV/NASB/CSB) don’t quote it: the writer’s own words,,,1
+REV,013.010:001,013.010:021,drop,no speech verb and modern Bibles (NIV/ESV/NASB/CSB) don’t quote it: the writer’s own words,,,1

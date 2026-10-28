@@ -2,6 +2,17 @@
 
 ## Unreleased
 
+- **Quotes checked against modern Bibles.** Every place the KJV says "saying," with no quote after it,
+  and every quote that opens with no speech verb near it, was read beside the NIV, ESV, NASB and CSB.
+  60 places gain or change quotes: "it was told the Gazites, saying, “Samson is come hither.”" (Judges
+  16:2), Reuben's whole answer with his old warning inside it (Genesis 42:22), the prophet's "“Thus saith
+  the Lord…" now inside the quote where the word came "saying," (Jeremiah 26:2), and four parties with
+  four sayings in 1 Corinthians 1:12 ("“I am of Paul;” and “I of Apollos;” and…"). Seven come out: the
+  writer's own words (Romans 2:6, Hebrews 12:29, Revelation 13:10) and a psalm handed to Asaph (1
+  Chronicles 16:8–36, whose sayings keep their marks). See [LEFT-ALONE.md](LEFT-ALONE.md).
+- **Quotes in the Apocrypha, a first few.** 30 of the plainest: one speech tag, the speech filling the
+  rest of its verse, the next verse narrative again ("But Tobias said, “No; but let me go to my
+  father.”", Tobit 10:9).
 - **Red letters without quotes.** Where the words of Jesus stood outside any quote, the quote now
   follows the red letters: Luke 6:5 opens after the lowered "that" ("he said unto them, that “the Son
   of man is Lord also of the sabbath.”"), Luke 9:55–56 (words the BSB's Greek text lacks), Revelation
