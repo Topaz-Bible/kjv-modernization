@@ -2,6 +2,14 @@
 
 ## Unreleased
 
+- **The last 200 quotes the matching couldn't place, read by hand.** Most were already right: the BSB
+  splits a saying around "he said" where the KJV keeps it whole. 27 sayings the KJV has but wasn't
+  quoting are now quoted ("Is he well?" Genesis 29:6, "Here am I; send me." Isaiah 6:8, "Who art
+  thou?" 2 Samuel 1:8), and Jacob's answer in Genesis 31:31 now opens at "Because", with his thought
+  inside it. Left out: sayings the KJV doesn't have (Genesis 4:8), tune names in Psalm titles, "yea"
+  and "nay" used as words, and a lament that would need a third level of marks (Jeremiah 34:5).
+- **Jeremiah 29:10–14 quoted**, opening after a lowercased "that", with "saith the Lord" inside as in
+  29:8–9.
 - **Psalm lines set in a step.** Scrivener sets every Psalm line at one level; each now takes its level
   from the BSB line its Hebrew words fall in, so the second line of a pair can sit a step in. The
   line positions stay Scrivener's. 5,347 of 5,362 Psalm lines matched; the other 15 go by their place

@@ -3,7 +3,7 @@ JOS,004.007:006,004.007:034,ship,"saying after a lowercased ""that"": quoted fro
 2SA,001.004:018,001.004:044,ship,"saying after a lowercased ""that"": quoted from the word after it (EJ 2026-10-28)",,,
 2SA,002.004:023,002.004:032,fix,"saying after a lowercased ""that"": quoted from the word after it (EJ 2026-10-28)",002.004:024,002.004:032,
 ISA,014.032:011,014.032:026,drop,"saying-""that"" after a question mark: ""nation? that…"" would read wrong; left unquoted",,,
-JER,029.010:006,029.014:036,drop,"saying-""that"": reported speech, no quotation marks",,,
+JER,029.010:007,029.014:036,drop,"saying-""that"": reported speech, no quotation marks",,,
 DAN,006.013:009,006.013:040,fix,"saying after a lowercased ""that"": quoted from the word after it (EJ 2026-10-28)",006.013:010,006.013:040,
 MRK,006.014:016,006.014:034,ship,"saying after a lowercased ""that"": quoted from the word after it (EJ 2026-10-28)",,,
 MRK,006.015:003,006.015:006,ship,"saying after a lowercased ""that"": quoted from the word after it (EJ 2026-10-28)",,,
@@ -959,3 +959,36 @@ DEU,001.030:001,001.031:036,fix,"Moses’ answer starts at “Dread not”, as t
 DEU,001.042:010,001.042:027,add,"the words to pass on, as the NIV",,,2
 JHN,001.038:019,001.038:019,add,Rabbi and the question are John’s report of what they said; the gloss on Master is the narrator’s (EJ),,,
 JHN,001.038:027,001.038:029,add,Rabbi and the question are John’s report of what they said; the gloss on Master is the narrator’s (EJ),,,
+GEN,029.006:006,029.006:008,add,"BSB quotes it; the matching found no shared words (tier 5), placed by hand (2026-10-28)",,,
+GEN,037.013:028,037.013:030,add,"BSB quotes it; the matching found no shared words (tier 5), placed by hand (2026-10-28)",,,
+GEN,045.004:007,045.004:013,add,"BSB quotes it; the matching found no shared words (tier 5), placed by hand (2026-10-28)",,,
+JDG,006.029:007,006.029:011,add,"BSB quotes it; the matching found no shared words (tier 5), placed by hand (2026-10-28)",,,
+1SA,014.010:006,014.010:009,add,"BSB quotes it; the matching found no shared words (tier 5), placed by hand (2026-10-28)",,,2
+1SA,015.016:026,015.016:027,add,"BSB quotes it; the matching found no shared words (tier 5), placed by hand (2026-10-28)",,,
+1SA,028.007:032,028.007:043,add,"BSB quotes it; the matching found no shared words (tier 5), placed by hand (2026-10-28)",,,
+1SA,028.011:005,028.011:011,add,"BSB quotes it; the matching found no shared words (tier 5), placed by hand (2026-10-28)",,,
+1SA,030.013:006,030.013:013,add,"BSB quotes it; the matching found no shared words (tier 5), placed by hand (2026-10-28)",,,
+2SA,001.008:006,001.008:008,add,"BSB quotes it; the matching found no shared words (tier 5), placed by hand (2026-10-28)",,,2
+2SA,001.013:011,001.013:013,add,"BSB quotes it; the matching found no shared words (tier 5), placed by hand (2026-10-28)",,,
+2SA,002.001:017,002.001:018,add,"BSB quotes it; the matching found no shared words (tier 5), placed by hand (2026-10-28)",,,
+2SA,016.004:007,016.004:014,add,"BSB quotes it; the matching found no shared words (tier 5), placed by hand (2026-10-28)",,,
+2KI,009.018:016,009.018:018,add,"BSB quotes it; the matching found no shared words (tier 5), placed by hand (2026-10-28)",,,2
+2KI,009.019:019,009.019:021,add,"BSB quotes it; the matching found no shared words (tier 5), placed by hand (2026-10-28)",,,2
+2CH,018.003:012,018.003:018,add,"BSB quotes it; the matching found no shared words (tier 5), placed by hand (2026-10-28)",,,
+EST,006.003:025,006.003:030,add,"BSB quotes it; the matching found no shared words (tier 5), placed by hand (2026-10-28)",,,
+JOB,038.035:013,038.035:015,add,"BSB quotes it; the matching found no shared words (tier 5), placed by hand (2026-10-28)",,,2
+PSA,052.001:022,052.001:029,add,"BSB quotes it; the matching found no shared words (tier 5), placed by hand (2026-10-28)",,,
+PSA,054.001:020,054.001:026,add,"BSB quotes it; the matching found no shared words (tier 5), placed by hand (2026-10-28)",,,
+ISA,006.008:023,006.008:027,add,"BSB quotes it; the matching found no shared words (tier 5), placed by hand (2026-10-28)",,,
+ISA,029.016:025,029.016:028,add,"BSB quotes it; the matching found no shared words (tier 5), placed by hand (2026-10-28)",,,
+JER,022.021:011,022.021:014,add,"BSB quotes it; the matching found no shared words (tier 5), placed by hand (2026-10-28)",,,2
+AMO,006.010:036,006.010:041,add,"BSB quotes it; the matching found no shared words (tier 5), placed by hand (2026-10-28)",,,
+ZEC,004.002:005,004.002:007,add,"BSB quotes it; the matching found no shared words (tier 5), placed by hand (2026-10-28)",,,
+MAL,001.002:001,001.002:004,add,"BSB quotes it; the matching found no shared words (tier 5), placed by hand (2026-10-28)",,,
+GEN,031.031:015,031.032:025,fix,"Jacob's answer opens at ""Because""; ""Peradventure…"" is what he said to himself, a quote within it (2026-10-28)",031.031:008,031.032:025,1
+GEN,031.031:015,031.031:024,add,Jacob's thought inside his answer (2026-10-28),,,2
+1SA,026.014:024,026.014:031,drop,"already quoted, one level shallower than the BSB's nesting reads right (2026-10-28)",,,2
+MRK,012.036:015,012.036:027,drop,David's citation stays unquoted inside Jesus' words; the Lord's words are the one inner quote (2026-10-28),,,3
+LUK,023.030:010,023.030:012,drop,"already quoted, one level shallower than the BSB's nesting reads right (2026-10-28)",,,3
+JER,034.005:034,034.005:035,drop,would be a third level of marks (a lament inside the Lord's word inside Jeremiah's); left unquoted (2026-10-28),,,2
+JER,029.010:007,029.014:057,add,"the Lord's word through the letter, ""saith the Lord"" inside as in 29:8–9; opens after the lowered ""that"" (NIV; 2026-10-28)",,,
