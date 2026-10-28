@@ -2,6 +2,21 @@
 
 ## Unreleased
 
+- **Quote edges checked against the BSB.** A new check, `tools/check_quote_edges.py`, finds quotes whose
+  first or last words the BSB leaves outside its quotes. Fixed: "“I am of Apollos;” are ye not carnal?"
+  (1 Corinthians 3:4), Jesus's words in Matthew 26:50 no longer run into "Then came they", Mark 4:35
+  opens at "Let us pass over", "“Rabbi, which is to say, being interpreted, Master,) where dwellest thou?”"
+  (John 1:38) is one quote, ""For," said Hushai, "thou knowest…"" (2 Samuel 17:8). The writer's own "For",
+  "And therefore", "Even as" now stay outside the Scripture he quotes ("For “the earth is the Lord's…”",
+  1 Corinthians 10:26). News the KJV reports with "that" loses its marks (1 Samuel 13:4, 1 Kings 2:29,
+  Jude 1:18).
+- **Sayings after "that".** Where the KJV writes "said, That…", the "that" is lowercase and the quote
+  opens after it, wherever that still reads as what was said: "Others said, that “it is Elijah.”" (Mark
+  6:15), Luke 7:16, 2 Samuel 1:4, Daniel 6:13, Galatians 1:23, Psalm 118:2–4. Where the KJV has shifted
+  the words into reported speech ("that he was worthy for whom he should do this", Luke 7:4), they stay
+  unmarked.
+- **Deuteronomy 1 and Isaiah 14 follow the NIV.** No quote opens over Moses's whole speech or the whole
+  taunt song; only the sayings inside them are marked ("Dread not" now opens at 1:29).
 - **Quotes checked against modern Bibles.** Every place the KJV says "saying," with no quote after it,
   and every quote that opens with no speech verb near it, was read beside the NIV, ESV, NASB and CSB.
   60 places gain or change quotes: "it was told the Gazites, saying, “Samson is come hither.”" (Judges
@@ -9,7 +24,7 @@
   the Lord…" now inside the quote where the word came "saying," (Jeremiah 26:2), and four parties with
   four sayings in 1 Corinthians 1:12 ("“I am of Paul;” and “I of Apollos;” and…"). Seven come out: the
   writer's own words (Romans 2:6, Hebrews 12:29, Revelation 13:10) and a psalm handed to Asaph (1
-  Chronicles 16:8–36, whose sayings keep their marks). See [LEFT-ALONE.md](LEFT-ALONE.md).
+  Chronicles 16:8–36, whose sayings keep their marks). See [unchanged.md](unchanged.md).
 - **Quotes in the Apocrypha, a first few.** 30 of the plainest: one speech tag, the speech filling the
   rest of its verse, the next verse narrative again ("But Tobias said, “No; but let me go to my
   father.”", Tobit 10:9).
@@ -34,7 +49,7 @@
   Timotheus → Timothy, Pharez → Perez, Maachah → Maacah. Where the KJV spells one name two ways and the
   BSB evens them out, so does the KJVm (Nebuchadrezzar → Nebuchadnezzar). Rebekah stays, and Beelzebub, for familiarity. The BSB's other
   names for the same place or person (Syria → Aram, Ahasuerus → Xerxes, Diana → Artemis) are
-  translating, and stay out: see [LEFT-ALONE.md](LEFT-ALONE.md). The survey that found them is
+  translating, and stay out: see [unchanged.md](unchanged.md). The survey that found them is
   [`names/spelling-survey.md`](names/spelling-survey.md).
 - **Red letters stop at reported speech.** Acts 1:4 was red from "wait for the promise of the Father";
   the KJV never colours reported speech red elsewhere (Mark 8:30, Luke 9:21), and the Greek turns

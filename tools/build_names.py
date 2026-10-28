@@ -99,7 +99,7 @@ for bk in NT_BOOKS:
 # the Hebrew or Greek word): Phebe → Phoebe, Maachah → Maacah, Nebuchadrezzar → Nebuchadnezzar. Where
 # the BSB has no word to pair, it changes only when the BSB spells that KJV name one way everywhere.
 # Not where the BSB uses another name (Syria → Aram, Ahasuerus → Xerxes: that is translating), nor where
-# only the word's form changes (Egypt → Egyptians, Ludim → Ludites). See LEFT-ALONE.md.
+# only the word's form changes (Egypt → Egyptians, Ludim → Ludites). See unchanged.md.
 RENAMES = {  # the BSB's other name for the place or person; similar enough to slip past the test below
     ('Shushan', 'Susa'), ('Chittim', 'Cyprus'), ('Noph', 'Memphis'), ('Idumea', 'Edom'), ('Jewry', 'Judea'),
     ('Mesopotamia', 'Aram-naharaim'), ('Palestina', 'Philistia'), ('Palestina', 'Philistines'),

@@ -21,7 +21,7 @@ spelling and punctuation. Each step changed how the text looks, not what it says
 | [Headings](headings/) | Section headings written for the KJV | Planned |
 | [Paragraphs and poetry](breaks/) | The Cambridge Paragraph Bible's paragraphs, poetry lines and stanzas | **In the Topaz KJV** |
 
-**[What we left alone](LEFT-ALONE.md)**: the changes we chose not to make, and why. *wist* isn't
+**[What we left unchanged](unchanged.md)**: the changes we chose not to make, and why. *wist* isn't
 *knew*, *every one* isn't always *everyone*, and Old Testament *yea* isn't *yes*.
 
 [`profile.json`](profile.json) lists the layers for software: each one's folder, data file and whether

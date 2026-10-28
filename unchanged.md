@@ -1,4 +1,4 @@
-# What we left alone
+# What we left unchanged
 
 **The choices not to modernize, and why.** Every rule here has a point past which it would stop being
 *form* and start being *translation*. This page lists where we stopped, with examples, so readers can
@@ -106,8 +106,11 @@ both as "he". See [`capitals/review.md`](capitals/review.md).
 
 ## Quotation marks
 
-- **A saying introduced by "that" gets no marks.** "And he said, that John the Baptist was risen from the
-  dead" (Mark 6:14) is reported speech in the KJV's grammar; `said, that “…”` would read wrong.
+- **A saying the KJV has turned into reported speech.** After "said, that…" the quote opens past the
+  "that", but only where the words still read as what was said. "They besought him instantly, saying,
+  that he was worthy for whom he should do this" (Luke 7:4) and "saying, that it was needful to
+  circumcise them" (Acts 15:5) have shifted tense and person, so they stay unmarked. So does Isaiah
+  14:32, where "nation? that…" would read wrong.
 - **The writer's own sayings.** "Rejoice in the Lord alway: and again I say, Rejoice" (Philippians 4:4),
   "For this we say unto you by the word of the Lord" (1 Thessalonians 4:15), "But I say, Have they not
   heard?" (Romans 10:18), "This is a true saying" (1 Timothy 3:1). The writer is teaching, not quoting
@@ -116,6 +119,9 @@ both as "he". See [`capitals/review.md`](capitals/review.md).
   *supposing*; "Aceldama, that is to say, The field of blood" (Acts 1:19) is a gloss. A psalm handed to
   Asaph (1 Chronicles 16:8–36) and the Scripture woven into a writer's sentence ("Who will render to every
   man according to his deeds", Romans 2:6) are text, not speech.
+- **Quotes around whole long speeches.** Moses's speech in Deuteronomy and the taunt song of Isaiah 14
+  get no quote around the whole; only the sayings inside are marked, as the NIV does. Fewer quotes
+  inside quotes.
 - **Psalm tune names.** The BSB quotes them ("To the tune of “Lilies”"); the KJV leaves them untranslated
   ("upon Shoshannim"), so there's nothing to quote.
 - **Speech the KJV reports.** "He asked him if he saw ought" (Mark 8:23), "told the disciples that she had

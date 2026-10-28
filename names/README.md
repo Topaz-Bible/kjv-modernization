@@ -14,7 +14,7 @@ Greek spelling. Beelzebub stays too (the BSB's Beelzebul): like "begat", it is t
 
 It's the same name in another form, not a different word, so it stays within "form, not translation".
 Where the BSB uses another name (Syria → Aram, Ahasuerus → Xerxes, Diana → Artemis), the KJV's stays;
-see [LEFT-ALONE.md](../LEFT-ALONE.md).
+see [unchanged.md](../unchanged.md).
 
 ## How the spellings are matched
 

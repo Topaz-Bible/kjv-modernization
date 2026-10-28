@@ -1,25 +1,25 @@
 book,start,end,decision,why,fix_start,fix_end,level
-JOS,004.007:006,004.007:034,drop,"saying-""that"": reported speech, no quotation marks",,,
-2SA,001.004:018,001.004:044,drop,"saying-""that"": reported speech, no quotation marks",,,
-2SA,002.004:023,002.004:032,drop,"saying-""that"": reported speech, no quotation marks",,,
-ISA,014.032:011,014.032:026,drop,"saying-""that"": reported speech, no quotation marks",,,
+JOS,004.007:006,004.007:034,ship,"saying after a lowercased ""that"": quoted from the word after it (EJ 2026-10-28)",,,
+2SA,001.004:018,001.004:044,ship,"saying after a lowercased ""that"": quoted from the word after it (EJ 2026-10-28)",,,
+2SA,002.004:023,002.004:032,fix,"saying after a lowercased ""that"": quoted from the word after it (EJ 2026-10-28)",002.004:024,002.004:032,
+ISA,014.032:011,014.032:026,drop,"saying-""that"" after a question mark: ""nation? that…"" would read wrong; left unquoted",,,
 JER,029.010:006,029.014:036,drop,"saying-""that"": reported speech, no quotation marks",,,
-DAN,006.013:009,006.013:040,drop,"saying-""that"": reported speech, no quotation marks",,,
-MRK,006.014:016,006.014:034,drop,"saying-""that"": reported speech, no quotation marks",,,
-MRK,006.015:003,006.015:006,drop,"saying-""that"": reported speech, no quotation marks",,,
-MRK,006.015:010,006.015:020,drop,"saying-""that"": reported speech, no quotation marks",,,
+DAN,006.013:009,006.013:040,fix,"saying after a lowercased ""that"": quoted from the word after it (EJ 2026-10-28)",006.013:010,006.013:040,
+MRK,006.014:016,006.014:034,ship,"saying after a lowercased ""that"": quoted from the word after it (EJ 2026-10-28)",,,
+MRK,006.015:003,006.015:006,ship,"saying after a lowercased ""that"": quoted from the word after it (EJ 2026-10-28)",,,
+MRK,006.015:010,006.015:020,ship,"saying after a lowercased ""that"": quoted from the word after it (EJ 2026-10-28)",,,
 MRK,007.020:004,007.023:011,ship,"""That"" = what: ""That thou doest, do quickly""",,,
 LUK,006.005:006,006.005:016,drop,"saying-""that"": reported speech, no quotation marks",,,
 LUK,007.004:012,007.005:012,drop,"saying-""that"": reported speech, no quotation marks",,,
-LUK,007.016:013,007.016:021,drop,"saying-""that"": reported speech, no quotation marks",,,
-LUK,007.016:023,007.016:028,drop,"saying-""that"": reported speech, no quotation marks",,,
-LUK,019.007:010,019.007:023,drop,"saying-""that"": reported speech, no quotation marks",,,
+LUK,007.016:013,007.016:021,ship,"saying after a lowercased ""that"": quoted from the word after it (EJ 2026-10-28)",,,
+LUK,007.016:023,007.016:028,ship,"saying after a lowercased ""that"": quoted from the word after it (EJ 2026-10-28)",,,
+LUK,019.007:010,019.007:023,ship,"saying after a lowercased ""that"": quoted from the word after it (EJ 2026-10-28)",,,
 JHN,013.027:014,013.027:018,ship,"""That"" = what: ""That thou doest, do quickly""",,,
 ACT,015.005:015,015.005:031,drop,"saying-""that"": reported speech, no quotation marks",,,
 ROM,003.004:017,003.004:031,drop,"saying-""that"": reported speech, no quotation marks",,,
-ROM,010.005:011,010.005:021,drop,"saying-""that"": reported speech, no quotation marks",,,
-GAL,001.023:006,001.023:021,drop,"saying-""that"": reported speech, no quotation marks",,,
-HEB,011.018:006,011.018:013,drop,"saying-""that"": reported speech, no quotation marks",,,
+ROM,010.005:011,010.005:021,ship,"saying after a lowercased ""that"": quoted from the word after it (EJ 2026-10-28)",,,
+GAL,001.023:006,001.023:021,ship,"saying after a lowercased ""that"": quoted from the word after it (EJ 2026-10-28)",,,
+HEB,011.018:006,011.018:013,ship,"saying after a lowercased ""that"": quoted from the word after it (EJ 2026-10-28)",,,
 1CH,016.036:017,016.036:017,ship,"""Amen"" said by the people",,,
 1CH,016.036:019,016.036:019,drop,"""praised"" is narration",,,
 EZK,010.013:014,010.013:014,fix,"quoted term, edges fixed by hand: “O wheel.”",010.013:013,010.013:014,
@@ -63,7 +63,7 @@ GEN,026.007:024,026.007:028,ship,"“She is my wife; lest,” said he, “the me
 MRK,012.032:007,012.032:010,fix,"one speech: “Well, Master, thou hast said the truth: for there is one God…”",012.032:007,012.033:039,
 MRK,012.032:014,012.033:039,drop,joined to the words before it,,,
 2KI,002.004:007,002.004:019,fix,"the speech opens on the name: “Elisha, tarry here…”",002.004:006,002.004:019,
-PSA,118.003:008,118.003:013,drop,"saying-""that"": ""Let the house of Aaron now say, that his mercy endureth for ever""",,,
+PSA,118.003:008,118.003:013,fix,"saying after a lowercase ""that"": quoted from the word after it, as vv. 2 and 4",118.003:009,118.003:013,
 JER,001.006:004,001.006:006,fix,"one cry: “Ah, Lord God! behold, I cannot speak: for I am a child.”",001.006:004,001.006:015,
 JER,001.006:008,001.006:015,drop,joined to the words before it,,,
 HOS,002.014:003,002.015:046,fix,"the saying opens on ""Therefore, behold,""",002.014:001,002.015:046,
@@ -886,7 +886,6 @@ ACT,022.028:017,022.028:021,add,speech tag with no quote; modern Bibles quote it
 ROM,003.004:017,003.004:031,add,Scripture cited,,,
 ROM,010.018:004,010.018:025,fix,Paul’s own question is not quoted; the Psalm is (NIV/ESV),010.018:010,010.018:025,1
 HEB,008.013:005,008.013:007,add,"term quoted, as NIV/NASB",,,
-HEB,011.018:006,011.018:013,add,Scripture cited,,,
 PSA,129.002:001,129.003:011,add,"refrain quoted, as NIV/ESV/NASB",,,
 2ES,005.034:004,005.034:038,add,"Apocrypha, safest set: one speech tag, the speech fills the rest of its verse, the next verse is narrative",,,
 2ES,005.041:004,005.041:040,add,"Apocrypha, safest set: one speech tag, the speech fills the rest of its verse, the next verse is narrative",,,
@@ -932,3 +931,30 @@ ROM,002.006:001,002.006:010,drop,no speech verb and modern Bibles (NIV/ESV/NASB/
 HEB,012.029:001,012.029:007,drop,no speech verb and modern Bibles (NIV/ESV/NASB/CSB) don’t quote it: the writer’s own words,,,1
 1PE,002.022:001,002.022:011,drop,no speech verb and modern Bibles (NIV/ESV/NASB/CSB) don’t quote it: the writer’s own words,,,1
 REV,013.010:001,013.010:021,drop,no speech verb and modern Bibles (NIV/ESV/NASB/CSB) don’t quote it: the writer’s own words,,,1
+1CO,003.004:011,003.004:018,fix,BSB boundary check: “are ye not carnal?” is Paul’s own question,003.004:011,003.004:014,1
+MAT,026.050:006,026.050:018,fix,BSB boundary check: the narrator takes over at “Then came they”,026.050:006,026.050:010,1
+MRK,004.035:001,004.035:021,fix,BSB boundary check: the narrator’s opening words stay outside,004.035:014,004.035:021,1
+1SA,013.004:001,013.004:025,drop,BSB boundary check: reported news in the KJV (“heard say that…”),,,1
+1KI,002.029:001,002.029:023,drop,BSB boundary check: reported news in the KJV (“told king Solomon that…”),,,1
+JUD,001.018:001,001.018:021,drop,BSB boundary check: reported speech in the KJV (“How that they told you…”),,,1
+JHN,001.038:026,001.038:029,drop,"BSB boundary check: one quote, the gloss inside its brackets",,,1
+JHN,001.038:019,001.038:019,drop,"BSB boundary check: one quote, the gloss inside its brackets",,,1
+JHN,001.038:019,001.038:029,add,"BSB boundary check: one quote, the gloss inside its brackets",,,
+2SA,017.008:001,017.013:034,fix,"BSB boundary check: “For,” said Hushai, “thou knowest…”",017.008:004,017.013:034,1
+2SA,017.008:001,017.008:001,add,"BSB boundary check: “For,” said Hushai, “thou knowest…”",,,
+2CO,010.010:001,010.010:019,fix,BSB boundary check: Paul’s “For” stays outside; “say they” splits it,010.010:002,010.010:003,1
+2CO,010.010:006,010.010:019,add,BSB boundary check: Paul’s “For” stays outside; “say they” splits it,,,
+ROM,004.022:001,004.022:009,fix,BSB boundary check: Paul’s “And therefore” stays outside,004.022:003,004.022:009,1
+PSA,096.010:001,096.010:008,fix,BSB boundary check: quote after the lowered “that”,096.010:006,096.010:008,1
+1CO,010.026:001,010.026:010,fix,BSB boundary check: the writer’s own connecting word stays outside the Scripture he quotes,010.026:002,010.026:010,1
+1CO,015.027:001,015.027:009,fix,BSB boundary check: the writer’s own connecting word stays outside the Scripture he quotes,015.027:002,015.027:009,1
+HEB,010.037:001,010.038:021,fix,BSB boundary check: the writer’s own connecting word stays outside the Scripture he quotes,010.037:002,010.038:021,1
+1PE,001.024:001,001.025:009,fix,BSB boundary check: the writer’s own connecting word stays outside the Scripture he quotes,001.024:002,001.025:009,1
+1PE,003.010:001,003.012:030,fix,BSB boundary check: the writer’s own connecting word stays outside the Scripture he quotes,003.010:002,003.012:030,1
+ROM,010.013:001,010.013:013,fix,BSB boundary check: the writer’s own connecting word stays outside the Scripture he quotes,010.013:002,010.013:013,1
+2CO,010.017:001,010.017:010,fix,BSB boundary check: the writer’s own connecting word stays outside the Scripture he quotes,010.017:002,010.017:010,1
+GAL,003.006:001,003.006:013,fix,BSB boundary check: Paul’s “Even as” stays outside,003.006:003,003.006:013,1
+PSA,118.002:006,118.002:010,add,"saying after a lowercase ""that"": quoted from the word after it (EJ 2026-10-28)",,,
+PSA,118.004:010,118.004:014,add,"saying after a lowercase ""that"": quoted from the word after it (EJ 2026-10-28)",,,
+DEU,001.030:001,001.031:036,fix,"Moses’ answer starts at “Dread not”, as the NIV",001.029:006,001.031:036,1
+DEU,001.042:010,001.042:027,add,"the words to pass on, as the NIV",,,2

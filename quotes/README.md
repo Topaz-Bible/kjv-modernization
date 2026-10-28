@@ -68,6 +68,11 @@ speaker swallowed into the first. Each region has `status: draft` until it is re
 
 To rebuild (it only reads the app's package files; ~25 s), run `python3 tools/build_quotes.py`.
 
+`python3 tools/check_quote_edges.py` checks the shipped quotes against the BSB's: it lists every quote
+whose first or last words are, in the Hebrew or Greek, words the BSB leaves outside its quotes ("I am
+of Apollos; are ye not carnal?"). Most of what it lists is only different wording; the rest is fixed
+in `reviewed.csv`. Hand edits were also read beside the NIV, ESV, NASB and CSB.
+
 ## Capital "That"
 
 In 67 places the KJV writes "That" with a capital after a comma: "But I say unto you, That Elias is come
