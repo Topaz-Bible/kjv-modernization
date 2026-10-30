@@ -83,7 +83,7 @@ was said". The 1611 translators kept ὅτι as the word "that", and set the nex
 they did for any speech. So the capital marks the start of the saying, not the subject. It does the
 job that quotation marks do now.
 
-How the KJVm handles it (`tools/compose_profile.py`, decisions in [`reviewed.csv`](reviewed.csv)):
+How the KJVo handles it (`tools/compose_profile.py`, decisions in [`reviewed.csv`](reviewed.csv)):
 
 - **Saying-"that"** (ὅτι, כִּי, אֲשֶׁר after a comma, colon or semicolon: 47 places): lowercase
   "that", and **no quotation marks**, whether the words after it read as direct or indirect speech.
@@ -124,7 +124,7 @@ that draws the marks. The regions only say where each quote starts and stops, an
 ## Reviewed regions
 
 [`reviewed.csv`](reviewed.csv) records a decision per region (`book`, `start`, `end`): `ship` puts a
-region in the KJVm whatever its tier; `drop` keeps it out; `fix` moves its edges to `fix_start`/`fix_end`
+region in the KJVo whatever its tier; `drop` keeps it out; `fix` moves its edges to `fix_start`/`fix_end`
 and ships it (a quote within a quote waits for the nested review); `add` puts in a quote the matching
 never found (at `level` 2 or 3 when it sits inside another quote). On the other
 decisions, a `level` limits the row to the quote at that level, where an outer and inner quote share edges (the BSB's words too far from the KJV's: "Why are you staring at one another?" for "Why

@@ -4,7 +4,7 @@
 (NIV, ESV, NRSV, NLT, NET, CSB). The practice came back in the 1960s with the NASB and the NKJV; the
 CSB, revising the HCSB, dropped it in 2017 because the Hebrew and Greek don't mark it and deciding who
 "he" is would be interpretation. Here it rested almost wholly on the BSB, one of the few that still do
-it. The KJVm keeps "he", "his" and "thee" (→ "you") lowercase. This folder and its tool stay as they
+it. The KJVo keeps "he", "his" and "thee" (→ "you") lowercase. This folder and its tool stay as they
 were, unused, in case that ever changes.
 
 The KJV never capitalized pronouns for God; that convention came later and is now what most readers

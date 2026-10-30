@@ -224,7 +224,7 @@ lines = [f'# Names\n',
 lines += [f'| {nt} | {ot} | {counts[nt]} |' for nt, ot, _ in NAMES if counts[nt]]
 lines += ['\n## Modern spellings (from the BSB)\n', f'{sum(spell_counts.values())} words, {len(spell_counts)} spellings. '
           'A name the first table changes may change again here (Phares → Pharez → Perez).\n',
-          '| KJV | KJVm | Changed |', '|---|---|---:|']
+          '| KJV | KJVo | Changed |', '|---|---|---:|']
 lines += [f'| {k} | {b} | {n} |' for (k, b), n in sorted(spell_counts.items(), key=lambda x: (-x[1], x[0]))]
 lines += ['\n## Every change\n'] + [f"- {r['book']} {r['chapter']}:{r['verse']} {r['kjv']} → {r['modernized']}" for r in changes]
 lines += ['\n## Left alone\n'] + [f"- {r['book']} {r['chapter']}:{r['verse']} {r['kjv']}" for r in skipped

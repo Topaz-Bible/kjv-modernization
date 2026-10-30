@@ -2,7 +2,7 @@
 
 Every KJV name was paired with the BSB name tied to the same Hebrew or Greek word in the same verse.
 Listed: the names the BSB spells differently in most places where both have them. "Places" counts
-those paired places, not every place the KJV uses the name. Nothing here changes the KJVm yet.
+those paired places, not every place the KJV uses the name. Nothing here changes the KJVo yet.
 
 Already done: Old Testament people in the New Testament take the KJV's own Old Testament spelling
 (Elias → Elijah, Rebecca → Rebekah); see [changes.md](changes.md).

@@ -168,7 +168,7 @@ BN = dict(GEN='Genesis', EXO='Exodus', LEV='Leviticus', NUM='Numbers', DEU='Deut
 ORDER = list(BN)
 
 out = ['# Every word the modernized KJV changes\n',
-       f"The Topaz Bible's “Modernize spelling” option changes **{changed:,}** of the KJV's **{tokens:,}** words "
+       f"The Topaz Bible's “Modern overlay” option changes **{changed:,}** of the KJV's **{tokens:,}** words "
        f"(about {changed * 100 / tokens:.1f}%). It uses {len(m['rules']):,} word rules and {len(m['location_overrides'])} "
        "single-verse exceptions. The underlying text never changes: switch the option off and every word is back to the "
        "King James text.\n",

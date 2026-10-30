@@ -34,6 +34,6 @@ The Additions to Esther are placed by the chapter and verse numbers the KJV prin
 `tools/build_cambridge_breaks.py --apply` writes these breaks into the KJV package, in place of its
 1611 ¶ paragraphs. Headings are untouched.
 
-## The KJVm (planned)
+## The KJVo (planned)
 
-The KJVm will take its paragraphs, poetry lines and lists from the BSB, as it does its quotation marks.
+The KJVo will take its paragraphs, poetry lines and lists from the BSB, as it does its quotation marks.

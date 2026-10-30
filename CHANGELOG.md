@@ -2,6 +2,9 @@
 
 ## Unreleased
 
+- **The KJVm is now the KJVo, a modern overlay.** Same layers, new name: nothing is translated anew,
+  the overlay only changes how the King James words are set on the page. `unchanged.md` now lists the
+  compounds left as one word (*straightway*, *lovingkindness*, *longsuffering*, *goodman*, …).
 - **Words now written as two.** 60 words the KJV prints as one are split the way they're written
   today, in 166 places: *stumblingblock* → *stumbling block*, *dwellingplace* → *dwelling place*,
   *threshingfloor* → *threshing floor*, the *fellow-* words (*fellowservant* → *fellow servant*), and

@@ -1,7 +1,7 @@
-"""Flag KJVm quote edges that hold words the BSB leaves outside its quotes.
+"""Flag KJVo quote edges that hold words the BSB leaves outside its quotes.
 
 A KJV word and a BSB word in the same verse with the same Strong's number are the same Hebrew or
-Greek word. If the words at the very start or end of a KJVm quote match only BSB words outside every
+Greek word. If the words at the very start or end of a KJVo quote match only BSB words outside every
 BSB quote, the edge may have taken in the narrator ("I am of Apollos; are ye not carnal?").
 Quotes the BSB words wholly as reported speech are skipped. Many flags are only wording differences;
 each is read by hand, and fixes go in quotes/reviewed.csv.

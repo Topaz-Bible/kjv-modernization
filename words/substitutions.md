@@ -1,6 +1,6 @@
 # Every word the modernized KJV changes
 
-The Topaz Bible's “Modernize spelling” option changes **41,312** of the KJV's **931,532** words (about 4.4%). It uses 1,228 word rules and 107 single-verse exceptions. The underlying text never changes: switch the option off and every word is back to the King James text.
+The Topaz Bible's “Modern overlay” option changes **41,312** of the KJV's **931,532** words (about 4.4%). It uses 1,228 word rules and 107 single-verse exceptions. The underlying text never changes: switch the option off and every word is back to the King James text.
 
 Counts are how many times each change happens in the KJV, Apocrypha included. Generated from KJV package 1.4-primary.20261025.139.40.
 

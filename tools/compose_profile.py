@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fold the KJVm layers into the KJV modernization profile (mod.json) that the Topaz app reads.
+"""Fold the KJVo layers into the KJV modernization profile (mod.json) that the Topaz app reads.
 
 The word rules already live in mod.json. This adds, from this repository's layer files:
   token_edits    single-word changes made before the word rules run:
@@ -68,7 +68,7 @@ def that_edits():
 
 
 def term_edits(regions):
-    """Lowercase a capitalized term that the KJVm sets in quotation marks."""
+    """Lowercase a capitalized term that the KJVo sets in quotation marks."""
     kjv = zipfile.ZipFile(PKG / 'eng.bible.kjv.zip')
     bsb = zipfile.ZipFile(PKG / 'eng.bible.bsb.zip')
     books, lower = {}, set()
@@ -102,7 +102,7 @@ def split_rules():
 
 
 def join_edits(quotes):
-    """Word pairs written as one word today ("to day" → "today"), set close up in the KJVm.
+    """Word pairs written as one word today ("to day" → "today"), set close up in the KJVo.
 
     Not where punctuation, a line break or a quotation mark falls between the two words.
     """

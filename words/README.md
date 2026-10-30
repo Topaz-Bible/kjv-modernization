@@ -1,6 +1,6 @@
 # Word forms
 
-**Every word the [Topaz Bible](https://topaz.bible) changes when you turn on "Modernize spelling" for the King James Version, as open, reusable data.**
+**Every word the [Topaz Bible](https://topaz.bible) changes when you turn on its "Modern overlay" (the KJVo) for the King James Version, as open, reusable data.**
 
 *thou → you · hath → has · believeth → believes · thou knowest → you know · spake → spoke · shew → show · whither → where*
 
@@ -27,7 +27,7 @@ The King James text itself is never edited. These rules are a display layer: the
 
 [`joins.csv`](joins.csv) lists word pairs the KJV prints as two words that are one word today: *to day*
 → *today*, *for ever* → *forever*, *any thing* → *anything*, *strong hold* → *stronghold* (17 pairs,
-912 places). The KJVm closes up the space between them; the two words stay two words in the data, each
+912 places). The KJVo closes up the space between them; the two words stay two words in the data, each
 with its own Strong's number. Left out on purpose: *every one* and *any more* (often still "each one",
 "any longer"), *in ward* ("in custody"), *head stone* (now a grave marker), *high way*, *up on*. Not
 where punctuation, a line break or a quotation mark falls between the two.

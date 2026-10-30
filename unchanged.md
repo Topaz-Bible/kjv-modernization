@@ -2,7 +2,7 @@
 
 **The choices not to modernize, and why.** Every rule here has a point past which it would stop being
 *form* and start being *translation*. This page lists where we stopped, with examples, so readers can
-see what the KJVm keeps on purpose, and developers reusing these lists can see where the traps lie.
+see what the KJVo keeps on purpose, and developers reusing these lists can see where the traps lie.
 
 The test throughout: a change may alter how a word is spelled or set, never which word it is or what
 it means. When a change would need us to choose a meaning, the KJV's word stays.
@@ -53,7 +53,7 @@ it means "indeed", "even" or "rather", and stays:
 
 ## Two words that are one today
 
-The KJVm writes *to day* → *today*, *for ever* → *forever* and 15 more ([`words/joins.csv`](words/joins.csv)).
+The KJVo writes *to day* → *today*, *for ever* → *forever* and 15 more ([`words/joins.csv`](words/joins.csv)).
 These pairs stay two words, because often they aren't the compound:
 
 | KJV | Why not join it | Example |
@@ -65,6 +65,20 @@ These pairs stay two words, because often they aren't the compound:
 | high way, up on, near by | don't consistently mean the one-word form | |
 
 None is joined where punctuation, a line break or a quotation mark falls between the two words.
+
+## One word that is two today
+
+The KJVo also goes the other way: *stumblingblock* → *stumbling block*, *dwellingplace* → *dwelling
+place*, *twoedged* → *two-edged*, 60 words in all ([`words/splits.csv`](words/splits.csv)). These stay
+one word:
+
+| KJV | Why not split it | Example |
+|---|---|---|
+| straightway, firstborn, winepress, marketplace, castaway, therein, wherein, forthwith | still written as one word today | "And they straightway left their nets" (Matthew 4:20) |
+| lovingkindness | a set term for God's covenant love, not a loose pair of words | "Because thy lovingkindness is better than life" (Psalm 63:3) |
+| longsuffering | a set term, one of the fruit of the Spirit | "love, joy, peace, longsuffering" (Galatians 5:22) |
+| goodman | "master of the house"; *good man* would say something else | "the goodman of the house" (Matthew 24:43) |
+| eveningtide | today's word is just *evening*: a different word, not a spacing | "at eveningtide trouble" (Isaiah 17:14) |
 
 ## Names
 
