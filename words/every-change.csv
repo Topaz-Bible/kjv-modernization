@@ -550,6 +550,7 @@ GEN,22,20,18,hath,has,verb-hath-to-has
 GEN,22,20,23,thy,your,possessive-thy-to-your
 GEN,22,24,9,bare,bore,verb-bare-to-bore
 GEN,23,3,10,spake,spoke,verb-spake-to-spoke
+GEN,23,4,16,buryingplace,burying place,split-buryingplace
 GEN,23,6,5,thou,you,pronoun-thou-to-you
 GEN,23,6,6,art,are,verb-art-to-are
 GEN,23,6,19,thy,your,possessive-thy-to-your
@@ -559,6 +560,7 @@ GEN,23,6,33,mayest,may,verb-mayest-to-may
 GEN,23,6,35,thy,your,possessive-thy-to-your
 GEN,23,8,25,intreat,entreat,spelling-intreat-to-entreat
 GEN,23,9,12,hath,has,verb-hath-to-has
+GEN,23,9,39,buryingplace,burying place,split-buryingplace
 GEN,23,11,10,thee,you,pronoun-thee-to-you
 GEN,23,11,20,thee,you,pronoun-thee-to-you
 GEN,23,11,33,thee,you,pronoun-thee-to-you
@@ -570,6 +572,7 @@ GEN,23,13,24,thee,you,pronoun-thee-to-you
 GEN,23,13,30,thee,you,pronoun-thee-to-you
 GEN,23,15,21,thee,you,pronoun-thee-to-you
 GEN,23,15,24,thy,your,possessive-thy-to-your
+GEN,23,20,20,buryingplace,burying place,split-buryingplace
 GEN,24,2,21,thee,you,pronoun-thee-to-you
 GEN,24,2,22,thy,your,possessive-thy-to-your
 GEN,24,3,5,thee,you,pronoun-thee-to-you
@@ -1256,11 +1259,16 @@ GEN,40,19,17,thee,you,pronoun-thee-to-you
 GEN,40,19,26,thy,your,possessive-thy-to-your
 GEN,40,19,30,thee,you,pronoun-thee-to-you
 GEN,40,23,10,forgat,forgot,verb-forgat-to-forgot
+GEN,41,2,15,fatfleshed,fat-fleshed,split-fatfleshed
+GEN,41,3,17,leanfleshed,lean-fleshed,split-leanfleshed
+GEN,41,4,6,leanfleshed,lean-fleshed,split-leanfleshed
 GEN,41,9,2,spake,spoke,verb-spake-to-spoke
 GEN,41,13,18,mine,my,possessive-mine-before-listed-word-to-my
 GEN,41,15,25,thee,you,pronoun-thee-to-you
 GEN,41,15,27,thou,you,pronoun-thou-to-you
 GEN,41,15,28,canst,can,verb-canst-to-can
+GEN,41,18,12,fatfleshed,fat-fleshed,split-fatfleshed
+GEN,41,19,16,leanfleshed,lean-fleshed,split-leanfleshed
 GEN,41,25,13,hath,has,verb-hath-to-has
 GEN,41,25,14,shewed,showed,spelling-shewed-to-showed
 GEN,41,28,18,sheweth,shows,spelling-sheweth-to-shows
@@ -1472,6 +1480,7 @@ GEN,47,29,33,thy,your,possessive-thy-to-your
 GEN,47,29,50,thee,you,pronoun-thee-to-you
 GEN,47,30,9,thou,you,pronoun-thou-to-you
 GEN,47,30,10,shalt,shall,verb-shalt-to-shall
+GEN,47,30,21,buryingplace,burying place,split-buryingplace
 GEN,47,30,29,thou,you,pronoun-thou-to-you
 GEN,47,30,30,hast,have,verb-hast-to-have
 GEN,47,31,9,sware,swore,verb-sware-to-swore
@@ -1535,6 +1544,7 @@ GEN,49,25,19,thee,you,pronoun-thee-to-you
 GEN,49,25,30,lieth,lies,verb-lieth-to-lies
 GEN,49,26,4,thy,your,possessive-thy-to-your
 GEN,49,28,16,spake,spoke,verb-spake-to-spoke
+GEN,49,30,35,buryingplace,burying place,split-buryingplace
 GEN,50,4,11,spake,spoke,verb-spake-to-spoke
 GEN,50,5,16,digged,dug,verb-digged-to-dug
 GEN,50,5,25,shalt,shall,verb-shalt-to-shall
@@ -1542,6 +1552,8 @@ GEN,50,5,26,thou,you,pronoun-thou-to-you
 GEN,50,5,37,thee,you,pronoun-thee-to-you
 GEN,50,6,8,thy,your,possessive-thy-to-your
 GEN,50,6,14,thee,you,pronoun-thee-to-you
+GEN,50,10,6,threshingfloor,threshing floor,split-threshingfloor
+GEN,50,13,33,buryingplace,burying place,split-buryingplace
 GEN,50,16,9,Thy,Your,possessive-thy-to-your
 GEN,50,17,3,ye,you,pronoun-ye-to-you
 GEN,50,17,10,thee,you,pronoun-thee-to-you
@@ -2636,6 +2648,7 @@ EXO,28,2,9,thy,your,possessive-thy-to-your
 EXO,28,3,2,thou,you,pronoun-thou-to-you
 EXO,28,3,3,shalt,shall,verb-shalt-to-shall
 EXO,28,4,35,thy,your,possessive-thy-to-your
+EXO,28,7,6,shoulderpieces,shoulder pieces,split-shoulderpieces
 EXO,28,9,2,thou,you,pronoun-thou-to-you
 EXO,28,9,3,shalt,shall,verb-shalt-to-shall
 EXO,28,11,15,shalt,shall,verb-shalt-to-shall
@@ -2665,6 +2678,7 @@ EXO,28,24,2,thou,you,pronoun-thou-to-you
 EXO,28,24,3,shalt,shall,verb-shalt-to-shall
 EXO,28,25,11,thou,you,pronoun-thou-to-you
 EXO,28,25,12,shalt,shall,verb-shalt-to-shall
+EXO,28,25,23,shoulderpieces,shoulder pieces,split-shoulderpieces
 EXO,28,26,2,thou,you,pronoun-thou-to-you
 EXO,28,26,3,shalt,shall,verb-shalt-to-shall
 EXO,28,26,10,thou,you,pronoun-thou-to-you
@@ -3096,8 +3110,10 @@ EXO,38,4,8,brasen,brazen,spelling-brasen-to-brazen
 EXO,38,10,7,brasen,brazen,spelling-brasen-to-brazen
 EXO,38,30,18,brasen,brazen,spelling-brasen-to-brazen
 EXO,38,30,22,brasen,brazen,spelling-brasen-to-brazen
+EXO,39,4,3,shoulderpieces,shoulder pieces,split-shoulderpieces
 EXO,39,6,6,inclosed,enclosed,spelling-inclosed-to-enclosed
 EXO,39,13,14,inclosed,enclosed,spelling-inclosed-to-enclosed
+EXO,39,18,21,shoulderpieces,shoulder pieces,split-shoulderpieces
 EXO,39,36,10,shewbread,showbread,spelling-shewbread-to-showbread
 EXO,39,39,2,brasen,brazen,spelling-brasen-to-brazen
 EXO,40,1,4,spake,spoke,verb-spake-to-spoke
@@ -3294,6 +3310,7 @@ LEV,10,18,14,ye,you,pronoun-ye-to-you
 LEV,11,1,4,spake,spoke,verb-spake-to-spoke
 LEV,11,2,13,ye,you,pronoun-ye-to-you
 LEV,11,3,2,parteth,parts,verb-parteth-to-parts
+LEV,11,3,7,clovenfooted,cloven-footed,split-clovenfooted
 LEV,11,3,9,cheweth,chews,verb-cheweth-to-chews
 LEV,11,3,17,ye,you,pronoun-ye-to-you
 LEV,11,4,4,ye,you,pronoun-ye-to-you
@@ -3303,6 +3320,7 @@ LEV,11,5,6,cheweth,chews,verb-cheweth-to-chews
 LEV,11,5,10,divideth,divides,verb-divideth-to-divides
 LEV,11,6,6,cheweth,chews,verb-cheweth-to-chews
 LEV,11,6,10,divideth,divides,verb-divideth-to-divides
+LEV,11,7,11,clovenfooted,cloven-footed,split-clovenfooted
 LEV,11,7,14,cheweth,chews,verb-cheweth-to-chews
 LEV,11,8,5,ye,you,pronoun-ye-to-you
 LEV,11,8,10,carcase,carcass,spelling-carcase-to-carcass
@@ -3327,6 +3345,7 @@ LEV,11,25,3,beareth,bears,verb-beareth-to-bears
 LEV,11,25,7,carcase,carcass,spelling-carcase-to-carcass
 LEV,11,26,2,carcases,carcasses,spelling-carcases-to-carcasses
 LEV,11,26,7,divideth,divides,verb-divideth-to-divides
+LEV,11,26,13,clovenfooted,cloven-footed,split-clovenfooted
 LEV,11,26,15,cheweth,chews,verb-cheweth-to-chews
 LEV,11,26,25,toucheth,touches,verb-toucheth-to-touches
 LEV,11,27,3,goeth,goes,verb-goeth-to-goes
@@ -3606,6 +3625,7 @@ LEV,19,13,5,thy,your,possessive-thy-to-your
 LEV,19,13,21,thee,you,pronoun-thee-to-you
 LEV,19,14,1,Thou,You,pronoun-thou-to-you
 LEV,19,14,2,shalt,shall,verb-shalt-to-shall
+LEV,19,14,10,stumblingblock,stumbling block,split-stumblingblock
 LEV,19,14,15,shalt,shall,verb-shalt-to-shall
 LEV,19,14,17,thy,your,possessive-thy-to-your
 LEV,19,15,1,Ye,You,pronoun-ye-to-you
@@ -3723,6 +3743,8 @@ LEV,21,17,9,thy,your,possessive-thy-to-your
 LEV,21,17,15,hath,has,verb-hath-to-has
 LEV,21,18,7,hath,has,verb-hath-to-has
 LEV,21,18,23,hath,has,verb-hath-to-has
+LEV,21,19,6,brokenfooted,broken-footed,split-brokenfooted
+LEV,21,19,8,brokenhanded,broken-handed,split-brokenhanded
 LEV,21,20,8,hath,has,verb-hath-to-has
 LEV,21,20,20,hath,has,verb-hath-to-has
 LEV,21,21,4,hath,has,verb-hath-to-has
@@ -4268,6 +4290,7 @@ NUM,13,2,2,thou,you,pronoun-thou-to-you
 NUM,13,2,27,ye,you,pronoun-ye-to-you
 NUM,13,18,12,dwelleth,dwells,verb-dwelleth-to-dwells
 NUM,13,20,21,ye,you,pronoun-ye-to-you
+NUM,13,20,41,firstripe,first ripe,split-firstripe
 NUM,13,23,13,thence,there,direction-thence-after-from-to-there
 NUM,13,23,23,bare,bore,verb-bare-to-bore
 NUM,13,24,22,thence,there,direction-thence-after-from-to-there
@@ -4356,6 +4379,7 @@ NUM,15,19,7,ye,you,pronoun-ye-to-you
 NUM,15,19,15,ye,you,pronoun-ye-to-you
 NUM,15,20,1,Ye,You,pronoun-ye-to-you
 NUM,15,20,18,ye,you,pronoun-ye-to-you
+NUM,15,20,25,threshingfloor,threshing floor,split-threshingfloor
 NUM,15,20,28,ye,you,pronoun-ye-to-you
 NUM,15,21,7,ye,you,pronoun-ye-to-you
 NUM,15,22,3,ye,you,pronoun-ye-to-you
@@ -4520,6 +4544,7 @@ NUM,18,20,28,thine,your,possessive-thine-default-to-your
 NUM,18,25,4,spake,spoke,verb-spake-to-spoke
 NUM,18,26,11,ye,you,pronoun-ye-to-you
 NUM,18,26,31,ye,you,pronoun-ye-to-you
+NUM,18,27,19,threshingfloor,threshing floor,split-threshingfloor
 NUM,18,28,2,ye,you,pronoun-ye-to-you
 NUM,18,28,17,ye,you,pronoun-ye-to-you
 NUM,18,28,25,ye,you,pronoun-ye-to-you
@@ -4527,6 +4552,7 @@ NUM,18,29,6,ye,you,pronoun-ye-to-you
 NUM,18,30,2,thou,you,pronoun-thou-to-you
 NUM,18,30,3,shalt,shall,verb-shalt-to-shall
 NUM,18,30,8,ye,you,pronoun-ye-to-you
+NUM,18,30,29,threshingfloor,threshing floor,split-threshingfloor
 NUM,18,31,2,ye,you,pronoun-ye-to-you
 NUM,18,31,9,ye,you,pronoun-ye-to-you
 NUM,18,32,2,ye,you,pronoun-ye-to-you
@@ -4753,6 +4779,7 @@ NUM,24,15,23,hath,has,verb-hath-to-has
 NUM,24,16,2,hath,has,verb-hath-to-has
 NUM,24,19,16,remaineth,remains,verb-remaineth-to-remains
 NUM,24,21,16,thy,your,possessive-thy-to-your
+NUM,24,21,17,dwellingplace,dwelling place,split-dwellingplace
 NUM,24,21,19,thou,you,pronoun-thou-to-you
 NUM,24,21,20,puttest,put,verb-puttest-to-put
 NUM,24,21,21,thy,your,possessive-thy-to-your
@@ -8435,6 +8462,7 @@ JDG,2,4,12,spake,spoke,verb-spake-to-spoke
 JDG,2,15,1,Whithersoever,Wherever,direction-whithersoever-to-wherever
 JDG,2,20,18,hath,has,verb-hath-to-has
 JDG,3,7,15,forgat,forgot,verb-forgat-to-forgot
+JDG,3,15,27,lefthanded,left-handed,split-lefthanded
 JDG,3,18,18,bare,bore,verb-bare-to-bore
 JDG,3,19,21,thee,you,pronoun-thee-to-you
 JDG,3,20,30,thee,you,pronoun-thee-to-you
@@ -8846,6 +8874,7 @@ JDG,16,24,16,hath,has,verb-hath-to-has
 JDG,16,26,24,standeth,stands,verb-standeth-to-stands
 JDG,16,28,16,thee,you,pronoun-thee-to-you
 JDG,16,28,22,thee,you,pronoun-thee-to-you
+JDG,16,31,29,buryingplace,burying place,split-buryingplace
 JDG,17,2,17,thee,you,pronoun-thee-to-you
 JDG,17,2,20,thou,you,pronoun-thou-to-you
 JDG,17,2,21,cursedst,cursed,verb-cursedst-to-cursed
@@ -8931,6 +8960,7 @@ JDG,19,24,26,seemeth,seems,verb-seemeth-to-seems
 JDG,19,28,30,gat,got,verb-gat-to-got
 JDG,20,4,20,belongeth,belongs,verb-belongeth-to-belongs
 JDG,20,7,2,ye,you,pronoun-ye-to-you
+JDG,20,16,11,lefthanded,left-handed,split-lefthanded
 JDG,20,28,51,thine,your,possessive-thine-default-to-your
 JDG,20,31,38,goeth,goes,verb-goeth-to-goes
 JDG,20,43,3,inclosed,enclosed,spelling-inclosed-to-enclosed
@@ -9033,6 +9063,7 @@ RUT,3,1,25,thee,you,pronoun-thee-to-you
 RUT,3,2,12,thou,you,pronoun-thou-to-you
 RUT,3,2,13,wast,were,verb-wast-to-were
 RUT,3,2,16,winnoweth,winnows,verb-winnoweth-to-winnows
+RUT,3,2,22,threshingfloor,threshing floor,split-threshingfloor
 RUT,3,3,2,thyself,yourself,pronoun-thyself-to-yourself
 RUT,3,3,6,thee,you,pronoun-thee-to-you
 RUT,3,3,9,thy,your,possessive-thy-to-your
@@ -9814,6 +9845,7 @@ RUT,4,15,35,hath,has,verb-hath-to-has
 1SA,22,23,14,thy,your,possessive-thy-to-your
 1SA,22,23,19,thou,you,pronoun-thou-to-you
 1SA,22,23,20,shalt,shall,verb-shalt-to-shall
+1SA,23,1,16,threshingfloors,threshing floors,split-threshingfloors
 1SA,23,4,28,thine,your,possessive-thine-default-to-your
 1SA,23,7,16,hath,has,verb-hath-to-has
 1SA,23,7,20,mine,my,possessive-mine-before-listed-word-to-my
@@ -10311,6 +10343,7 @@ RUT,4,15,35,hath,has,verb-hath-to-has
 2SA,6,2,22,thence,there,direction-thence-after-from-to-there
 2SA,6,2,40,dwelleth,dwells,verb-dwelleth-to-dwells
 2SA,6,3,33,drave,drove,verb-drave-to-drove
+2SA,6,6,7,threshingfloor,threshing floor,split-threshingfloor
 2SA,6,12,10,hath,has,verb-hath-to-has
 2SA,6,12,19,pertaineth,pertains,verb-pertaineth-to-pertains
 2SA,6,13,9,bare,bore,verb-bare-to-bore
@@ -10547,6 +10580,7 @@ RUT,4,15,35,hath,has,verb-hath-to-has
 2SA,12,21,33,thou,you,pronoun-thou-to-you
 2SA,12,21,34,didst,did,verb-didst-to-did
 2SA,12,24,18,bare,bore,verb-bare-to-bore
+2SA,12,31,31,brickkiln,brick kiln,split-brickkiln
 2SA,13,3,21,subtil,subtle,spelling-subtil-to-subtle
 2SA,13,4,7,art,are,verb-art-to-are
 2SA,13,4,8,thou,you,pronoun-thou-to-you
@@ -11008,15 +11042,19 @@ RUT,4,15,35,hath,has,verb-hath-to-has
 2SA,24,13,36,thee,you,pronoun-thee-to-you
 2SA,24,13,45,thy,your,possessive-thy-to-your
 2SA,24,16,35,thine,your,possessive-thine-default-to-your
+2SA,24,16,46,threshingplace,threshing place,split-threshingplace
 2SA,24,17,3,spake,spoke,verb-spake-to-spoke
 2SA,24,17,35,thine,your,possessive-thine-default-to-your
 2SA,24,17,39,thee,you,pronoun-thee-to-you
+2SA,24,18,22,threshingfloor,threshing floor,split-threshingfloor
+2SA,24,21,20,threshingfloor,threshing floor,split-threshingfloor
 2SA,24,21,22,thee,you,pronoun-thee-to-you
 2SA,24,22,16,seemeth,seems,verb-seemeth-to-seems
 2SA,24,23,21,thy,your,possessive-thy-to-your
 2SA,24,23,24,thee,you,pronoun-thee-to-you
 2SA,24,24,15,thee,you,pronoun-thee-to-you
 2SA,24,24,33,doth,does,verb-doth-to-does
+2SA,24,24,41,threshingfloor,threshing floor,split-threshingfloor
 2SA,24,25,21,intreated,entreated,spelling-intreated-to-entreated
 1KI,1,1,18,gat,got,verb-gat-to-got
 1KI,1,2,36,thy,your,possessive-thy-to-your
@@ -12699,6 +12737,7 @@ RUT,4,15,35,hath,has,verb-hath-to-has
 1CH,12,24,6,bare,bore,verb-bare-to-bore
 1CH,13,6,29,dwelleth,dwells,verb-dwelleth-to-dwells
 1CH,13,7,22,drave,drove,verb-drave-to-drove
+1CH,13,9,7,threshingfloor,threshing floor,split-threshingfloor
 1CH,14,10,15,wilt,will,verb-wilt-to-will
 1CH,14,10,16,thou,you,pronoun-thou-to-you
 1CH,14,10,20,mine,my,possessive-mine-before-listed-word-to-my
@@ -12861,15 +12900,20 @@ RUT,4,15,35,hath,has,verb-hath-to-has
 1CH,21,12,22,thee,you,pronoun-thee-to-you
 1CH,21,12,54,thyself,yourself,pronoun-thyself-to-yourself
 1CH,21,15,38,thine,your,possessive-thine-default-to-your
+1CH,21,15,49,threshingfloor,threshing floor,split-threshingfloor
 1CH,21,17,38,thine,your,possessive-thine-default-to-your
 1CH,21,17,42,thee,you,pronoun-thee-to-you
 1CH,21,17,58,thy,your,possessive-thy-to-your
+1CH,21,18,28,threshingfloor,threshing floor,split-threshingfloor
 1CH,21,19,12,spake,spoke,verb-spake-to-spoke
+1CH,21,21,17,threshingfloor,threshing floor,split-threshingfloor
+1CH,21,22,12,threshingfloor,threshing floor,split-threshingfloor
 1CH,21,22,23,thou,you,pronoun-thou-to-you
 1CH,21,22,24,shalt,shall,verb-shalt-to-shall
 1CH,21,23,9,thee,you,pronoun-thee-to-you
 1CH,21,23,27,thee,you,pronoun-thee-to-you
 1CH,21,24,26,thine,yours,override-thine-standalone-1ch-21-24-to-yours
+1CH,21,28,15,threshingfloor,threshing floor,split-threshingfloor
 1CH,22,8,11,Thou,You,pronoun-thou-to-you
 1CH,22,8,12,hast,have,verb-hast-to-have
 1CH,22,8,17,hast,have,verb-hast-to-have
@@ -13019,6 +13063,7 @@ RUT,4,15,35,hath,has,verb-hath-to-has
 2CH,2,16,21,thee,you,pronoun-thee-to-you
 2CH,2,16,29,thou,you,pronoun-thou-to-you
 2CH,2,16,30,shalt,shall,verb-shalt-to-shall
+2CH,3,1,33,threshingfloor,threshing floor,split-threshingfloor
 2CH,3,5,6,cieled,ceiled,spelling-cieled-to-ceiled
 2CH,4,8,27,basons,basins,spelling-basons-to-basins
 2CH,4,11,11,basons,basins,spelling-basons-to-basins
@@ -15276,6 +15321,7 @@ JOB,41,22,4,remaineth,remains,verb-remaineth-to-remains
 JOB,41,25,3,raiseth,raises,verb-raiseth-to-raises
 JOB,41,26,6,layeth,lays,verb-layeth-to-lays
 JOB,41,27,2,esteemeth,esteems,verb-esteemeth-to-esteems
+JOB,41,28,7,slingstones,sling stones,split-slingstones
 JOB,41,29,7,laugheth,laughs,verb-laugheth-to-laughs
 JOB,41,30,7,spreadeth,spreads,verb-spreadeth-to-spreads
 JOB,41,31,2,maketh,makes,verb-maketh-to-makes
@@ -16231,6 +16277,7 @@ PSA,42,1,20,panteth,pants,verb-panteth-to-pants
 PSA,42,1,24,thee,you,pronoun-thee-to-you
 PSA,42,2,3,thirsteth,thirsts,verb-thirsteth-to-thirsts
 PSA,42,3,18,thy,your,possessive-thy-to-your
+PSA,42,4,41,holyday,holy day,split-holyday
 PSA,42,5,2,art,are,verb-art-to-are
 PSA,42,5,3,thou,you,pronoun-thou-to-you
 PSA,42,5,11,art,are,verb-art-to-are
@@ -18650,6 +18697,7 @@ PSA,148,14,3,exalteth,exalts,verb-exalteth-to-exalts
 PSA,148,14,27,ye,you,pronoun-ye-to-you
 PSA,149,1,2,ye,you,pronoun-ye-to-you
 PSA,149,4,4,taketh,takes,verb-taketh-to-takes
+PSA,149,6,13,twoedged,two-edged,split-twoedged
 PSA,149,9,15,ye,you,pronoun-ye-to-you
 PSA,150,1,2,ye,you,pronoun-ye-to-you
 PSA,150,6,5,hath,has,verb-hath-to-has
@@ -18813,6 +18861,7 @@ PRO,5,1,9,thine,your,possessive-thine-default-to-your
 PRO,5,2,2,thou,you,pronoun-thou-to-you
 PRO,5,2,3,mayest,may,verb-mayest-to-may
 PRO,5,2,8,thy,your,possessive-thy-to-your
+PRO,5,4,11,twoedged,two-edged,split-twoedged
 PRO,5,6,2,thou,you,pronoun-thou-to-you
 PRO,5,6,3,shouldest,should,verb-shouldest-to-should
 PRO,5,6,14,thou,you,pronoun-thou-to-you
@@ -20098,6 +20147,7 @@ SNG,1,10,9,thy,your,possessive-thy-to-your
 SNG,1,11,4,thee,you,pronoun-thee-to-you
 SNG,1,12,4,sitteth,sits,verb-sitteth-to-sits
 SNG,1,12,10,sendeth,sends,verb-sendeth-to-sends
+SNG,1,13,7,wellbeloved,well-beloved,split-wellbeloved
 SNG,1,15,2,thou,you,pronoun-thou-to-you
 SNG,1,15,3,art,are,verb-art-to-are
 SNG,1,15,8,thou,you,pronoun-thou-to-you
@@ -20288,6 +20338,7 @@ ISA,1,30,2,ye,you,pronoun-ye-to-you
 ISA,1,30,10,fadeth,fades,verb-fadeth-to-fades
 ISA,1,30,16,hath,has,verb-hath-to-has
 ISA,2,3,9,ye,you,pronoun-ye-to-you
+ISA,2,4,25,pruninghooks,pruning hooks,split-pruninghooks
 ISA,2,5,6,ye,you,pronoun-ye-to-you
 ISA,2,6,2,thou,you,pronoun-thou-to-you
 ISA,2,6,3,hast,have,verb-hast-to-have
@@ -20320,6 +20371,8 @@ ISA,3,25,1,Thy,Your,possessive-thy-to-your
 ISA,3,25,9,thy,your,possessive-thy-to-your
 ISA,4,1,31,thy,your,possessive-thy-to-your
 ISA,4,3,17,remaineth,remains,verb-remaineth-to-remains
+ISA,5,1,7,wellbeloved,well-beloved,split-wellbeloved
+ISA,5,1,17,wellbeloved,well-beloved,split-wellbeloved
 ISA,5,1,18,hath,has,verb-hath-to-has
 ISA,5,6,13,digged,dug,verb-digged-to-dug
 ISA,5,9,2,mine,my,possessive-mine-before-listed-word-to-my
@@ -20656,6 +20709,7 @@ ISA,24,4,11,fadeth,fades,verb-fadeth-to-fades
 ISA,24,6,2,hath,has,verb-hath-to-has
 ISA,24,7,4,mourneth,mourns,verb-mourneth-to-mourns
 ISA,24,7,7,languisheth,languishes,verb-languisheth-to-languishes
+ISA,24,7,10,merryhearted,merry-hearted,split-merryhearted
 ISA,24,8,5,ceaseth,ceases,verb-ceaseth-to-ceases
 ISA,24,8,12,endeth,ends,verb-endeth-to-ends
 ISA,24,8,18,ceaseth,ceases,verb-ceaseth-to-ceases
@@ -21989,6 +22043,7 @@ ISA,57,13,8,thee,you,pronoun-thee-to-you
 ISA,57,13,24,putteth,puts,verb-putteth-to-puts
 ISA,57,14,5,ye,you,pronoun-ye-to-you
 ISA,57,14,8,ye,you,pronoun-ye-to-you
+ISA,57,14,16,stumblingblock,stumbling block,split-stumblingblock
 ISA,57,15,3,saith,says,verb-saith-to-says
 ISA,57,15,10,inhabiteth,inhabits,verb-inhabiteth-to-inhabits
 ISA,57,19,22,saith,says,verb-saith-to-says
@@ -22693,6 +22748,7 @@ JER,6,8,15,thee,you,pronoun-thee-to-you
 JER,6,9,2,saith,says,verb-saith-to-says
 JER,6,9,9,throughly,thoroughly,spelling-throughly-to-thoroughly
 JER,6,9,20,thine,your,possessive-thine-default-to-your
+JER,6,9,24,grapegatherer,grape gatherer,split-grapegatherer
 JER,6,12,28,saith,says,verb-saith-to-says
 JER,6,13,29,dealeth,deals,verb-dealeth-to-deals
 JER,6,15,40,saith,says,verb-saith-to-says
@@ -22702,6 +22758,7 @@ JER,6,16,27,ye,you,pronoun-ye-to-you
 JER,6,18,3,ye,you,pronoun-ye-to-you
 JER,6,20,4,cometh,comes,verb-cometh-to-comes
 JER,6,21,3,saith,says,verb-saith-to-says
+JER,6,21,10,stumblingblocks,stumbling blocks,split-stumblingblocks
 JER,6,22,2,saith,says,verb-saith-to-says
 JER,6,22,8,cometh,comes,verb-cometh-to-comes
 JER,6,23,18,roareth,roars,verb-roareth-to-roars
@@ -23621,6 +23678,7 @@ JER,30,17,16,saith,says,verb-saith-to-says
 JER,30,17,22,thee,you,pronoun-thee-to-you
 JER,30,17,32,seeketh,seeks,verb-seeketh-to-seeks
 JER,30,18,2,saith,says,verb-saith-to-says
+JER,30,18,20,dwellingplaces,dwelling places,split-dwellingplaces
 JER,30,21,44,saith,says,verb-saith-to-says
 JER,30,22,2,ye,you,pronoun-ye-to-you
 JER,30,23,7,goeth,goes,verb-goeth-to-goes
@@ -23852,6 +23910,7 @@ JER,36,17,11,thou,you,pronoun-thou-to-you
 JER,36,19,9,thee,you,pronoun-thee-to-you
 JER,36,19,10,thou,you,pronoun-thou-to-you
 JER,36,19,19,ye,you,pronoun-ye-to-you
+JER,36,22,7,winterhouse,winter house,split-winterhouse
 JER,36,28,2,thee,you,pronoun-thee-to-you
 JER,36,28,26,hath,has,verb-hath-to-has
 JER,36,29,2,thou,you,pronoun-thou-to-you
@@ -24044,6 +24103,7 @@ JER,43,3,7,setteth,sets,verb-setteth-to-sets
 JER,43,3,8,thee,you,pronoun-thee-to-you
 JER,43,5,26,whither,where,direction-whither-to-where
 JER,43,9,5,thine,your,possessive-thine-default-to-your
+JER,43,9,15,brickkiln,brick kiln,split-brickkiln
 JER,43,10,6,saith,says,verb-saith-to-says
 JER,43,11,4,cometh,comes,verb-cometh-to-comes
 JER,43,12,38,putteth,puts,verb-putteth-to-puts
@@ -24237,6 +24297,7 @@ JER,49,5,39,wandereth,wanders,verb-wandereth-to-wanders
 JER,49,6,14,saith,says,verb-saith-to-says
 JER,49,7,4,saith,says,verb-saith-to-says
 JER,49,8,2,ye,you,pronoun-ye-to-you
+JER,49,9,2,grapegatherers,grape gatherers,split-grapegatherers
 JER,49,9,5,thee,you,pronoun-thee-to-you
 JER,49,11,2,thy,your,possessive-thy-to-your
 JER,49,11,12,thy,your,possessive-thy-to-your
@@ -24290,6 +24351,7 @@ JER,50,2,2,ye,you,pronoun-ye-to-you
 JER,50,3,7,cometh,comes,verb-cometh-to-comes
 JER,50,4,8,saith,says,verb-saith-to-says
 JER,50,6,3,hath,has,verb-hath-to-has
+JER,50,6,34,restingplace,resting place,split-restingplace
 JER,50,9,32,thence,there,direction-thence-after-from-to-there
 JER,50,10,14,saith,says,verb-saith-to-says
 JER,50,11,2,ye,you,pronoun-ye-to-you
@@ -24393,8 +24455,10 @@ JER,51,26,20,shalt,shall,verb-shalt-to-shall
 JER,51,26,25,saith,says,verb-saith-to-says
 JER,51,27,2,ye,you,pronoun-ye-to-you
 JER,51,30,18,hath,has,verb-hath-to-has
+JER,51,30,28,dwellingplaces,dwelling places,split-dwellingplaces
 JER,51,31,15,shew,show,spelling-shew-to-show
 JER,51,33,3,saith,says,verb-saith-to-says
+JER,51,33,19,threshingfloor,threshing floor,split-threshingfloor
 JER,51,34,6,hath,has,verb-hath-to-has
 JER,51,34,10,hath,has,verb-hath-to-has
 JER,51,34,14,hath,has,verb-hath-to-has
@@ -24404,6 +24468,7 @@ JER,51,34,37,hath,has,verb-hath-to-has
 JER,51,36,3,saith,says,verb-saith-to-says
 JER,51,36,10,thy,your,possessive-thy-to-your
 JER,51,36,16,thee,you,pronoun-thee-to-you
+JER,51,37,7,dwellingplace,dwelling place,split-dwellingplace
 JER,51,39,27,saith,says,verb-saith-to-says
 JER,51,43,17,dwelleth,dwells,verb-dwelleth-to-dwells
 JER,51,43,19,doth,does,verb-doth-to-does
@@ -24684,6 +24749,7 @@ EZK,2,2,9,spake,spoke,verb-spake-to-spoke
 EZK,2,2,23,spake,spoke,verb-spake-to-spoke
 EZK,2,3,11,thee,you,pronoun-thee-to-you
 EZK,2,3,22,hath,has,verb-hath-to-has
+EZK,2,4,7,stiffhearted,stiff-hearted,split-stiffhearted
 EZK,2,4,11,thee,you,pronoun-thee-to-you
 EZK,2,4,15,thou,you,pronoun-thou-to-you
 EZK,2,4,16,shalt,shall,verb-shalt-to-shall
@@ -24734,6 +24800,7 @@ EZK,3,19,26,thou,you,pronoun-thou-to-you
 EZK,3,19,27,hast,have,verb-hast-to-have
 EZK,3,19,29,thy,your,possessive-thy-to-your
 EZK,3,20,6,doth,does,verb-doth-to-does
+EZK,3,20,18,stumblingblock,stumbling block,split-stumblingblock
 EZK,3,20,25,thou,you,pronoun-thou-to-you
 EZK,3,20,26,hast,have,verb-hast-to-have
 EZK,3,20,42,hath,has,verb-hath-to-has
@@ -24881,6 +24948,7 @@ EZK,6,2,5,thy,your,possessive-thy-to-your
 EZK,6,3,3,Ye,You,pronoun-ye-to-you
 EZK,6,3,15,saith,says,verb-saith-to-says
 EZK,6,5,7,carcases,carcasses,spelling-carcases-to-carcasses
+EZK,6,6,4,dwellingplaces,dwelling places,split-dwellingplaces
 EZK,6,7,12,ye,you,pronoun-ye-to-you
 EZK,6,8,8,ye,you,pronoun-ye-to-you
 EZK,6,8,21,ye,you,pronoun-ye-to-you
@@ -24932,6 +25000,7 @@ EZK,7,10,15,hath,has,verb-hath-to-has
 EZK,7,10,18,hath,has,verb-hath-to-has
 EZK,7,12,7,draweth,draws,verb-draweth-to-draws
 EZK,7,14,13,goeth,goes,verb-goeth-to-goes
+EZK,7,19,50,stumblingblock,stumbling block,split-stumblingblock
 EZK,7,25,2,cometh,comes,verb-cometh-to-comes
 EZK,8,1,25,mine,my,possessive-mine-before-listed-word-to-my
 EZK,8,3,17,mine,my,possessive-mine-before-listed-word-to-my
@@ -25099,9 +25168,11 @@ EZK,13,21,28,ye,you,pronoun-ye-to-you
 EZK,13,22,4,ye,you,pronoun-ye-to-you
 EZK,13,23,2,ye,you,pronoun-ye-to-you
 EZK,13,23,22,ye,you,pronoun-ye-to-you
+EZK,14,3,17,stumblingblock,stumbling block,split-stumblingblock
 EZK,14,4,10,saith,says,verb-saith-to-says
 EZK,14,4,22,setteth,sets,verb-setteth-to-sets
 EZK,14,4,30,putteth,puts,verb-putteth-to-puts
+EZK,14,4,32,stumblingblock,stumbling block,split-stumblingblock
 EZK,14,4,40,cometh,comes,verb-cometh-to-comes
 EZK,14,4,51,cometh,comes,verb-cometh-to-comes
 EZK,14,6,9,saith,says,verb-saith-to-says
@@ -25109,6 +25180,7 @@ EZK,14,7,14,sojourneth,sojourns,verb-sojourneth-to-sojourns
 EZK,14,7,18,separateth,separates,verb-separateth-to-separates
 EZK,14,7,23,setteth,sets,verb-setteth-to-sets
 EZK,14,7,31,putteth,puts,verb-putteth-to-puts
+EZK,14,7,33,stumblingblock,stumbling block,split-stumblingblock
 EZK,14,7,41,cometh,comes,verb-cometh-to-comes
 EZK,14,8,32,ye,you,pronoun-ye-to-you
 EZK,14,9,9,hath,has,verb-hath-to-has
@@ -25484,6 +25556,7 @@ EZK,16,63,28,thou,you,pronoun-thou-to-you
 EZK,16,63,29,hast,have,verb-hast-to-have
 EZK,16,63,31,saith,says,verb-saith-to-says
 EZK,17,3,4,saith,says,verb-saith-to-says
+EZK,17,3,14,longwinged,long-winged,split-longwinged
 EZK,17,9,2,thou,you,pronoun-thou-to-you
 EZK,17,9,4,saith,says,verb-saith-to-says
 EZK,17,10,17,toucheth,touches,verb-toucheth-to-touches
@@ -25959,6 +26032,7 @@ EZK,25,4,23,thee,you,pronoun-thee-to-you
 EZK,25,4,29,thee,you,pronoun-thee-to-you
 EZK,25,4,33,thy,your,possessive-thy-to-your
 EZK,25,4,39,thy,your,possessive-thy-to-your
+EZK,25,5,14,couchingplace,couching place,split-couchingplace
 EZK,25,5,18,ye,you,pronoun-ye-to-you
 EZK,25,6,3,saith,says,verb-saith-to-says
 EZK,25,6,8,thou,you,pronoun-thou-to-you
@@ -26598,6 +26672,7 @@ EZK,37,20,6,writest,write,verb-writest-to-write
 EZK,37,20,10,thine,your,possessive-thine-default-to-your
 EZK,37,21,6,saith,says,verb-saith-to-says
 EZK,37,21,22,whither,where,direction-whither-to-where
+EZK,37,23,31,dwellingplaces,dwelling places,split-dwellingplaces
 EZK,38,2,5,thy,your,possessive-thy-to-your
 EZK,38,3,4,saith,says,verb-saith-to-says
 EZK,38,3,12,thee,you,pronoun-thee-to-you
@@ -26894,6 +26969,7 @@ DAN,2,31,19,thee,you,pronoun-thee-to-you
 DAN,2,34,1,Thou,You,pronoun-thou-to-you
 DAN,2,34,2,sawest,saw,verb-sawest-to-saw
 DAN,2,34,26,brake,broke,verb-brake-to-broke
+DAN,2,35,26,threshingfloors,threshing floors,split-threshingfloors
 DAN,2,37,1,Thou,You,pronoun-thou-to-you
 DAN,2,37,4,art,are,verb-art-to-are
 DAN,2,37,14,hath,has,verb-hath-to-has
@@ -27346,6 +27422,7 @@ HOS,9,1,20,hast,have,verb-hast-to-have
 HOS,9,5,3,ye,you,pronoun-ye-to-you
 HOS,9,7,10,recompence,recompense,spelling-recompence-to-recompense
 HOS,9,7,31,thine,your,possessive-thine-default-to-your
+HOS,9,10,15,firstripe,first ripe,split-firstripe
 HOS,9,14,6,wilt,will,verb-wilt-to-will
 HOS,9,14,7,thou,you,pronoun-thou-to-you
 HOS,9,15,24,mine,my,possessive-mine-before-listed-word-to-my
@@ -27484,6 +27561,7 @@ JOL,3,7,11,ye,you,pronoun-ye-to-you
 JOL,3,7,19,recompence,recompense,spelling-recompence-to-recompense
 JOL,3,8,34,hath,has,verb-hath-to-has
 JOL,3,9,2,ye,you,pronoun-ye-to-you
+JOL,3,10,8,pruninghooks,pruning hooks,split-pruninghooks
 JOL,3,11,6,ye,you,pronoun-ye-to-you
 JOL,3,11,14,thither,there,direction-thither-to-there
 JOL,3,11,16,thy,your,possessive-thy-to-your
@@ -27611,8 +27689,12 @@ AMO,7,4,6,shewed,showed,spelling-shewed-to-showed
 AMO,7,5,10,thee,you,pronoun-thee-to-you
 AMO,7,6,11,saith,says,verb-saith-to-says
 AMO,7,7,3,shewed,showed,spelling-shewed-to-showed
+AMO,7,7,16,plumbline,plumb line,split-plumbline
+AMO,7,7,19,plumbline,plumb line,split-plumbline
 AMO,7,8,9,seest,see,verb-seest-to-see
 AMO,7,8,10,thou,you,pronoun-thou-to-you
+AMO,7,8,15,plumbline,plumb line,split-plumbline
+AMO,7,8,25,plumbline,plumb line,split-plumbline
 AMO,7,10,15,hath,has,verb-hath-to-has
 AMO,7,10,18,thee,you,pronoun-thee-to-you
 AMO,7,11,4,saith,says,verb-saith-to-says
@@ -27682,6 +27764,7 @@ OBA,1,4,23,saith,says,verb-saith-to-says
 OBA,1,5,5,thee,you,pronoun-thee-to-you
 OBA,1,5,11,art,are,verb-art-to-are
 OBA,1,5,12,thou,you,pronoun-thou-to-you
+OBA,1,5,26,grapegatherers,grape gatherers,split-grapegatherers
 OBA,1,5,29,thee,you,pronoun-thee-to-you
 OBA,1,7,5,thy,your,possessive-thy-to-your
 OBA,1,7,9,thee,you,pronoun-thee-to-you
@@ -27815,6 +27898,7 @@ MIC,3,5,24,putteth,puts,verb-putteth-to-puts
 MIC,3,6,8,ye,you,pronoun-ye-to-you
 MIC,3,6,22,ye,you,pronoun-ye-to-you
 MIC,3,9,6,ye,you,pronoun-ye-to-you
+MIC,4,3,26,pruninghooks,pruning hooks,split-pruninghooks
 MIC,4,4,29,hath,has,verb-hath-to-has
 MIC,4,6,4,saith,says,verb-saith-to-says
 MIC,4,6,12,halteth,halts,verb-halteth-to-halts
@@ -27923,6 +28007,7 @@ MIC,6,15,26,shalt,shall,verb-shalt-to-shall
 MIC,6,16,18,ye,you,pronoun-ye-to-you
 MIC,6,16,27,thee,you,pronoun-thee-to-you
 MIC,6,16,37,ye,you,pronoun-ye-to-you
+MIC,7,1,31,firstripe,first ripe,split-firstripe
 MIC,7,3,12,asketh,asks,verb-asketh-to-asks
 MIC,7,3,16,asketh,asks,verb-asketh-to-asks
 MIC,7,3,25,uttereth,utters,verb-uttereth-to-utters
@@ -27996,6 +28081,7 @@ NAM,2,1,23,thy,your,possessive-thy-to-your
 NAM,2,2,4,hath,has,verb-hath-to-has
 NAM,2,9,2,ye,you,pronoun-ye-to-you
 NAM,2,10,11,melteth,melts,verb-melteth-to-melts
+NAM,2,11,10,feedingplace,feeding place,split-feedingplace
 NAM,2,13,5,thee,you,pronoun-thee-to-you
 NAM,2,13,6,saith,says,verb-saith-to-says
 NAM,2,13,25,thy,your,possessive-thy-to-your
@@ -28005,6 +28091,7 @@ NAM,3,1,16,departeth,departs,verb-departeth-to-departs
 NAM,3,2,18,pransing,prancing,spelling-pransing-to-prancing
 NAM,3,3,3,lifteth,lifts,verb-lifteth-to-lifts
 NAM,3,3,25,carcases,carcasses,spelling-carcases-to-carcasses
+NAM,3,4,10,wellfavoured,well-favoured,split-wellfavoured
 NAM,3,4,17,selleth,sells,verb-selleth-to-sells
 NAM,3,5,5,thee,you,pronoun-thee-to-you
 NAM,3,5,6,saith,says,verb-saith-to-says
@@ -28029,6 +28116,7 @@ NAM,3,11,7,shalt,shall,verb-shalt-to-shall
 NAM,3,11,10,thou,you,pronoun-thou-to-you
 NAM,3,11,12,shalt,shall,verb-shalt-to-shall
 NAM,3,12,2,thy,your,possessive-thy-to-your
+NAM,3,12,12,firstripe,first ripe,split-firstripe
 NAM,3,13,2,thy,your,possessive-thy-to-your
 NAM,3,13,8,thee,you,pronoun-thee-to-you
 NAM,3,13,14,thy,your,possessive-thy-to-your
@@ -28037,6 +28125,7 @@ NAM,3,13,28,thy,your,possessive-thy-to-your
 NAM,3,14,2,thee,you,pronoun-thee-to-you
 NAM,3,14,8,thy,your,possessive-thy-to-your
 NAM,3,14,17,morter,mortar,spelling-morter-to-mortar
+NAM,3,14,21,brickkiln,brick kiln,split-brickkiln
 NAM,3,15,6,thee,you,pronoun-thee-to-you
 NAM,3,15,11,thee,you,pronoun-thee-to-you
 NAM,3,15,16,thee,you,pronoun-thee-to-you
@@ -28073,6 +28162,7 @@ HAB,1,4,15,doth,does,verb-doth-to-does
 HAB,1,4,23,proceedeth,proceeds,verb-proceedeth-to-proceeds
 HAB,1,5,2,ye,you,pronoun-ye-to-you
 HAB,1,5,21,ye,you,pronoun-ye-to-you
+HAB,1,6,25,dwellingplaces,dwelling places,split-dwellingplaces
 HAB,1,8,37,hasteth,hastes,verb-hasteth-to-hastes
 HAB,1,12,1,Art,Are,verb-art-to-are
 HAB,1,12,2,thou,you,pronoun-thou-to-you
@@ -28164,6 +28254,7 @@ HAB,3,15,8,thine,your,possessive-thine-default-to-your
 HAB,3,16,34,cometh,comes,verb-cometh-to-comes
 HAB,3,19,24,mine,my,possessive-mine-before-listed-word-to-my
 ZEP,1,2,11,saith,says,verb-saith-to-says
+ZEP,1,3,23,stumblingblocks,stumbling blocks,split-stumblingblocks
 ZEP,1,3,37,saith,says,verb-saith-to-says
 ZEP,1,4,6,mine,my,possessive-mine-before-listed-word-to-my
 ZEP,1,7,2,thy,your,possessive-thy-to-your
@@ -28177,6 +28268,7 @@ ZEP,2,3,6,ye,you,pronoun-ye-to-you
 ZEP,2,3,23,ye,you,pronoun-ye-to-you
 ZEP,2,5,33,thee,you,pronoun-thee-to-you
 ZEP,2,9,5,saith,says,verb-saith-to-says
+ZEP,2,9,33,saltpits,salt pits,split-saltpits
 ZEP,2,12,1,Ye,You,pronoun-ye-to-you
 ZEP,2,12,4,ye,you,pronoun-ye-to-you
 ZEP,2,15,39,passeth,passes,verb-passeth-to-passes
@@ -28601,6 +28693,7 @@ MAL,4,4,2,ye,you,pronoun-ye-to-you
 1ES,2,3,17,hath,has,verb-hath-to-has
 1ES,2,5,48,dwelleth,dwells,verb-dwelleth-to-dwells
 1ES,2,17,6,Thy,Your,possessive-thy-to-your
+1ES,2,17,10,storywriter,story writer,split-storywriter
 1ES,2,21,16,thy,your,possessive-thy-to-your
 1ES,2,21,27,thy,your,possessive-thy-to-your
 1ES,2,22,2,thou,you,pronoun-thou-to-you
@@ -28609,6 +28702,7 @@ MAL,4,4,2,ye,you,pronoun-ye-to-you
 1ES,2,24,7,thee,you,pronoun-thee-to-you
 1ES,2,24,26,thou,you,pronoun-thou-to-you
 1ES,2,24,27,shalt,shall,verb-shalt-to-shall
+1ES,2,25,10,storywriter,story writer,split-storywriter
 1ES,2,26,7,ye,you,pronoun-ye-to-you
 1ES,2,26,21,hath,has,verb-hath-to-has
 1ES,3,4,15,spake,spoke,verb-spake-to-spoke
@@ -30472,6 +30566,7 @@ JDT,7,24,9,ye,you,pronoun-ye-to-you
 JDT,7,24,17,ye,you,pronoun-ye-to-you
 JDT,7,25,9,hath,has,verb-hath-to-has
 JDT,7,28,21,punisheth,punishes,verb-punisheth-to-punishes
+JDT,8,10,5,waitingwoman,waiting woman,split-waitingwoman
 JDT,8,11,15,ye,you,pronoun-ye-to-you
 JDT,8,11,26,ye,you,pronoun-ye-to-you
 JDT,8,11,41,ye,you,pronoun-ye-to-you
@@ -30502,6 +30597,7 @@ JDT,8,31,4,thou,you,pronoun-thou-to-you
 JDT,8,31,8,thou,you,pronoun-thou-to-you
 JDT,8,31,9,art,are,verb-art-to-are
 JDT,8,33,1,Ye,You,pronoun-ye-to-you
+JDT,8,33,16,waitingwoman,waiting woman,split-waitingwoman
 JDT,8,33,22,ye,you,pronoun-ye-to-you
 JDT,8,33,38,mine,my,possessive-mine-before-listed-word-to-my
 JDT,8,34,4,ye,you,pronoun-ye-to-you
@@ -30796,6 +30892,7 @@ ESG,14,11,5,thy,your,possessive-thy-to-your
 ESG,14,11,32,hath,has,verb-hath-to-has
 ESG,14,12,5,thyself,yourself,pronoun-thyself-to-yourself
 ESG,14,13,18,fighteth,fights,verb-fighteth-to-fights
+ESG,14,13,34,likeminded,like-minded,split-likeminded
 ESG,14,14,5,thine,your,possessive-thine-default-to-your
 ESG,14,14,20,thee,you,pronoun-thee-to-you
 ESG,14,15,1,Thou,You,pronoun-thou-to-you
@@ -31144,6 +31241,7 @@ WIS,14,5,3,wouldest,would,verb-wouldest-to-would
 WIS,14,5,9,thy,your,possessive-thy-to-your
 WIS,14,6,19,thy,your,possessive-thy-to-your
 WIS,14,7,8,cometh,comes,verb-cometh-to-comes
+WIS,14,11,26,stumblingblocks,stumbling blocks,split-stumblingblocks
 WIS,14,15,10,hath,has,verb-hath-to-has
 WIS,14,31,22,punisheth,punishes,verb-punisheth-to-punishes
 WIS,15,1,2,thou,you,pronoun-thou-to-you
@@ -31530,6 +31628,7 @@ SIR,7,3,12,shalt,shall,verb-shalt-to-shall
 SIR,7,5,3,thyself,yourself,pronoun-thyself-to-yourself
 SIR,7,5,11,thy,your,possessive-thy-to-your
 SIR,7,6,17,thou,you,pronoun-thou-to-you
+SIR,7,6,25,stumblingblock,stumbling block,split-stumblingblock
 SIR,7,6,30,thy,your,possessive-thy-to-your
 SIR,7,7,11,thou,you,pronoun-thou-to-you
 SIR,7,7,12,shalt,shall,verb-shalt-to-shall
@@ -31990,6 +32089,7 @@ SIR,18,33,19,shalt,shall,verb-shalt-to-shall
 SIR,18,33,24,thine,your,possessive-thine-default-to-your
 SIR,19,1,17,contemneth,contemns,verb-contemneth-to-contemns
 SIR,19,2,15,cleaveth,cleaves,verb-cleaveth-to-cleaves
+SIR,19,4,9,lightminded,light-minded,split-lightminded
 SIR,19,4,13,sinneth,sins,verb-sinneth-to-sins
 SIR,19,5,2,taketh,takes,verb-taketh-to-takes
 SIR,19,5,12,resisteth,resists,verb-resisteth-to-resists
@@ -32328,6 +32428,7 @@ SIR,28,11,11,sheddeth,sheds,verb-sheddeth-to-sheds
 SIR,28,12,2,thou,you,pronoun-thou-to-you
 SIR,28,12,10,thou,you,pronoun-thou-to-you
 SIR,28,12,24,thy,your,possessive-thy-to-your
+SIR,28,13,5,doubletongued,double-tongued,split-doubletongued
 SIR,28,14,4,hath,has,verb-hath-to-has
 SIR,28,14,16,hath,has,verb-hath-to-has
 SIR,28,15,4,hath,has,verb-hath-to-has
@@ -32439,6 +32540,7 @@ SIR,31,4,11,leaveth,leaves,verb-leaveth-to-leaves
 SIR,31,5,3,loveth,loves,verb-loveth-to-loves
 SIR,31,5,12,followeth,follows,verb-followeth-to-follows
 SIR,31,6,2,hath,has,verb-hath-to-has
+SIR,31,7,4,stumblingblock,stumbling block,split-stumblingblock
 SIR,31,8,11,hath,has,verb-hath-to-has
 SIR,31,9,13,hath,has,verb-hath-to-has
 SIR,31,10,2,hath,has,verb-hath-to-has
@@ -32544,6 +32646,7 @@ SIR,33,12,4,hath,has,verb-hath-to-has
 SIR,33,12,23,hath,has,verb-hath-to-has
 SIR,33,13,31,liketh,likes,verb-liketh-to-likes
 SIR,33,16,10,gathereth,gathers,verb-gathereth-to-gathers
+SIR,33,16,13,grapegatherers,grape gatherers,split-grapegatherers
 SIR,33,18,4,ye,you,pronoun-ye-to-you
 SIR,33,18,15,ye,you,pronoun-ye-to-you
 SIR,33,19,3,thy,your,possessive-thy-to-your
@@ -32808,6 +32911,7 @@ SIR,39,18,7,pleaseth,pleases,verb-pleaseth-to-pleases
 SIR,39,20,2,seeth,sees,verb-seeth-to-sees
 SIR,39,21,15,hath,has,verb-hath-to-has
 SIR,39,23,3,hath,has,verb-hath-to-has
+SIR,39,24,12,stumblingblocks,stumbling blocks,split-stumblingblocks
 SIR,39,35,4,ye,you,pronoun-ye-to-you
 SIR,40,3,4,sitteth,sits,verb-sitteth-to-sits
 SIR,40,4,4,weareth,wears,verb-weareth-to-wears
@@ -32983,6 +33087,7 @@ SIR,49,1,17,art,are,verb-art-to-are
 SIR,49,1,31,musick,music,spelling-musick-to-music
 SIR,49,8,11,shewed,showed,spelling-shewed-to-showed
 SIR,50,10,16,groweth,grows,verb-groweth-to-grows
+SIR,50,15,27,sweetsmelling,sweet-smelling,split-sweetsmelling
 SIR,50,22,4,ye,you,pronoun-ye-to-you
 SIR,50,22,11,doeth,does,verb-doeth-to-does
 SIR,50,22,17,exalteth,exalts,verb-exalteth-to-exalts
@@ -33136,6 +33241,7 @@ BAR,3,32,4,knoweth,knows,verb-knoweth-to-knows
 BAR,3,32,7,knoweth,knows,verb-knoweth-to-knows
 BAR,3,32,10,hath,has,verb-hath-to-has
 BAR,3,32,24,hath,has,verb-hath-to-has
+BAR,3,32,28,fourfooted,four-footed,split-fourfooted
 BAR,3,33,3,sendeth,sends,verb-sendeth-to-sends
 BAR,3,33,8,goeth,goes,verb-goeth-to-goes
 BAR,3,33,9,calleth,calls,verb-calleth-to-calls
@@ -33196,6 +33302,7 @@ BAR,5,6,5,thee,you,pronoun-thee-to-you
 BAR,5,6,17,bringeth,brings,verb-bringeth-to-brings
 BAR,5,6,20,thee,you,pronoun-thee-to-you
 BAR,5,7,3,hath,has,verb-hath-to-has
+BAR,5,8,7,sweetsmelling,sweet-smelling,split-sweetsmelling
 BAR,5,9,20,cometh,comes,verb-cometh-to-comes
 BAR,6,2,6,ye,you,pronoun-ye-to-you
 BAR,6,2,11,ye,you,pronoun-ye-to-you
@@ -33719,6 +33826,7 @@ MAN,1,1,400,thine,your,possessive-thine-default-to-your
 1MA,11,30,14,sendeth,sends,verb-sendeth-to-sends
 1MA,11,31,21,ye,you,pronoun-ye-to-you
 1MA,11,32,7,sendeth,sends,verb-sendeth-to-sends
+1MA,11,35,21,saltpits,salt pits,split-saltpits
 1MA,11,37,5,thou,you,pronoun-thou-to-you
 1MA,11,42,14,thee,you,pronoun-thee-to-you
 1MA,11,42,16,thy,your,possessive-thy-to-your
@@ -33769,6 +33877,7 @@ MAN,1,1,400,thine,your,possessive-thine-default-to-your
 1MA,13,38,16,ye,you,pronoun-ye-to-you
 1MA,13,39,20,ye,you,pronoun-ye-to-you
 1MA,13,46,15,thy,your,possessive-thy-to-your
+1MA,13,48,31,dwellingplace,dwelling place,split-dwellingplace
 1MA,13,50,27,thence,there,direction-thence-after-from-to-there
 1MA,14,18,6,tables,tablets,tablet-apoc-1ma-14-18-6
 1MA,14,22,8,spake,spoke,verb-spake-to-spoke
@@ -33935,6 +34044,7 @@ MAN,1,1,400,thine,your,possessive-thine-default-to-your
 2MA,7,37,36,mayest,may,verb-mayest-to-may
 2MA,8,4,20,shew,show,spelling-shew-to-show
 2MA,9,8,45,shewing,showing,spelling-shewing-to-showing
+2MA,9,14,26,buryingplace,burying place,split-buryingplace
 2MA,9,19,11,wisheth,wishes,verb-wisheth-to-wishes
 2MA,9,20,2,ye,you,pronoun-ye-to-you
 2MA,9,22,3,mine,my,possessive-mine-before-listed-word-to-my
@@ -34662,9 +34772,12 @@ MAT,18,18,19,ye,you,pronoun-ye-to-you
 MAT,18,22,2,saith,says,verb-saith-to-says
 MAT,18,22,9,thee,you,pronoun-thee-to-you
 MAT,18,26,19,thee,you,pronoun-thee-to-you
+MAT,18,28,12,fellowservants,fellow servants,split-fellowservants
 MAT,18,28,35,thou,you,pronoun-thou-to-you
 MAT,18,28,36,owest,owe,verb-owest-to-owe
+MAT,18,29,3,fellowservant,fellow servant,split-fellowservant
 MAT,18,29,21,thee,you,pronoun-thee-to-you
+MAT,18,31,4,fellowservants,fellow servants,split-fellowservants
 MAT,18,32,14,thou,you,pronoun-thou-to-you
 MAT,18,32,19,thee,you,pronoun-thee-to-you
 MAT,18,32,24,thou,you,pronoun-thou-to-you
@@ -34672,6 +34785,7 @@ MAT,18,32,25,desiredst,desired,verb-desiredst-to-desired
 MAT,18,33,1,Shouldest,Should,verb-shouldest-to-should
 MAT,18,33,3,thou,you,pronoun-thou-to-you
 MAT,18,33,9,thy,your,possessive-thy-to-your
+MAT,18,33,10,fellowservant,fellow servant,split-fellowservant
 MAT,18,33,17,thee,you,pronoun-thee-to-you
 MAT,18,35,12,ye,you,pronoun-ye-to-you
 MAT,19,4,9,ye,you,pronoun-ye-to-you
@@ -34751,6 +34865,7 @@ MAT,21,5,10,cometh,comes,verb-cometh-to-comes
 MAT,21,5,12,thee,you,pronoun-thee-to-you
 MAT,21,8,20,strawed,strewed,verb-strawed-to-strewed
 MAT,21,9,22,cometh,comes,verb-cometh-to-comes
+MAT,21,12,27,moneychangers,money changers,split-moneychangers
 MAT,21,13,18,ye,you,pronoun-ye-to-you
 MAT,21,16,5,Hearest,Hear,verb-hearest-to-hear
 MAT,21,16,6,thou,you,pronoun-thou-to-you
@@ -34902,6 +35017,7 @@ MAT,24,44,19,cometh,comes,verb-cometh-to-comes
 MAT,24,45,12,hath,has,verb-hath-to-has
 MAT,24,46,10,cometh,comes,verb-cometh-to-comes
 MAT,24,48,14,delayeth,delays,verb-delayeth-to-delays
+MAT,24,49,7,fellowservants,fellow servants,split-fellowservants
 MAT,24,50,13,looketh,looks,verb-looketh-to-looks
 MAT,25,6,12,cometh,comes,verb-cometh-to-comes
 MAT,25,6,14,ye,you,pronoun-ye-to-you
@@ -35431,6 +35547,7 @@ MRK,11,8,18,strawed,strewed,verb-strawed-to-strewed
 MRK,11,9,17,cometh,comes,verb-cometh-to-comes
 MRK,11,10,10,cometh,comes,verb-cometh-to-comes
 MRK,11,14,13,thee,you,pronoun-thee-to-you
+MRK,11,15,31,moneychangers,money changers,split-moneychangers
 MRK,11,17,24,ye,you,pronoun-ye-to-you
 MRK,11,21,6,saith,says,verb-saith-to-says
 MRK,11,21,15,thou,you,pronoun-thou-to-you
@@ -35453,6 +35570,7 @@ MRK,11,28,15,thee,you,pronoun-thee-to-you
 MRK,11,31,19,ye,you,pronoun-ye-to-you
 MRK,11,33,14,saith,says,verb-saith-to-says
 MRK,12,1,23,digged,dug,verb-digged-to-dug
+MRK,12,6,7,wellbeloved,well-beloved,split-wellbeloved
 MRK,12,10,3,ye,you,pronoun-ye-to-you
 MRK,12,14,14,thou,you,pronoun-thou-to-you
 MRK,12,14,15,art,are,verb-art-to-are
@@ -37306,6 +37424,7 @@ JHN,11,11,9,saith,says,verb-saith-to-says
 JHN,11,11,15,sleepeth,sleeps,verb-sleepeth-to-sleeps
 JHN,11,13,3,spake,spoke,verb-spake-to-spoke
 JHN,11,15,16,ye,you,pronoun-ye-to-you
+JHN,11,16,10,fellowdisciples,fellow disciples,split-fellowdisciples
 JHN,11,21,8,thou,you,pronoun-thou-to-you
 JHN,11,21,9,hadst,had,verb-hadst-to-had
 JHN,11,22,8,thou,you,pronoun-thou-to-you
@@ -38155,6 +38274,7 @@ ACT,10,6,18,thee,you,pronoun-thee-to-you
 ACT,10,6,20,thou,you,pronoun-thou-to-you
 ACT,10,6,21,oughtest,ought,verb-oughtest-to-ought
 ACT,10,7,6,spake,spoke,verb-spake-to-spoke
+ACT,10,12,6,fourfooted,four-footed,split-fourfooted
 ACT,10,15,4,spake,spoke,verb-spake-to-spoke
 ACT,10,15,13,hath,has,verb-hath-to-has
 ACT,10,15,18,thou,you,pronoun-thou-to-you
@@ -38190,6 +38310,7 @@ ACT,11,3,2,Thou,You,pronoun-thou-to-you
 ACT,11,3,3,wentest,went,verb-wentest-to-went
 ACT,11,3,9,didst,did,verb-didst-to-did
 ACT,11,6,8,mine,my,possessive-mine-before-listed-word-to-my
+ACT,11,6,14,fourfooted,four-footed,split-fourfooted
 ACT,11,8,12,hath,has,verb-hath-to-has
 ACT,11,9,11,hath,has,verb-hath-to-has
 ACT,11,9,16,thou,you,pronoun-thou-to-you
@@ -38558,6 +38679,7 @@ ROM,1,11,19,ye,you,pronoun-ye-to-you
 ROM,1,16,24,believeth,believes,verb-believeth-to-believes
 ROM,1,19,15,hath,has,verb-hath-to-has
 ROM,1,19,16,shewed,showed,spelling-shewed-to-showed
+ROM,1,23,21,fourfooted,four-footed,split-fourfooted
 ROM,1,27,33,recompence,recompense,spelling-recompence-to-recompense
 ROM,2,1,2,thou,you,pronoun-thou-to-you
 ROM,2,1,3,art,are,verb-art-to-are
@@ -38755,6 +38877,8 @@ ROM,9,25,3,saith,says,verb-saith-to-says
 ROM,9,26,17,Ye,You,pronoun-ye-to-you
 ROM,9,27,3,crieth,cries,verb-crieth-to-cries
 ROM,9,31,10,hath,has,verb-hath-to-has
+ROM,9,32,24,stumblingstone,stumbling stone,split-stumblingstone
+ROM,9,33,11,stumblingstone,stumbling stone,split-stumblingstone
 ROM,9,33,18,believeth,believes,verb-believeth-to-believes
 ROM,10,4,15,believeth,believes,verb-believeth-to-believes
 ROM,10,5,3,describeth,describes,verb-describeth-to-describes
@@ -38796,6 +38920,7 @@ ROM,11,7,10,seeketh,seeks,verb-seeketh-to-seeks
 ROM,11,7,15,hath,has,verb-hath-to-has
 ROM,11,8,7,hath,has,verb-hath-to-has
 ROM,11,9,3,saith,says,verb-saith-to-says
+ROM,11,9,16,stumblingblock,stumbling block,split-stumblingblock
 ROM,11,9,19,recompence,recompense,spelling-recompence-to-recompense
 ROM,11,10,16,alway,always,spelling-alway-to-always
 ROM,11,13,18,mine,my,possessive-mine-before-listed-word-to-my
@@ -38812,6 +38937,7 @@ ROM,11,19,2,wilt,will,verb-wilt-to-will
 ROM,11,19,14,graffed,grafted,spelling-graffed-to-grafted
 ROM,11,20,10,thou,you,pronoun-thou-to-you
 ROM,11,20,11,standest,stand,verb-standest-to-stand
+ROM,11,20,16,highminded,high-minded,split-highminded
 ROM,11,21,16,thee,you,pronoun-thee-to-you
 ROM,11,22,16,thee,you,pronoun-thee-to-you
 ROM,11,22,19,thou,you,pronoun-thou-to-you
@@ -38909,6 +39035,7 @@ ROM,14,10,10,dost,do,verb-dost-to-do
 ROM,14,10,11,thou,you,pronoun-thou-to-you
 ROM,14,10,15,thy,your,possessive-thy-to-your
 ROM,14,11,8,saith,says,verb-saith-to-says
+ROM,14,13,19,stumblingblock,stumbling block,split-stumblingblock
 ROM,14,14,21,esteemeth,esteems,verb-esteemeth-to-esteems
 ROM,14,15,3,thy,your,possessive-thy-to-your
 ROM,14,15,8,thy,your,possessive-thy-to-your
@@ -38927,6 +39054,7 @@ ROM,14,22,22,alloweth,allows,verb-alloweth-to-allows
 ROM,14,23,4,doubteth,doubts,verb-doubteth-to-doubts
 ROM,14,23,12,eateth,eats,verb-eateth-to-eats
 ROM,15,3,18,thee,you,pronoun-thee-to-you
+ROM,15,5,12,likeminded,like-minded,split-likeminded
 ROM,15,6,2,ye,you,pronoun-ye-to-you
 ROM,15,7,3,ye,you,pronoun-ye-to-you
 ROM,15,9,22,thee,you,pronoun-thee-to-you
@@ -38947,6 +39075,8 @@ ROM,16,2,9,becometh,becomes,verb-becometh-to-becomes
 ROM,16,2,13,ye,you,pronoun-ye-to-you
 ROM,16,2,20,hath,has,verb-hath-to-has
 ROM,16,2,26,hath,has,verb-hath-to-has
+ROM,16,5,12,wellbeloved,well-beloved,split-wellbeloved
+ROM,16,7,9,fellowprisoners,fellow prisoners,split-fellowprisoners
 ROM,16,17,18,ye,you,pronoun-ye-to-you
 ROM,16,23,2,mine,my,possessive-mine-before-listed-word-to-my
 ROM,16,23,9,saluteth,salutes,verb-saluteth-to-salutes
@@ -38963,6 +39093,7 @@ ROM,16,25,9,stablish,establish,spelling-stablish-to-establish
 1CO,1,13,11,ye,you,pronoun-ye-to-you
 1CO,1,15,10,mine,my,possessive-mine-before-listed-word-to-my
 1CO,1,20,16,hath,has,verb-hath-to-has
+1CO,1,23,10,stumblingblock,stumbling block,split-stumblingblock
 1CO,1,26,2,ye,you,pronoun-ye-to-you
 1CO,1,27,3,hath,has,verb-hath-to-has
 1CO,1,27,17,hath,has,verb-hath-to-has
@@ -39028,6 +39159,7 @@ ROM,16,25,9,stablish,establish,spelling-stablish-to-establish
 1CO,4,10,8,ye,you,pronoun-ye-to-you
 1CO,4,10,17,ye,you,pronoun-ye-to-you
 1CO,4,10,20,ye,you,pronoun-ye-to-you
+1CO,4,11,21,dwellingplace,dwelling place,split-dwellingplace
 1CO,4,13,4,intreat,entreat,spelling-intreat-to-entreat
 1CO,4,15,3,ye,you,pronoun-ye-to-you
 1CO,4,15,12,ye,you,pronoun-ye-to-you
@@ -39130,6 +39262,7 @@ ROM,16,25,9,stablish,establish,spelling-stablish-to-establish
 1CO,8,2,8,knoweth,knows,verb-knoweth-to-knows
 1CO,8,2,12,knoweth,knows,verb-knoweth-to-knows
 1CO,8,8,3,commendeth,commends,verb-commendeth-to-commends
+1CO,8,9,14,stumblingblock,stumbling block,split-stumblingblock
 1CO,8,10,6,thee,you,pronoun-thee-to-you
 1CO,8,10,8,hast,have,verb-hast-to-have
 1CO,8,11,3,thy,your,possessive-thy-to-your
@@ -39439,6 +39572,7 @@ ROM,16,25,9,stablish,establish,spelling-stablish-to-establish
 2CO,8,12,17,hath,has,verb-hath-to-has
 2CO,8,12,24,hath,has,verb-hath-to-has
 2CO,8,13,11,ye,you,pronoun-ye-to-you
+2CO,8,23,12,fellowhelper,fellow helper,split-fellowhelper
 2CO,8,24,2,shew,show,spelling-shew-to-show
 2CO,8,24,3,ye,you,pronoun-ye-to-you
 2CO,9,2,29,hath,has,verb-hath-to-has
@@ -39635,11 +39769,13 @@ EPH,2,13,6,ye,you,pronoun-ye-to-you
 EPH,2,14,7,hath,has,verb-hath-to-has
 EPH,2,14,12,hath,has,verb-hath-to-has
 EPH,2,19,3,ye,you,pronoun-ye-to-you
+EPH,2,19,11,fellowcitizens,fellow citizens,split-fellowcitizens
 EPH,2,21,9,groweth,grows,verb-groweth-to-grows
 EPH,2,22,3,ye,you,pronoun-ye-to-you
 EPH,3,2,2,ye,you,pronoun-ye-to-you
 EPH,3,4,3,ye,you,pronoun-ye-to-you
 EPH,3,4,5,ye,you,pronoun-ye-to-you
+EPH,3,6,6,fellowheirs,fellow heirs,split-fellowheirs
 EPH,3,9,21,hath,has,verb-hath-to-has
 EPH,3,13,5,ye,you,pronoun-ye-to-you
 EPH,3,17,11,ye,you,pronoun-ye-to-you
@@ -39665,6 +39801,7 @@ EPH,4,32,18,hath,has,verb-hath-to-has
 EPH,5,1,2,ye,you,pronoun-ye-to-you
 EPH,5,2,8,hath,has,verb-hath-to-has
 EPH,5,2,12,hath,has,verb-hath-to-has
+EPH,5,2,26,sweetsmelling,sweet-smelling,split-sweetsmelling
 EPH,5,3,17,becometh,becomes,verb-becometh-to-becomes
 EPH,5,5,3,ye,you,pronoun-ye-to-you
 EPH,5,5,18,hath,has,verb-hath-to-has
@@ -39705,14 +39842,17 @@ PHP,1,27,31,ye,you,pronoun-ye-to-you
 PHP,1,30,6,ye,you,pronoun-ye-to-you
 PHP,2,2,2,ye,you,pronoun-ye-to-you
 PHP,2,2,6,ye,you,pronoun-ye-to-you
+PHP,2,2,8,likeminded,like-minded,split-likeminded
 PHP,2,9,4,hath,has,verb-hath-to-has
 PHP,2,12,5,ye,you,pronoun-ye-to-you
 PHP,2,13,6,worketh,works,verb-worketh-to-works
 PHP,2,15,2,ye,you,pronoun-ye-to-you
 PHP,2,15,25,ye,you,pronoun-ye-to-you
 PHP,2,18,7,ye,you,pronoun-ye-to-you
+PHP,2,20,6,likeminded,like-minded,split-likeminded
 PHP,2,22,2,ye,you,pronoun-ye-to-you
 PHP,2,22,16,hath,has,verb-hath-to-has
+PHP,2,25,18,fellowsoldier,fellow soldier,split-fellowsoldier
 PHP,2,26,14,ye,you,pronoun-ye-to-you
 PHP,2,28,10,ye,you,pronoun-ye-to-you
 PHP,2,28,14,ye,you,pronoun-ye-to-you
@@ -39724,6 +39864,7 @@ PHP,3,17,14,ye,you,pronoun-ye-to-you
 PHP,3,20,8,whence,where,direction-whence-after-from-to-where
 PHP,4,3,3,intreat,entreat,spelling-intreat-to-entreat
 PHP,4,3,4,thee,you,pronoun-thee-to-you
+PHP,4,3,25,fellowlabourers,fellow labourers,split-fellowlabourers
 PHP,4,4,5,alway,always,spelling-alway-to-always
 PHP,4,7,7,passeth,passes,verb-passeth-to-passes
 PHP,4,9,4,ye,you,pronoun-ye-to-you
@@ -39736,12 +39877,14 @@ PHP,4,14,7,ye,you,pronoun-ye-to-you
 PHP,4,15,2,ye,you,pronoun-ye-to-you
 PHP,4,15,29,ye,you,pronoun-ye-to-you
 PHP,4,16,5,ye,you,pronoun-ye-to-you
+PHP,4,18,30,wellpleasing,well-pleasing,split-wellpleasing
 COL,1,4,15,ye,you,pronoun-ye-to-you
 COL,1,5,13,ye,you,pronoun-ye-to-you
 COL,1,6,14,bringeth,brings,verb-bringeth-to-brings
 COL,1,6,19,doth,does,verb-doth-to-does
 COL,1,6,26,ye,you,pronoun-ye-to-you
 COL,1,7,2,ye,you,pronoun-ye-to-you
+COL,1,7,9,fellowservant,fellow servant,split-fellowservant
 COL,1,9,23,ye,you,pronoun-ye-to-you
 COL,1,10,2,ye,you,pronoun-ye-to-you
 COL,1,12,7,hath,has,verb-hath-to-has
@@ -39765,6 +39908,7 @@ COL,2,12,8,ye,you,pronoun-ye-to-you
 COL,2,12,22,hath,has,verb-hath-to-has
 COL,2,13,14,hath,has,verb-hath-to-has
 COL,2,15,10,shew,show,spelling-shew-to-show
+COL,2,16,17,holyday,holy day,split-holyday
 COL,2,18,23,hath,has,verb-hath-to-has
 COL,2,19,21,increaseth,increases,verb-increaseth-to-increases
 COL,2,20,3,ye,you,pronoun-ye-to-you
@@ -39792,8 +39936,11 @@ COL,4,1,14,ye,you,pronoun-ye-to-you
 COL,4,6,5,alway,always,spelling-alway-to-always
 COL,4,6,12,ye,you,pronoun-ye-to-you
 COL,4,6,16,ye,you,pronoun-ye-to-you
+COL,4,7,19,fellowservant,fellow servant,split-fellowservant
+COL,4,10,3,fellowprisoner,fellow prisoner,split-fellowprisoner
 COL,4,10,4,saluteth,salutes,verb-saluteth-to-salutes
 COL,4,10,14,ye,you,pronoun-ye-to-you
+COL,4,11,16,fellowworkers,fellow workers,split-fellowworkers
 COL,4,12,11,saluteth,salutes,verb-saluteth-to-salutes
 COL,4,12,21,ye,you,pronoun-ye-to-you
 COL,4,13,8,hath,has,verb-hath-to-has
@@ -39827,6 +39974,7 @@ COL,4,17,18,thou,you,pronoun-thou-to-you
 1TH,2,16,18,alway,always,spelling-alway-to-always
 1TH,2,19,15,ye,you,pronoun-ye-to-you
 1TH,2,20,2,ye,you,pronoun-ye-to-you
+1TH,3,2,12,fellowlabourer,fellow labourer,split-fellowlabourer
 1TH,3,4,24,ye,you,pronoun-ye-to-you
 1TH,3,6,22,ye,you,pronoun-ye-to-you
 1TH,3,8,6,ye,you,pronoun-ye-to-you
@@ -39898,6 +40046,7 @@ COL,4,17,18,thou,you,pronoun-thou-to-you
 1TI,2,10,3,becometh,becomes,verb-becometh-to-becomes
 1TI,3,1,16,desireth,desires,verb-desireth-to-desires
 1TI,3,4,3,ruleth,rules,verb-ruleth-to-rules
+1TI,3,8,8,doubletongued,double-tongued,split-doubletongued
 1TI,3,14,6,thee,you,pronoun-thee-to-you
 1TI,3,14,11,thee,you,pronoun-thee-to-you
 1TI,3,15,7,thou,you,pronoun-thou-to-you
@@ -39954,6 +40103,7 @@ COL,4,17,18,thou,you,pronoun-thou-to-you
 1TI,6,15,7,shew,show,spelling-shew-to-show
 1TI,6,16,3,hath,has,verb-hath-to-has
 1TI,6,16,18,hath,has,verb-hath-to-has
+1TI,6,17,13,highminded,high-minded,split-highminded
 1TI,6,17,25,giveth,gives,verb-giveth-to-gives
 1TI,6,20,9,thy,your,possessive-thy-to-your
 1TI,6,21,12,thee,you,pronoun-thee-to-you
@@ -39999,6 +40149,7 @@ COL,4,17,18,thou,you,pronoun-thou-to-you
 2TI,2,19,6,standeth,stands,verb-standeth-to-stands
 2TI,2,19,13,knoweth,knows,verb-knoweth-to-knows
 2TI,2,19,23,nameth,names,verb-nameth-to-names
+2TI,3,4,3,highminded,high-minded,split-highminded
 2TI,3,10,2,thou,you,pronoun-thou-to-you
 2TI,3,10,3,hast,have,verb-hast-to-have
 2TI,3,14,3,thou,you,pronoun-thou-to-you
@@ -40049,6 +40200,8 @@ TIT,3,8,12,thou,you,pronoun-thou-to-you
 TIT,3,11,10,sinneth,sins,verb-sinneth-to-sins
 TIT,3,12,7,thee,you,pronoun-thee-to-you
 TIT,3,15,7,thee,you,pronoun-thee-to-you
+PHM,1,1,17,fellowlabourer,fellow labourer,split-fellowlabourer
+PHM,1,2,9,fellowsoldier,fellow soldier,split-fellowsoldier
 PHM,1,2,15,thy,your,possessive-thy-to-your
 PHM,1,4,8,thee,you,pronoun-thee-to-you
 PHM,1,5,3,thy,your,possessive-thy-to-your
@@ -40088,6 +40241,8 @@ PHM,1,21,9,thee,you,pronoun-thee-to-you
 PHM,1,21,12,thou,you,pronoun-thou-to-you
 PHM,1,21,13,wilt,will,verb-wilt-to-will
 PHM,1,23,3,thee,you,pronoun-thee-to-you
+PHM,1,23,6,fellowprisoner,fellow prisoner,split-fellowprisoner
+PHM,1,24,6,fellowlabourers,fellow labourers,split-fellowlabourers
 HEB,1,1,10,spake,spoke,verb-spake-to-spoke
 HEB,1,2,1,Hath,Has,verb-hath-to-has
 HEB,1,2,14,hath,has,verb-hath-to-has
@@ -40096,6 +40251,7 @@ HEB,1,5,12,Thou,You,pronoun-thou-to-you
 HEB,1,5,13,art,are,verb-art-to-are
 HEB,1,5,21,thee,you,pronoun-thee-to-you
 HEB,1,6,5,bringeth,brings,verb-bringeth-to-brings
+HEB,1,6,8,firstbegotten,first-begotten,split-firstbegotten
 HEB,1,6,13,saith,says,verb-saith-to-says
 HEB,1,7,6,saith,says,verb-saith-to-says
 HEB,1,7,8,maketh,makes,verb-maketh-to-makes
@@ -40157,6 +40313,7 @@ HEB,4,7,3,limiteth,limits,verb-limiteth-to-limits
 HEB,4,7,24,ye,you,pronoun-ye-to-you
 HEB,4,9,2,remaineth,remains,verb-remaineth-to-remains
 HEB,4,10,11,hath,has,verb-hath-to-has
+HEB,4,12,14,twoedged,two-edged,split-twoedged
 HEB,5,4,4,taketh,takes,verb-taketh-to-takes
 HEB,5,5,19,Thou,You,pronoun-thou-to-you
 HEB,5,5,20,art,are,verb-art-to-are
@@ -40221,6 +40378,7 @@ HEB,8,13,17,decayeth,decays,verb-decayeth-to-decays
 HEB,8,13,19,waxeth,waxes,verb-waxeth-to-waxes
 HEB,9,2,18,shewbread,showbread,spelling-shewbread-to-showbread
 HEB,9,4,32,tables,tablets,tablet-g4109-heb-9-4-32
+HEB,9,5,10,mercyseat,mercy seat,split-mercyseat
 HEB,9,13,19,sanctifieth,sanctifies,verb-sanctifieth-to-sanctifies
 HEB,9,17,22,liveth,lives,verb-liveth-to-lives
 HEB,9,20,11,hath,has,verb-hath-to-has
@@ -40307,6 +40465,7 @@ HEB,13,5,14,ye,you,pronoun-ye-to-you
 HEB,13,5,18,hath,has,verb-hath-to-has
 HEB,13,5,24,thee,you,pronoun-thee-to-you
 HEB,13,5,27,thee,you,pronoun-thee-to-you
+HEB,13,21,18,wellpleasing,well-pleasing,split-wellpleasing
 HEB,13,23,2,ye,you,pronoun-ye-to-you
 JAS,1,2,8,ye,you,pronoun-ye-to-you
 JAS,1,3,9,worketh,works,verb-worketh-to-works
@@ -40729,6 +40888,7 @@ JAS,5,20,7,converteth,converts,verb-converteth-to-converts
 2JN,1,11,4,biddeth,bids,verb-biddeth-to-bids
 2JN,1,13,4,thy,your,possessive-thy-to-your
 2JN,1,13,8,thee,you,pronoun-thee-to-you
+3JN,1,1,5,wellbeloved,well-beloved,split-wellbeloved
 3JN,1,2,8,thou,you,pronoun-thou-to-you
 3JN,1,2,9,mayest,may,verb-mayest-to-may
 3JN,1,2,17,thy,your,possessive-thy-to-your
@@ -40744,6 +40904,7 @@ JAS,5,20,7,converteth,converts,verb-converteth-to-converts
 3JN,1,6,13,thou,you,pronoun-thou-to-you
 3JN,1,6,23,thou,you,pronoun-thou-to-you
 3JN,1,6,24,shalt,shall,verb-shalt-to-shall
+3JN,1,8,11,fellowhelpers,fellow helpers,split-fellowhelpers
 3JN,1,9,9,loveth,loves,verb-loveth-to-loves
 3JN,1,9,16,receiveth,receives,verb-receiveth-to-receives
 3JN,1,10,12,doeth,does,verb-doeth-to-does
@@ -40778,6 +40939,7 @@ REV,1,8,11,saith,says,verb-saith-to-says
 REV,1,11,14,thou,you,pronoun-thou-to-you
 REV,1,11,15,seest,see,verb-seest-to-see
 REV,1,12,9,spake,spoke,verb-spake-to-spoke
+REV,1,16,18,twoedged,two-edged,split-twoedged
 REV,1,16,27,shineth,shines,verb-shineth-to-shines
 REV,1,18,5,liveth,lives,verb-liveth-to-lives
 REV,1,19,5,thou,you,pronoun-thou-to-you
@@ -40843,6 +41005,7 @@ REV,2,13,43,dwelleth,dwells,verb-dwelleth-to-dwells
 REV,2,14,8,thee,you,pronoun-thee-to-you
 REV,2,14,10,thou,you,pronoun-thou-to-you
 REV,2,14,11,hast,have,verb-hast-to-have
+REV,2,14,26,stumblingblock,stumbling block,split-stumblingblock
 REV,2,15,2,hast,have,verb-hast-to-have
 REV,2,15,3,thou,you,pronoun-thou-to-you
 REV,2,16,8,thee,you,pronoun-thee-to-you
@@ -40963,6 +41126,7 @@ REV,5,14,19,liveth,lives,verb-liveth-to-lives
 REV,6,6,31,thou,you,pronoun-thou-to-you
 REV,6,10,16,dost,do,verb-dost-to-do
 REV,6,10,17,thou,you,pronoun-thou-to-you
+REV,6,11,28,fellowservants,fellow servants,split-fellowservants
 REV,6,13,15,casteth,casts,verb-casteth-to-casts
 REV,6,16,20,sitteth,sits,verb-sitteth-to-sits
 REV,7,10,13,sitteth,sits,verb-sitteth-to-sits
@@ -41109,6 +41273,7 @@ REV,19,9,3,saith,says,verb-saith-to-says
 REV,19,9,22,saith,says,verb-saith-to-says
 REV,19,10,16,thou,you,pronoun-thou-to-you
 REV,19,10,22,thy,your,possessive-thy-to-your
+REV,19,10,23,fellowservant,fellow servant,split-fellowservant
 REV,19,10,26,thy,your,possessive-thy-to-your
 REV,19,11,26,doth,does,verb-doth-to-does
 REV,19,15,6,goeth,goes,verb-goeth-to-goes
@@ -41136,6 +41301,7 @@ REV,22,8,29,shewed,showed,spelling-shewed-to-showed
 REV,22,9,2,saith,says,verb-saith-to-says
 REV,22,9,7,thou,you,pronoun-thou-to-you
 REV,22,9,14,thy,your,possessive-thy-to-your
+REV,22,9,15,fellowservant,fellow servant,split-fellowservant
 REV,22,9,18,thy,your,possessive-thy-to-your
 REV,22,10,3,saith,says,verb-saith-to-says
 REV,22,15,15,loveth,loves,verb-loveth-to-loves

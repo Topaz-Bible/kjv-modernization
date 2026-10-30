@@ -13,13 +13,15 @@ and deciding who "he" is would be interpretation (capitals/README.md).
                             not both)
                    join     "To day" → "Today": no space before the second word (words/joins.csv); the
                             two words stay two tokens, so each keeps its own Strong's number and tap
+  split rules    "stumblingblock" → "stumbling block": word rules of category `split` (words/splits.csv),
+                 replacing the ones the last run wrote; the word stays one token
   quote_regions  {book: [{start, end, level}]}         (quotes/kjv-quotes.json, tiers 1–2 until the rest are reviewed,
                                                         plus the ones quotes/reviewed.csv ships, less the ones it drops)
 
 A quote that opens on a lowercased "that" opens on the next word instead:
 it was said, that “in Isaac shall thy seed be called.”
 
-Everything else in mod.json is left byte-for-byte as it was.
+Everything else in mod.json (the other word rules among them) is left byte-for-byte as it was.
 
 Run:  python3 tools/compose_profile.py [path/to/eng.bible.kjv.mod.json] [path/to/packages]
       (defaults: ../topaz/packages/eng.bible.kjv/eng.bible.kjv.mod.json and ../topaz-bible/assets/packages)
@@ -90,6 +92,13 @@ def term_edits(regions):
             if int(n0) <= t['n'] <= n1 and t['t'][:1].isupper() and t['t'].lower() in lower:
                 out.append(edit(r['book'], c, v, t['n'], t['t'], t['t'].lower(), 'case'))
     return out
+
+
+def split_rules():
+    """Words the KJV prints as one that are written as two today (words/splits.csv): a word rule each."""
+    rows = list(csv.DictReader(open(REPO / 'words' / 'splits.csv')))
+    return [{'id': f"split-{r['joined']}", 'enabled': True, 'category': 'split',
+             'match': {'text': r['joined']}, 'replace': {'text': r['split']}} for r in rows]
 
 
 def join_edits(quotes):
@@ -204,6 +213,7 @@ def main():
     edits += term_edits(shipped)
     edits += join_edits(quotes)
     m['token_edits'] = edits
+    m['rules'] = [r for r in m['rules'] if r.get('category') != 'split'] + split_rules()
     m['quote_regions'] = dict(quotes)
     out = json.dumps(m, indent=2, ensure_ascii=False) + '\n'
     MOD.write_text(out)

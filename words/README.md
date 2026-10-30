@@ -8,8 +8,8 @@ The King James text itself is never edited. These rules are a display layer: the
 
 | | |
 |---:|---|
-| **41,100** | words changed, out of 931,532 in the KJV (4.4%) |
-| **1,168** | word rules |
+| **41,312** | words changed, out of 931,532 in the KJV (4.4%) |
+| **1,228** | word rules |
 | **61** | single-verse exceptions |
 
 ## What's here
@@ -31,6 +31,17 @@ The King James text itself is never edited. These rules are a display layer: the
 with its own Strong's number. Left out on purpose: *every one* and *any more* (often still "each one",
 "any longer"), *in ward* ("in custody"), *head stone* (now a grave marker), *high way*, *up on*. Not
 where punctuation, a line break or a quotation mark falls between the two.
+
+## Words now written as two
+
+[`splits.csv`](splits.csv) goes the other way: words the KJV prints as one that are two words, or
+hyphenated, today: *stumblingblock* → *stumbling block*, *dwellingplace* → *dwelling place*,
+*threshingfloor* → *threshing floor*, *fellowservant* → *fellow servant*, *twoedged* → *two-edged*
+(60 words, 166 places). Each is an ordinary word rule of category `split`; the word stays one token,
+with its one Strong's number. Found by listing every KJV word that splits into two English words
+which the BSB writes apart, then read by hand. Left as they are: words still written as one
+(*straightway*, *firstborn*, *winepress*, *marketplace*, *castaway*), *lovingkindness* and
+*longsuffering* (set terms), *goodman* ("master of the house", not a good man), *eveningtide*.
 
 ## Three ways to use it
 

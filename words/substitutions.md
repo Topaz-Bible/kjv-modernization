@@ -1,8 +1,8 @@
 # Every word the modernized KJV changes
 
-The Topaz Bible's “Modernize spelling” option changes **41,146** of the KJV's **931,532** words (about 4.4%). It uses 1,168 word rules and 107 single-verse exceptions. The underlying text never changes: switch the option off and every word is back to the King James text.
+The Topaz Bible's “Modernize spelling” option changes **41,312** of the KJV's **931,532** words (about 4.4%). It uses 1,228 word rules and 107 single-verse exceptions. The underlying text never changes: switch the option off and every word is back to the King James text.
 
-Counts are how many times each change happens in the KJV, Apocrypha included. Generated from KJV package 1.4-primary.20261025.139.31.
+Counts are how many times each change happens in the KJV, Apocrypha included. Generated from KJV package 1.4-primary.20261025.139.40.
 
 ## At a glance
 
@@ -12,7 +12,7 @@ Counts are how many times each change happens in the KJV, Apocrypha included. Ge
 | Helping verbs and irregular forms (hath, doth, art, shalt…) | 16 | 8,770 |
 | Third-person “-eth” verbs (believeth → believes) | 687 | 5,759 |
 | Second-person “-est” verbs (thou knowest → you know) | 340 | 1,469 |
-| Old past tenses (spake → spoke, bare → bore) | 22 | 1,139 |
+| Old past tenses (spake → spoke, bare → bore) | 82 | 1,305 |
 | Old spellings (shew → show) | 88 | 1,036 |
 | Here, there and where (hither → here, from thence → from there) | 7 | 474 |
 | Single-verse exceptions | 107 | 93 changed, the rest kept as written |
@@ -67,22 +67,82 @@ Past tenses that English later regularized. “Bare” becomes “bore” everyw
 | brake | broke |  | 77 |
 | digged | dug |  | 38 |
 | gat | got |  | 31 |
+| threshingfloor | threshing floor |  | 17 |
 | clave | cleaved |  | 14 |
+| stumblingblock | stumbling block |  | 14 |
 | drave | drove |  | 13 |
 | astonied | astonished |  | 10 |
 | forgat | forgot |  | 9 |
+| buryingplace | burying place |  | 8 |
 | herdmen | herdsmen |  | 8 |
 | trode | trod |  | 8 |
+| fellowservant | fellow servant |  | 6 |
+| wellbeloved | well-beloved |  | 6 |
+| dwellingplaces | dwelling places |  | 5 |
 | forbad | forbade |  | 5 |
 | holpen | helped |  | 5 |
 | strawed | strewed |  | 5 |
+| dwellingplace | dwelling place |  | 4 |
+| fellowservants | fellow servants |  | 4 |
+| firstripe | first ripe |  | 4 |
+| fourfooted | four-footed |  | 4 |
+| likeminded | like-minded |  | 4 |
+| plumbline | plumb line |  | 4 |
+| shoulderpieces | shoulder pieces |  | 4 |
+| stumblingblocks | stumbling blocks |  | 4 |
+| twoedged | two-edged |  | 4 |
+| brickkiln | brick kiln |  | 3 |
+| clovenfooted | cloven-footed |  | 3 |
+| grapegatherers | grape gatherers |  | 3 |
+| highminded | high-minded |  | 3 |
+| leanfleshed | lean-fleshed |  | 3 |
 | lien | lain |  | 3 |
+| pruninghooks | pruning hooks |  | 3 |
+| sweetsmelling | sweet-smelling |  | 3 |
 | chode | chided |  | 2 |
+| doubletongued | double-tongued |  | 2 |
+| fatfleshed | fat-fleshed |  | 2 |
+| fellowlabourer | fellow labourer |  | 2 |
+| fellowlabourers | fellow labourers |  | 2 |
+| fellowprisoner | fellow prisoner |  | 2 |
+| fellowsoldier | fellow soldier |  | 2 |
+| holyday | holy day |  | 2 |
+| lefthanded | left-handed |  | 2 |
+| moneychangers | money changers |  | 2 |
+| saltpits | salt pits |  | 2 |
+| storywriter | story writer |  | 2 |
 | strake | struck |  | 2 |
+| stumblingstone | stumbling stone |  | 2 |
+| threshingfloors | threshing floors |  | 2 |
+| waitingwoman | waiting woman |  | 2 |
+| wellpleasing | well-pleasing |  | 2 |
+| brokenfooted | broken-footed |  | 1 |
+| brokenhanded | broken-handed |  | 1 |
+| couchingplace | couching place |  | 1 |
+| feedingplace | feeding place |  | 1 |
+| fellowcitizens | fellow citizens |  | 1 |
+| fellowdisciples | fellow disciples |  | 1 |
+| fellowheirs | fellow heirs |  | 1 |
+| fellowhelper | fellow helper |  | 1 |
+| fellowhelpers | fellow helpers |  | 1 |
+| fellowprisoners | fellow prisoners |  | 1 |
+| fellowworkers | fellow workers |  | 1 |
+| firstbegotten | first-begotten |  | 1 |
+| grapegatherer | grape gatherer |  | 1 |
 | herdman | herdsman |  | 1 |
+| lightminded | light-minded |  | 1 |
+| longwinged | long-winged |  | 1 |
+| mercyseat | mercy seat |  | 1 |
+| merryhearted | merry-hearted |  | 1 |
+| restingplace | resting place |  | 1 |
 | shaked | shook |  | 1 |
 | shapen | shaped |  | 1 |
+| slingstones | sling stones |  | 1 |
+| stiffhearted | stiff-hearted |  | 1 |
 | strowed | strewed |  | 1 |
+| threshingplace | threshing place |  | 1 |
+| wellfavoured | well-favoured |  | 1 |
+| winterhouse | winter house |  | 1 |
 
 ## Old spellings (shew → show)
 

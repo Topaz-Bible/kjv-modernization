@@ -2,7 +2,7 @@
  "name": "Topaz Bible — KJV Modernized Word Forms",
  "licence": "CC0-1.0",
  "source_profile": "eng.bible.kjv.modernized",
- "package_version": "1.4-primary.20261025.139.31",
+ "package_version": "1.4-primary.20261025.139.40",
  "mode": "display_only",
  "matching": {
   "token_field": "t",
@@ -34,8 +34,8 @@
  },
  "stats": {
   "tokens_in_kjv": 931532,
-  "tokens_changed": 41146,
-  "rules": 1168,
+  "tokens_changed": 41312,
+  "rules": 1228,
   "location_overrides": 107
  },
  "rules": [
@@ -13012,6 +13012,666 @@
    "replace": {
     "text": "wherever"
    }
+  },
+  {
+   "id": "split-threshingfloor",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "threshingfloor"
+   },
+   "replace": {
+    "text": "threshing floor"
+   }
+  },
+  {
+   "id": "split-threshingfloors",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "threshingfloors"
+   },
+   "replace": {
+    "text": "threshing floors"
+   }
+  },
+  {
+   "id": "split-threshingplace",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "threshingplace"
+   },
+   "replace": {
+    "text": "threshing place"
+   }
+  },
+  {
+   "id": "split-stumblingblock",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "stumblingblock"
+   },
+   "replace": {
+    "text": "stumbling block"
+   }
+  },
+  {
+   "id": "split-stumblingblocks",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "stumblingblocks"
+   },
+   "replace": {
+    "text": "stumbling blocks"
+   }
+  },
+  {
+   "id": "split-stumblingstone",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "stumblingstone"
+   },
+   "replace": {
+    "text": "stumbling stone"
+   }
+  },
+  {
+   "id": "split-dwellingplace",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "dwellingplace"
+   },
+   "replace": {
+    "text": "dwelling place"
+   }
+  },
+  {
+   "id": "split-dwellingplaces",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "dwellingplaces"
+   },
+   "replace": {
+    "text": "dwelling places"
+   }
+  },
+  {
+   "id": "split-restingplace",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "restingplace"
+   },
+   "replace": {
+    "text": "resting place"
+   }
+  },
+  {
+   "id": "split-buryingplace",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "buryingplace"
+   },
+   "replace": {
+    "text": "burying place"
+   }
+  },
+  {
+   "id": "split-couchingplace",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "couchingplace"
+   },
+   "replace": {
+    "text": "couching place"
+   }
+  },
+  {
+   "id": "split-feedingplace",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "feedingplace"
+   },
+   "replace": {
+    "text": "feeding place"
+   }
+  },
+  {
+   "id": "split-fellowcitizens",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "fellowcitizens"
+   },
+   "replace": {
+    "text": "fellow citizens"
+   }
+  },
+  {
+   "id": "split-fellowdisciples",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "fellowdisciples"
+   },
+   "replace": {
+    "text": "fellow disciples"
+   }
+  },
+  {
+   "id": "split-fellowheirs",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "fellowheirs"
+   },
+   "replace": {
+    "text": "fellow heirs"
+   }
+  },
+  {
+   "id": "split-fellowhelper",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "fellowhelper"
+   },
+   "replace": {
+    "text": "fellow helper"
+   }
+  },
+  {
+   "id": "split-fellowhelpers",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "fellowhelpers"
+   },
+   "replace": {
+    "text": "fellow helpers"
+   }
+  },
+  {
+   "id": "split-fellowlabourer",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "fellowlabourer"
+   },
+   "replace": {
+    "text": "fellow labourer"
+   }
+  },
+  {
+   "id": "split-fellowlabourers",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "fellowlabourers"
+   },
+   "replace": {
+    "text": "fellow labourers"
+   }
+  },
+  {
+   "id": "split-fellowprisoner",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "fellowprisoner"
+   },
+   "replace": {
+    "text": "fellow prisoner"
+   }
+  },
+  {
+   "id": "split-fellowprisoners",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "fellowprisoners"
+   },
+   "replace": {
+    "text": "fellow prisoners"
+   }
+  },
+  {
+   "id": "split-fellowservant",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "fellowservant"
+   },
+   "replace": {
+    "text": "fellow servant"
+   }
+  },
+  {
+   "id": "split-fellowservants",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "fellowservants"
+   },
+   "replace": {
+    "text": "fellow servants"
+   }
+  },
+  {
+   "id": "split-fellowsoldier",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "fellowsoldier"
+   },
+   "replace": {
+    "text": "fellow soldier"
+   }
+  },
+  {
+   "id": "split-fellowworkers",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "fellowworkers"
+   },
+   "replace": {
+    "text": "fellow workers"
+   }
+  },
+  {
+   "id": "split-shoulderpieces",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "shoulderpieces"
+   },
+   "replace": {
+    "text": "shoulder pieces"
+   }
+  },
+  {
+   "id": "split-plumbline",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "plumbline"
+   },
+   "replace": {
+    "text": "plumb line"
+   }
+  },
+  {
+   "id": "split-pruninghooks",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "pruninghooks"
+   },
+   "replace": {
+    "text": "pruning hooks"
+   }
+  },
+  {
+   "id": "split-grapegatherer",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "grapegatherer"
+   },
+   "replace": {
+    "text": "grape gatherer"
+   }
+  },
+  {
+   "id": "split-grapegatherers",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "grapegatherers"
+   },
+   "replace": {
+    "text": "grape gatherers"
+   }
+  },
+  {
+   "id": "split-moneychangers",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "moneychangers"
+   },
+   "replace": {
+    "text": "money changers"
+   }
+  },
+  {
+   "id": "split-saltpits",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "saltpits"
+   },
+   "replace": {
+    "text": "salt pits"
+   }
+  },
+  {
+   "id": "split-slingstones",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "slingstones"
+   },
+   "replace": {
+    "text": "sling stones"
+   }
+  },
+  {
+   "id": "split-winterhouse",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "winterhouse"
+   },
+   "replace": {
+    "text": "winter house"
+   }
+  },
+  {
+   "id": "split-mercyseat",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "mercyseat"
+   },
+   "replace": {
+    "text": "mercy seat"
+   }
+  },
+  {
+   "id": "split-brickkiln",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "brickkiln"
+   },
+   "replace": {
+    "text": "brick kiln"
+   }
+  },
+  {
+   "id": "split-holyday",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "holyday"
+   },
+   "replace": {
+    "text": "holy day"
+   }
+  },
+  {
+   "id": "split-firstripe",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "firstripe"
+   },
+   "replace": {
+    "text": "first ripe"
+   }
+  },
+  {
+   "id": "split-waitingwoman",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "waitingwoman"
+   },
+   "replace": {
+    "text": "waiting woman"
+   }
+  },
+  {
+   "id": "split-storywriter",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "storywriter"
+   },
+   "replace": {
+    "text": "story writer"
+   }
+  },
+  {
+   "id": "split-twoedged",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "twoedged"
+   },
+   "replace": {
+    "text": "two-edged"
+   }
+  },
+  {
+   "id": "split-likeminded",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "likeminded"
+   },
+   "replace": {
+    "text": "like-minded"
+   }
+  },
+  {
+   "id": "split-fourfooted",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "fourfooted"
+   },
+   "replace": {
+    "text": "four-footed"
+   }
+  },
+  {
+   "id": "split-clovenfooted",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "clovenfooted"
+   },
+   "replace": {
+    "text": "cloven-footed"
+   }
+  },
+  {
+   "id": "split-brokenfooted",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "brokenfooted"
+   },
+   "replace": {
+    "text": "broken-footed"
+   }
+  },
+  {
+   "id": "split-brokenhanded",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "brokenhanded"
+   },
+   "replace": {
+    "text": "broken-handed"
+   }
+  },
+  {
+   "id": "split-leanfleshed",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "leanfleshed"
+   },
+   "replace": {
+    "text": "lean-fleshed"
+   }
+  },
+  {
+   "id": "split-fatfleshed",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "fatfleshed"
+   },
+   "replace": {
+    "text": "fat-fleshed"
+   }
+  },
+  {
+   "id": "split-sweetsmelling",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "sweetsmelling"
+   },
+   "replace": {
+    "text": "sweet-smelling"
+   }
+  },
+  {
+   "id": "split-highminded",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "highminded"
+   },
+   "replace": {
+    "text": "high-minded"
+   }
+  },
+  {
+   "id": "split-lightminded",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "lightminded"
+   },
+   "replace": {
+    "text": "light-minded"
+   }
+  },
+  {
+   "id": "split-lefthanded",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "lefthanded"
+   },
+   "replace": {
+    "text": "left-handed"
+   }
+  },
+  {
+   "id": "split-doubletongued",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "doubletongued"
+   },
+   "replace": {
+    "text": "double-tongued"
+   }
+  },
+  {
+   "id": "split-longwinged",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "longwinged"
+   },
+   "replace": {
+    "text": "long-winged"
+   }
+  },
+  {
+   "id": "split-merryhearted",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "merryhearted"
+   },
+   "replace": {
+    "text": "merry-hearted"
+   }
+  },
+  {
+   "id": "split-stiffhearted",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "stiffhearted"
+   },
+   "replace": {
+    "text": "stiff-hearted"
+   }
+  },
+  {
+   "id": "split-wellbeloved",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "wellbeloved"
+   },
+   "replace": {
+    "text": "well-beloved"
+   }
+  },
+  {
+   "id": "split-wellfavoured",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "wellfavoured"
+   },
+   "replace": {
+    "text": "well-favoured"
+   }
+  },
+  {
+   "id": "split-wellpleasing",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "wellpleasing"
+   },
+   "replace": {
+    "text": "well-pleasing"
+   }
+  },
+  {
+   "id": "split-firstbegotten",
+   "enabled": true,
+   "category": "split",
+   "match": {
+    "text": "firstbegotten"
+   },
+   "replace": {
+    "text": "first-begotten"
+   }
   }
  ],
  "location_overrides": [
@@ -14864,6 +15524,7 @@
   "verb-clave-to-cleaved": 14,
   "verb-fearest-to-fear": 3,
   "verb-saith-to-says": 1304,
+  "split-buryingplace": 8,
   "spelling-intreat-to-entreat": 20,
   "verb-standest-to-stand": 8,
   "verb-cometh-to-comes": 322,
@@ -14902,6 +15563,8 @@
   "spelling-stript-to-stripped": 1,
   "verb-wotteth-to-wots": 1,
   "verb-forgat-to-forgot": 9,
+  "split-fatfleshed": 2,
+  "split-leanfleshed": 3,
   "verb-canst-to-can": 68,
   "spelling-sheweth-to-shows": 25,
   "verb-drinketh-to-drinks": 20,
@@ -14913,6 +15576,7 @@
   "verb-defiledst-to-defiled": 1,
   "verb-biteth-to-bites": 2,
   "verb-giveth-to-gives": 141,
+  "split-threshingfloor": 17,
   "direction-hence-after-from-to-here": 7,
   "verb-falleth-to-falls": 32,
   "verb-smitest-to-smite": 2,
@@ -14961,6 +15625,7 @@
   "spelling-alway-to-always": 27,
   "verb-coupleth-to-couples": 2,
   "spelling-brasen-to-brazen": 29,
+  "split-shoulderpieces": 4,
   "verb-covereth-to-covers": 28,
   "verb-dresseth-to-dresses": 1,
   "verb-lighteth-to-lights": 3,
@@ -14997,6 +15662,7 @@
   "verb-sprinkleth-to-sprinkles": 2,
   "verb-dieth-to-dies": 30,
   "verb-parteth-to-parts": 4,
+  "split-clovenfooted": 3,
   "verb-cheweth-to-chews": 8,
   "verb-divideth-to-divides": 10,
   "spelling-ospray-to-osprey": 2,
@@ -15019,12 +15685,15 @@
   "verb-vomiteth-to-vomits": 1,
   "spelling-spue-to-spew": 4,
   "spelling-spued-to-spewed": 1,
+  "split-stumblingblock": 14,
   "verb-dwelleth-to-dwells": 68,
   "verb-turneth-to-turns": 40,
   "verb-committeth-to-commits": 19,
   "verb-uncovereth-to-uncovers": 3,
   "verb-floweth-to-flows": 14,
   "verb-profaneth-to-profanes": 1,
+  "split-brokenfooted": 1,
+  "split-brokenhanded": 1,
   "verb-reapest-to-reap": 2,
   "verb-blasphemeth-to-blasphemes": 5,
   "spelling-jubile-to-jubilee": 22,
@@ -15044,6 +15713,7 @@
   "spelling-mixt-to-mixed": 1,
   "verb-layest-to-lay": 3,
   "verb-enviest-to-envy": 1,
+  "split-firstripe": 4,
   "verb-standeth-to-stands": 36,
   "verb-preparest-to-prepare": 3,
   "verb-sinneth-to-sins": 26,
@@ -15057,6 +15727,7 @@
   "verb-blessest-to-bless": 3,
   "verb-cursest-to-curse": 1,
   "verb-stoodest-to-stood": 3,
+  "split-dwellingplace": 4,
   "verb-puttest-to-put": 7,
   "verb-establisheth-to-establishes": 5,
   "verb-confirmeth-to-confirms": 3,
@@ -15150,6 +15821,7 @@
   "verb-commandest-to-command": 4,
   "verb-overfloweth-to-overflows": 1,
   "verb-buildeth-to-builds": 12,
+  "split-lefthanded": 2,
   "verb-marchedst-to-marched": 1,
   "verb-abodest-to-abode": 1,
   "spelling-pransings-to-prancings": 2,
@@ -15190,6 +15862,7 @@
   "spelling-musick-to-music": 24,
   "verb-seeketh-to-seeks": 47,
   "verb-slewest-to-slew": 1,
+  "split-threshingfloors": 2,
   "spelling-subtilly-to-subtly": 4,
   "verb-hideth-to-hides": 20,
   "verb-huntest-to-hunt": 2,
@@ -15210,6 +15883,7 @@
   "verb-redeemedst-to-redeemed": 1,
   "verb-thinkest-to-think": 12,
   "verb-devoureth-to-devours": 14,
+  "split-brickkiln": 3,
   "verb-thinketh-to-thinks": 8,
   "verb-weepeth-to-weeps": 5,
   "verb-mourneth-to-mourns": 11,
@@ -15220,6 +15894,7 @@
   "verb-teacheth-to-teaches": 22,
   "verb-avengeth-to-avenges": 2,
   "verb-ruleth-to-rules": 17,
+  "split-threshingplace": 1,
   "verb-bringest-to-bring": 7,
   "verb-feareth-to-fears": 36,
   "verb-turnest-to-turn": 3,
@@ -15437,6 +16112,7 @@
   "verb-pierceth-to-pierces": 2,
   "verb-kindleth-to-kindles": 4,
   "verb-esteemeth-to-esteems": 4,
+  "split-slingstones": 1,
   "verb-laugheth-to-laughs": 1,
   "verb-defendest-to-defend": 1,
   "verb-waxeth-to-waxes": 4,
@@ -15484,6 +16160,7 @@
   "verb-favourest-to-favour": 1,
   "verb-upholdest-to-uphold": 1,
   "verb-thirsteth-to-thirsts": 4,
+  "split-holyday": 2,
   "verb-sellest-to-sell": 1,
   "verb-sleepest-to-sleep": 4,
   "verb-forgettest-to-forget": 2,
@@ -15555,6 +16232,7 @@
   "verb-satisfiest-to-satisfy": 1,
   "verb-returneth-to-returns": 11,
   "verb-relieveth-to-relieves": 1,
+  "split-twoedged": 4,
   "verb-hearkeneth-to-hearkens": 3,
   "verb-inclineth-to-inclines": 1,
   "tablet-h3871-pro-3-3-17": 1,
@@ -15639,10 +16317,12 @@
   "verb-discerneth-to-discerns": 1,
   "verb-droppeth-to-drops": 1,
   "verb-observeth-to-observes": 1,
+  "split-wellbeloved": 6,
   "verb-knocketh-to-knocks": 4,
   "spelling-inclose-to-enclose": 1,
   "spelling-putrifying-to-putrefying": 1,
   "verb-fadeth-to-fades": 8,
+  "split-pruninghooks": 3,
   "verb-abhorrest-to-abhor": 3,
   "spelling-sycomores-to-sycamores": 1,
   "verb-heweth-to-hews": 3,
@@ -15654,6 +16334,7 @@
   "verb-staggereth-to-staggers": 1,
   "verb-graveth-to-graves": 1,
   "verb-languisheth-to-languishes": 8,
+  "split-merryhearted": 1,
   "verb-endeth-to-ends": 1,
   "verb-swimmeth-to-swims": 1,
   "verb-stayeth-to-stays": 2,
@@ -15699,6 +16380,8 @@
   "verb-rentest-to-rent": 1,
   "verb-bewaileth-to-bewails": 1,
   "verb-reserveth-to-reserves": 2,
+  "split-grapegatherer": 1,
+  "split-stumblingblocks": 4,
   "verb-rusheth-to-rushes": 1,
   "verb-glorieth-to-glories": 4,
   "verb-rejoicest-to-rejoice": 1,
@@ -15709,13 +16392,17 @@
   "verb-hatcheth-to-hatches": 1,
   "verb-closest-to-close": 1,
   "verb-prophesieth-to-prophesies": 7,
+  "split-dwellingplaces": 5,
   "override-thine-standalone-jer-32-7-to-yours": 1,
   "verb-recompensest-to-recompense": 1,
   "verb-considerest-to-consider": 2,
+  "split-winterhouse": 1,
   "verb-fallest-to-fall": 1,
   "verb-skippedst-to-skipped": 1,
   "verb-gloriest-to-glory": 1,
+  "split-grapegatherers": 3,
   "override-bare-adjective-jer-49-10-6": 1,
+  "split-restingplace": 1,
   "verb-sigheth-to-sighs": 2,
   "verb-prevaileth-to-prevails": 1,
   "verb-bereaveth-to-bereaves": 1,
@@ -15724,6 +16411,7 @@
   "verb-affecteth-to-affects": 1,
   "verb-drewest-to-drew": 2,
   "verb-remainest-to-remain": 3,
+  "split-stiffhearted": 1,
   "spelling-pourtray-to-portray": 1,
   "spelling-pourtrayed-to-portrayed": 3,
   "spelling-lothing-to-loathing": 1,
@@ -15735,12 +16423,14 @@
   "verb-hirest-to-hire": 1,
   "override-bare-adjective-ezk-16-39-44": 1,
   "verb-lotheth-to-lothes": 1,
+  "split-longwinged": 1,
   "verb-sighest-to-sigh": 1,
   "verb-contemneth-to-contemns": 3,
   "override-bare-adjective-ezk-23-29-21": 1,
   "verb-containeth-to-contains": 3,
   "verb-paintedst-to-painted": 1,
   "verb-playeth-to-plays": 1,
+  "split-couchingplace": 1,
   "verb-spreadest-to-spread": 1,
   "verb-sealest-to-seal": 1,
   "verb-troubledst-to-troubled": 2,
@@ -15759,6 +16449,7 @@
   "override-bare-adjective-jol-1-7-17": 1,
   "verb-formeth-to-forms": 2,
   "verb-createth-to-creates": 1,
+  "split-plumbline": 4,
   "verb-herdman-to-herdsman": 1,
   "verb-repentest-to-repent": 2,
   "verb-halteth-to-halts": 2,
@@ -15766,14 +16457,18 @@
   "verb-pardoneth-to-pardons": 2,
   "verb-revengeth-to-revenges": 3,
   "verb-imagineth-to-imagines": 3,
+  "split-feedingplace": 1,
   "spelling-pransing-to-prancing": 1,
+  "split-wellfavoured": 1,
   "tablet-h3871-hab-2-2-16": 1,
   "verb-readeth-to-reads": 4,
   "verb-ladeth-to-lades": 1,
   "spelling-stablisheth-to-establishes": 2,
   "verb-woundedst-to-wounded": 1,
+  "split-saltpits": 2,
   "verb-earneth-to-earns": 2,
   "verb-voweth-to-vows": 1,
+  "split-storywriter": 2,
   "verb-enforceth-to-enforces": 1,
   "verb-conquereth-to-conquers": 1,
   "spelling-expences-to-expenses": 5,
@@ -15798,7 +16493,9 @@
   "verb-strake-to-struck": 2,
   "verb-issueth-to-issues": 1,
   "verb-punisheth-to-punishes": 3,
+  "split-waitingwoman": 2,
   "verb-protecteth-to-protects": 1,
+  "split-likeminded": 4,
   "verb-belieth-to-belies": 1,
   "verb-upbraideth-to-upbraids": 4,
   "verb-objecteth-to-objects": 1,
@@ -15849,6 +16546,7 @@
   "verb-nurtureth-to-nurtures": 1,
   "verb-tempteth-to-tempts": 2,
   "spelling-expence-to-expense": 1,
+  "split-lightminded": 1,
   "verb-resisteth-to-resists": 5,
   "verb-promiseth-to-promises": 1,
   "verb-displeaseth-to-displeases": 1,
@@ -15866,6 +16564,7 @@
   "verb-betrayest-to-betray": 2,
   "verb-betrayeth-to-betrays": 4,
   "verb-disquieteth-to-disquiets": 1,
+  "split-doubletongued": 2,
   "verb-undertaketh-to-undertakes": 2,
   "verb-darest-to-dare": 1,
   "verb-groaneth-to-groans": 2,
@@ -15895,7 +16594,9 @@
   "verb-dimmeth-to-dims": 1,
   "verb-decreaseth-to-decreases": 1,
   "verb-clotheth-to-clothes": 1,
+  "split-sweetsmelling": 3,
   "verb-endurest-to-endure": 1,
+  "split-fourfooted": 4,
   "verb-offendeth-to-offends": 2,
   "spelling-mastick-to-mastic": 1,
   "verb-maintaineth-to-maintains": 1,
@@ -15926,8 +16627,11 @@
   "yea-g3483-mat-13-51-15": 1,
   "spelling-lowring-to-lowering": 1,
   "verb-savourest-to-savour": 2,
+  "split-fellowservants": 4,
   "verb-owest-to-owe": 4,
+  "split-fellowservant": 6,
   "verb-callest-to-call": 3,
+  "split-moneychangers": 2,
   "yea-g3483-mat-21-16-15": 1,
   "verb-carest-to-care": 3,
   "verb-sanctifieth-to-sanctifies": 4,
@@ -15973,6 +16677,7 @@
   "verb-convinceth-to-convinces": 1,
   "verb-climbeth-to-climbs": 1,
   "verb-blasphemest-to-blaspheme": 1,
+  "split-fellowdisciples": 1,
   "yea-g3483-jhn-11-27-5": 1,
   "verb-rejecteth-to-rejects": 1,
   "verb-sufficeth-to-suffices": 1,
@@ -16007,12 +16712,15 @@
   "verb-commendeth-to-commends": 4,
   "verb-willeth-to-wills": 1,
   "verb-repliest-to-reply": 1,
+  "split-stumblingstone": 2,
   "spelling-graffed-to-grafted": 5,
   "verb-partakest-to-partake": 1,
+  "split-highminded": 3,
   "spelling-graff-to-graft": 1,
   "verb-exhorteth-to-exhorts": 1,
   "verb-alloweth-to-allows": 1,
   "verb-doubteth-to-doubts": 1,
+  "split-fellowprisoners": 1,
   "verb-saluteth-to-salutes": 5,
   "verb-leaveneth-to-leavens": 2,
   "verb-behaveth-to-behaves": 1,
@@ -16037,14 +16745,23 @@
   "tablet-g4109-2co-3-3-30": 1,
   "tablet-g4109-2co-3-3-36": 1,
   "spelling-intreaty-to-entreaty": 1,
+  "split-fellowhelper": 1,
   "verb-purposeth-to-purposes": 1,
   "verb-ministereth-to-ministers": 2,
   "verb-supplieth-to-supplies": 2,
   "verb-compellest-to-compel": 1,
   "verb-disannulleth-to-disannulls": 1,
   "verb-travailest-to-travail": 1,
+  "split-fellowcitizens": 1,
+  "split-fellowheirs": 1,
   "verb-cherisheth-to-cherishes": 2,
+  "split-fellowsoldier": 2,
+  "split-fellowlabourers": 2,
+  "split-wellpleasing": 2,
   "spelling-stedfastness-to-steadfastness": 2,
+  "split-fellowprisoner": 2,
+  "split-fellowworkers": 1,
+  "split-fellowlabourer": 2,
   "verb-opposeth-to-opposes": 1,
   "spelling-broided-to-braided": 1,
   "verb-warreth-to-wars": 1,
@@ -16052,9 +16769,11 @@
   "verb-greeteth-to-greets": 1,
   "verb-oweth-to-owes": 1,
   "yea-g3483-phm-1-20-1": 1,
+  "split-firstbegotten": 1,
   "verb-crownedst-to-crowned": 1,
   "verb-limiteth-to-limits": 1,
   "tablet-g4109-heb-9-4-32": 1,
+  "split-mercyseat": 1,
   "verb-scourgeth-to-scourges": 1,
   "verb-wavereth-to-wavers": 1,
   "verb-bridleth-to-bridles": 1,
@@ -16069,6 +16788,7 @@
   "verb-acknowledgeth-to-acknowledges": 1,
   "verb-overcometh-to-overcomes": 11,
   "verb-biddeth-to-bids": 1,
+  "split-fellowhelpers": 1,
   "verb-ascendeth-to-ascends": 2,
   "verb-exerciseth-to-exercises": 1,
   "yea-g3483-rev-14-13-23": 1

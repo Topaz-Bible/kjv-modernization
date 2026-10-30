@@ -2,6 +2,11 @@
 
 ## Unreleased
 
+- **Words now written as two.** 60 words the KJV prints as one are split the way they're written
+  today, in 166 places: *stumblingblock* → *stumbling block*, *dwellingplace* → *dwelling place*,
+  *threshingfloor* → *threshing floor*, the *fellow-* words (*fellowservant* → *fellow servant*), and
+  hyphens where today's spelling has one (*twoedged* → *two-edged*, *wellbeloved* → *well-beloved*).
+  The list is `words/splits.csv`; `tools/compose_profile.py` writes it into the profile as word rules.
 - **Quotes checked verse by verse against the NIV and ESV.** Of about 26,000 verses in chapters with
   quotes, 24,600 agree with both; 93 verses where the two agreed with each other and not with the KJVm
   were read by hand. Fixed about 30 places: quotes that opened a verse late or closed a verse early

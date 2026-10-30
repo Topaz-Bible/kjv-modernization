@@ -1167,6 +1167,66 @@ direction-thence-after-from-to-there,rule,direction,direction,thence,there,after
 direction-whence-after-from-to-where,rule,direction,direction,whence,where,after “from”,"{""previous_text_in"": [""from""]}",,37,1165
 direction-hence-after-from-to-here,rule,direction,direction,hence,here,after “from”,"{""previous_text_in"": [""from""]}",,7,1166
 direction-whithersoever-to-wherever,rule,direction,direction,whithersoever,wherever,,,,31,1167
+split-threshingfloor,rule,split,old_past_tense,threshingfloor,threshing floor,,,,17,1168
+split-threshingfloors,rule,split,old_past_tense,threshingfloors,threshing floors,,,,2,1169
+split-threshingplace,rule,split,old_past_tense,threshingplace,threshing place,,,,1,1170
+split-stumblingblock,rule,split,old_past_tense,stumblingblock,stumbling block,,,,14,1171
+split-stumblingblocks,rule,split,old_past_tense,stumblingblocks,stumbling blocks,,,,4,1172
+split-stumblingstone,rule,split,old_past_tense,stumblingstone,stumbling stone,,,,2,1173
+split-dwellingplace,rule,split,old_past_tense,dwellingplace,dwelling place,,,,4,1174
+split-dwellingplaces,rule,split,old_past_tense,dwellingplaces,dwelling places,,,,5,1175
+split-restingplace,rule,split,old_past_tense,restingplace,resting place,,,,1,1176
+split-buryingplace,rule,split,old_past_tense,buryingplace,burying place,,,,8,1177
+split-couchingplace,rule,split,old_past_tense,couchingplace,couching place,,,,1,1178
+split-feedingplace,rule,split,old_past_tense,feedingplace,feeding place,,,,1,1179
+split-fellowcitizens,rule,split,old_past_tense,fellowcitizens,fellow citizens,,,,1,1180
+split-fellowdisciples,rule,split,old_past_tense,fellowdisciples,fellow disciples,,,,1,1181
+split-fellowheirs,rule,split,old_past_tense,fellowheirs,fellow heirs,,,,1,1182
+split-fellowhelper,rule,split,old_past_tense,fellowhelper,fellow helper,,,,1,1183
+split-fellowhelpers,rule,split,old_past_tense,fellowhelpers,fellow helpers,,,,1,1184
+split-fellowlabourer,rule,split,old_past_tense,fellowlabourer,fellow labourer,,,,2,1185
+split-fellowlabourers,rule,split,old_past_tense,fellowlabourers,fellow labourers,,,,2,1186
+split-fellowprisoner,rule,split,old_past_tense,fellowprisoner,fellow prisoner,,,,2,1187
+split-fellowprisoners,rule,split,old_past_tense,fellowprisoners,fellow prisoners,,,,1,1188
+split-fellowservant,rule,split,old_past_tense,fellowservant,fellow servant,,,,6,1189
+split-fellowservants,rule,split,old_past_tense,fellowservants,fellow servants,,,,4,1190
+split-fellowsoldier,rule,split,old_past_tense,fellowsoldier,fellow soldier,,,,2,1191
+split-fellowworkers,rule,split,old_past_tense,fellowworkers,fellow workers,,,,1,1192
+split-shoulderpieces,rule,split,old_past_tense,shoulderpieces,shoulder pieces,,,,4,1193
+split-plumbline,rule,split,old_past_tense,plumbline,plumb line,,,,4,1194
+split-pruninghooks,rule,split,old_past_tense,pruninghooks,pruning hooks,,,,3,1195
+split-grapegatherer,rule,split,old_past_tense,grapegatherer,grape gatherer,,,,1,1196
+split-grapegatherers,rule,split,old_past_tense,grapegatherers,grape gatherers,,,,3,1197
+split-moneychangers,rule,split,old_past_tense,moneychangers,money changers,,,,2,1198
+split-saltpits,rule,split,old_past_tense,saltpits,salt pits,,,,2,1199
+split-slingstones,rule,split,old_past_tense,slingstones,sling stones,,,,1,1200
+split-winterhouse,rule,split,old_past_tense,winterhouse,winter house,,,,1,1201
+split-mercyseat,rule,split,old_past_tense,mercyseat,mercy seat,,,,1,1202
+split-brickkiln,rule,split,old_past_tense,brickkiln,brick kiln,,,,3,1203
+split-holyday,rule,split,old_past_tense,holyday,holy day,,,,2,1204
+split-firstripe,rule,split,old_past_tense,firstripe,first ripe,,,,4,1205
+split-waitingwoman,rule,split,old_past_tense,waitingwoman,waiting woman,,,,2,1206
+split-storywriter,rule,split,old_past_tense,storywriter,story writer,,,,2,1207
+split-twoedged,rule,split,old_past_tense,twoedged,two-edged,,,,4,1208
+split-likeminded,rule,split,old_past_tense,likeminded,like-minded,,,,4,1209
+split-fourfooted,rule,split,old_past_tense,fourfooted,four-footed,,,,4,1210
+split-clovenfooted,rule,split,old_past_tense,clovenfooted,cloven-footed,,,,3,1211
+split-brokenfooted,rule,split,old_past_tense,brokenfooted,broken-footed,,,,1,1212
+split-brokenhanded,rule,split,old_past_tense,brokenhanded,broken-handed,,,,1,1213
+split-leanfleshed,rule,split,old_past_tense,leanfleshed,lean-fleshed,,,,3,1214
+split-fatfleshed,rule,split,old_past_tense,fatfleshed,fat-fleshed,,,,2,1215
+split-sweetsmelling,rule,split,old_past_tense,sweetsmelling,sweet-smelling,,,,3,1216
+split-highminded,rule,split,old_past_tense,highminded,high-minded,,,,3,1217
+split-lightminded,rule,split,old_past_tense,lightminded,light-minded,,,,1,1218
+split-lefthanded,rule,split,old_past_tense,lefthanded,left-handed,,,,2,1219
+split-doubletongued,rule,split,old_past_tense,doubletongued,double-tongued,,,,2,1220
+split-longwinged,rule,split,old_past_tense,longwinged,long-winged,,,,1,1221
+split-merryhearted,rule,split,old_past_tense,merryhearted,merry-hearted,,,,1,1222
+split-stiffhearted,rule,split,old_past_tense,stiffhearted,stiff-hearted,,,,1,1223
+split-wellbeloved,rule,split,old_past_tense,wellbeloved,well-beloved,,,,6,1224
+split-wellfavoured,rule,split,old_past_tense,wellfavoured,well-favoured,,,,1,1225
+split-wellpleasing,rule,split,old_past_tense,wellpleasing,well-pleasing,,,,2,1226
+split-firstbegotten,rule,split,old_past_tense,firstbegotten,first-begotten,,,,1,1227
 override-thine-standalone-gen-31-32-to-yours,override,pronoun,override,thine,yours,,,GEN 31:32 #18,1,
 override-thine-first-deu-15-3-to-yours,override,pronoun,override,thine,yours,,,DEU 15:3 #13,1,
 override-thine-standalone-deu-30-4-to-yours,override,pronoun,override,thine,yours,,,DEU 30:4 #4,1,
