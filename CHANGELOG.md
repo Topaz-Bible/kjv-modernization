@@ -2,6 +2,12 @@
 
 ## Unreleased
 
+- **Withal → with where it means *with*.** At the end of a phrase "withal" is the KJV's form of
+  *with* ("to scrape himself withal", Job 2:8), and becomes "with" in 25 places (and 3 in the
+  Apocrypha): two spelling rules, one for a "withal" followed by punctuation and one before *whom*,
+  *out*, *in*, *upon*, *it* or *shall*. Where it means *besides* or *at the same time* (Colossians 4:3,
+  1 Timothy 5:13, 8 places) it stays; `unchanged.md` lists them, and Sirach 13:3 is kept by a
+  single-verse exception.
 - **The KJVm is now the KJVo, a modern overlay.** Same layers, new name: nothing is translated anew,
   the overlay only changes how the King James words are set on the page. `unchanged.md` now lists the
   compounds left as one word (*straightway*, *lovingkindness*, *longsuffering*, *goodman*, …).

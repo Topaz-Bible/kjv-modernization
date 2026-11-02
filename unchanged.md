@@ -42,6 +42,26 @@ it means "indeed", "even" or "rather", and stays:
 - **The Old Testament keeps every yea and nay.** Hebrew has no word for *yes*. "Yea, though I walk through
   the valley of the shadow of death" (Psalm 23:4) is "even though", not "yes".
 
+**Withal.** "Withal" is two words in the KJV. At the end of a phrase it is simply *with*, the form
+"with" took when nothing followed it, and becomes "with" (25 places, and 3 in the Apocrypha):
+"a potsherd to scrape himself withal" (Job 2:8) → "to scrape himself with". Everywhere else it means
+*besides*, *also* or *at the same time*. Writing one of those would mean choosing a translation, so
+these keep the KJV's word (8 places, and 5 in the Apocrypha):
+
+| Verse | The KJV | It means |
+|---|---|---|
+| 1 Samuel 16:12 | "Now he was ruddy, and withal of a beautiful countenance" | besides |
+| 1 Kings 19:1 | "all that Elijah had done, and withal how he had slain all the prophets" | also |
+| Psalm 141:10 | "Let the wicked fall into their own nets, whilst that I withal escape" | at the same time |
+| Proverbs 22:18 | "they shall withal be fitted in thy lips" | together, as well |
+| Acts 25:27 | "to send a prisoner, and not withal to signify the crimes laid against him" | at the same time |
+| Colossians 4:3 | "Withal praying also for us" | at the same time |
+| 1 Timothy 5:13 | "And withal they learn to be idle" | besides |
+| Philemon 1:22 | "But withal prepare me also a lodging" | at the same time |
+
+In the Apocrypha: 1 Esdras 9:48, 2 Maccabees 8:14 and 15:9, Sirach 13:3 ("he threateneth withal:",
+kept by a single-verse exception, since it ends a phrase but means *besides*) and 17:7.
+
 **Bare.** "Bare" becomes "bore" (she bare a son → she bore a son), except in 14 verses where it means
 *naked*: "The Lord hath made bare his holy arm" (Isaiah 52:10).
 

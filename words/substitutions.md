@@ -1,6 +1,6 @@
 # Every word the modernized KJV changes
 
-The Topaz Bible's “Modern overlay” option changes **41,312** of the KJV's **931,532** words (about 4.4%). It uses 1,228 word rules and 107 single-verse exceptions. The underlying text never changes: switch the option off and every word is back to the King James text.
+The Topaz Bible's “Modern overlay” option changes **41,340** of the KJV's **931,532** words (about 4.4%). It uses 1,230 word rules and 108 single-verse exceptions. The underlying text never changes: switch the option off and every word is back to the King James text.
 
 Counts are how many times each change happens in the KJV, Apocrypha included. Generated from KJV package 1.4-primary.20261025.139.40.
 
@@ -13,9 +13,9 @@ Counts are how many times each change happens in the KJV, Apocrypha included. Ge
 | Third-person “-eth” verbs (believeth → believes) | 687 | 5,759 |
 | Second-person “-est” verbs (thou knowest → you know) | 340 | 1,469 |
 | Old past tenses (spake → spoke, bare → bore) | 82 | 1,305 |
-| Old spellings (shew → show) | 88 | 1,036 |
+| Old spellings (shew → show) | 90 | 1,064 |
 | Here, there and where (hither → here, from thence → from there) | 7 | 474 |
-| Single-verse exceptions | 107 | 93 changed, the rest kept as written |
+| Single-verse exceptions | 108 | 93 changed, the rest kept as written |
 
 ## Pronouns (thou, thee, ye, thy, thine, mine)
 
@@ -160,6 +160,7 @@ Same word, modern spelling.
 | musick | music |  | 24 |
 | carcases | carcasses |  | 23 |
 | jubile | jubilee |  | 22 |
+| withal | with | when followed by punctuation | 22 |
 | intreat | entreat |  | 20 |
 | intreated | entreated |  | 20 |
 | shewbread | showbread |  | 20 |
@@ -178,6 +179,7 @@ Same word, modern spelling.
 | sycomore | sycamore |  | 7 |
 | rereward | rearward |  | 6 |
 | subtil | subtle |  | 6 |
+| withal | with | before one of 6 listed words | 6 |
 | bason | basin |  | 5 |
 | expences | expenses |  | 5 |
 | graffed | grafted |  | 5 |
@@ -1395,6 +1397,7 @@ A few words are decided verse by verse. In the New Testament, “yea” becomes 
 | James 5:12 | nay | no |
 | James 5:12 | nay | no |
 | Revelation 14:13 | yea | yes |
+| Sirach 13:3 | withal | withal (unchanged) |
 | Sirach 13:5 | bare | bare (unchanged) |
 | HAB 2:2 | tables | tablets |
 | PRO 3:3 | table | tablet |

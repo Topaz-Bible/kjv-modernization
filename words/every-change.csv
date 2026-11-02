@@ -2523,6 +2523,7 @@ EXO,25,28,2,thou,you,pronoun-thou-to-you
 EXO,25,28,3,shalt,shall,verb-shalt-to-shall
 EXO,25,29,2,thou,you,pronoun-thou-to-you
 EXO,25,29,3,shalt,shall,verb-shalt-to-shall
+EXO,25,29,19,withal,with,spelling-withal-at-phrase-end-to-with
 EXO,25,29,23,shalt,shall,verb-shalt-to-shall
 EXO,25,29,24,thou,you,pronoun-thou-to-you
 EXO,25,30,2,thou,you,pronoun-thou-to-you
@@ -2823,6 +2824,7 @@ EXO,30,4,5,shalt,shall,verb-shalt-to-shall
 EXO,30,4,6,thou,you,pronoun-thou-to-you
 EXO,30,4,26,shalt,shall,verb-shalt-to-shall
 EXO,30,4,27,thou,you,pronoun-thou-to-you
+EXO,30,4,42,withal,with,spelling-withal-at-phrase-end-to-with
 EXO,30,5,2,thou,you,pronoun-thou-to-you
 EXO,30,5,3,shalt,shall,verb-shalt-to-shall
 EXO,30,6,2,thou,you,pronoun-thou-to-you
@@ -2847,6 +2849,7 @@ EXO,30,16,14,shalt,shall,verb-shalt-to-shall
 EXO,30,17,4,spake,spoke,verb-spake-to-spoke
 EXO,30,18,1,Thou,You,pronoun-thou-to-you
 EXO,30,18,2,shalt,shall,verb-shalt-to-shall
+EXO,30,18,17,withal,with,spelling-withal-at-phrase-end-to-with
 EXO,30,18,19,thou,you,pronoun-thou-to-you
 EXO,30,18,20,shalt,shall,verb-shalt-to-shall
 EXO,30,18,33,thou,you,pronoun-thou-to-you
@@ -3103,10 +3106,14 @@ EXO,35,30,12,hath,has,verb-hath-to-has
 EXO,35,31,3,hath,has,verb-hath-to-has
 EXO,35,34,3,hath,has,verb-hath-to-has
 EXO,35,35,2,hath,has,verb-hath-to-has
+EXO,36,3,28,withal,with,spelling-withal-at-phrase-end-to-with
 EXO,36,5,3,spake,spoke,verb-spake-to-spoke
 EXO,36,17,28,coupleth,couples,verb-coupleth-to-couples
+EXO,37,16,24,withal,with,spelling-withal-at-phrase-end-to-with
+EXO,37,27,34,withal,with,spelling-withal-at-phrase-end-to-with
 EXO,38,3,17,basons,basins,spelling-basons-to-basins
 EXO,38,4,8,brasen,brazen,spelling-brasen-to-brazen
+EXO,38,7,18,withal,with,spelling-withal-at-phrase-end-to-with
 EXO,38,10,7,brasen,brazen,spelling-brasen-to-brazen
 EXO,38,30,18,brasen,brazen,spelling-brasen-to-brazen
 EXO,38,30,22,brasen,brazen,spelling-brasen-to-brazen
@@ -3151,6 +3158,7 @@ EXO,40,15,2,thou,you,pronoun-thou-to-you
 EXO,40,15,3,shalt,shall,verb-shalt-to-shall
 EXO,40,15,7,thou,you,pronoun-thou-to-you
 EXO,40,15,8,didst,did,verb-didst-to-did
+EXO,40,30,21,withal,with,spelling-withal-at-phrase-end-to-with
 LEV,1,1,8,spake,spoke,verb-spake-to-spoke
 LEV,1,2,22,ye,you,pronoun-ye-to-you
 LEV,2,4,3,thou,you,pronoun-thou-to-you
@@ -3197,6 +3205,7 @@ LEV,5,1,18,hath,has,verb-hath-to-has
 LEV,5,2,13,carcase,carcass,spelling-carcase-to-carcass
 LEV,5,2,20,carcase,carcass,spelling-carcase-to-carcass
 LEV,5,2,26,carcase,carcass,spelling-carcase-to-carcass
+LEV,5,3,19,withal,with,spelling-withal-at-phrase-end-to-with
 LEV,5,3,28,knoweth,knows,verb-knoweth-to-knows
 LEV,5,4,36,knoweth,knows,verb-knoweth-to-knows
 LEV,5,5,21,hath,has,verb-hath-to-has
@@ -3233,6 +3242,7 @@ LEV,6,26,4,offereth,offers,verb-offereth-to-offers
 LEV,6,27,22,thou,you,pronoun-thou-to-you
 LEV,6,27,23,shalt,shall,verb-shalt-to-shall
 LEV,6,28,19,brasen,brazen,spelling-brasen-to-brazen
+LEV,6,30,20,withal,with,spelling-withal-before-listed-word-to-with
 LEV,7,3,17,covereth,covers,verb-covereth-to-covers
 LEV,7,7,20,maketh,makes,verb-maketh-to-makes
 LEV,7,8,5,offereth,offers,verb-offereth-to-offers
@@ -3337,6 +3347,7 @@ LEV,11,13,30,ospray,osprey,spelling-ospray-to-osprey
 LEV,11,16,10,cuckow,cuckoo,spelling-cuckow-to-cuckoo
 LEV,11,21,4,ye,you,pronoun-ye-to-you
 LEV,11,21,12,goeth,goes,verb-goeth-to-goes
+LEV,11,21,24,withal,with,spelling-withal-before-listed-word-to-with
 LEV,11,22,5,ye,you,pronoun-ye-to-you
 LEV,11,24,4,ye,you,pronoun-ye-to-you
 LEV,11,24,9,toucheth,touches,verb-toucheth-to-touches
@@ -3667,6 +3678,7 @@ LEV,19,22,25,hath,has,verb-hath-to-has
 LEV,19,22,32,hath,has,verb-hath-to-has
 LEV,19,23,3,ye,you,pronoun-ye-to-you
 LEV,19,23,20,ye,you,pronoun-ye-to-you
+LEV,19,24,17,withal,with,spelling-withal-at-phrase-end-to-with
 LEV,19,25,7,ye,you,pronoun-ye-to-you
 LEV,19,26,1,Ye,You,pronoun-ye-to-you
 LEV,19,26,12,ye,you,pronoun-ye-to-you
@@ -4097,6 +4109,7 @@ NUM,3,48,3,shalt,shall,verb-shalt-to-shall
 NUM,4,1,4,spake,spoke,verb-spake-to-spoke
 NUM,4,5,5,setteth,sets,verb-setteth-to-sets
 NUM,4,7,6,shewbread,showbread,spelling-shewbread-to-showbread
+NUM,4,7,29,withal,with,spelling-withal-at-phrase-end-to-with
 NUM,4,14,26,basons,basins,spelling-basons-to-basins
 NUM,4,16,13,pertaineth,pertains,verb-pertaineth-to-pertains
 NUM,4,17,4,spake,spoke,verb-spake-to-spoke
@@ -8600,6 +8613,7 @@ JDG,7,17,32,ye,you,pronoun-ye-to-you
 JDG,7,18,16,ye,you,pronoun-ye-to-you
 JDG,7,19,39,brake,broke,verb-brake-to-broke
 JDG,7,20,9,brake,broke,verb-brake-to-broke
+JDG,7,20,29,withal,with,spelling-withal-at-phrase-end-to-with
 JDG,8,1,10,hast,have,verb-hast-to-have
 JDG,8,1,11,thou,you,pronoun-thou-to-you
 JDG,8,1,16,thou,you,pronoun-thou-to-you
@@ -12671,6 +12685,7 @@ RUT,4,15,35,hath,has,verb-hath-to-has
 2KI,23,15,33,brake,broke,verb-brake-to-broke
 2KI,23,17,37,thou,you,pronoun-thou-to-you
 2KI,23,17,38,hast,have,verb-hast-to-have
+2KI,23,26,30,withal,with,spelling-withal-at-phrase-end-to-with
 2KI,24,2,45,spake,spoke,verb-spake-to-spoke
 2KI,25,10,16,brake,broke,verb-brake-to-broke
 2KI,25,13,19,brasen,brazen,spelling-brasen-to-brazen
@@ -12983,6 +12998,7 @@ RUT,4,15,35,hath,has,verb-hath-to-has
 1CH,28,21,57,thy,your,possessive-thy-to-your
 1CH,29,1,16,hath,has,verb-hath-to-has
 1CH,29,3,17,mine,my,possessive-mine-before-listed-word-to-my
+1CH,29,4,26,withal,with,spelling-withal-at-phrase-end-to-with
 1CH,29,10,15,thou,you,pronoun-thou-to-you
 1CH,29,11,1,Thine,Yours,possessive-thine-after-punctuation-to-yours
 1CH,29,11,31,thine,yours,possessive-thine-after-punctuation-to-yours
@@ -13474,6 +13490,7 @@ RUT,4,15,35,hath,has,verb-hath-to-has
 2CH,24,5,41,ye,you,pronoun-ye-to-you
 2CH,24,6,14,hast,have,verb-hast-to-have
 2CH,24,6,15,thou,you,pronoun-thou-to-you
+2CH,24,14,36,withal,with,spelling-withal-at-phrase-end-to-with
 2CH,24,20,25,saith,says,verb-saith-to-says
 2CH,24,20,29,ye,you,pronoun-ye-to-you
 2CH,24,20,36,ye,you,pronoun-ye-to-you
@@ -13517,6 +13534,7 @@ RUT,4,15,35,hath,has,verb-hath-to-has
 2CH,25,23,28,brake,broke,verb-brake-to-broke
 2CH,26,6,11,brake,broke,verb-brake-to-broke
 2CH,26,10,9,digged,dug,verb-digged-to-dug
+2CH,26,15,26,withal,with,spelling-withal-at-phrase-end-to-with
 2CH,26,18,12,appertaineth,appertains,verb-appertaineth-to-appertains
 2CH,26,18,15,thee,you,pronoun-thee-to-you
 2CH,26,18,43,thou,you,pronoun-thou-to-you
@@ -14020,6 +14038,7 @@ EST,6,6,21,delighteth,delights,verb-delighteth-to-delights
 EST,6,7,12,delighteth,delights,verb-delighteth-to-delights
 EST,6,8,10,useth,uses,verb-useth-to-uses
 EST,6,8,19,rideth,rides,verb-rideth-to-rides
+EST,6,9,26,withal,with,spelling-withal-before-listed-word-to-with
 EST,6,9,30,delighteth,delights,verb-delighteth-to-delights
 EST,6,9,59,delighteth,delights,verb-delighteth-to-delights
 EST,6,10,17,thou,you,pronoun-thou-to-you
@@ -14090,6 +14109,7 @@ JOB,2,5,4,thine,your,possessive-thine-default-to-your
 JOB,2,5,18,thee,you,pronoun-thee-to-you
 JOB,2,5,20,thy,your,possessive-thy-to-your
 JOB,2,6,11,thine,your,possessive-thine-default-to-your
+JOB,2,8,10,withal,with,spelling-withal-at-phrase-end-to-with
 JOB,2,9,7,Dost,Do,verb-dost-to-do
 JOB,2,9,8,thou,you,pronoun-thou-to-you
 JOB,2,9,11,thine,your,possessive-thine-default-to-your
@@ -20867,6 +20887,7 @@ ISA,30,8,9,table,tablet,tablet-h3871-isa-30-8-9
 ISA,30,12,3,saith,says,verb-saith-to-says
 ISA,30,12,10,ye,you,pronoun-ye-to-you
 ISA,30,13,22,cometh,comes,verb-cometh-to-comes
+ISA,30,14,46,withal,with,spelling-withal-before-listed-word-to-with
 ISA,30,15,3,saith,says,verb-saith-to-says
 ISA,30,15,17,ye,you,pronoun-ye-to-you
 ISA,30,15,30,ye,you,pronoun-ye-to-you
@@ -20898,6 +20919,7 @@ ISA,30,22,37,thee,you,pronoun-thee-to-you
 ISA,30,23,8,thy,your,possessive-thy-to-your
 ISA,30,23,11,thou,you,pronoun-thou-to-you
 ISA,30,23,12,shalt,shall,verb-shalt-to-shall
+ISA,30,23,16,withal,with,spelling-withal-at-phrase-end-to-with
 ISA,30,23,36,thy,your,possessive-thy-to-your
 ISA,30,24,17,hath,has,verb-hath-to-has
 ISA,30,26,36,bindeth,binds,verb-bindeth-to-binds
@@ -31977,6 +31999,7 @@ SIR,14,17,16,shalt,shall,verb-shalt-to-shall
 SIR,14,18,24,cometh,comes,verb-cometh-to-comes
 SIR,14,19,3,rotteth,rots,verb-rotteth-to-rots
 SIR,14,19,5,consumeth,consumes,verb-consumeth-to-consumes
+SIR,14,19,13,withal,with,spelling-withal-at-phrase-end-to-with
 SIR,14,20,6,doth,does,verb-doth-to-does
 SIR,14,20,14,reasoneth,reasons,verb-reasoneth-to-reasons
 SIR,14,21,3,considereth,considers,verb-considereth-to-considers
@@ -33332,6 +33355,7 @@ BAR,6,43,25,passeth,passes,verb-passeth-to-passes
 BAR,6,43,31,reproacheth,reproaches,verb-reproacheth-to-reproaches
 BAR,6,48,4,cometh,comes,verb-cometh-to-comes
 BAR,6,55,4,falleth,falls,verb-falleth-to-falls
+BAR,6,58,19,withal,with,spelling-withal-at-phrase-end-to-with
 BAR,6,59,10,sheweth,shows,spelling-sheweth-to-shows
 BAR,6,61,8,breaketh,breaks,verb-breaketh-to-breaks
 BAR,6,61,22,bloweth,blows,verb-bloweth-to-blows
@@ -34052,6 +34076,7 @@ MAN,1,1,400,thine,your,possessive-thine-default-to-your
 2MA,10,3,33,shewbread,showbread,spelling-shewbread-to-showbread
 2MA,10,7,3,bare,bore,verb-bare-to-bore
 2MA,10,26,35,declareth,declares,verb-declareth-to-declares
+2MA,10,35,34,withal,with,spelling-withal-at-phrase-end-to-with
 2MA,11,16,21,sendeth,sends,verb-sendeth-to-sends
 2MA,11,18,19,hath,has,verb-hath-to-has
 2MA,11,19,4,ye,you,pronoun-ye-to-you
@@ -35520,6 +35545,7 @@ MRK,10,38,6,Ye,You,pronoun-ye-to-you
 MRK,10,38,10,ye,you,pronoun-ye-to-you
 MRK,10,38,13,ye,you,pronoun-ye-to-you
 MRK,10,39,13,Ye,You,pronoun-ye-to-you
+MRK,10,39,32,withal,with,spelling-withal-before-listed-word-to-with
 MRK,10,39,34,ye,you,pronoun-ye-to-you
 MRK,10,42,8,saith,says,verb-saith-to-says
 MRK,10,42,11,Ye,You,pronoun-ye-to-you
@@ -35968,6 +35994,7 @@ LUK,6,37,4,ye,you,pronoun-ye-to-you
 LUK,6,37,12,ye,you,pronoun-ye-to-you
 LUK,6,37,19,ye,you,pronoun-ye-to-you
 LUK,6,38,31,ye,you,pronoun-ye-to-you
+LUK,6,38,33,withal,with,spelling-withal-before-listed-word-to-with
 LUK,6,39,3,spake,spoke,verb-spake-to-spoke
 LUK,6,41,3,beholdest,behold,verb-beholdest-to-behold
 LUK,6,41,4,thou,you,pronoun-thou-to-you
@@ -39341,6 +39368,7 @@ ROM,16,25,9,stablish,establish,spelling-stablish-to-establish
 1CO,12,2,15,ye,you,pronoun-ye-to-you
 1CO,12,3,16,calleth,calls,verb-calleth-to-calls
 1CO,12,6,14,worketh,works,verb-worketh-to-works
+1CO,12,7,14,withal,with,spelling-withal-at-phrase-end-to-with
 1CO,12,11,4,worketh,works,verb-worketh-to-works
 1CO,12,12,8,hath,has,verb-hath-to-has
 1CO,12,18,3,hath,has,verb-hath-to-has

@@ -940,293 +940,295 @@ spelling-putrifying-to-putrefying,rule,spelling,spelling,putrifying,putrefying,,
 spelling-ribband-to-ribbon,rule,spelling,spelling,ribband,ribbon,,,,1,938
 spelling-carcase-to-carcass,rule,spelling,spelling,carcase,carcass,,,,35,939
 spelling-carcases-to-carcasses,rule,spelling,spelling,carcases,carcasses,,,,23,940
-verb-gat-to-got,rule,verb,old_past_tense,gat,got,,,,31,941
-verb-clave-to-cleaved,rule,verb,old_past_tense,clave,cleaved,,,,14,942
-verb-bare-to-bore,rule,verb,old_past_tense,bare,bore,,,,191,943
-verb-liveth-to-lives,rule,verb,third_person_eth,liveth,lives,,,,112,944
-verb-believeth-to-believes,rule,verb,third_person_eth,believeth,believes,,,,47,945
-verb-feareth-to-fears,rule,verb,third_person_eth,feareth,fears,,,,36,946
-verb-seemeth-to-seems,rule,verb,third_person_eth,seemeth,seems,,,,31,947
-verb-dieth-to-dies,rule,verb,third_person_eth,dieth,dies,,,,30,948
-verb-openeth-to-opens,rule,verb,third_person_eth,openeth,opens,,,,23,949
-verb-followeth-to-follows,rule,verb,third_person_eth,followeth,follows,,,,22,950
-verb-becometh-to-becomes,rule,verb,third_person_eth,becometh,becomes,,,,22,951
-verb-committeth-to-commits,rule,verb,third_person_eth,committeth,commits,,,,19,952
-verb-pleaseth-to-pleases,rule,verb,third_person_eth,pleaseth,pleases,,,,12,953
-verb-overcometh-to-overcomes,rule,verb,third_person_eth,overcometh,overcomes,,,,11,954
-verb-wanteth-to-wants,rule,verb,third_person_eth,wanteth,wants,,,,10,955
-verb-aileth-to-ails,rule,verb,third_person_eth,aileth,ails,,,,9,956
-verb-laboureth-to-labours,rule,verb,third_person_eth,laboureth,labours,,,,9,957
-verb-needeth-to-needs,rule,verb,third_person_eth,needeth,needs,,,,8,958
-verb-escapeth-to-escapes,rule,verb,third_person_eth,escapeth,escapes,,,,8,959
-verb-fadeth-to-fades,rule,verb,third_person_eth,fadeth,fades,,,,8,960
-verb-pertaineth-to-pertains,rule,verb,third_person_eth,pertaineth,pertains,,,,7,961
-verb-sleepeth-to-sleeps,rule,verb,third_person_eth,sleepeth,sleeps,,,,7,962
-verb-appertaineth-to-appertains,rule,verb,third_person_eth,appertaineth,appertains,,,,6,963
-verb-lusteth-to-lusts,rule,verb,third_person_eth,lusteth,lusts,,,,6,964
-verb-lacketh-to-lacks,rule,verb,third_person_eth,lacketh,lacks,,,,5,965
-verb-slippeth-to-slips,rule,verb,third_person_eth,slippeth,slips,,,,5,966
-verb-liketh-to-likes,rule,verb,third_person_eth,liketh,likes,,,,5,967
-verb-trembleth-to-trembles,rule,verb,third_person_eth,trembleth,trembles,,,,5,968
-verb-tendeth-to-tends,rule,verb,third_person_eth,tendeth,tends,,,,5,969
-verb-quickeneth-to-quickens,rule,verb,third_person_eth,quickeneth,quickens,,,,5,970
-verb-catcheth-to-catches,rule,verb,third_person_eth,catcheth,catches,,,,4,971
-verb-springeth-to-springs,rule,verb,third_person_eth,springeth,springs,,,,4,972
-verb-condemneth-to-condemns,rule,verb,third_person_eth,condemneth,condemns,,,,4,973
-verb-carrieth-to-carries,rule,verb,third_person_eth,carrieth,carries,,,,4,974
-verb-scorneth-to-scorns,rule,verb,third_person_eth,scorneth,scorns,,,,4,975
-verb-waxeth-to-waxes,rule,verb,third_person_eth,waxeth,waxes,,,,4,976
-verb-thirsteth-to-thirsts,rule,verb,third_person_eth,thirsteth,thirsts,,,,4,977
-verb-satisfieth-to-satisfies,rule,verb,third_person_eth,satisfieth,satisfies,,,,4,978
-verb-concerneth-to-concerns,rule,verb,third_person_eth,concerneth,concerns,,,,4,979
-verb-sticketh-to-sticks,rule,verb,third_person_eth,sticketh,sticks,,,,4,980
-verb-aboundeth-to-abounds,rule,verb,third_person_eth,aboundeth,abounds,,,,4,981
-verb-excelleth-to-excels,rule,verb,third_person_eth,excelleth,excels,,,,4,982
-verb-marrieth-to-marries,rule,verb,third_person_eth,marrieth,marries,,,,4,983
-verb-readeth-to-reads,rule,verb,third_person_eth,readeth,reads,,,,4,984
-verb-denieth-to-denies,rule,verb,third_person_eth,denieth,denies,,,,4,985
-verb-forbeareth-to-forbears,rule,verb,third_person_eth,forbeareth,forbears,,,,3,986
-verb-fetcheth-to-fetches,rule,verb,third_person_eth,fetcheth,fetches,,,,3,987
-verb-cleanseth-to-cleanses,rule,verb,third_person_eth,cleanseth,cleanses,,,,3,988
-verb-pitieth-to-pities,rule,verb,third_person_eth,pitieth,pities,,,,3,989
-verb-provoketh-to-provokes,rule,verb,third_person_eth,provoketh,provokes,,,,3,990
-verb-bewrayeth-to-bewrays,rule,verb,third_person_eth,bewrayeth,bewrays,,,,3,991
-verb-befalleth-to-befalls,rule,verb,third_person_eth,befalleth,befalls,,,,3,992
-verb-beginneth-to-begins,rule,verb,third_person_eth,beginneth,begins,,,,3,993
-verb-governeth-to-governs,rule,verb,third_person_eth,governeth,governs,,,,3,994
-verb-punisheth-to-punishes,rule,verb,third_person_eth,punisheth,punishes,,,,3,995
-verb-coupleth-to-couples,rule,verb,third_person_eth,coupleth,couples,,,,2,996
-verb-avengeth-to-avenges,rule,verb,third_person_eth,avengeth,avenges,,,,2,997
-verb-payeth-to-pays,rule,verb,third_person_eth,payeth,pays,,,,2,998
-verb-altereth-to-alters,rule,verb,third_person_eth,altereth,alters,,,,2,999
-verb-earneth-to-earns,rule,verb,third_person_eth,earneth,earns,,,,2,1000
-verb-occupieth-to-occupies,rule,verb,third_person_eth,occupieth,occupies,,,,2,1001
-verb-abateth-to-abates,rule,verb,third_person_eth,abateth,abates,,,,2,1002
-verb-angereth-to-angers,rule,verb,third_person_eth,angereth,angers,,,,2,1003
-verb-requiteth-to-requites,rule,verb,third_person_eth,requiteth,requites,,,,2,1004
-verb-rotteth-to-rots,rule,verb,third_person_eth,rotteth,rots,,,,2,1005
-verb-pricketh-to-pricks,rule,verb,third_person_eth,pricketh,pricks,,,,2,1006
-verb-nameth-to-names,rule,verb,third_person_eth,nameth,names,,,,2,1007
-verb-suspecteth-to-suspects,rule,verb,third_person_eth,suspecteth,suspects,,,,2,1008
-verb-undertaketh-to-undertakes,rule,verb,third_person_eth,undertaketh,undertakes,,,,2,1009
-verb-defraudeth-to-defrauds,rule,verb,third_person_eth,defraudeth,defrauds,,,,2,1010
-verb-marvelleth-to-marvels,rule,verb,third_person_eth,marvelleth,marvels,,,,2,1011
-verb-offendeth-to-offends,rule,verb,third_person_eth,offendeth,offends,,,,2,1012
-verb-foameth-to-foams,rule,verb,third_person_eth,foameth,foams,,,,2,1013
-verb-supplieth-to-supplies,rule,verb,third_person_eth,supplieth,supplies,,,,2,1014
-verb-soundeth-to-sounds,rule,verb,third_person_eth,soundeth,sounds,,,,1,1015
-verb-breatheth-to-breathes,rule,verb,third_person_eth,breatheth,breathes,,,,1,1016
-verb-chanceth-to-chances,rule,verb,third_person_eth,chanceth,chances,,,,1,1017
-verb-deserveth-to-deserves,rule,verb,third_person_eth,deserveth,deserves,,,,1,1018
-verb-entreateth-to-entreats,rule,verb,third_person_eth,entreateth,entreats,,,,1,1019
-verb-hurleth-to-hurls,rule,verb,third_person_eth,hurleth,hurls,,,,1,1020
-verb-extendeth-to-extends,rule,verb,third_person_eth,extendeth,extends,,,,1,1021
-verb-whirleth-to-whirls,rule,verb,third_person_eth,whirleth,whirls,,,,1,1022
-verb-playeth-to-plays,rule,verb,third_person_eth,playeth,plays,,,,1,1023
-verb-appointeth-to-appoints,rule,verb,third_person_eth,appointeth,appoints,,,,1,1024
-verb-slideth-to-slides,rule,verb,third_person_eth,slideth,slides,,,,1,1025
-verb-enforceth-to-enforces,rule,verb,third_person_eth,enforceth,enforces,,,,1,1026
-verb-conquereth-to-conquers,rule,verb,third_person_eth,conquereth,conquers,,,,1,1027
-verb-feeleth-to-feels,rule,verb,third_person_eth,feeleth,feels,,,,1,1028
-verb-quaketh-to-quakes,rule,verb,third_person_eth,quaketh,quakes,,,,1,1029
-verb-burieth-to-buries,rule,verb,third_person_eth,burieth,buries,,,,1,1030
-verb-hurteth-to-hurts,rule,verb,third_person_eth,hurteth,hurts,,,,1,1031
-verb-issueth-to-issues,rule,verb,third_person_eth,issueth,issues,,,,1,1032
-verb-protecteth-to-protects,rule,verb,third_person_eth,protecteth,protects,,,,1,1033
-verb-belieth-to-belies,rule,verb,third_person_eth,belieth,belies,,,,1,1034
-verb-objecteth-to-objects,rule,verb,third_person_eth,objecteth,objects,,,,1,1035
-verb-professeth-to-professes,rule,verb,third_person_eth,professeth,professes,,,,1,1036
-verb-abstaineth-to-abstains,rule,verb,third_person_eth,abstaineth,abstains,,,,1,1037
-verb-pronounceth-to-pronounces,rule,verb,third_person_eth,pronounceth,pronounces,,,,1,1038
-verb-triumpheth-to-triumphs,rule,verb,third_person_eth,triumpheth,triumphs,,,,1,1039
-verb-preventeth-to-prevents,rule,verb,third_person_eth,preventeth,prevents,,,,1,1040
-verb-magnifieth-to-magnifies,rule,verb,third_person_eth,magnifieth,magnifies,,,,1,1041
-verb-conjectureth-to-conjectures,rule,verb,third_person_eth,conjectureth,conjectures,,,,1,1042
-verb-museth-to-muses,rule,verb,third_person_eth,museth,muses,,,,1,1043
-verb-smoketh-to-smokes,rule,verb,third_person_eth,smoketh,smokes,,,,1,1044
-verb-felleth-to-fells,rule,verb,third_person_eth,felleth,fells,,,,1,1045
-verb-beseecheth-to-beseeches,rule,verb,third_person_eth,beseecheth,beseeches,,,,1,1046
-verb-quencheth-to-quenches,rule,verb,third_person_eth,quencheth,quenches,,,,1,1047
-verb-forecasteth-to-forecasts,rule,verb,third_person_eth,forecasteth,forecasts,,,,1,1048
-verb-raineth-to-rains,rule,verb,third_person_eth,raineth,rains,,,,1,1049
-verb-rooteth-to-roots,rule,verb,third_person_eth,rooteth,roots,,,,1,1050
-verb-attendeth-to-attends,rule,verb,third_person_eth,attendeth,attends,,,,1,1051
-verb-bestoweth-to-bestows,rule,verb,third_person_eth,bestoweth,bestows,,,,1,1052
-verb-rusteth-to-rusts,rule,verb,third_person_eth,rusteth,rusts,,,,1,1053
-verb-threateneth-to-threatens,rule,verb,third_person_eth,threateneth,threatens,,,,1,1054
-verb-consorteth-to-consorts,rule,verb,third_person_eth,consorteth,consorts,,,,1,1055
-verb-reasoneth-to-reasons,rule,verb,third_person_eth,reasoneth,reasons,,,,1,1056
-verb-traceth-to-traces,rule,verb,third_person_eth,traceth,traces,,,,1,1057
-verb-prieth-to-pries,rule,verb,third_person_eth,prieth,pries,,,,1,1058
-verb-vieweth-to-views,rule,verb,third_person_eth,vieweth,views,,,,1,1059
-verb-nurtureth-to-nurtures,rule,verb,third_person_eth,nurtureth,nurtures,,,,1,1060
-verb-promiseth-to-promises,rule,verb,third_person_eth,promiseth,promises,,,,1,1061
-verb-displeaseth-to-displeases,rule,verb,third_person_eth,displeaseth,displeases,,,,1,1062
-verb-glueth-to-glues,rule,verb,third_person_eth,glueth,glues,,,,1,1063
-verb-frayeth-to-frays,rule,verb,third_person_eth,frayeth,frays,,,,1,1064
-verb-doateth-to-dotes,rule,verb,third_person_eth,doateth,dotes,,,,1,1065
-verb-communicateth-to-communicates,rule,verb,third_person_eth,communicateth,communicates,,,,1,1066
-verb-sifteth-to-sifts,rule,verb,third_person_eth,sifteth,sifts,,,,1,1067
-verb-disquieteth-to-disquiets,rule,verb,third_person_eth,disquieteth,disquiets,,,,1,1068
-verb-embraceth-to-embraces,rule,verb,third_person_eth,embraceth,embraces,,,,1,1069
-verb-diminisheth-to-diminishes,rule,verb,third_person_eth,diminisheth,diminishes,,,,1,1070
-verb-neigheth-to-neighs,rule,verb,third_person_eth,neigheth,neighs,,,,1,1071
-verb-fancieth-to-fancies,rule,verb,third_person_eth,fancieth,fancies,,,,1,1072
-verb-pulleth-to-pulls,rule,verb,third_person_eth,pulleth,pulls,,,,1,1073
-verb-washeth-to-washes,rule,verb,third_person_eth,washeth,washes,,,,1,1074
-verb-fasteth-to-fasts,rule,verb,third_person_eth,fasteth,fasts,,,,1,1075
-verb-recompenseth-to-recompenses,rule,verb,third_person_eth,recompenseth,recompenses,,,,1,1076
-verb-skippeth-to-skips,rule,verb,third_person_eth,skippeth,skips,,,,1,1077
-verb-extolleth-to-extols,rule,verb,third_person_eth,extolleth,extols,,,,1,1078
-verb-counselleth-to-counsels,rule,verb,third_person_eth,counselleth,counsels,,,,1,1079
-verb-instructeth-to-instructs,rule,verb,third_person_eth,instructeth,instructs,,,,1,1080
-verb-applieth-to-applies,rule,verb,third_person_eth,applieth,applies,,,,1,1081
-verb-dependeth-to-depends,rule,verb,third_person_eth,dependeth,depends,,,,1,1082
-verb-polluteth-to-pollutes,rule,verb,third_person_eth,polluteth,pollutes,,,,1,1083
-verb-despaireth-to-despairs,rule,verb,third_person_eth,despaireth,despairs,,,,1,1084
-verb-parcheth-to-parches,rule,verb,third_person_eth,parcheth,parches,,,,1,1085
-verb-dimmeth-to-dims,rule,verb,third_person_eth,dimmeth,dims,,,,1,1086
-verb-decreaseth-to-decreases,rule,verb,third_person_eth,decreaseth,decreases,,,,1,1087
-verb-clotheth-to-clothes,rule,verb,third_person_eth,clotheth,clothes,,,,1,1088
-verb-maintaineth-to-maintains,rule,verb,third_person_eth,maintaineth,maintains,,,,1,1089
-verb-bordereth-to-borders,rule,verb,third_person_eth,bordereth,borders,,,,1,1090
-verb-defendeth-to-defends,rule,verb,third_person_eth,defendeth,defends,,,,1,1091
-verb-wisheth-to-wishes,rule,verb,third_person_eth,wisheth,wishes,,,,1,1092
-verb-cumbereth-to-cumbers,rule,verb,third_person_eth,cumbereth,cumbers,,,,1,1093
-verb-exhorteth-to-exhorts,rule,verb,third_person_eth,exhorteth,exhorts,,,,1,1094
-verb-advantageth-to-advantages,rule,verb,third_person_eth,advantageth,advantages,,,,1,1095
-verb-opposeth-to-opposes,rule,verb,third_person_eth,opposeth,opposes,,,,1,1096
-verb-lingereth-to-lingers,rule,verb,third_person_eth,lingereth,lingers,,,,1,1097
-verb-acknowledgeth-to-acknowledges,rule,verb,third_person_eth,acknowledgeth,acknowledges,,,,1,1098
-verb-mightest-to-might,rule,verb,second_person_est,mightest,might,,,,23,1099
-verb-thinkest-to-think,rule,verb,second_person_est,thinkest,think,,,,12,1100
-verb-judgest-to-judge,rule,verb,second_person_est,judgest,judge,,,,11,1101
-verb-puttest-to-put,rule,verb,second_person_est,puttest,put,,,,7,1102
-verb-livest-to-live,rule,verb,second_person_est,livest,live,,,,7,1103
-verb-destroyest-to-destroy,rule,verb,second_person_est,destroyest,destroy,,,,4,1104
-verb-fearest-to-fear,rule,verb,second_person_est,fearest,fear,,,,3,1105
-verb-sufferest-to-suffer,rule,verb,second_person_est,sufferest,suffer,,,,3,1106
-verb-callest-to-call,rule,verb,second_person_est,callest,call,,,,3,1107
-verb-causest-to-cause,rule,verb,second_person_est,causest,cause,,,,2,1108
-verb-drewest-to-drew,rule,verb,second_person_est,drewest,drew,,,,2,1109
-verb-servest-to-serve,rule,verb,second_person_est,servest,serve,,,,2,1110
-verb-orderest-to-order,rule,verb,second_person_est,orderest,order,,,,2,1111
-verb-valuest-to-value,rule,verb,second_person_est,valuest,value,,,,1,1112
-verb-belongest-to-belong,rule,verb,second_person_est,belongest,belong,,,,1,1113
-verb-slanderest-to-slander,rule,verb,second_person_est,slanderest,slander,,,,1,1114
-verb-carriest-to-carry,rule,verb,second_person_est,carriest,carry,,,,1,1115
-verb-usest-to-use,rule,verb,second_person_est,usest,use,,,,1,1116
-verb-gaddest-to-gad,rule,verb,second_person_est,gaddest,gad,,,,1,1117
-verb-spreadest-to-spread,rule,verb,second_person_est,spreadest,spread,,,,1,1118
-verb-swimmest-to-swim,rule,verb,second_person_est,swimmest,swim,,,,1,1119
-verb-committest-to-commit,rule,verb,second_person_est,committest,commit,,,,1,1120
-verb-labourest-to-labour,rule,verb,second_person_est,labourest,labour,,,,1,1121
-verb-disquietest-to-disquiet,rule,verb,second_person_est,disquietest,disquiet,,,,1,1122
-verb-disposest-to-dispose,rule,verb,second_person_est,disposest,dispose,,,,1,1123
-verb-sorrowest-to-sorrow,rule,verb,second_person_est,sorrowest,sorrow,,,,1,1124
-verb-forsakest-to-forsake,rule,verb,second_person_est,forsakest,forsake,,,,1,1125
-verb-winkest-to-wink,rule,verb,second_person_est,winkest,wink,,,,1,1126
-verb-sparest-to-spare,rule,verb,second_person_est,sparest,spare,,,,1,1127
-verb-warnest-to-warn,rule,verb,second_person_est,warnest,warn,,,,1,1128
-verb-scourgest-to-scourge,rule,verb,second_person_est,scourgest,scourge,,,,1,1129
-verb-feddest-to-fed,rule,verb,second_person_est,feddest,fed,,,,1,1130
-verb-lendest-to-lend,rule,verb,second_person_est,lendest,lend,,,,1,1131
-verb-wantest-to-want,rule,verb,second_person_est,wantest,want,,,,1,1132
-verb-leavest-to-leave,rule,verb,second_person_est,leavest,leave,,,,1,1133
-verb-followest-to-follow,rule,verb,second_person_est,followest,follow,,,,1,1134
-verb-darest-to-dare,rule,verb,second_person_est,darest,dare,,,,1,1135
-verb-sojournest-to-sojourn,rule,verb,second_person_est,sojournest,sojourn,,,,1,1136
-verb-receivest-to-receive,rule,verb,second_person_est,receivest,receive,,,,1,1137
-verb-endurest-to-endure,rule,verb,second_person_est,endurest,endure,,,,1,1138
-verb-demandest-to-demand,rule,verb,second_person_est,demandest,demand,,,,1,1139
-verb-spendest-to-spend,rule,verb,second_person_est,spendest,spend,,,,1,1140
-verb-contendeth-to-contends,rule,verb,third_person_eth,contendeth,contends,,,,4,1141
-verb-endeavoureth-to-endeavours,rule,verb,third_person_eth,endeavoureth,endeavours,,,,1,1142
-verb-succoureth-to-succours,rule,verb,third_person_eth,succoureth,succours,,,,1,1143
-verb-becamest-to-became,rule,verb,second_person_est,becamest,became,,,,2,1144
-verb-begannest-to-began,rule,verb,second_person_est,begannest,began,,,,2,1145
-verb-meanest-to-mean-before-thou,rule,verb,second_person_est,meanest,mean,before “thou”,"{""next_text_in"": [""thou""]}",,3,1146
-verb-meanest-to-mean-after-thou,rule,verb,second_person_est,meanest,mean,after “thou”,"{""previous_text_in"": [""thou""]}",,1,1147
-verb-meetest-to-meet-after-thou,rule,verb,second_person_est,meetest,meet,after “thou”,"{""previous_text_in"": [""thou""]}",,2,1148
-verb-digged-to-dug,rule,verb,old_past_tense,digged,dug,,,,38,1149
-verb-astonied-to-astonished,rule,verb,old_past_tense,astonied,astonished,,,,10,1150
-verb-forgat-to-forgot,rule,verb,old_past_tense,forgat,forgot,,,,9,1151
-verb-herdman-to-herdsman,rule,verb,old_past_tense,herdman,herdsman,,,,1,1152
-verb-herdmen-to-herdsmen,rule,verb,old_past_tense,herdmen,herdsmen,,,,8,1153
-verb-trode-to-trod,rule,verb,old_past_tense,trode,trod,,,,8,1154
-verb-strawed-to-strewed,rule,verb,old_past_tense,strawed,strewed,,,,5,1155
-verb-strowed-to-strewed,rule,verb,old_past_tense,strowed,strewed,,,,1,1156
-verb-forbad-to-forbade,rule,verb,old_past_tense,forbad,forbade,,,,5,1157
-verb-lien-to-lain,rule,verb,old_past_tense,lien,lain,,,,3,1158
-verb-chode-to-chided,rule,verb,old_past_tense,chode,chided,,,,2,1159
-verb-shaked-to-shook,rule,verb,old_past_tense,shaked,shook,,,,1,1160
-direction-hither-to-here,rule,direction,direction,hither,here,,,,74,1161
-direction-thither-to-there,rule,direction,direction,thither,there,,,,102,1162
-direction-whither-to-where,rule,direction,direction,whither,where,,,,126,1163
-direction-thence-after-from-to-there,rule,direction,direction,thence,there,after “from”,"{""previous_text_in"": [""from""]}",,97,1164
-direction-whence-after-from-to-where,rule,direction,direction,whence,where,after “from”,"{""previous_text_in"": [""from""]}",,37,1165
-direction-hence-after-from-to-here,rule,direction,direction,hence,here,after “from”,"{""previous_text_in"": [""from""]}",,7,1166
-direction-whithersoever-to-wherever,rule,direction,direction,whithersoever,wherever,,,,31,1167
-split-threshingfloor,rule,split,old_past_tense,threshingfloor,threshing floor,,,,17,1168
-split-threshingfloors,rule,split,old_past_tense,threshingfloors,threshing floors,,,,2,1169
-split-threshingplace,rule,split,old_past_tense,threshingplace,threshing place,,,,1,1170
-split-stumblingblock,rule,split,old_past_tense,stumblingblock,stumbling block,,,,14,1171
-split-stumblingblocks,rule,split,old_past_tense,stumblingblocks,stumbling blocks,,,,4,1172
-split-stumblingstone,rule,split,old_past_tense,stumblingstone,stumbling stone,,,,2,1173
-split-dwellingplace,rule,split,old_past_tense,dwellingplace,dwelling place,,,,4,1174
-split-dwellingplaces,rule,split,old_past_tense,dwellingplaces,dwelling places,,,,5,1175
-split-restingplace,rule,split,old_past_tense,restingplace,resting place,,,,1,1176
-split-buryingplace,rule,split,old_past_tense,buryingplace,burying place,,,,8,1177
-split-couchingplace,rule,split,old_past_tense,couchingplace,couching place,,,,1,1178
-split-feedingplace,rule,split,old_past_tense,feedingplace,feeding place,,,,1,1179
-split-fellowcitizens,rule,split,old_past_tense,fellowcitizens,fellow citizens,,,,1,1180
-split-fellowdisciples,rule,split,old_past_tense,fellowdisciples,fellow disciples,,,,1,1181
-split-fellowheirs,rule,split,old_past_tense,fellowheirs,fellow heirs,,,,1,1182
-split-fellowhelper,rule,split,old_past_tense,fellowhelper,fellow helper,,,,1,1183
-split-fellowhelpers,rule,split,old_past_tense,fellowhelpers,fellow helpers,,,,1,1184
-split-fellowlabourer,rule,split,old_past_tense,fellowlabourer,fellow labourer,,,,2,1185
-split-fellowlabourers,rule,split,old_past_tense,fellowlabourers,fellow labourers,,,,2,1186
-split-fellowprisoner,rule,split,old_past_tense,fellowprisoner,fellow prisoner,,,,2,1187
-split-fellowprisoners,rule,split,old_past_tense,fellowprisoners,fellow prisoners,,,,1,1188
-split-fellowservant,rule,split,old_past_tense,fellowservant,fellow servant,,,,6,1189
-split-fellowservants,rule,split,old_past_tense,fellowservants,fellow servants,,,,4,1190
-split-fellowsoldier,rule,split,old_past_tense,fellowsoldier,fellow soldier,,,,2,1191
-split-fellowworkers,rule,split,old_past_tense,fellowworkers,fellow workers,,,,1,1192
-split-shoulderpieces,rule,split,old_past_tense,shoulderpieces,shoulder pieces,,,,4,1193
-split-plumbline,rule,split,old_past_tense,plumbline,plumb line,,,,4,1194
-split-pruninghooks,rule,split,old_past_tense,pruninghooks,pruning hooks,,,,3,1195
-split-grapegatherer,rule,split,old_past_tense,grapegatherer,grape gatherer,,,,1,1196
-split-grapegatherers,rule,split,old_past_tense,grapegatherers,grape gatherers,,,,3,1197
-split-moneychangers,rule,split,old_past_tense,moneychangers,money changers,,,,2,1198
-split-saltpits,rule,split,old_past_tense,saltpits,salt pits,,,,2,1199
-split-slingstones,rule,split,old_past_tense,slingstones,sling stones,,,,1,1200
-split-winterhouse,rule,split,old_past_tense,winterhouse,winter house,,,,1,1201
-split-mercyseat,rule,split,old_past_tense,mercyseat,mercy seat,,,,1,1202
-split-brickkiln,rule,split,old_past_tense,brickkiln,brick kiln,,,,3,1203
-split-holyday,rule,split,old_past_tense,holyday,holy day,,,,2,1204
-split-firstripe,rule,split,old_past_tense,firstripe,first ripe,,,,4,1205
-split-waitingwoman,rule,split,old_past_tense,waitingwoman,waiting woman,,,,2,1206
-split-storywriter,rule,split,old_past_tense,storywriter,story writer,,,,2,1207
-split-twoedged,rule,split,old_past_tense,twoedged,two-edged,,,,4,1208
-split-likeminded,rule,split,old_past_tense,likeminded,like-minded,,,,4,1209
-split-fourfooted,rule,split,old_past_tense,fourfooted,four-footed,,,,4,1210
-split-clovenfooted,rule,split,old_past_tense,clovenfooted,cloven-footed,,,,3,1211
-split-brokenfooted,rule,split,old_past_tense,brokenfooted,broken-footed,,,,1,1212
-split-brokenhanded,rule,split,old_past_tense,brokenhanded,broken-handed,,,,1,1213
-split-leanfleshed,rule,split,old_past_tense,leanfleshed,lean-fleshed,,,,3,1214
-split-fatfleshed,rule,split,old_past_tense,fatfleshed,fat-fleshed,,,,2,1215
-split-sweetsmelling,rule,split,old_past_tense,sweetsmelling,sweet-smelling,,,,3,1216
-split-highminded,rule,split,old_past_tense,highminded,high-minded,,,,3,1217
-split-lightminded,rule,split,old_past_tense,lightminded,light-minded,,,,1,1218
-split-lefthanded,rule,split,old_past_tense,lefthanded,left-handed,,,,2,1219
-split-doubletongued,rule,split,old_past_tense,doubletongued,double-tongued,,,,2,1220
-split-longwinged,rule,split,old_past_tense,longwinged,long-winged,,,,1,1221
-split-merryhearted,rule,split,old_past_tense,merryhearted,merry-hearted,,,,1,1222
-split-stiffhearted,rule,split,old_past_tense,stiffhearted,stiff-hearted,,,,1,1223
-split-wellbeloved,rule,split,old_past_tense,wellbeloved,well-beloved,,,,6,1224
-split-wellfavoured,rule,split,old_past_tense,wellfavoured,well-favoured,,,,1,1225
-split-wellpleasing,rule,split,old_past_tense,wellpleasing,well-pleasing,,,,2,1226
-split-firstbegotten,rule,split,old_past_tense,firstbegotten,first-begotten,,,,1,1227
+spelling-withal-at-phrase-end-to-with,rule,spelling,spelling,withal,with,when followed by punctuation,"{""after_punctuation_present"": true}",,22,941
+spelling-withal-before-listed-word-to-with,rule,spelling,spelling,withal,with,before one of 6 listed words,"{""next_text_in"": [""whom"", ""out"", ""in"", ""upon"", ""it"", ""shall""]}",,6,942
+verb-gat-to-got,rule,verb,old_past_tense,gat,got,,,,31,943
+verb-clave-to-cleaved,rule,verb,old_past_tense,clave,cleaved,,,,14,944
+verb-bare-to-bore,rule,verb,old_past_tense,bare,bore,,,,191,945
+verb-liveth-to-lives,rule,verb,third_person_eth,liveth,lives,,,,112,946
+verb-believeth-to-believes,rule,verb,third_person_eth,believeth,believes,,,,47,947
+verb-feareth-to-fears,rule,verb,third_person_eth,feareth,fears,,,,36,948
+verb-seemeth-to-seems,rule,verb,third_person_eth,seemeth,seems,,,,31,949
+verb-dieth-to-dies,rule,verb,third_person_eth,dieth,dies,,,,30,950
+verb-openeth-to-opens,rule,verb,third_person_eth,openeth,opens,,,,23,951
+verb-followeth-to-follows,rule,verb,third_person_eth,followeth,follows,,,,22,952
+verb-becometh-to-becomes,rule,verb,third_person_eth,becometh,becomes,,,,22,953
+verb-committeth-to-commits,rule,verb,third_person_eth,committeth,commits,,,,19,954
+verb-pleaseth-to-pleases,rule,verb,third_person_eth,pleaseth,pleases,,,,12,955
+verb-overcometh-to-overcomes,rule,verb,third_person_eth,overcometh,overcomes,,,,11,956
+verb-wanteth-to-wants,rule,verb,third_person_eth,wanteth,wants,,,,10,957
+verb-aileth-to-ails,rule,verb,third_person_eth,aileth,ails,,,,9,958
+verb-laboureth-to-labours,rule,verb,third_person_eth,laboureth,labours,,,,9,959
+verb-needeth-to-needs,rule,verb,third_person_eth,needeth,needs,,,,8,960
+verb-escapeth-to-escapes,rule,verb,third_person_eth,escapeth,escapes,,,,8,961
+verb-fadeth-to-fades,rule,verb,third_person_eth,fadeth,fades,,,,8,962
+verb-pertaineth-to-pertains,rule,verb,third_person_eth,pertaineth,pertains,,,,7,963
+verb-sleepeth-to-sleeps,rule,verb,third_person_eth,sleepeth,sleeps,,,,7,964
+verb-appertaineth-to-appertains,rule,verb,third_person_eth,appertaineth,appertains,,,,6,965
+verb-lusteth-to-lusts,rule,verb,third_person_eth,lusteth,lusts,,,,6,966
+verb-lacketh-to-lacks,rule,verb,third_person_eth,lacketh,lacks,,,,5,967
+verb-slippeth-to-slips,rule,verb,third_person_eth,slippeth,slips,,,,5,968
+verb-liketh-to-likes,rule,verb,third_person_eth,liketh,likes,,,,5,969
+verb-trembleth-to-trembles,rule,verb,third_person_eth,trembleth,trembles,,,,5,970
+verb-tendeth-to-tends,rule,verb,third_person_eth,tendeth,tends,,,,5,971
+verb-quickeneth-to-quickens,rule,verb,third_person_eth,quickeneth,quickens,,,,5,972
+verb-catcheth-to-catches,rule,verb,third_person_eth,catcheth,catches,,,,4,973
+verb-springeth-to-springs,rule,verb,third_person_eth,springeth,springs,,,,4,974
+verb-condemneth-to-condemns,rule,verb,third_person_eth,condemneth,condemns,,,,4,975
+verb-carrieth-to-carries,rule,verb,third_person_eth,carrieth,carries,,,,4,976
+verb-scorneth-to-scorns,rule,verb,third_person_eth,scorneth,scorns,,,,4,977
+verb-waxeth-to-waxes,rule,verb,third_person_eth,waxeth,waxes,,,,4,978
+verb-thirsteth-to-thirsts,rule,verb,third_person_eth,thirsteth,thirsts,,,,4,979
+verb-satisfieth-to-satisfies,rule,verb,third_person_eth,satisfieth,satisfies,,,,4,980
+verb-concerneth-to-concerns,rule,verb,third_person_eth,concerneth,concerns,,,,4,981
+verb-sticketh-to-sticks,rule,verb,third_person_eth,sticketh,sticks,,,,4,982
+verb-aboundeth-to-abounds,rule,verb,third_person_eth,aboundeth,abounds,,,,4,983
+verb-excelleth-to-excels,rule,verb,third_person_eth,excelleth,excels,,,,4,984
+verb-marrieth-to-marries,rule,verb,third_person_eth,marrieth,marries,,,,4,985
+verb-readeth-to-reads,rule,verb,third_person_eth,readeth,reads,,,,4,986
+verb-denieth-to-denies,rule,verb,third_person_eth,denieth,denies,,,,4,987
+verb-forbeareth-to-forbears,rule,verb,third_person_eth,forbeareth,forbears,,,,3,988
+verb-fetcheth-to-fetches,rule,verb,third_person_eth,fetcheth,fetches,,,,3,989
+verb-cleanseth-to-cleanses,rule,verb,third_person_eth,cleanseth,cleanses,,,,3,990
+verb-pitieth-to-pities,rule,verb,third_person_eth,pitieth,pities,,,,3,991
+verb-provoketh-to-provokes,rule,verb,third_person_eth,provoketh,provokes,,,,3,992
+verb-bewrayeth-to-bewrays,rule,verb,third_person_eth,bewrayeth,bewrays,,,,3,993
+verb-befalleth-to-befalls,rule,verb,third_person_eth,befalleth,befalls,,,,3,994
+verb-beginneth-to-begins,rule,verb,third_person_eth,beginneth,begins,,,,3,995
+verb-governeth-to-governs,rule,verb,third_person_eth,governeth,governs,,,,3,996
+verb-punisheth-to-punishes,rule,verb,third_person_eth,punisheth,punishes,,,,3,997
+verb-coupleth-to-couples,rule,verb,third_person_eth,coupleth,couples,,,,2,998
+verb-avengeth-to-avenges,rule,verb,third_person_eth,avengeth,avenges,,,,2,999
+verb-payeth-to-pays,rule,verb,third_person_eth,payeth,pays,,,,2,1000
+verb-altereth-to-alters,rule,verb,third_person_eth,altereth,alters,,,,2,1001
+verb-earneth-to-earns,rule,verb,third_person_eth,earneth,earns,,,,2,1002
+verb-occupieth-to-occupies,rule,verb,third_person_eth,occupieth,occupies,,,,2,1003
+verb-abateth-to-abates,rule,verb,third_person_eth,abateth,abates,,,,2,1004
+verb-angereth-to-angers,rule,verb,third_person_eth,angereth,angers,,,,2,1005
+verb-requiteth-to-requites,rule,verb,third_person_eth,requiteth,requites,,,,2,1006
+verb-rotteth-to-rots,rule,verb,third_person_eth,rotteth,rots,,,,2,1007
+verb-pricketh-to-pricks,rule,verb,third_person_eth,pricketh,pricks,,,,2,1008
+verb-nameth-to-names,rule,verb,third_person_eth,nameth,names,,,,2,1009
+verb-suspecteth-to-suspects,rule,verb,third_person_eth,suspecteth,suspects,,,,2,1010
+verb-undertaketh-to-undertakes,rule,verb,third_person_eth,undertaketh,undertakes,,,,2,1011
+verb-defraudeth-to-defrauds,rule,verb,third_person_eth,defraudeth,defrauds,,,,2,1012
+verb-marvelleth-to-marvels,rule,verb,third_person_eth,marvelleth,marvels,,,,2,1013
+verb-offendeth-to-offends,rule,verb,third_person_eth,offendeth,offends,,,,2,1014
+verb-foameth-to-foams,rule,verb,third_person_eth,foameth,foams,,,,2,1015
+verb-supplieth-to-supplies,rule,verb,third_person_eth,supplieth,supplies,,,,2,1016
+verb-soundeth-to-sounds,rule,verb,third_person_eth,soundeth,sounds,,,,1,1017
+verb-breatheth-to-breathes,rule,verb,third_person_eth,breatheth,breathes,,,,1,1018
+verb-chanceth-to-chances,rule,verb,third_person_eth,chanceth,chances,,,,1,1019
+verb-deserveth-to-deserves,rule,verb,third_person_eth,deserveth,deserves,,,,1,1020
+verb-entreateth-to-entreats,rule,verb,third_person_eth,entreateth,entreats,,,,1,1021
+verb-hurleth-to-hurls,rule,verb,third_person_eth,hurleth,hurls,,,,1,1022
+verb-extendeth-to-extends,rule,verb,third_person_eth,extendeth,extends,,,,1,1023
+verb-whirleth-to-whirls,rule,verb,third_person_eth,whirleth,whirls,,,,1,1024
+verb-playeth-to-plays,rule,verb,third_person_eth,playeth,plays,,,,1,1025
+verb-appointeth-to-appoints,rule,verb,third_person_eth,appointeth,appoints,,,,1,1026
+verb-slideth-to-slides,rule,verb,third_person_eth,slideth,slides,,,,1,1027
+verb-enforceth-to-enforces,rule,verb,third_person_eth,enforceth,enforces,,,,1,1028
+verb-conquereth-to-conquers,rule,verb,third_person_eth,conquereth,conquers,,,,1,1029
+verb-feeleth-to-feels,rule,verb,third_person_eth,feeleth,feels,,,,1,1030
+verb-quaketh-to-quakes,rule,verb,third_person_eth,quaketh,quakes,,,,1,1031
+verb-burieth-to-buries,rule,verb,third_person_eth,burieth,buries,,,,1,1032
+verb-hurteth-to-hurts,rule,verb,third_person_eth,hurteth,hurts,,,,1,1033
+verb-issueth-to-issues,rule,verb,third_person_eth,issueth,issues,,,,1,1034
+verb-protecteth-to-protects,rule,verb,third_person_eth,protecteth,protects,,,,1,1035
+verb-belieth-to-belies,rule,verb,third_person_eth,belieth,belies,,,,1,1036
+verb-objecteth-to-objects,rule,verb,third_person_eth,objecteth,objects,,,,1,1037
+verb-professeth-to-professes,rule,verb,third_person_eth,professeth,professes,,,,1,1038
+verb-abstaineth-to-abstains,rule,verb,third_person_eth,abstaineth,abstains,,,,1,1039
+verb-pronounceth-to-pronounces,rule,verb,third_person_eth,pronounceth,pronounces,,,,1,1040
+verb-triumpheth-to-triumphs,rule,verb,third_person_eth,triumpheth,triumphs,,,,1,1041
+verb-preventeth-to-prevents,rule,verb,third_person_eth,preventeth,prevents,,,,1,1042
+verb-magnifieth-to-magnifies,rule,verb,third_person_eth,magnifieth,magnifies,,,,1,1043
+verb-conjectureth-to-conjectures,rule,verb,third_person_eth,conjectureth,conjectures,,,,1,1044
+verb-museth-to-muses,rule,verb,third_person_eth,museth,muses,,,,1,1045
+verb-smoketh-to-smokes,rule,verb,third_person_eth,smoketh,smokes,,,,1,1046
+verb-felleth-to-fells,rule,verb,third_person_eth,felleth,fells,,,,1,1047
+verb-beseecheth-to-beseeches,rule,verb,third_person_eth,beseecheth,beseeches,,,,1,1048
+verb-quencheth-to-quenches,rule,verb,third_person_eth,quencheth,quenches,,,,1,1049
+verb-forecasteth-to-forecasts,rule,verb,third_person_eth,forecasteth,forecasts,,,,1,1050
+verb-raineth-to-rains,rule,verb,third_person_eth,raineth,rains,,,,1,1051
+verb-rooteth-to-roots,rule,verb,third_person_eth,rooteth,roots,,,,1,1052
+verb-attendeth-to-attends,rule,verb,third_person_eth,attendeth,attends,,,,1,1053
+verb-bestoweth-to-bestows,rule,verb,third_person_eth,bestoweth,bestows,,,,1,1054
+verb-rusteth-to-rusts,rule,verb,third_person_eth,rusteth,rusts,,,,1,1055
+verb-threateneth-to-threatens,rule,verb,third_person_eth,threateneth,threatens,,,,1,1056
+verb-consorteth-to-consorts,rule,verb,third_person_eth,consorteth,consorts,,,,1,1057
+verb-reasoneth-to-reasons,rule,verb,third_person_eth,reasoneth,reasons,,,,1,1058
+verb-traceth-to-traces,rule,verb,third_person_eth,traceth,traces,,,,1,1059
+verb-prieth-to-pries,rule,verb,third_person_eth,prieth,pries,,,,1,1060
+verb-vieweth-to-views,rule,verb,third_person_eth,vieweth,views,,,,1,1061
+verb-nurtureth-to-nurtures,rule,verb,third_person_eth,nurtureth,nurtures,,,,1,1062
+verb-promiseth-to-promises,rule,verb,third_person_eth,promiseth,promises,,,,1,1063
+verb-displeaseth-to-displeases,rule,verb,third_person_eth,displeaseth,displeases,,,,1,1064
+verb-glueth-to-glues,rule,verb,third_person_eth,glueth,glues,,,,1,1065
+verb-frayeth-to-frays,rule,verb,third_person_eth,frayeth,frays,,,,1,1066
+verb-doateth-to-dotes,rule,verb,third_person_eth,doateth,dotes,,,,1,1067
+verb-communicateth-to-communicates,rule,verb,third_person_eth,communicateth,communicates,,,,1,1068
+verb-sifteth-to-sifts,rule,verb,third_person_eth,sifteth,sifts,,,,1,1069
+verb-disquieteth-to-disquiets,rule,verb,third_person_eth,disquieteth,disquiets,,,,1,1070
+verb-embraceth-to-embraces,rule,verb,third_person_eth,embraceth,embraces,,,,1,1071
+verb-diminisheth-to-diminishes,rule,verb,third_person_eth,diminisheth,diminishes,,,,1,1072
+verb-neigheth-to-neighs,rule,verb,third_person_eth,neigheth,neighs,,,,1,1073
+verb-fancieth-to-fancies,rule,verb,third_person_eth,fancieth,fancies,,,,1,1074
+verb-pulleth-to-pulls,rule,verb,third_person_eth,pulleth,pulls,,,,1,1075
+verb-washeth-to-washes,rule,verb,third_person_eth,washeth,washes,,,,1,1076
+verb-fasteth-to-fasts,rule,verb,third_person_eth,fasteth,fasts,,,,1,1077
+verb-recompenseth-to-recompenses,rule,verb,third_person_eth,recompenseth,recompenses,,,,1,1078
+verb-skippeth-to-skips,rule,verb,third_person_eth,skippeth,skips,,,,1,1079
+verb-extolleth-to-extols,rule,verb,third_person_eth,extolleth,extols,,,,1,1080
+verb-counselleth-to-counsels,rule,verb,third_person_eth,counselleth,counsels,,,,1,1081
+verb-instructeth-to-instructs,rule,verb,third_person_eth,instructeth,instructs,,,,1,1082
+verb-applieth-to-applies,rule,verb,third_person_eth,applieth,applies,,,,1,1083
+verb-dependeth-to-depends,rule,verb,third_person_eth,dependeth,depends,,,,1,1084
+verb-polluteth-to-pollutes,rule,verb,third_person_eth,polluteth,pollutes,,,,1,1085
+verb-despaireth-to-despairs,rule,verb,third_person_eth,despaireth,despairs,,,,1,1086
+verb-parcheth-to-parches,rule,verb,third_person_eth,parcheth,parches,,,,1,1087
+verb-dimmeth-to-dims,rule,verb,third_person_eth,dimmeth,dims,,,,1,1088
+verb-decreaseth-to-decreases,rule,verb,third_person_eth,decreaseth,decreases,,,,1,1089
+verb-clotheth-to-clothes,rule,verb,third_person_eth,clotheth,clothes,,,,1,1090
+verb-maintaineth-to-maintains,rule,verb,third_person_eth,maintaineth,maintains,,,,1,1091
+verb-bordereth-to-borders,rule,verb,third_person_eth,bordereth,borders,,,,1,1092
+verb-defendeth-to-defends,rule,verb,third_person_eth,defendeth,defends,,,,1,1093
+verb-wisheth-to-wishes,rule,verb,third_person_eth,wisheth,wishes,,,,1,1094
+verb-cumbereth-to-cumbers,rule,verb,third_person_eth,cumbereth,cumbers,,,,1,1095
+verb-exhorteth-to-exhorts,rule,verb,third_person_eth,exhorteth,exhorts,,,,1,1096
+verb-advantageth-to-advantages,rule,verb,third_person_eth,advantageth,advantages,,,,1,1097
+verb-opposeth-to-opposes,rule,verb,third_person_eth,opposeth,opposes,,,,1,1098
+verb-lingereth-to-lingers,rule,verb,third_person_eth,lingereth,lingers,,,,1,1099
+verb-acknowledgeth-to-acknowledges,rule,verb,third_person_eth,acknowledgeth,acknowledges,,,,1,1100
+verb-mightest-to-might,rule,verb,second_person_est,mightest,might,,,,23,1101
+verb-thinkest-to-think,rule,verb,second_person_est,thinkest,think,,,,12,1102
+verb-judgest-to-judge,rule,verb,second_person_est,judgest,judge,,,,11,1103
+verb-puttest-to-put,rule,verb,second_person_est,puttest,put,,,,7,1104
+verb-livest-to-live,rule,verb,second_person_est,livest,live,,,,7,1105
+verb-destroyest-to-destroy,rule,verb,second_person_est,destroyest,destroy,,,,4,1106
+verb-fearest-to-fear,rule,verb,second_person_est,fearest,fear,,,,3,1107
+verb-sufferest-to-suffer,rule,verb,second_person_est,sufferest,suffer,,,,3,1108
+verb-callest-to-call,rule,verb,second_person_est,callest,call,,,,3,1109
+verb-causest-to-cause,rule,verb,second_person_est,causest,cause,,,,2,1110
+verb-drewest-to-drew,rule,verb,second_person_est,drewest,drew,,,,2,1111
+verb-servest-to-serve,rule,verb,second_person_est,servest,serve,,,,2,1112
+verb-orderest-to-order,rule,verb,second_person_est,orderest,order,,,,2,1113
+verb-valuest-to-value,rule,verb,second_person_est,valuest,value,,,,1,1114
+verb-belongest-to-belong,rule,verb,second_person_est,belongest,belong,,,,1,1115
+verb-slanderest-to-slander,rule,verb,second_person_est,slanderest,slander,,,,1,1116
+verb-carriest-to-carry,rule,verb,second_person_est,carriest,carry,,,,1,1117
+verb-usest-to-use,rule,verb,second_person_est,usest,use,,,,1,1118
+verb-gaddest-to-gad,rule,verb,second_person_est,gaddest,gad,,,,1,1119
+verb-spreadest-to-spread,rule,verb,second_person_est,spreadest,spread,,,,1,1120
+verb-swimmest-to-swim,rule,verb,second_person_est,swimmest,swim,,,,1,1121
+verb-committest-to-commit,rule,verb,second_person_est,committest,commit,,,,1,1122
+verb-labourest-to-labour,rule,verb,second_person_est,labourest,labour,,,,1,1123
+verb-disquietest-to-disquiet,rule,verb,second_person_est,disquietest,disquiet,,,,1,1124
+verb-disposest-to-dispose,rule,verb,second_person_est,disposest,dispose,,,,1,1125
+verb-sorrowest-to-sorrow,rule,verb,second_person_est,sorrowest,sorrow,,,,1,1126
+verb-forsakest-to-forsake,rule,verb,second_person_est,forsakest,forsake,,,,1,1127
+verb-winkest-to-wink,rule,verb,second_person_est,winkest,wink,,,,1,1128
+verb-sparest-to-spare,rule,verb,second_person_est,sparest,spare,,,,1,1129
+verb-warnest-to-warn,rule,verb,second_person_est,warnest,warn,,,,1,1130
+verb-scourgest-to-scourge,rule,verb,second_person_est,scourgest,scourge,,,,1,1131
+verb-feddest-to-fed,rule,verb,second_person_est,feddest,fed,,,,1,1132
+verb-lendest-to-lend,rule,verb,second_person_est,lendest,lend,,,,1,1133
+verb-wantest-to-want,rule,verb,second_person_est,wantest,want,,,,1,1134
+verb-leavest-to-leave,rule,verb,second_person_est,leavest,leave,,,,1,1135
+verb-followest-to-follow,rule,verb,second_person_est,followest,follow,,,,1,1136
+verb-darest-to-dare,rule,verb,second_person_est,darest,dare,,,,1,1137
+verb-sojournest-to-sojourn,rule,verb,second_person_est,sojournest,sojourn,,,,1,1138
+verb-receivest-to-receive,rule,verb,second_person_est,receivest,receive,,,,1,1139
+verb-endurest-to-endure,rule,verb,second_person_est,endurest,endure,,,,1,1140
+verb-demandest-to-demand,rule,verb,second_person_est,demandest,demand,,,,1,1141
+verb-spendest-to-spend,rule,verb,second_person_est,spendest,spend,,,,1,1142
+verb-contendeth-to-contends,rule,verb,third_person_eth,contendeth,contends,,,,4,1143
+verb-endeavoureth-to-endeavours,rule,verb,third_person_eth,endeavoureth,endeavours,,,,1,1144
+verb-succoureth-to-succours,rule,verb,third_person_eth,succoureth,succours,,,,1,1145
+verb-becamest-to-became,rule,verb,second_person_est,becamest,became,,,,2,1146
+verb-begannest-to-began,rule,verb,second_person_est,begannest,began,,,,2,1147
+verb-meanest-to-mean-before-thou,rule,verb,second_person_est,meanest,mean,before “thou”,"{""next_text_in"": [""thou""]}",,3,1148
+verb-meanest-to-mean-after-thou,rule,verb,second_person_est,meanest,mean,after “thou”,"{""previous_text_in"": [""thou""]}",,1,1149
+verb-meetest-to-meet-after-thou,rule,verb,second_person_est,meetest,meet,after “thou”,"{""previous_text_in"": [""thou""]}",,2,1150
+verb-digged-to-dug,rule,verb,old_past_tense,digged,dug,,,,38,1151
+verb-astonied-to-astonished,rule,verb,old_past_tense,astonied,astonished,,,,10,1152
+verb-forgat-to-forgot,rule,verb,old_past_tense,forgat,forgot,,,,9,1153
+verb-herdman-to-herdsman,rule,verb,old_past_tense,herdman,herdsman,,,,1,1154
+verb-herdmen-to-herdsmen,rule,verb,old_past_tense,herdmen,herdsmen,,,,8,1155
+verb-trode-to-trod,rule,verb,old_past_tense,trode,trod,,,,8,1156
+verb-strawed-to-strewed,rule,verb,old_past_tense,strawed,strewed,,,,5,1157
+verb-strowed-to-strewed,rule,verb,old_past_tense,strowed,strewed,,,,1,1158
+verb-forbad-to-forbade,rule,verb,old_past_tense,forbad,forbade,,,,5,1159
+verb-lien-to-lain,rule,verb,old_past_tense,lien,lain,,,,3,1160
+verb-chode-to-chided,rule,verb,old_past_tense,chode,chided,,,,2,1161
+verb-shaked-to-shook,rule,verb,old_past_tense,shaked,shook,,,,1,1162
+direction-hither-to-here,rule,direction,direction,hither,here,,,,74,1163
+direction-thither-to-there,rule,direction,direction,thither,there,,,,102,1164
+direction-whither-to-where,rule,direction,direction,whither,where,,,,126,1165
+direction-thence-after-from-to-there,rule,direction,direction,thence,there,after “from”,"{""previous_text_in"": [""from""]}",,97,1166
+direction-whence-after-from-to-where,rule,direction,direction,whence,where,after “from”,"{""previous_text_in"": [""from""]}",,37,1167
+direction-hence-after-from-to-here,rule,direction,direction,hence,here,after “from”,"{""previous_text_in"": [""from""]}",,7,1168
+direction-whithersoever-to-wherever,rule,direction,direction,whithersoever,wherever,,,,31,1169
+split-threshingfloor,rule,split,old_past_tense,threshingfloor,threshing floor,,,,17,1170
+split-threshingfloors,rule,split,old_past_tense,threshingfloors,threshing floors,,,,2,1171
+split-threshingplace,rule,split,old_past_tense,threshingplace,threshing place,,,,1,1172
+split-stumblingblock,rule,split,old_past_tense,stumblingblock,stumbling block,,,,14,1173
+split-stumblingblocks,rule,split,old_past_tense,stumblingblocks,stumbling blocks,,,,4,1174
+split-stumblingstone,rule,split,old_past_tense,stumblingstone,stumbling stone,,,,2,1175
+split-dwellingplace,rule,split,old_past_tense,dwellingplace,dwelling place,,,,4,1176
+split-dwellingplaces,rule,split,old_past_tense,dwellingplaces,dwelling places,,,,5,1177
+split-restingplace,rule,split,old_past_tense,restingplace,resting place,,,,1,1178
+split-buryingplace,rule,split,old_past_tense,buryingplace,burying place,,,,8,1179
+split-couchingplace,rule,split,old_past_tense,couchingplace,couching place,,,,1,1180
+split-feedingplace,rule,split,old_past_tense,feedingplace,feeding place,,,,1,1181
+split-fellowcitizens,rule,split,old_past_tense,fellowcitizens,fellow citizens,,,,1,1182
+split-fellowdisciples,rule,split,old_past_tense,fellowdisciples,fellow disciples,,,,1,1183
+split-fellowheirs,rule,split,old_past_tense,fellowheirs,fellow heirs,,,,1,1184
+split-fellowhelper,rule,split,old_past_tense,fellowhelper,fellow helper,,,,1,1185
+split-fellowhelpers,rule,split,old_past_tense,fellowhelpers,fellow helpers,,,,1,1186
+split-fellowlabourer,rule,split,old_past_tense,fellowlabourer,fellow labourer,,,,2,1187
+split-fellowlabourers,rule,split,old_past_tense,fellowlabourers,fellow labourers,,,,2,1188
+split-fellowprisoner,rule,split,old_past_tense,fellowprisoner,fellow prisoner,,,,2,1189
+split-fellowprisoners,rule,split,old_past_tense,fellowprisoners,fellow prisoners,,,,1,1190
+split-fellowservant,rule,split,old_past_tense,fellowservant,fellow servant,,,,6,1191
+split-fellowservants,rule,split,old_past_tense,fellowservants,fellow servants,,,,4,1192
+split-fellowsoldier,rule,split,old_past_tense,fellowsoldier,fellow soldier,,,,2,1193
+split-fellowworkers,rule,split,old_past_tense,fellowworkers,fellow workers,,,,1,1194
+split-shoulderpieces,rule,split,old_past_tense,shoulderpieces,shoulder pieces,,,,4,1195
+split-plumbline,rule,split,old_past_tense,plumbline,plumb line,,,,4,1196
+split-pruninghooks,rule,split,old_past_tense,pruninghooks,pruning hooks,,,,3,1197
+split-grapegatherer,rule,split,old_past_tense,grapegatherer,grape gatherer,,,,1,1198
+split-grapegatherers,rule,split,old_past_tense,grapegatherers,grape gatherers,,,,3,1199
+split-moneychangers,rule,split,old_past_tense,moneychangers,money changers,,,,2,1200
+split-saltpits,rule,split,old_past_tense,saltpits,salt pits,,,,2,1201
+split-slingstones,rule,split,old_past_tense,slingstones,sling stones,,,,1,1202
+split-winterhouse,rule,split,old_past_tense,winterhouse,winter house,,,,1,1203
+split-mercyseat,rule,split,old_past_tense,mercyseat,mercy seat,,,,1,1204
+split-brickkiln,rule,split,old_past_tense,brickkiln,brick kiln,,,,3,1205
+split-holyday,rule,split,old_past_tense,holyday,holy day,,,,2,1206
+split-firstripe,rule,split,old_past_tense,firstripe,first ripe,,,,4,1207
+split-waitingwoman,rule,split,old_past_tense,waitingwoman,waiting woman,,,,2,1208
+split-storywriter,rule,split,old_past_tense,storywriter,story writer,,,,2,1209
+split-twoedged,rule,split,old_past_tense,twoedged,two-edged,,,,4,1210
+split-likeminded,rule,split,old_past_tense,likeminded,like-minded,,,,4,1211
+split-fourfooted,rule,split,old_past_tense,fourfooted,four-footed,,,,4,1212
+split-clovenfooted,rule,split,old_past_tense,clovenfooted,cloven-footed,,,,3,1213
+split-brokenfooted,rule,split,old_past_tense,brokenfooted,broken-footed,,,,1,1214
+split-brokenhanded,rule,split,old_past_tense,brokenhanded,broken-handed,,,,1,1215
+split-leanfleshed,rule,split,old_past_tense,leanfleshed,lean-fleshed,,,,3,1216
+split-fatfleshed,rule,split,old_past_tense,fatfleshed,fat-fleshed,,,,2,1217
+split-sweetsmelling,rule,split,old_past_tense,sweetsmelling,sweet-smelling,,,,3,1218
+split-highminded,rule,split,old_past_tense,highminded,high-minded,,,,3,1219
+split-lightminded,rule,split,old_past_tense,lightminded,light-minded,,,,1,1220
+split-lefthanded,rule,split,old_past_tense,lefthanded,left-handed,,,,2,1221
+split-doubletongued,rule,split,old_past_tense,doubletongued,double-tongued,,,,2,1222
+split-longwinged,rule,split,old_past_tense,longwinged,long-winged,,,,1,1223
+split-merryhearted,rule,split,old_past_tense,merryhearted,merry-hearted,,,,1,1224
+split-stiffhearted,rule,split,old_past_tense,stiffhearted,stiff-hearted,,,,1,1225
+split-wellbeloved,rule,split,old_past_tense,wellbeloved,well-beloved,,,,6,1226
+split-wellfavoured,rule,split,old_past_tense,wellfavoured,well-favoured,,,,1,1227
+split-wellpleasing,rule,split,old_past_tense,wellpleasing,well-pleasing,,,,2,1228
+split-firstbegotten,rule,split,old_past_tense,firstbegotten,first-begotten,,,,1,1229
 override-thine-standalone-gen-31-32-to-yours,override,pronoun,override,thine,yours,,,GEN 31:32 #18,1,
 override-thine-first-deu-15-3-to-yours,override,pronoun,override,thine,yours,,,DEU 15:3 #13,1,
 override-thine-standalone-deu-30-4-to-yours,override,pronoun,override,thine,yours,,,DEU 30:4 #4,1,
@@ -1334,3 +1336,4 @@ tablet-g4093-luk-1-63-7,override,meaning,override,table,tablet,,,LUK 1:63 #7,1,
 tablet-g4109-2co-3-3-30,override,meaning,override,tables,tablets,,,2CO 3:3 #30,1,
 tablet-g4109-2co-3-3-36,override,meaning,override,tables,tablets,,,2CO 3:3 #36,1,
 tablet-g4109-heb-9-4-32,override,meaning,override,tables,tablets,,,HEB 9:4 #32,1,
+keep-withal-sir-13-3,override,meaning,override,withal,withal,,,SIR 13:3 #11,1,

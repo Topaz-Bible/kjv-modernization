@@ -34,9 +34,9 @@
  },
  "stats": {
   "tokens_in_kjv": 931532,
-  "tokens_changed": 41312,
-  "rules": 1228,
-  "location_overrides": 107
+  "tokens_changed": 41340,
+  "rules": 1230,
+  "location_overrides": 108
  },
  "rules": [
   {
@@ -10487,6 +10487,41 @@
    }
   },
   {
+   "id": "spelling-withal-at-phrase-end-to-with",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "withal"
+   },
+   "when": {
+    "after_punctuation_present": true
+   },
+   "replace": {
+    "text": "with"
+   }
+  },
+  {
+   "id": "spelling-withal-before-listed-word-to-with",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "withal"
+   },
+   "when": {
+    "next_text_in": [
+     "whom",
+     "out",
+     "in",
+     "upon",
+     "it",
+     "shall"
+    ]
+   },
+   "replace": {
+    "text": "with"
+   }
+  },
+  {
    "id": "verb-gat-to-got",
    "enabled": true,
    "category": "verb",
@@ -15454,6 +15489,23 @@
    "replace": {
     "text": "tablets"
    }
+  },
+  {
+   "id": "keep-withal-sir-13-3",
+   "enabled": true,
+   "category": "meaning",
+   "match": {
+    "text": "withal"
+   },
+   "location": {
+    "book_id": "SIR",
+    "chapter": 13,
+    "verse": 3,
+    "token": 11
+   },
+   "replace": {
+    "text": "withal"
+   }
   }
  ],
  "occurrences": {
@@ -15621,6 +15673,7 @@
   "verb-perverteth-to-perverts": 5,
   "spelling-basons-to-basins": 18,
   "tablet-h3871-exo-24-12-22": 1,
+  "spelling-withal-at-phrase-end-to-with": 22,
   "spelling-shewbread-to-showbread": 20,
   "spelling-alway-to-always": 27,
   "verb-coupleth-to-couples": 2,
@@ -15659,6 +15712,7 @@
   "verb-sweareth-to-swears": 13,
   "verb-appertaineth-to-appertains": 6,
   "verb-offereth-to-offers": 18,
+  "spelling-withal-before-listed-word-to-with": 6,
   "verb-sprinkleth-to-sprinkles": 2,
   "verb-dieth-to-dies": 30,
   "verb-parteth-to-parts": 4,
@@ -16535,6 +16589,7 @@
   "verb-lendest-to-lend": 1,
   "verb-rusteth-to-rusts": 1,
   "verb-threateneth-to-threatens": 1,
+  "keep-withal-sir-13-3": 1,
   "override-bare-adjective-sir-13-5-16": 1,
   "verb-wantest-to-want": 1,
   "verb-consorteth-to-consorts": 1,
