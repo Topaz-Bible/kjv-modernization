@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- **James 5:12: the first "yea" and the first "nay" are quoted**, as in the BSB.
 - **2 Corinthians 1:17–19: every "yea" and "nay" is quoted**, as the BSB quotes each one. Verse 18 had
   only its "yea" marked; verses 17 and 19 had none. Six quotes added in `quotes/reviewed.csv`.
 - **Withal → with where it means *with*.** At the end of a phrase "withal" is the KJV's form of
