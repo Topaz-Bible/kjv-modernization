@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- **2 Corinthians 1:17–19: every "yea" and "nay" is quoted**, as the BSB quotes each one. Verse 18 had
+  only its "yea" marked; verses 17 and 19 had none. Six quotes added in `quotes/reviewed.csv`.
 - **Withal → with where it means *with*.** At the end of a phrase "withal" is the KJV's form of
   *with* ("to scrape himself withal", Job 2:8), and becomes "with" in 25 places (and 3 in the
   Apocrypha): two spelling rules, one for a "withal" followed by punctuation and one before *whom*,
