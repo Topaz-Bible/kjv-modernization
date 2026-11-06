@@ -1031,3 +1031,4 @@ LUK,005.026:016,005.026:022,add,"NIV and ESV agree against us (quote pass 2026-1
 2CO,001.019:031,001.019:031,add,"BSB comparison (EJ 2026-11-05): yea and nay are each quoted as words, as the BSB has them",,,
 JAS,005.012:024,005.012:024,add,"BSB comparison (EJ 2026-11-05): the first yea and the first nay are quoted, as the BSB has them",,,
 JAS,005.012:029,005.012:029,add,"BSB comparison (EJ 2026-11-05): the first yea and the first nay are quoted, as the BSB has them",,,
+2CO,004.013:013,004.013:025,fix,"EJ 2026-11-06: the Scripture quoted (Ps 116:10) ends at ""spoken""; ""we also believe"" is Paul",004.013:013,004.013:019,1

@@ -2,6 +2,11 @@
 
 ## Unreleased
 
+- **Vail → veil** (38 places, and "vails" → "veils" in Isaiah 3:23).
+- **An → a before a consonant sound**: "an Hebrew" → "a Hebrew", "an hundred" → "a hundred", "such an one"
+  → "such a one", "an unicorn" → "a unicorn". "An" stays where the h is silent or the word opens on a vowel
+  sound (an hour, an honest man, an heir, an herb, an unclean thing).
+- **2 Corinthians 4:13**: the quotation closes at "spoken"; "we also believe" is Paul's own.
 - **James 5:12: the first "yea" and the first "nay" are quoted**, as in the BSB.
 - **2 Corinthians 1:17–19: every "yea" and "nay" is quoted**, as the BSB quotes each one. Verse 18 had
   only its "yea" marked; verses 17 and 19 had none. Six quotes added in `quotes/reviewed.csv`.

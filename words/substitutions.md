@@ -1,8 +1,8 @@
 # Every word the modernized KJV changes
 
-The Topaz Bible's “Modern overlay” option changes **41,340** of the KJV's **931,532** words (about 4.4%). It uses 1,230 word rules and 108 single-verse exceptions. The underlying text never changes: switch the option off and every word is back to the King James text.
+The Topaz Bible's “Modern overlay” option changes **42,147** of the KJV's **931,532** words (about 4.5%). It uses 1,234 word rules and 108 single-verse exceptions. The underlying text never changes: switch the option off and every word is back to the King James text.
 
-Counts are how many times each change happens in the KJV, Apocrypha included. Generated from KJV package 1.4-primary.20261025.139.40.
+Counts are how many times each change happens in the KJV, Apocrypha included. Generated from KJV package 1.4-primary.20261105.187.1.
 
 ## At a glance
 
@@ -13,7 +13,7 @@ Counts are how many times each change happens in the KJV, Apocrypha included. Ge
 | Third-person “-eth” verbs (believeth → believes) | 687 | 5,759 |
 | Second-person “-est” verbs (thou knowest → you know) | 340 | 1,469 |
 | Old past tenses (spake → spoke, bare → bore) | 82 | 1,305 |
-| Old spellings (shew → show) | 90 | 1,064 |
+| Old spellings (shew → show) | 94 | 1,871 |
 | Here, there and where (hither → here, from thence → from there) | 7 | 474 |
 | Single-verse exceptions | 108 | 93 changed, the rest kept as written |
 
@@ -150,8 +150,10 @@ Same word, modern spelling.
 
 | KJV | Modernized | Only when | Times |
 |---|---|---|---:|
+| an | a | before one of 95 listed words | 767 |
 | shew | show |  | 305 |
 | shewed | showed |  | 180 |
+| vail | veil |  | 38 |
 | carcase | carcass |  | 35 |
 | brasen | brazen |  | 29 |
 | alway | always |  | 27 |
@@ -210,6 +212,7 @@ Same word, modern spelling.
 | stablisheth | establishes |  | 2 |
 | stedfastness | steadfastness |  | 2 |
 | villany | villainy |  | 2 |
+| Maran-atha | Maranatha |  | 1 |
 | broided | braided |  | 1 |
 | chapt | chapped |  | 1 |
 | cieling | ceiling |  | 1 |
@@ -240,6 +243,7 @@ Same word, modern spelling.
 | spued | spewed |  | 1 |
 | stript | stripped |  | 1 |
 | sycomores | sycamores |  | 1 |
+| vails | veils |  | 1 |
 
 ## Here, there and where (hither → here, from thence → from there)
 
