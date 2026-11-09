@@ -996,7 +996,7 @@ ISA,028.010:001,028.010:022,fix,"NIV and ESV agree against us (quote pass 2026-1
 ISA,029.023:001,029.024:017,fix,"NIV and ESV agree against us (quote pass 2026-10-28): the Lord's word opens at ""Jacob shall not now be ashamed""",029.022:014,029.024:017,1
 ISA,043.018:001,043.028:020,fix,NIV and ESV agree against us (quote pass 2026-10-28): the Lord's words run on through 44:1,043.018:001,044.001:013,1
 ISA,066.005:013,066.005:043,fix,NIV and ESV agree against us (quote pass 2026-10-28): 66:6 is still the Lord's word,066.005:013,066.006:023,1
-JER,029.017:007,029.018:051,fix,NIV and ESV agree against us (quote pass 2026-10-28): the Lord's word runs through 29:19,029.017:007,029.019:035,1
+JER,029.017:007,029.018:051,fix,"NIV and ESV agree against us (quote pass 2026-10-28): the Lord's word runs through 29:19; audit 2026-11-09: ""saith the Lord"" stays outside the quote (WEB)",029.017:007,029.019:008,1
 JOB,009.002:001,009.034:015,fix,NIV and ESV agree against us (quote pass 2026-10-28): Job's speech ends at 9:35,009.002:001,009.035:015,1
 MAL,002.002:001,002.002:020,fix,NIV and ESV agree against us (quote pass 2026-10-28): the Lord's word to the priests opens at 2:1,002.001:001,002.002:020,1
 NUM,027.016:001,027.016:017,fix,NIV and ESV agree against us (quote pass 2026-10-28): Moses' prayer runs through 27:17,027.016:001,027.017:039,1
@@ -1133,3 +1133,48 @@ JHN,004.027:023,004.027:027,add,audit 2026-11-09: the second question,,,
 ROM,009.025:007,009.025:017,fix,"audit 2026-11-09: the Hosea citation runs to ""not beloved"" (WEB, BSB)",009.025:007,009.025:024,
 JAS,002.018:006,002.018:029,fix,"audit 2026-11-09: the objector says only ""Thou hast faith, and I have works"" (WEB, BSB)",002.018:006,002.018:012,
 REV,007.012:002,007.012:023,fix,"audit 2026-11-09: the closing Amen is theirs too (WEB, BSB)",007.012:002,007.012:024,
+GEN,026.028:016,026.029:038,drop,audit 2026-11-09: their oath words become an inner quote of their speech,,,
+GEN,026.028:004,026.028:012,fix,"audit 2026-11-09: ""and we said, Let there be an oath…"" is still the Philistines speaking (WEB)",026.028:004,026.029:038,
+GEN,026.028:016,026.029:030,add,audit 2026-11-09: the oath they proposed (WEB),,,2
+GEN,031.003:007,031.003:017,fix,"audit 2026-11-09: ""and I will be with thee"" is the Lord's promise (WEB)",031.003:007,031.003:023,
+GEN,037.030:009,037.030:012,fix,"audit 2026-11-09: ""and I, whither shall I go?"" is Reuben's cry (WEB)",037.030:009,037.030:018,
+GEN,038.029:021,038.029:025,fix,"audit 2026-11-09: ""this breach be upon thee"" is the midwife's (WEB)",038.029:021,038.029:030,
+GEN,048.011:016,048.011:022,drop,"audit 2026-11-09: one saying: ""and, lo,"" is Israel's own",,,
+GEN,048.011:006,048.011:013,fix,"audit 2026-11-09: Israel's words run to ""thy seed"" (WEB)",048.011:006,048.011:022,
+NUM,023.026:013,023.026:021,drop,audit 2026-11-09: what he had said before becomes an inner quote (WEB),,,
+NUM,023.026:013,023.026:021,add,audit 2026-11-09: what he had said before (WEB),,,2
+NUM,023.026:008,023.026:021,add,"audit 2026-11-09: ""Told not I thee, saying"" is Balaam answering (WEB)",,,
+DEU,031.023:013,031.023:035,fix,"audit 2026-11-09: ""and I will be with thee"" is the Lord's (WEB)",031.023:013,031.023:041,
+RUT,004.004:058,004.004:061,add,"audit 2026-11-09: the kinsman's answer ""I will redeem it"" (WEB)",,,
+1SA,009.027:017,009.027:042,fix,"audit 2026-11-09: ""(and he passed on,)"" is narration (WEB)",009.027:017,009.027:023,
+1SA,009.027:028,009.027:042,add,audit 2026-11-09: Samuel resumes (WEB),,,
+2SA,002.001:017,002.001:033,add,"audit 2026-11-09: the Lord's answer ""Go up"" (WEB, BSB-style)",,,
+2SA,011.025:007,011.025:038,fix,"audit 2026-11-09: ""and encourage thou him"" is David's charge (WEB)",011.025:007,011.025:042,
+2KI,002.018:023,002.018:024,drop,audit 2026-11-09: his earlier word becomes an inner quote (WEB),,,
+2KI,002.018:023,002.018:024,add,audit 2026-11-09: his earlier word (WEB),,,2
+2KI,002.018:017,002.018:024,add,"audit 2026-11-09: ""Did I not say unto you"" is Elisha speaking (WEB)",,,
+PSA,041.008:001,041.008:020,fix,"audit 2026-11-09: ""say they"" stays outside (WEB)",041.008:001,041.008:003,
+PSA,041.008:006,041.008:020,add,audit 2026-11-09: the rest of their saying,,,
+ISA,027.002:008,027.005:015,fix,"audit 2026-11-09: ""and he shall make peace with me"" is still the Lord (WEB)",027.002:008,027.005:022,
+ISA,030.015:012,030.015:032,fix,"audit 2026-11-09: ""and ye would not"" is the prophet's comment (WEB)",030.015:012,030.015:028,
+ISA,030.016:004,030.016:014,fix,"audit 2026-11-09: ""therefore shall ye flee"" answers them (WEB)",030.016:004,030.016:010,
+ISA,056.012:001,056.012:028,fix,"audit 2026-11-09: ""say they"" stays outside (WEB)",056.012:001,056.012:002,
+ISA,056.012:005,056.012:028,add,audit 2026-11-09: the rest of their saying,,,
+JER,029.019:012,029.019:032,add,audit 2026-11-09: the Lord's words between the tags (WEB),,,
+MAL,001.002:011,001.002:020,fix,"audit 2026-11-09: the people ask only ""Wherein hast thou loved us?"" (WEB)",001.002:011,001.002:015,
+MAL,001.002:016,001.002:020,add,"audit 2026-11-09: ""Was not Esau Jacob's brother?"" is the Lord's answer (WEB)",,,
+MAL,001.003:001,001.003:018,fix,"audit 2026-11-09: ""yet I loved Jacob"" is the Lord's (WEB)",001.002:024,001.003:018,
+MRK,012.014:010,012.014:047,fix,"audit 2026-11-09: ""Shall we give, or shall we not give?"" ends their question (WEB, BSB)",012.014:010,012.015:008,
+MRK,014.019:015,014.019:017,add,"audit 2026-11-09: ""Is it I?"" from each of them (WEB)",,,
+LUK,020.002:001,020.002:004,drop,"audit 2026-11-09: ""And spake unto him"" is narration (WEB, BSB)",,,
+ACT,009.006:007,009.006:014,add,audit 2026-11-09: Saul's question in the KJV text (WEB omits the verse),,,
+ACT,026.025:004,026.027:006,fix,"audit 2026-11-09: ""I know that thou believest"" is Paul's (WEB)",026.025:004,026.027:011,
+ROM,002.024:001,002.024:012,fix,"audit 2026-11-09: ""For"" is Paul's, the citation starts at ""the name"" (WEB)",002.024:002,002.024:012,
+ROM,012.020:001,012.020:026,fix,"audit 2026-11-09: ""Therefore"" is Paul's, the proverb starts at ""if"" (WEB)",012.020:002,012.020:026,
+1CO,006.012:001,006.012:006,add,"audit 2026-11-09: the Corinthian slogan, as in 10:23 (WEB)",,,
+1CO,006.012:013,006.012:018,add,audit 2026-11-09: the slogan again (WEB),,,
+1CO,010.023:013,010.023:018,add,"audit 2026-11-09: the slogan again, like the first (WEB)",,,
+1CO,015.027:014,015.027:019,add,"audit 2026-11-09: ""all things are put under him"" cites the psalm (WEB)",,,
+HEB,012.027:004,012.027:004,fix,"audit 2026-11-09: the cited word is ""Yet once more"" (WEB)",012.027:004,012.027:006,
+JAS,005.012:026,005.012:026,add,"audit 2026-11-09: ""yea"" be ""yea"": both quoted (WEB)",,,
+JAS,005.012:030,005.012:030,add,"audit 2026-11-09: ""nay,"" ""nay"": both quoted (WEB)",,,
