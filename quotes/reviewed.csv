@@ -66,7 +66,7 @@ MRK,012.032:014,012.033:039,drop,joined to the words before it,,,
 PSA,118.003:008,118.003:013,fix,"saying after a lowercase ""that"": quoted from the word after it, as vv. 2 and 4",118.003:009,118.003:013,
 JER,001.006:004,001.006:006,fix,"one cry: “Ah, Lord God! behold, I cannot speak: for I am a child.”",001.006:004,001.006:015,
 JER,001.006:008,001.006:015,drop,joined to the words before it,,,
-HOS,002.014:003,002.015:046,fix,"the saying opens on ""Therefore, behold,""",002.014:001,002.015:046,
+HOS,002.014:003,002.015:046,fix,"the saying opens on ""Therefore, behold,""; audit 2026-11-09: one speech: no reason for ” “ between v15 and v16 (WEB, BSB)",002.014:001,002.016:007,
 GEN,044.016:004,044.016:046,ship,one speech: “What shall we say unto my lord? what shall we speak? …”,,,
 EXO,017.002:022,017.002:032,ship,one speech: “Why chide ye with me? wherefore do ye tempt the Lord?”,,,
 GEN,027.002:009,027.004:027,fix,"one speech, verses 2–4: “Behold now, I am old, I know not…”",027.002:004,027.004:027,
@@ -94,7 +94,7 @@ JER,013.025:015,013.027:033,fix,the speech goes on after the question in small l
 JER,014.013:004,014.013:006,fix,the speech goes on after the question in small letters,014.013:004,014.013:033,
 EZK,008.006:006,008.006:033,fix,the speech goes on after the question in small letters,008.006:006,008.006:044,
 LUK,022.067:001,022.067:004,fix,the speech goes on after the question in small letters,022.067:001,022.067:006,
-JHN,004.027:019,004.027:021,fix,the speech goes on after the question in small letters,004.027:019,004.027:027,
+JHN,004.027:019,004.027:021,fix,"the speech goes on after the question in small letters; audit 2026-11-09: two unasked questions; ""or,"" stays outside (WEB, BSB)",004.027:019,004.027:021,
 AMO,008.002:022,008.003:032,fix,"the tag stands outside: “…in that day,” saith the Lord God: “there shall be…”",008.002:022,008.003:012,
 AMO,008.003:017,008.003:032,add,the speech taken up again after the tag,,,
 GEN,019.007:003,019.007:010,fix,"one speech: “I pray you, brethren, do not so wickedly. Behold now, I have two daughters…”",019.007:003,019.008:048,
@@ -187,7 +187,7 @@ ISA,041.007:020,041.007:022,fix,"the sentence runs on to ""sodering:""",041.007:
 ISA,045.018:035,045.024:012,ship,end checked by hand: the narrator or writer takes over after the colon or comma,,,
 ISA,063.008:004,063.008:013,ship,end checked by hand: the narrator or writer takes over after the colon or comma,,,
 JER,005.004:004,005.005:028,ship,end checked by hand: the narrator or writer takes over after the colon or comma,,,
-JER,051.033:012,051.035:012,ship,end checked by hand: the narrator or writer takes over after the colon or comma,,,
+JER,051.033:012,051.035:012,fix,"audit 2026-11-09: the Lord, then Zion's words in v34–35 (WEB, BSB)",051.033:012,051.033:037,
 JER,051.035:019,051.035:026,ship,end checked by hand: the narrator or writer takes over after the colon or comma,,,
 LAM,004.015:005,004.015:013,ship,end checked by hand: the narrator or writer takes over after the colon or comma,,,
 EZK,010.006:017,010.006:026,ship,end checked by hand: the narrator or writer takes over after the colon or comma,,,
@@ -259,8 +259,8 @@ JDG,009.002:001,009.002:050,ship,nested review: outer quote and its inner quotes
 JOB,022.002:001,022.030:018,ship,nested review: outer quote and its inner quotes read by hand,,,
 JOB,034.002:001,034.037:019,ship,nested review: outer quote and its inner quotes read by hand,,,
 JOB,042.002:001,042.006:010,ship,nested review: outer quote and its inner quotes read by hand,,,
-ISA,007.003:007,007.009:015,ship,nested review: outer quote and its inner quotes read by hand,,,
-ISA,007.008:001,007.009:015,fix,nested review: inner quote edges set by hand,007.007:006,007.009:015,
+ISA,007.003:007,007.009:015,fix,"audit 2026-11-09: the Lord's words run to the end of v9 (WEB, BSB)",007.003:007,007.009:026,
+ISA,007.008:001,007.009:015,fix,"nested review: inner quote edges set by hand; audit 2026-11-09: ""If ye will not believe…"" is part of the Lord's message (WEB, BSB)",007.007:006,007.009:026,
 ISA,008.003:020,008.004:032,ship,nested review: outer quote and its inner quotes read by hand,,,
 ISA,008.004:011,008.004:011,drop,not a quote within the quote: the speaker's own words (nested review),,,
 ISA,008.004:014,008.004:014,drop,not a quote within the quote: the speaker's own words (nested review),,,
@@ -268,7 +268,7 @@ ISA,037.021:011,037.035:019,ship,nested review: outer quote and its inner quotes
 ISA,049.008:005,049.012:023,ship,nested review: outer quote and its inner quotes read by hand,,,
 ISA,057.003:001,057.013:038,ship,nested review: outer quote and its inner quotes read by hand,,,
 ISA,057.010:001,057.010:017,fix,nested review: inner quote edges set by hand,057.010:014,057.010:017,
-JER,002.023:005,002.029:006,ship,nested review: outer quote and its inner quotes read by hand,,,
+JER,002.023:005,002.029:006,fix,"audit 2026-11-09: ""ye all have transgressed against me"" is the Lord's (WEB, BSB)",002.023:005,002.029:012,
 JER,006.001:001,006.005:013,ship,nested review: outer quote and its inner quotes read by hand,,,
 JER,015.001:007,015.009:042,ship,nested review: outer quote and its inner quotes read by hand,,,
 JER,015.002:001,015.002:016,fix,nested review: inner quote edges set by hand,015.002:012,015.002:016,
@@ -278,7 +278,7 @@ JER,031.016:005,031.020:036,ship,nested review: outer quote and its inner quotes
 JER,031.023:011,031.025:014,ship,nested review: outer quote and its inner quotes read by hand,,,
 JER,038.017:006,038.018:041,ship,nested review: outer quote and its inner quotes read by hand,,,
 JER,042.009:005,042.022:029,ship,nested review: outer quote and its inner quotes read by hand,,,
-JER,047.002:005,047.007:020,ship,nested review: outer quote and its inner quotes read by hand,,,
+JER,047.002:005,047.007:020,fix,"audit 2026-11-09: ""there hath he appointed it"" is part of the answer (WEB, BSB)",047.002:005,047.007:025,
 EZK,012.018:001,012.020:025,ship,nested review: outer quote and its inner quotes read by hand,,,
 EZK,021.002:001,021.007:059,ship,nested review: outer quote and its inner quotes read by hand,,,
 EZK,021.007:001,021.007:012,fix,nested review: inner quote edges set by hand,021.007:010,021.007:012,
@@ -570,7 +570,7 @@ EXO,016.023:006,016.023:054,ship,unmatched-speech review: read by hand,,,1
 EXO,018.004:009,018.004:027,drop,unmatched-speech review: replaced by the quotes added for this passage,,,1
 LEV,011.002:001,011.047:026,ship,unmatched-speech review: read by hand,,,1
 NUM,010.030:001,010.030:005,drop,unmatched-speech review: the speech is already marked by another quote,,,1
-NUM,026.004:001,026.004:022,fix,unmatched-speech review: edges set by hand,026.004:001,026.004:012,1
+NUM,026.004:001,026.004:022,fix,"unmatched-speech review: edges set by hand; audit 2026-11-09: ""the children of Israel, which went forth…"" heads the list (BSB)",026.004:001,026.004:017,1
 DEU,003.026:016,003.026:025,drop,unmatched-speech review: the speech is already marked by another quote,,,1
 DEU,012.020:019,012.020:033,fix,unmatched-speech review: edges set by hand,012.020:019,012.020:022,1
 DEU,013.006:034,013.006:046,fix,unmatched-speech review: edges set by hand,013.006:034,013.006:040,1
@@ -751,8 +751,6 @@ JER,003.016:027,003.016:034,add,unmatched-speech review: what they shall say no 
 JER,003.019:004,003.019:025,add,unmatched-speech review: what I said,,,2
 JER,003.019:029,003.019:041,add,"unmatched-speech review: what I said, to the verse end",,,2
 JER,003.019:033,003.019:034,add,"unmatched-speech review: ""My father;""",,,3
-JER,005.009:001,005.009:007,add,"unmatched-speech review: the Lord's question before ""saith the Lord:""",,,1
-JER,005.029:001,005.029:007,add,"unmatched-speech review: the Lord's question before ""saith the Lord:""",,,1
 JER,023.031:001,023.031:006,add,"unmatched-speech review: the Lord's words before ""saith the Lord,""",,,1
 JER,023.031:010,023.031:017,add,"unmatched-speech review: the Lord's words after ""saith the Lord,""",,,1
 JER,023.031:016,023.031:017,add,"unmatched-speech review: ""He saith.""",,,2
@@ -777,7 +775,6 @@ EZK,039.001:011,039.029:026,fix,unmatched-speech review: the message to Gog ends
 EZK,039.017:023,039.020:021,add,unmatched-speech review: the call to the birds and beasts,,,2
 DAN,004.035:041,004.035:043,add,"unmatched-speech review: ""What doest thou?""",,,1
 DAN,007.011:016,007.011:033,drop,unmatched-speech review: Daniel's own words,,,2
-HOS,002.016:001,002.016:007,add,"unmatched-speech review: the Lord's words before ""saith the Lord,""",,,1
 HOS,002.016:016,002.016:016,drop,"unmatched-speech review: a name, not a quote",,,2
 HOS,004.015:026,004.015:028,add,unmatched-speech review: the oath,,,1
 AMO,006.013:011,006.013:021,add,unmatched-speech review: what they say,,,1
@@ -786,7 +783,6 @@ ZEP,001.010:001,001.010:009,add,"unmatched-speech review: the Lord's words befor
 ZEC,004.006:009,004.007:028,add,unmatched-speech review: the angel's answer,,,1
 ZEC,004.006:019,004.007:028,add,unmatched-speech review: the word to Zerubbabel,,,2
 ZEC,004.007:025,004.007:028,add,unmatched-speech review: the shout,,,3
-MAL,001.010:024,001.010:029,add,"unmatched-speech review: the Lord's words before ""saith the Lord of hosts,""",,,1
 MAL,003.017:001,003.017:005,add,"unmatched-speech review: the Lord's words before ""saith the Lord of hosts,""",,,1
 MAT,026.061:006,026.061:021,add,"unmatched-speech review: what Jesus said, as the witnesses tell it",,,2
 LUK,004.012:010,004.012:017,add,unmatched-speech review: what is said,,,2
@@ -815,7 +811,7 @@ ZEC,004.006:009,004.006:033,drop,unmatched-speech review: replaced by the answer
 ZEC,004.006:019,004.006:033,drop,unmatched-speech review: replaced by the word to Zerubbabel to v7,,,3
 MAL,001.006:044,001.006:052,add,"unmatched-speech review: the Lord's words go on after ""saith the Lord of hosts""",,,1
 MAL,001.006:047,001.006:052,add,unmatched-speech review: what they say,,,2
-MAL,003.013:011,003.013:021,add,"unmatched-speech review: the Lord's words go on after ""saith the Lord""",,,1
+MAL,003.013:011,003.015:023,add,"unmatched-speech review: the Lord's words go on after ""saith the Lord""; audit 2026-11-09: one speech: no reason for ” “ between v13 and v14 (WEB, BSB)",,,1
 MAL,003.013:014,003.013:021,add,unmatched-speech review: what they say,,,2
 MAT,013.029:004,013.029:004,drop,unmatched-speech review: the householder's answer is already marked,,,2
 LUK,006.005:007,006.005:016,add,"woj review: the red letters after the lowered ""that"" (EJ 2026-10-27)",,,1
@@ -829,13 +825,13 @@ GEN,042.022:012,042.022:029,drop,speech tag with no quote; modern Bibles quote i
 GEN,042.022:006,042.022:029,add,speech tag with no quote; modern Bibles quote it,,,
 GEN,042.022:012,042.022:017,add,speech tag with no quote; modern Bibles quote it,,,2
 GEN,045.016:011,045.016:014,add,"report quoted, as ESV/CSB",,,
-NUM,016.012:015,016.014:019,add,speech tag with no quote; modern Bibles quote it,,,
+NUM,016.012:015,016.014:037,add,"speech tag with no quote; modern Bibles quote it; audit 2026-11-09: Dathan and Abiram's words run to ""we will not come up"" (WEB, BSB)",,,
 NUM,022.030:037,022.030:037,add,speech tag with no quote; modern Bibles quote it,,,
 DEU,001.038:001,001.040:020,fix,"the Lord speaks from v37, as modern Bibles",001.037:012,001.040:020,1
 DEU,015.011:016,015.011:034,add,"command quoted, as ESV/NASB/CSB",,,
 DEU,019.007:006,019.007:012,add,"command quoted, as ESV/NASB",,,
 JOS,009.022:018,009.023:030,drop,speech tag with no quote; modern Bibles quote it,,,1
-JOS,009.022:012,009.023:024,add,speech tag with no quote; modern Bibles quote it,,,
+JOS,009.022:012,009.023:030,add,"speech tag with no quote; modern Bibles quote it; audit 2026-11-09: ""for the house of my God"" is Joshua's (WEB, BSB)",,,
 JOS,009.022:018,009.022:023,add,speech tag with no quote; modern Bibles quote it,,,2
 JOS,020.002:008,020.006:052,drop,speech tag with no quote; modern Bibles quote it,,,1
 JOS,020.002:001,020.006:052,add,speech tag with no quote; modern Bibles quote it,,,
@@ -844,7 +840,7 @@ JDG,004.020:006,004.020:032,fix,speech tag with no quote; modern Bibles quote it
 JDG,004.020:037,004.020:037,add,speech tag with no quote; modern Bibles quote it,,,2
 JDG,012.005:043,012.005:043,add,speech tag with no quote; modern Bibles quote it,,,
 JDG,016.002:008,016.002:011,add,report quoted (EJ; NIV/ESV agree),,,
-JDG,020.013:001,020.013:045,fix,speech tag with no quote; modern Bibles quote it,020.012:015,020.013:045,1
+JDG,020.013:001,020.013:045,fix,"speech tag with no quote; modern Bibles quote it; audit 2026-11-09: ""But the children of Benjamin would not hearken…"" is narration (WEB, BSB)",020.012:015,020.013:027,1
 1SA,018.024:009,018.024:013,add,"report quoted, as ESV/CSB",,,
 1SA,019.019:007,019.019:013,add,speech tag with no quote; modern Bibles quote it,,,
 1KI,016.016:009,016.016:017,add,"report quoted, as ESV/NASB",,,
@@ -863,9 +859,9 @@ JER,029.025:012,029.028:029,fix,"“Thus saith the Lord” inside the quote, as 
 JER,033.020:005,033.022:032,fix,"“Thus saith the Lord” inside the quote, as modern Bibles",033.020:001,033.022:032,1
 JER,038.002:005,038.003:023,fix,"“Thus saith the Lord” inside the quote, as modern Bibles",038.002:001,038.003:023,1
 JER,027.016:017,027.022:033,fix,"“Thus saith the Lord” inside the quote, as modern Bibles",027.016:013,027.022:033,1
-JER,029.005:001,029.007:033,fix,"“Thus saith the Lord” inside the quote, as modern Bibles",029.004:001,029.007:033,1
+JER,029.005:001,029.007:033,fix,"“Thus saith the Lord” inside the quote, as modern Bibles; audit 2026-11-09: the letter's message starts at ""Build ye houses"" (WEB, BSB)",029.005:001,029.007:033,1
 JER,049.035:007,049.037:029,fix,"“Thus saith the Lord” inside the quote, as modern Bibles",049.035:001,049.037:029,1
-ZEC,008.002:007,008.002:023,fix,"“Thus saith the Lord” inside the quote, as modern Bibles",008.002:001,008.002:023,1
+ZEC,008.002:007,008.002:023,fix,"“Thus saith the Lord” inside the quote, as modern Bibles; audit 2026-11-09: ""Thus saith the Lord of hosts"" is the prophet's (WEB, BSB)",008.002:007,008.002:023,1
 JER,034.002:024,034.005:044,drop,"“Thus saith the Lord” inside the quote, as modern Bibles",,,1
 JER,034.002:001,034.005:044,add,"“Thus saith the Lord” inside the quote, as modern Bibles",,,
 JER,034.002:020,034.005:044,add,"“Thus saith the Lord” inside the quote, as modern Bibles",,,2
@@ -1008,10 +1004,9 @@ REV,018.021:020,018.023:051,fix,NIV and ESV agree against us (quote pass 2026-10
 LAM,003.042:001,003.042:010,fix,NIV and ESV agree against us (quote pass 2026-10-28): the confession runs through 3:47,003.042:001,003.047:011,1
 AMO,004.012:001,004.013:042,fix,NIV and ESV agree against us (quote pass 2026-10-28): 4:13 is the prophet's hymn,004.012:001,004.012:024,1
 AMO,005.004:011,005.015:030,fix,NIV and ESV agree against us (quote pass 2026-10-28): 5:6-15 is the prophet's own appeal,005.004:011,005.005:026,1
-ISA,008.006:001,008.010:022,fix,NIV and ESV agree against us (quote pass 2026-10-28): 8:9-10 is the prophet's taunt,008.006:001,008.008:035,1
-ISA,033.011:001,033.013:018,fix,NIV and ESV agree against us (quote pass 2026-10-28): 33:13 opens a new call,033.011:001,033.012:021,1
-JER,017.005:005,017.011:036,fix,NIV and ESV agree against us (quote pass 2026-10-28): 17:9 and 17:11 are the prophet's sayings,017.005:005,017.008:049,1
-JER,017.010:001,017.010:027,add,"NIV and ESV agree against us (quote pass 2026-10-28): ""I the Lord search the heart""",,,
+ISA,008.006:001,008.010:022,fix,"NIV and ESV agree against us (quote pass 2026-10-28): 8:9-10 is the prophet's taunt; audit 2026-11-09: the Lord's words run to ""for God is with us"" (WEB, BSB)",008.006:001,008.010:022,1
+ISA,033.011:001,033.013:018,fix,"NIV and ESV agree against us (quote pass 2026-10-28): 33:13 opens a new call; audit 2026-11-09: the Lord's words resume after ""saith the Lord"" and run through v13 (WEB, BSB)",033.010:008,033.013:018,1
+JER,017.005:005,017.011:036,fix,"NIV and ESV agree against us (quote pass 2026-10-28): 17:9 and 17:11 are the prophet's sayings; audit 2026-11-09: the Lord's words run on through v9 into v10 (WEB, BSB)",017.005:005,017.010:027,1
 JHN,003.027:005,003.036:028,fix,NIV and ESV agree against us (quote pass 2026-10-28): John the Baptist's words end at 3:30; 3:31-36 is the evangelist,003.027:005,003.030:007,1
 LEV,013.002:001,013.059:036,fix,"NIV and ESV agree against us (quote pass 2026-10-28): the summary ""This is the law…"" stands outside",013.002:001,013.058:037,1
 LEV,014.034:001,014.057:017,fix,"NIV and ESV agree against us (quote pass 2026-10-28): the summary ""This is the law…"" stands outside",014.034:001,014.053:028,1
@@ -1032,3 +1027,109 @@ LUK,005.026:016,005.026:022,add,"NIV and ESV agree against us (quote pass 2026-1
 JAS,005.012:024,005.012:024,add,"BSB comparison (EJ 2026-11-05): the first yea and the first nay are quoted, as the BSB has them",,,
 JAS,005.012:029,005.012:029,add,"BSB comparison (EJ 2026-11-05): the first yea and the first nay are quoted, as the BSB has them",,,
 2CO,004.013:013,004.013:025,fix,"EJ 2026-11-06: the Scripture quoted (Ps 116:10) ends at ""spoken""; ""we also believe"" is Paul",004.013:013,004.013:019,1
+GEN,018.020:005,018.021:023,fix,"audit 2026-11-09: quote ran short: ""and if not, I will know"" is the Lord's (WEB, BSB)",018.020:005,018.021:029,
+GEN,024.030:028,024.030:039,fix,"audit 2026-11-09: the quote is ""Thus spake the man unto me""; ""he came unto the man"" is narration (WEB, BSB)",024.030:028,024.030:033,
+GEN,025.032:004,025.032:011,fix,"audit 2026-11-09: Esau's question is his (WEB, BSB)",025.032:004,025.032:020,
+GEN,028.020:007,028.022:014,fix,"audit 2026-11-09: Jacob's vow runs to the tenth (WEB, BSB)",028.020:007,028.022:030,
+GEN,030.003:004,030.003:011,fix,"audit 2026-11-09: Rachel's words run to the end (WEB, BSB)",030.003:004,030.003:026,
+GEN,032.030:011,032.030:022,add,"audit 2026-11-09: Jacob's first-person words after ""Peniel: for"" (WEB, BSB)",,,
+GEN,044.010:004,044.010:022,fix,"audit 2026-11-09: ""and ye shall be blameless"" is the steward's (WEB, BSB)",044.010:004,044.010:027,
+EXO,003.013:006,003.013:039,fix,"audit 2026-11-09: ""what shall I say unto them?"" is Moses' (WEB, BSB)",003.013:006,003.013:045,
+EXO,033.019:004,033.019:023,fix,"audit 2026-11-09: the Lord's words run to the end (WEB, BSB)",033.019:004,033.019:043,
+NUM,003.040:007,003.041:022,fix,"audit 2026-11-09: the Lord's command runs to the end of v41 (WEB, BSB)",003.040:007,003.041:041,
+NUM,006.023:001,006.027:011,fix,"audit 2026-11-09: the Lord's words run to ""I will bless them"" (WEB, BSB)",006.023:001,006.027:016,
+NUM,006.023:009,006.027:011,drop,audit 2026-11-09: two levels only: Moses' message holds the blessing (BSB),,,2
+NUM,006.024:001,006.026:012,drop,audit 2026-11-09: re-added as level 2 (no third level),,,3
+NUM,006.024:001,006.026:012,add,"audit 2026-11-09: the priestly blessing, level 2 (BSB)",,,2
+NUM,023.013:006,023.013:035,fix,"audit 2026-11-09: ""and curse me them from thence"" is Balak's (WEB, BSB)",023.013:006,023.013:041,
+NUM,024.003:009,024.009:018,fix,"audit 2026-11-09: the oracle runs to ""cursed is he that curseth thee"" (WEB, BSB)",024.003:009,024.009:031,
+DEU,013.013:022,013.013:033,fix,"audit 2026-11-09: ""which ye have not known"" is Moses' aside (WEB, BSB)",013.013:022,013.013:028,
+JDG,001.003:008,001.003:021,fix,"audit 2026-11-09: ""and I likewise will go with thee into thy lot"" is Judah's (WEB, BSB)",001.003:008,001.003:031,
+JDG,009.007:029,009.020:020,fix,"audit 2026-11-09: Jotham's curse runs to ""devour Abimelech"" (WEB, BSB)",009.007:029,009.020:039,
+1SA,009.009:015,009.009:035,fix,"audit 2026-11-09: the saying is ""Come, and let us go to the seer""; the rest is the narrator's note (WEB, BSB)",009.009:015,009.009:022,
+1SA,009.012:007,009.013:046,fix,"audit 2026-11-09: the maidens' words run to ""ye shall find him"" (WEB, BSB)",009.012:007,009.013:059,
+1SA,018.008:014,018.008:028,fix,"audit 2026-11-09: ""and what can he have more but the kingdom?"" is Saul's (WEB, BSB)",018.008:014,018.008:037,
+1SA,002.016:008,002.016:047,fix,"audit 2026-11-09: two speakers: the worshipper, then the servant's ""Nay…"" (WEB, BSB)",002.016:008,002.016:025,
+1SA,002.016:031,002.016:047,add,"audit 2026-11-09: the priest's servant answers (WEB, BSB)",,,
+2SA,003.012:011,003.012:036,fix,"audit 2026-11-09: two sayings: ""Whose is the land?"" and, ""saying also"", the offer (WEB, BSB)",003.012:011,003.012:014,
+2SA,003.012:017,003.012:036,add,"audit 2026-11-09: Abner's second saying (WEB, BSB)",,,
+2SA,014.024:005,014.024:031,fix,"audit 2026-11-09: ""So Absalom returned…"" is narration (WEB, BSB)",014.024:005,014.024:018,
+2SA,019.029:018,019.029:023,fix,"audit 2026-11-09: the king's words start at ""Why speakest thou"" (WEB, BSB)",019.029:007,019.029:023,
+1KI,002.016:017,002.016:018,add,"audit 2026-11-09: Bathsheba's ""Say on"" (BSB)",,,
+1KI,020.037:008,020.037:024,fix,"audit 2026-11-09: ""And the man smote him…"" is narration (WEB, BSB)",020.037:008,020.037:012,
+1KI,022.019:004,022.021:017,fix,"audit 2026-11-09: Micaiah's vision is one speech to the end of v23 (WEB, BSB)",022.019:004,022.023:026,
+1KI,022.022:007,022.023:026,drop,audit 2026-11-09: joined into Micaiah's speech,,,
+1KI,022.022:007,022.022:007,add,"audit 2026-11-09: the Lord's ""Wherewith?"" inside Micaiah's speech (WEB, BSB)",,,2
+2CH,018.018:004,018.020:017,fix,audit 2026-11-09: Micaiah's vision is one speech to the end of v22 (as 1 Kgs 22),018.018:004,018.022:025,
+2CH,018.020:024,018.022:025,drop,audit 2026-11-09: joined into Micaiah's speech,,,
+2CH,018.020:024,018.020:024,add,"audit 2026-11-09: the Lord's ""Wherewith?"" inside Micaiah's speech (as 1 Kgs 22)",,,2
+2KI,001.016:010,001.016:057,fix,"audit 2026-11-09: Elijah's words include ""Thus saith the Lord"" (WEB, BSB)",001.016:006,001.016:057,
+2KI,013.016:009,013.016:030,fix,"audit 2026-11-09: ""And he put his hand upon it…"" is narration (WEB, BSB)",013.016:009,013.016:014,
+2CH,031.010:015,031.010:045,fix,"audit 2026-11-09: ""and that which is left is this great store"" is Azariah's (WEB, BSB)",031.010:015,031.010:054,
+NEH,005.008:006,005.008:021,fix,"audit 2026-11-09: Nehemiah's questions are his (WEB, BSB)",005.008:006,005.008:035,
+EST,004.016:001,004.016:050,fix,"audit 2026-11-09: ""and if I perish, I perish"" is Esther's (WEB, BSB)",004.016:001,004.016:056,
+PSA,012.004:004,012.005:016,fix,"audit 2026-11-09: two speakers: the boasters, then the Lord (WEB, BSB)",012.004:004,012.004:019,
+PSA,012.005:001,012.005:016,add,"audit 2026-11-09: the Lord's words before ""saith the Lord"" (WEB, BSB)",,,
+PSA,089.002:005,089.004:015,fix,"audit 2026-11-09: two speakers: the psalmist, then the Lord (BSB)",089.002:005,089.002:020,
+PSA,089.003:001,089.004:016,add,audit 2026-11-09: the Lord's covenant words (BSB),,,
+ISA,033.010:001,033.010:018,fix,"audit 2026-11-09: ""saith the Lord"" stays outside the quote (WEB, BSB)",033.010:001,033.010:004,
+ISA,036.004:011,036.010:028,fix,"audit 2026-11-09: Rabshakeh's words start at ""Say ye now"" (WEB, BSB)",036.004:006,036.010:028,
+ISA,040.001:001,040.001:006,add,"audit 2026-11-09: God's words before ""saith your God"" (WEB, BSB)",,,
+ISA,040.002:001,040.002:032,add,"audit 2026-11-09: God's words continue (WEB, BSB)",,,
+ISA,049.014:004,049.018:017,fix,"audit 2026-11-09: two speakers: Zion, then the Lord (WEB, BSB)",049.014:004,049.014:014,
+ISA,049.015:001,049.018:020,add,"audit 2026-11-09: the Lord answers Zion, through ""As I live"" (WEB, BSB)",,,
+ISA,056.004:001,056.007:043,fix,"audit 2026-11-09: the Lord's words start at ""unto the eunuchs""; ""For thus saith the Lord"" is the prophet's (WEB, BSB)",056.004:006,056.007:043,
+ISA,059.021:013,059.021:060,fix,"audit 2026-11-09: ""saith the Lord"" stays outside the quote (WEB, BSB)",059.021:013,059.021:052,
+ISA,059.021:056,059.021:060,add,"audit 2026-11-09: the Lord's words after the tag (WEB, BSB)",,,
+ISA,063.001:027,063.001:034,add,"audit 2026-11-09: the answer ""I that speak in righteousness"" (BSB)",,,
+JER,002.023:009,002.023:014,fix,"audit 2026-11-09: the saying quoted is ""I am not polluted, I have not gone after Baalim"" (WEB, BSB)",002.023:005,002.023:014,2
+JER,004.016:001,004.017:018,add,"audit 2026-11-09: the Lord's words before ""saith the Lord"" (WEB, BSB)",,,
+JER,006.011:001,006.012:027,fix,"audit 2026-11-09: Jeremiah speaks first; the Lord's words start at ""I will pour it out"" (BSB)",006.011:017,006.012:027,
+JER,012.014:001,012.017:018,fix,"audit 2026-11-09: the Lord's words start at ""against all mine evil neighbours""; ""Thus saith the Lord"" is the prophet's (WEB, BSB)",012.014:005,012.017:018,
+JER,016.005:006,016.005:036,fix,"audit 2026-11-09: ""saith the Lord"" stays outside the quote (WEB, BSB)",016.005:006,016.005:029,
+JER,016.005:033,016.005:036,add,"audit 2026-11-09: the Lord's words after the tag (WEB, BSB)",,,
+JER,016.021:001,016.021:031,add,"audit 2026-11-09: the Lord answers (WEB, BSB)",,,
+JER,020.009:004,020.009:044,fix,"audit 2026-11-09: ""But his word was in mine heart…"" is Jeremiah's narration (WEB, BSB)",020.009:004,020.009:017,
+JER,020.015:012,020.015:022,fix,"audit 2026-11-09: ""making him very glad"" is narration (WEB, BSB)",020.015:012,020.015:018,
+JER,023.032:001,023.032:046,fix,"audit 2026-11-09: ""saith the Lord"" stays outside the quote (WEB, BSB)",023.032:001,023.032:009,
+JER,023.032:013,023.032:046,add,"audit 2026-11-09: the Lord's words after the tag (WEB, BSB)",,,
+JER,050.018:012,050.021:035,fix,"audit 2026-11-09: ""saith the Lord"" stays outside the quote (WEB, BSB)",050.018:012,050.021:022,
+JER,050.021:026,050.021:035,add,"audit 2026-11-09: the Lord's words after the tag (WEB, BSB)",,,
+JER,051.064:005,051.064:021,fix,"audit 2026-11-09: ""and they shall be weary"" ends the saying (WEB, BSB)",051.064:005,051.064:026,2
+JER,051.061:006,051.064:021,fix,"audit 2026-11-09: Jeremiah's charge ends with the saying (WEB, BSB)",051.061:006,051.064:026,
+JER,008.019:022,008.020:013,fix,"audit 2026-11-09: three speakers: the people, the Lord, the people (WEB, BSB)",008.019:022,008.019:033,
+JER,008.019:034,008.019:048,add,"audit 2026-11-09: the Lord's question (WEB, BSB)",,,
+JER,008.020:001,008.020:013,add,"audit 2026-11-09: the people's lament (WEB, BSB)",,,
+JER,012.004:032,012.013:034,fix,"audit 2026-11-09: two speakers: the wicked, then the Lord's answer from v5 (WEB, BSB)",012.004:032,012.004:038,
+JER,012.005:001,012.013:034,add,"audit 2026-11-09: the Lord answers Jeremiah (WEB, BSB)",,,
+JER,051.034:001,051.035:012,add,"audit 2026-11-09: what ""the inhabitant of Zion"" shall say (WEB, BSB)",,,
+JER,051.049:001,051.052:005,fix,"audit 2026-11-09: the Lord, then the exiles in v51 (WEB, BSB)",051.049:001,051.050:023,
+JER,051.051:001,051.051:024,add,"audit 2026-11-09: the exiles' words (WEB, BSB)",,,
+JER,051.052:001,051.052:005,add,"audit 2026-11-09: the Lord's words before ""saith the Lord"" (WEB, BSB)",,,
+JER,005.007:001,005.008:015,fix,"audit 2026-11-09: one speech: no reason for ” “ between v8 and v9 (WEB, BSB)",005.007:001,005.009:007,
+JER,005.021:001,005.028:037,fix,"audit 2026-11-09: one speech: no reason for ” “ between v28 and v29 (WEB, BSB)",005.021:001,005.029:007,
+EZK,019.001:001,019.014:029,fix,"audit 2026-11-09: ""This is a lamentation…"" closes the Lord's charge to Ezekiel (WEB, BSB)",019.001:001,019.014:039,
+JOL,002.012:001,002.012:024,fix,"audit 2026-11-09: ""saith the Lord"" stays outside the quote (WEB, BSB)",002.012:001,002.012:003,
+JOL,002.012:007,002.012:024,add,"audit 2026-11-09: the Lord's words after the tag (WEB, BSB)",,,
+AMO,005.016:026,005.017:013,fix,"audit 2026-11-09: the Lord's words start at ""Wailing shall be in all streets"" (WEB, BSB)",005.016:012,005.017:013,
+AMO,005.016:026,005.016:027,add,audit 2026-11-09: what they shall say in the highways (BSB),,,2
+AMO,006.014:001,006.014:014,add,"audit 2026-11-09: the Lord's words before ""saith the Lord"" (WEB, BSB)",,,
+AMO,009.009:003,009.010:021,fix,"audit 2026-11-09: ""For, lo"" begins the Lord's words (WEB, BSB)",009.009:001,009.010:021,
+AMO,003.009:018,003.010:007,fix,"audit 2026-11-09: two voices: the message, then the Lord's comment (BSB)",003.009:018,003.009:040,
+AMO,003.010:001,003.010:007,add,"audit 2026-11-09: the Lord's words before ""saith the Lord"" (BSB)",,,
+MIC,002.011:013,002.011:032,fix,"audit 2026-11-09: ""he shall even be the prophet of this people"" is Micah's (WEB, BSB)",002.011:013,002.011:023,
+MIC,003.005:001,003.007:024,fix,"audit 2026-11-09: the Lord's words start at ""concerning the prophets""; ""Thus saith the Lord"" is the prophet's (WEB, BSB)",003.005:005,003.007:024,
+ZEP,003.006:001,003.013:034,fix,"audit 2026-11-09: ""saith the Lord"" stays outside the quote (WEB, BSB)",003.006:001,003.008:005,
+ZEP,003.008:009,003.013:034,add,"audit 2026-11-09: the Lord's words after the tag (WEB, BSB)",,,
+ZEC,008.014:008,008.014:029,fix,"audit 2026-11-09: ""saith the Lord"" stays outside the quote (WEB, BSB)",008.014:008,008.014:020,
+ZEC,008.014:026,008.014:029,add,"audit 2026-11-09: the Lord's words after the tag (WEB, BSB)",,,
+ZEC,011.012:006,011.012:013,fix,"audit 2026-11-09: ""and if not, forbear"" is the speaker's (WEB, BSB)",011.012:006,011.012:017,
+MAL,001.010:001,001.010:023,fix,"audit 2026-11-09: one speech: no reason for ” “ (WEB, BSB)",001.010:001,001.010:029,
+MAL,003.014:001,003.015:023,drop,audit 2026-11-09: joined into the quote before it,,,
+MRK,003.022:010,003.022:023,fix,"audit 2026-11-09: two charges: ""He hath Beelzebub"" and ""by the prince…"" (Greek hoti…kai hoti; WEB, BSB)",003.022:010,003.022:012,
+MRK,003.022:014,003.022:023,add,audit 2026-11-09: the second charge,,,
+MRK,008.019:023,008.019:023,add,audit 2026-11-09: the disciples' answer (BSB; WEB in v20),,,
+JHN,004.027:023,004.027:027,add,audit 2026-11-09: the second question,,,
+ROM,009.025:007,009.025:017,fix,"audit 2026-11-09: the Hosea citation runs to ""not beloved"" (WEB, BSB)",009.025:007,009.025:024,
+JAS,002.018:006,002.018:029,fix,"audit 2026-11-09: the objector says only ""Thou hast faith, and I have works"" (WEB, BSB)",002.018:006,002.018:012,
+REV,007.012:002,007.012:023,fix,"audit 2026-11-09: the closing Amen is theirs too (WEB, BSB)",007.012:002,007.012:024,
