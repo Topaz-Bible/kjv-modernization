@@ -4,7 +4,7 @@
 
 *thou → you · hath → has · believeth → believes · thou knowest → you know · spake → spoke · shew → show · whither → where*
 
-The King James text itself is never edited. These rules are a display layer: the reader shows the modern form of a word in place of the old one, and switching the option off brings back the original word for word. The changes are to word *forms* only. Archaic *words* (wist, wot, sith, betwixt) and words whose *meaning* has shifted ("let" for *hinder*, "prevent" for *go before*) are left alone, because changing them would be translation.
+The King James text itself is never edited. These rules are a display layer: the reader shows the modern form of a word in place of the old one, and switching the option off brings back the original word for word. The changes are to word *forms* only. Archaic *words* (wist, wot, sith, trow) and words whose *meaning* has shifted ("let" for *hinder*, "prevent" for *go before*) are left alone, because changing them would be translation.
 
 | | |
 |---:|---|

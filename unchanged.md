@@ -31,7 +31,7 @@ it means. When a change would need us to choose a meaning, the KJV's word stays.
 | wot | present of *wit* | same reason | "I wot not who hath done this thing" (Genesis 21:26) |
 | trow | think, suppose | | "I trow not" (Luke 17:9) |
 | sith | since | | "sith thou hast not hated blood" (Ezekiel 35:6) |
-| betwixt, peradventure, howbeit, haply, twain, kine, wroth, asunder, nigh, ere | | still read clearly, and each would need a synonym chosen | "Peradventure there be fifty righteous" (Genesis 18:24) |
+| peradventure, howbeit, haply, kine, wroth, asunder, nigh, ere | | still read clearly, and each would need a synonym chosen | "Peradventure there be fifty righteous" (Genesis 18:24) |
 
 **Words still in use, kept as the KJV's voice:** unto, behold, lo, verily, brethren, begat, thereof,
 wherefore, wherewith. Changing them would be style, not form.

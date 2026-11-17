@@ -2292,6 +2292,7 @@ book,chapter,verse,word,kjv,modernized,rule
 1MA,10,86,3,thence,there,direction-thence-after-from-to-there
 1MA,11,1,15,lieth,lies,verb-lieth-to-lies
 1MA,11,4,9,shewed,showed,spelling-shewed-to-showed
+1MA,11,9,15,betwixt,between,spelling-betwixt-to-between
 1MA,11,9,21,thee,you,pronoun-thee-to-you
 1MA,11,9,26,hath,has,verb-hath-to-has
 1MA,11,9,28,thou,you,pronoun-thou-to-you
@@ -2332,6 +2333,7 @@ book,chapter,verse,word,kjv,modernized,rule
 1MA,12,42,13,durst,dared,verb-durst-to-dared
 1MA,12,44,7,hast,have,verb-hast-to-have
 1MA,12,44,8,thou,you,pronoun-thou-to-you
+1MA,12,44,22,betwixt,between,spelling-betwixt-to-between
 1MA,12,45,15,thee,you,pronoun-thee-to-you
 1MA,12,45,18,thou,you,pronoun-thou-to-you
 1MA,12,45,28,thee,you,pronoun-thee-to-you
@@ -2354,6 +2356,7 @@ book,chapter,verse,word,kjv,modernized,rule
 1MA,13,37,23,stedfast,steadfast,spelling-stedfast-to-steadfast
 1MA,13,38,16,ye,you,pronoun-ye-to-you
 1MA,13,39,20,ye,you,pronoun-ye-to-you
+1MA,13,40,22,betwixt,between,spelling-betwixt-to-between
 1MA,13,46,15,thy,your,possessive-thy-to-your
 1MA,13,48,31,dwellingplace,dwelling place,split-dwellingplace
 1MA,13,50,27,thence,there,direction-thence-after-from-to-there
@@ -2400,6 +2403,7 @@ book,chapter,verse,word,kjv,modernized,rule
 1MA,15,41,13,an,a,article-an-to-a-before-consonant-sound
 1MA,16,3,7,ye,you,pronoun-ye-to-you
 1MA,16,3,17,ye,you,pronoun-ye-to-you
+1MA,16,5,33,betwixt,between,spelling-betwixt-to-between
 1MA,16,8,27,gat,got,verb-gat-to-got
 1MA,16,18,16,an,a,article-an-to-a-before-consonant-sound
 1MA,16,21,22,hath,has,verb-hath-to-has
@@ -3008,6 +3012,7 @@ book,chapter,verse,word,kjv,modernized,rule
 1SA,18,17,34,mine,my,possessive-mine-before-listed-word-to-my
 1SA,18,21,33,Thou,You,pronoun-thou-to-you
 1SA,18,21,34,shalt,shall,verb-shalt-to-shall
+1SA,18,21,47,twain,two,spelling-twain-to-two
 1SA,18,22,16,hath,has,verb-hath-to-has
 1SA,18,22,19,thee,you,pronoun-thee-to-you
 1SA,18,22,25,thee,you,pronoun-thee-to-you
@@ -4739,6 +4744,7 @@ book,chapter,verse,word,kjv,modernized,rule
 2ES,4,11,3,thy,your,possessive-thy-to-your
 2ES,4,18,2,thou,you,pronoun-thou-to-you
 2ES,4,18,3,wert,were,verb-wert-to-were
+2ES,4,18,6,betwixt,between,spelling-betwixt-to-between
 2ES,4,18,10,wouldest,would,verb-wouldest-to-would
 2ES,4,18,11,thou,you,pronoun-thou-to-you
 2ES,4,18,17,wouldest,would,verb-wouldest-to-would
@@ -4929,6 +4935,7 @@ book,chapter,verse,word,kjv,modernized,rule
 2ES,5,56,23,thy,your,possessive-thy-to-your
 2ES,6,7,30,followeth,follows,verb-followeth-to-follows
 2ES,6,9,17,followeth,follows,verb-followeth-to-follows
+2ES,6,10,6,betwixt,between,spelling-betwixt-to-between
 2ES,6,10,16,thou,you,pronoun-thou-to-you
 2ES,6,11,9,bearest,bear,verb-bearest-to-bear
 2ES,6,11,17,thy,your,possessive-thy-to-your
@@ -4980,6 +4987,7 @@ book,chapter,verse,word,kjv,modernized,rule
 2ES,6,41,5,thou,you,pronoun-thou-to-you
 2ES,6,41,6,madest,made,verb-madest-to-made
 2ES,6,41,13,commandedst,commanded,verb-commandedst-to-commanded
+2ES,6,41,23,betwixt,between,spelling-betwixt-to-between
 2ES,6,42,5,thou,you,pronoun-thou-to-you
 2ES,6,42,6,didst,did,verb-didst-to-did
 2ES,6,42,23,hast,have,verb-hast-to-have
@@ -5965,6 +5973,7 @@ book,chapter,verse,word,kjv,modernized,rule
 2KI,4,30,14,thy,your,possessive-thy-to-your
 2KI,4,30,16,liveth,lives,verb-liveth-to-lives
 2KI,4,30,21,thee,you,pronoun-thee-to-you
+2KI,4,33,11,twain,two,spelling-twain-to-two
 2KI,4,36,26,thy,your,possessive-thy-to-your
 2KI,4,40,29,thou,you,pronoun-thou-to-you
 2KI,4,43,11,an,a,article-an-to-a-before-consonant-sound
@@ -6601,6 +6610,7 @@ book,chapter,verse,word,kjv,modernized,rule
 2MA,10,3,33,shewbread,showbread,spelling-shewbread-to-showbread
 2MA,10,7,3,bare,bore,verb-bare-to-bore
 2MA,10,26,35,declareth,declares,verb-declareth-to-declares
+2MA,10,30,4,betwixt,between,spelling-betwixt-to-between
 2MA,10,35,34,withal,with,spelling-withal-at-phrase-end-to-with
 2MA,11,2,23,an,a,article-an-to-a-before-consonant-sound
 2MA,11,10,9,an,a,article-an-to-a-before-consonant-sound
@@ -6639,6 +6649,7 @@ book,chapter,verse,word,kjv,modernized,rule
 2MA,14,15,38,helpeth,helps,verb-helpeth-to-helps
 2MA,14,16,12,thence,there,direction-thence-after-from-to-there
 2MA,14,18,24,durst,dared,verb-durst-to-dared
+2MA,14,26,8,betwixt,between,spelling-betwixt-to-between
 2MA,14,32,4,sware,swore,verb-sware-to-swore
 2MA,14,33,18,ye,you,pronoun-ye-to-you
 2MA,14,35,1,Thou,You,pronoun-thou-to-you
@@ -12658,6 +12669,7 @@ EPH,2,12,5,ye,you,pronoun-ye-to-you
 EPH,2,13,6,ye,you,pronoun-ye-to-you
 EPH,2,14,7,hath,has,verb-hath-to-has
 EPH,2,14,12,hath,has,verb-hath-to-has
+EPH,2,15,22,twain,two,spelling-twain-to-two
 EPH,2,19,3,ye,you,pronoun-ye-to-you
 EPH,2,19,11,fellowcitizens,fellow citizens,split-fellowcitizens
 EPH,2,21,9,groweth,grows,verb-groweth-to-grows
@@ -15588,6 +15600,7 @@ EZK,21,16,17,thy,your,possessive-thy-to-your
 EZK,21,17,5,mine,my,possessive-mine-before-listed-word-to-my
 EZK,21,19,2,thou,you,pronoun-thou-to-you
 EZK,21,19,7,thee,you,pronoun-thee-to-you
+EZK,21,19,21,twain,two,spelling-twain-to-two
 EZK,21,19,31,thou,you,pronoun-thou-to-you
 EZK,21,24,3,saith,says,verb-saith-to-says
 EZK,21,24,8,ye,you,pronoun-ye-to-you
@@ -17364,6 +17377,7 @@ GEN,17,10,6,ye,you,pronoun-ye-to-you
 GEN,17,10,14,thy,your,possessive-thy-to-your
 GEN,17,10,17,thee,you,pronoun-thee-to-you
 GEN,17,11,2,ye,you,pronoun-ye-to-you
+GEN,17,11,19,betwixt,between,spelling-betwixt-to-between
 GEN,17,12,37,thy,your,possessive-thy-to-your
 GEN,17,13,6,thy,your,possessive-thy-to-your
 GEN,17,13,14,thy,your,possessive-thy-to-your
@@ -17579,6 +17593,7 @@ GEN,23,13,18,thou,you,pronoun-thou-to-you
 GEN,23,13,19,wilt,will,verb-wilt-to-will
 GEN,23,13,24,thee,you,pronoun-thee-to-you
 GEN,23,13,30,thee,you,pronoun-thee-to-you
+GEN,23,15,18,betwixt,between,spelling-betwixt-to-between
 GEN,23,15,21,thee,you,pronoun-thee-to-you
 GEN,23,15,24,thy,your,possessive-thy-to-your
 GEN,23,20,20,buryingplace,burying place,split-buryingplace
@@ -17738,6 +17753,8 @@ GEN,26,25,24,digged,dug,verb-digged-to-dug
 GEN,26,27,8,ye,you,pronoun-ye-to-you
 GEN,26,27,12,ye,you,pronoun-ye-to-you
 GEN,26,28,12,thee,you,pronoun-thee-to-you
+GEN,26,28,22,betwixt,between,spelling-betwixt-to-between
+GEN,26,28,25,betwixt,between,spelling-betwixt-to-between
 GEN,26,28,28,thee,you,pronoun-thee-to-you
 GEN,26,28,36,thee,you,pronoun-thee-to-you
 GEN,26,29,2,thou,you,pronoun-thou-to-you
@@ -17970,6 +17987,7 @@ GEN,30,32,6,thy,your,possessive-thy-to-your
 GEN,30,32,12,thence,there,direction-thence-after-from-to-there
 GEN,30,33,20,thy,your,possessive-thy-to-your
 GEN,30,34,12,thy,your,possessive-thy-to-your
+GEN,30,36,7,betwixt,between,spelling-betwixt-to-between
 GEN,30,37,14,chesnut,chestnut,spelling-chesnut-to-chestnut
 GEN,31,1,11,hath,has,verb-hath-to-has
 GEN,31,1,26,hath,has,verb-hath-to-has
@@ -18043,6 +18061,7 @@ GEN,31,37,9,hast,have,verb-hast-to-have
 GEN,31,37,10,thou,you,pronoun-thou-to-you
 GEN,31,37,14,thy,your,possessive-thy-to-your
 GEN,31,37,24,thy,your,possessive-thy-to-your
+GEN,31,37,30,betwixt,between,spelling-betwixt-to-between
 GEN,31,38,8,thee,you,pronoun-thee-to-you
 GEN,31,38,9,thy,your,possessive-thy-to-your
 GEN,31,38,12,thy,your,possessive-thy-to-your
@@ -18075,11 +18094,14 @@ GEN,31,50,2,thou,you,pronoun-thou-to-you
 GEN,31,50,3,shalt,shall,verb-shalt-to-shall
 GEN,31,50,9,thou,you,pronoun-thou-to-you
 GEN,31,50,10,shalt,shall,verb-shalt-to-shall
+GEN,31,50,26,betwixt,between,spelling-betwixt-to-between
 GEN,31,50,29,thee,you,pronoun-thee-to-you
+GEN,31,51,17,betwixt,between,spelling-betwixt-to-between
 GEN,31,51,20,thee,you,pronoun-thee-to-you
 GEN,31,52,19,thee,you,pronoun-thee-to-you
 GEN,31,52,22,thou,you,pronoun-thou-to-you
 GEN,31,52,23,shalt,shall,verb-shalt-to-shall
+GEN,31,53,16,betwixt,between,spelling-betwixt-to-between
 GEN,31,53,20,sware,swore,verb-sware-to-swore
 GEN,32,4,8,ye,you,pronoun-ye-to-you
 GEN,32,4,14,Thy,Your,possessive-thy-to-your
@@ -18101,6 +18123,7 @@ GEN,32,12,2,thou,you,pronoun-thou-to-you
 GEN,32,12,3,saidst,said,verb-saidst-to-said
 GEN,32,12,8,thee,you,pronoun-thee-to-you
 GEN,32,12,12,thy,your,possessive-thy-to-your
+GEN,32,16,28,betwixt,between,spelling-betwixt-to-between
 GEN,32,17,11,meeteth,meets,verb-meeteth-to-meets
 GEN,32,17,12,thee,you,pronoun-thee-to-you
 GEN,32,17,14,asketh,asks,verb-asketh-to-asks
@@ -19266,6 +19289,7 @@ ISA,4,3,17,remaineth,remains,verb-remaineth-to-remains
 ISA,5,1,7,wellbeloved,well-beloved,split-wellbeloved
 ISA,5,1,17,wellbeloved,well-beloved,split-wellbeloved
 ISA,5,1,18,hath,has,verb-hath-to-has
+ISA,5,3,15,betwixt,between,spelling-betwixt-to-between
 ISA,5,6,13,digged,dug,verb-digged-to-dug
 ISA,5,9,2,mine,my,possessive-mine-before-listed-word-to-my
 ISA,5,10,14,an,a,article-an-to-a-before-consonant-sound
@@ -19276,6 +19300,9 @@ ISA,5,24,11,consumeth,consumes,verb-consumeth-to-consumes
 ISA,5,25,14,hath,has,verb-hath-to-has
 ISA,5,25,22,hath,has,verb-hath-to-has
 ISA,5,25,32,carcases,carcasses,spelling-carcases-to-carcasses
+ISA,6,2,12,twain,two,spelling-twain-to-two
+ISA,6,2,19,twain,two,spelling-twain-to-two
+ISA,6,2,26,twain,two,spelling-twain-to-two
 ISA,6,5,32,mine,my,possessive-mine-before-listed-word-to-my
 ISA,6,7,12,hath,has,verb-hath-to-has
 ISA,6,7,14,thy,your,possessive-thy-to-your
@@ -22317,6 +22344,7 @@ JDT,13,4,40,mine,my,possessive-mine-before-listed-word-to-my
 JDT,13,5,8,thine,your,possessive-thine-default-to-your
 JDT,13,5,13,thine,your,possessive-thine-default-to-your
 JDT,13,6,21,thence,there,direction-thence-after-from-to-there
+JDT,13,10,12,twain,two,spelling-twain-to-two
 JDT,13,11,25,shew,show,spelling-shew-to-show
 JDT,13,11,39,hath,has,verb-hath-to-has
 JDT,13,14,19,hath,has,verb-hath-to-has
@@ -23863,6 +23891,7 @@ JER,34,16,20,ye,you,pronoun-ye-to-you
 JER,34,17,3,saith,says,verb-saith-to-says
 JER,34,17,6,Ye,You,pronoun-ye-to-you
 JER,34,17,33,saith,says,verb-saith-to-says
+JER,34,18,33,twain,two,spelling-twain-to-two
 JER,34,22,5,saith,says,verb-saith-to-says
 JER,35,5,25,ye,you,pronoun-ye-to-you
 JER,35,6,20,Ye,You,pronoun-ye-to-you
@@ -23995,6 +24024,7 @@ JER,38,25,42,thee,you,pronoun-thee-to-you
 JER,38,25,51,thee,you,pronoun-thee-to-you
 JER,38,26,2,thou,you,pronoun-thou-to-you
 JER,38,26,3,shalt,shall,verb-shalt-to-shall
+JER,39,4,43,betwixt,between,spelling-betwixt-to-between
 JER,39,8,17,brake,broke,verb-brake-to-broke
 JER,39,12,23,thee,you,pronoun-thee-to-you
 JER,39,16,10,saith,says,verb-saith-to-says
@@ -26002,6 +26032,7 @@ JOB,9,28,12,wilt,will,verb-wilt-to-will
 JOB,9,31,2,shalt,shall,verb-shalt-to-shall
 JOB,9,31,3,thou,you,pronoun-thou-to-you
 JOB,9,31,10,mine,my,possessive-mine-before-listed-word-to-my
+JOB,9,33,6,betwixt,between,spelling-betwixt-to-between
 JOB,10,2,10,shew,show,spelling-shew-to-show
 JOB,10,2,13,thou,you,pronoun-thou-to-you
 JOB,10,2,14,contendest,contend,verb-contendest-to-contend
@@ -26820,6 +26851,7 @@ JOB,36,31,9,giveth,gives,verb-giveth-to-gives
 JOB,36,32,4,covereth,covers,verb-covereth-to-covers
 JOB,36,32,8,commandeth,commands,verb-commandeth-to-commands
 JOB,36,32,17,cometh,comes,verb-cometh-to-comes
+JOB,36,32,18,betwixt,between,spelling-betwixt-to-between
 JOB,36,33,4,sheweth,shows,spelling-sheweth-to-shows
 JOB,37,1,6,trembleth,trembles,verb-trembleth-to-trembles
 JOB,37,2,12,goeth,goes,verb-goeth-to-goes
@@ -30170,6 +30202,7 @@ MAT,5,40,14,thy,your,possessive-thy-to-your
 MAT,5,40,19,thy,your,possessive-thy-to-your
 MAT,5,40,20,cloke,cloak,spelling-cloke-to-cloak
 MAT,5,41,5,thee,you,pronoun-thee-to-you
+MAT,5,41,13,twain,two,spelling-twain-to-two
 MAT,5,42,5,asketh,asks,verb-asketh-to-asks
 MAT,5,42,6,thee,you,pronoun-thee-to-you
 MAT,5,42,14,thee,you,pronoun-thee-to-you
@@ -30723,6 +30756,8 @@ MAT,18,33,10,fellowservant,fellow servant,split-fellowservant
 MAT,18,33,17,thee,you,pronoun-thee-to-you
 MAT,18,35,12,ye,you,pronoun-ye-to-you
 MAT,19,4,9,ye,you,pronoun-ye-to-you
+MAT,19,5,21,twain,two,spelling-twain-to-two
+MAT,19,6,6,twain,two,spelling-twain-to-two
 MAT,19,6,13,hath,has,verb-hath-to-has
 MAT,19,8,2,saith,says,verb-saith-to-says
 MAT,19,9,21,committeth,commits,verb-committeth-to-commits
@@ -30824,6 +30859,7 @@ MAT,21,23,37,thee,you,pronoun-thee-to-you
 MAT,21,24,17,ye,you,pronoun-ye-to-you
 MAT,21,25,32,ye,you,pronoun-ye-to-you
 MAT,21,28,4,ye,you,pronoun-ye-to-you
+MAT,21,31,4,twain,two,spelling-twain-to-two
 MAT,21,31,18,saith,says,verb-saith-to-says
 MAT,21,32,12,ye,you,pronoun-ye-to-you
 MAT,21,32,25,ye,you,pronoun-ye-to-you
@@ -31128,6 +31164,7 @@ MAT,27,13,7,thou,you,pronoun-thou-to-you
 MAT,27,13,15,thee,you,pronoun-thee-to-you
 MAT,27,17,13,ye,you,pronoun-ye-to-you
 MAT,27,19,17,thou,you,pronoun-thou-to-you
+MAT,27,21,11,twain,two,spelling-twain-to-two
 MAT,27,21,13,ye,you,pronoun-ye-to-you
 MAT,27,22,2,saith,says,verb-saith-to-says
 MAT,27,23,8,hath,has,verb-hath-to-has
@@ -31141,6 +31178,7 @@ MAT,27,46,26,hast,have,verb-hast-to-have
 MAT,27,46,27,thou,you,pronoun-thou-to-you
 MAT,27,47,14,calleth,calls,verb-calleth-to-calls
 MAT,27,48,10,spunge,sponge,spelling-spunge-to-sponge
+MAT,27,51,11,twain,two,spelling-twain-to-two
 MAT,27,65,5,Ye,You,pronoun-ye-to-you
 MAT,27,65,17,ye,you,pronoun-ye-to-you
 MAT,28,5,12,ye,you,pronoun-ye-to-you
@@ -31630,6 +31668,8 @@ MRK,9,48,4,dieth,dies,verb-dieth-to-dies
 MRK,9,50,14,ye,you,pronoun-ye-to-you
 MRK,10,1,5,thence,there,direction-thence-after-from-to-there
 MRK,10,1,7,cometh,comes,verb-cometh-to-comes
+MRK,10,8,3,twain,two,spelling-twain-to-two
+MRK,10,8,14,twain,two,spelling-twain-to-two
 MRK,10,9,4,hath,has,verb-hath-to-has
 MRK,10,11,3,saith,says,verb-saith-to-says
 MRK,10,11,15,committeth,commits,verb-committeth-to-commits
@@ -31887,6 +31927,7 @@ MRK,15,34,26,hast,have,verb-hast-to-have
 MRK,15,34,27,thou,you,pronoun-thou-to-you
 MRK,15,35,15,calleth,calls,verb-calleth-to-calls
 MRK,15,36,7,spunge,sponge,spelling-spunge-to-sponge
+MRK,15,38,10,twain,two,spelling-twain-to-two
 MRK,16,6,3,saith,says,verb-saith-to-says
 MRK,16,6,9,Ye,You,pronoun-ye-to-you
 MRK,16,7,12,goeth,goes,verb-goeth-to-goes
@@ -33364,6 +33405,7 @@ PHP,1,7,36,ye,you,pronoun-ye-to-you
 PHP,1,10,2,ye,you,pronoun-ye-to-you
 PHP,1,10,10,ye,you,pronoun-ye-to-you
 PHP,1,12,4,ye,you,pronoun-ye-to-you
+PHP,1,23,7,betwixt,between,spelling-betwixt-to-between
 PHP,1,27,8,becometh,becomes,verb-becometh-to-becomes
 PHP,1,27,31,ye,you,pronoun-ye-to-you
 PHP,1,30,6,ye,you,pronoun-ye-to-you
@@ -40872,6 +40914,7 @@ SNG,1,11,4,thee,you,pronoun-thee-to-you
 SNG,1,12,4,sitteth,sits,verb-sitteth-to-sits
 SNG,1,12,10,sendeth,sends,verb-sendeth-to-sends
 SNG,1,13,7,wellbeloved,well-beloved,split-wellbeloved
+SNG,1,13,15,betwixt,between,spelling-betwixt-to-between
 SNG,1,15,2,thou,you,pronoun-thou-to-you
 SNG,1,15,3,art,are,verb-art-to-are
 SNG,1,15,8,thou,you,pronoun-thou-to-you

@@ -2,6 +2,12 @@
 
 ## Unreleased
 
+- **Twain → two** (18 places) and **betwixt → between** (25 places). Both are old forms of the
+  words we use, not different words: *twain* is the old form of *two* ("rent in twain" → "rent in
+  two", "with twain he covered his face" → "with two he covered his face"), and *betwixt* is a
+  sister form of *between*. Each has exactly one modern form, so no synonym is chosen.
+  `unchanged.md` no longer lists them.
+
 - **Vail → veil** (38 places, and "vails" → "veils" in Isaiah 3:23).
 - **An → a before a consonant sound**: "an Hebrew" → "a Hebrew", "an hundred" → "a hundred", "such an one"
   → "such a one", "an unicorn" → "a unicorn". "An" stays where the h is silent or the word opens on a vowel

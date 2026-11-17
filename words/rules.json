@@ -2,7 +2,7 @@
  "name": "Topaz Bible — KJV Modernized Word Forms",
  "licence": "CC0-1.0",
  "source_profile": "eng.bible.kjv.modernized",
- "package_version": "1.4-primary.20261105.187.1",
+ "package_version": "1.4-primary.20261110.482.2",
  "mode": "display_only",
  "matching": {
   "token_field": "t",
@@ -33,9 +33,9 @@
   "after_punctuation_present": "Matched token's after-punctuation field (`a`) must be non-empty."
  },
  "stats": {
-  "tokens_in_kjv": 931532,
-  "tokens_changed": 42147,
-  "rules": 1234,
+  "tokens_in_kjv": 931520,
+  "tokens_changed": 42190,
+  "rules": 1236,
   "location_overrides": 108
  },
  "rules": [
@@ -9706,6 +9706,28 @@
    }
   },
   {
+   "id": "spelling-twain-to-two",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "twain"
+   },
+   "replace": {
+    "text": "two"
+   }
+  },
+  {
+   "id": "spelling-betwixt-to-between",
+   "enabled": true,
+   "category": "spelling",
+   "match": {
+    "text": "betwixt"
+   },
+   "replace": {
+    "text": "between"
+   }
+  },
+  {
    "id": "article-an-to-a-before-consonant-sound",
    "enabled": true,
    "category": "spelling",
@@ -15884,6 +15906,7 @@
   "spelling-payed-to-paid": 3,
   "verb-satest-to-sat": 3,
   "verb-liftest-to-lift": 5,
+  "spelling-betwixt-to-between": 25,
   "split-saltpits": 2,
   "verb-becometh-to-becomes": 22,
   "verb-succoureth-to-succours": 1,
@@ -15917,6 +15940,7 @@
   "verb-forgat-to-forgot": 9,
   "verb-repenteth-to-repents": 5,
   "spelling-carcases-to-carcasses": 23,
+  "spelling-twain-to-two": 18,
   "verb-sawest-to-saw": 44,
   "verb-herdmen-to-herdsmen": 8,
   "verb-slewest-to-slew": 1,

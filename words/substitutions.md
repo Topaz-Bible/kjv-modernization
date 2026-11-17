@@ -1,8 +1,8 @@
 # Every word the modernized KJV changes
 
-The Topaz Bible's “Modern overlay” option changes **42,147** of the KJV's **931,532** words (about 4.5%). It uses 1,234 word rules and 108 single-verse exceptions. The underlying text never changes: switch the option off and every word is back to the King James text.
+The Topaz Bible's “Modern overlay” option changes **42,190** of the KJV's **931,520** words (about 4.5%). It uses 1,236 word rules and 108 single-verse exceptions. The underlying text never changes: switch the option off and every word is back to the King James text.
 
-Counts are how many times each change happens in the KJV, Apocrypha included. Generated from KJV package 1.4-primary.20261105.187.1.
+Counts are how many times each change happens in the KJV, Apocrypha included. Generated from KJV package 1.4-primary.20261110.482.2.
 
 ## At a glance
 
@@ -13,7 +13,7 @@ Counts are how many times each change happens in the KJV, Apocrypha included. Ge
 | Third-person “-eth” verbs (believeth → believes) | 687 | 5,759 |
 | Second-person “-est” verbs (thou knowest → you know) | 340 | 1,469 |
 | Old past tenses (spake → spoke, bare → bore) | 82 | 1,305 |
-| Old spellings (shew → show) | 94 | 1,871 |
+| Old spellings (shew → show) | 96 | 1,914 |
 | Here, there and where (hither → here, from thence → from there) | 7 | 474 |
 | Single-verse exceptions | 108 | 93 changed, the rest kept as written |
 
@@ -157,6 +157,7 @@ Same word, modern spelling.
 | carcase | carcass |  | 35 |
 | brasen | brazen |  | 29 |
 | alway | always |  | 27 |
+| betwixt | between |  | 25 |
 | recompence | recompense |  | 25 |
 | sheweth | shows |  | 25 |
 | musick | music |  | 24 |
@@ -168,6 +169,7 @@ Same word, modern spelling.
 | shewbread | showbread |  | 20 |
 | shewing | showing |  | 19 |
 | basons | basins |  | 18 |
+| twain | two |  | 18 |
 | stedfast | steadfast |  | 15 |
 | stablish | establish |  | 13 |
 | throughly | thoroughly |  | 12 |
