@@ -164,6 +164,27 @@ both as "he". See [`capitals/review.md`](capitals/review.md).
   says only "Cain talked with Abel his brother".
 - **Terms the KJV words differently.** The BSB quotes "Yes" and "No" in James 5:12; the KJV's "let your
   yea be yea" has no quoted term.
+- **Sayings whose end is disputed.** Where the KJV's own punctuation runs a saying on past the point
+  where modern Bibles close it, and the modern Bibles don't agree among themselves either, there are no
+  quotation marks at all. Choosing an end would be interpreting the text, not modernizing its form,
+  and plain text can't mislead. Found by checking every quote that ends partway through a KJV sentence
+  (2026-11-27):
+  - Psalm 16:2–3. "Thou art my Lord: my goodness extendeth not to thee; But to the saints that are in
+    the earth… in whom is all my delight." The KJV keeps going through verse 3 as one sentence; modern
+    Bibles end the saying at verse 2.
+  - Psalm 140:6. "Thou art my God: hear the voice of my supplications, O LORD." The second half still
+    speaks to God. The ESV quotes the whole verse, the NIV only "You are my God."
+  - Psalm 96:10. "Say among the heathen that the LORD reigneth: the world also shall be established…"
+    The message may run on through the verse (ESV) or stop at "reigneth" (NIV).
+  - Song of Songs 7:8. "I said, I will go up to the palm tree, I will take hold of the boughs thereof:
+    now also thy breasts…" The KJV gives no sign of where "I said" stops.
+  - Zechariah 11:13. "Cast it unto the potter: a goodly price that I was prised at of them." This can
+    read as the LORD still speaking, ironically (ESV), or as the prophet's own aside.
+  - James 2:18. "Yea, a man may say, Thou hast faith, and I have works: shew me thy faith…" Where the
+    objector stops speaking is a well-known open question.
+
+  Jesus's words in John 3:16–21 are disputed in the same way, but they keep their quote, because they
+  follow the KJV's own red letters.
 
 ## Layout
 

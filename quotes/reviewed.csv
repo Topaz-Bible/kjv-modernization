@@ -167,7 +167,7 @@ NEH,008.006:014,008.006:015,ship,end checked by hand: the narrator or writer tak
 PSA,027.008:004,027.008:007,ship,end checked by hand: the narrator or writer takes over after the colon or comma,,,
 PSA,074.008:006,074.008:010,ship,end checked by hand: the narrator or writer takes over after the colon or comma,,,
 PSA,094.018:004,094.018:006,ship,end checked by hand: the narrator or writer takes over after the colon or comma,,,
-PSA,096.010:001,096.010:008,ship,end checked by hand: the narrator or writer takes over after the colon or comma,,,
+PSA,096.010:001,096.010:008,drop,"contested end (EJ 2026-11-27): the message may run on through the verse (ESV) or stop at ""reigneth"" (NIV); the KJV's colon doesn't settle it. Left unquoted",,,
 PRO,003.028:006,003.028:015,ship,end checked by hand: the narrator or writer takes over after the colon or comma,,,
 PRO,009.004:001,009.004:008,ship,end checked by hand: the narrator or writer takes over after the colon or comma,,,
 PRO,020.022:004,020.022:007,ship,end checked by hand: the narrator or writer takes over after the colon or comma,,,
@@ -175,7 +175,7 @@ PRO,024.012:004,024.012:008,ship,end checked by hand: the narrator or writer tak
 PRO,024.024:007,024.024:009,ship,end checked by hand: the narrator or writer takes over after the colon or comma,,,
 PRO,025.007:011,025.007:013,ship,end checked by hand: the narrator or writer takes over after the colon or comma,,,
 PRO,028.024:010,028.024:013,ship,end checked by hand: the narrator or writer takes over after the colon or comma,,,
-SNG,007.008:003,007.008:018,ship,end checked by hand: the narrator or writer takes over after the colon or comma,,,
+SNG,007.008:003,007.008:018,drop,"contested end (EJ 2026-11-27): the KJV runs on past ""the boughs thereof:"" into ""now also thy breasts…""; where ""I said"" ends is a reading. Left unquoted",,,
 ISA,001.018:011,001.020:013,ship,end checked by hand: the narrator or writer takes over after the colon or comma,,,
 ISA,016.003:001,016.004:019,ship,end checked by hand: the narrator or writer takes over after the colon or comma,,,
 ISA,021.016:009,021.017:019,ship,end checked by hand: the narrator or writer takes over after the colon or comma,,,
@@ -196,7 +196,7 @@ JOL,003.009:007,003.021:011,ship,end checked by hand: the narrator or writer tak
 OBA,001.005:001,001.018:044,fix,"audit 2026-11-09: ""saith the Lord"" stays outside the quote (WEB)",001.005:001,001.008:006,
 NAM,002.009:001,002.009:011,ship,end checked by hand: the narrator or writer takes over after the colon or comma,,,
 ZEP,002.015:014,002.015:021,ship,end checked by hand: the narrator or writer takes over after the colon or comma,,,
-ZEC,011.013:007,011.013:011,ship,end checked by hand: the narrator or writer takes over after the colon or comma,,,
+ZEC,011.013:007,011.013:011,drop,"contested end (EJ 2026-11-27): ""a goodly price that I was prised at of them"" reads as the Lord still speaking (ESV) or as the prophet (others). Left unquoted",,,
 MAT,021.015:024,021.015:029,ship,end checked by hand: the narrator or writer takes over after the colon or comma,,,
 MRK,002.008:019,002.010:017,ship,end checked by hand: the narrator or writer takes over after the colon or comma,,,
 MRK,014.031:007,014.031:012,fix,"the sentence runs on to ""wise.""",014.031:007,014.031:020,
@@ -940,7 +940,7 @@ JHN,001.038:019,001.038:019,drop,"BSB boundary check: one quote, the gloss insid
 2CO,010.010:001,010.010:019,fix,BSB boundary check: Paul’s “For” stays outside; “say they” splits it,010.010:002,010.010:003,1
 2CO,010.010:006,010.010:019,add,BSB boundary check: Paul’s “For” stays outside; “say they” splits it,,,
 ROM,004.022:001,004.022:009,fix,BSB boundary check: Paul’s “And therefore” stays outside,004.022:003,004.022:009,1
-PSA,096.010:001,096.010:008,fix,BSB boundary check: quote after the lowered “that”,096.010:006,096.010:008,1
+PSA,096.010:001,096.010:008,drop,"contested end (EJ 2026-11-27): the message may run on through the verse (ESV) or stop at ""reigneth"" (NIV); the KJV's colon doesn't settle it. Left unquoted",,,1
 1CO,010.026:001,010.026:010,fix,BSB boundary check: the writer’s own connecting word stays outside the Scripture he quotes,010.026:002,010.026:010,1
 1CO,015.027:001,015.027:009,fix,BSB boundary check: the writer’s own connecting word stays outside the Scripture he quotes,015.027:002,015.027:009,1
 HEB,010.037:001,010.038:021,fix,BSB boundary check: the writer’s own connecting word stays outside the Scripture he quotes,010.037:002,010.038:021,1
@@ -1131,7 +1131,7 @@ MRK,003.022:014,003.022:023,add,audit 2026-11-09: the second charge,,,
 MRK,008.019:023,008.019:023,add,audit 2026-11-09: the disciples' answer (BSB; WEB in v20),,,
 JHN,004.027:023,004.027:027,add,audit 2026-11-09: the second question,,,
 ROM,009.025:007,009.025:017,fix,"audit 2026-11-09: the Hosea citation runs to ""not beloved"" (WEB, BSB)",009.025:007,009.025:024,
-JAS,002.018:006,002.018:029,fix,"audit 2026-11-09: the objector says only ""Thou hast faith, and I have works"" (WEB, BSB)",002.018:006,002.018:012,
+JAS,002.018:006,002.018:029,drop,contested end (EJ 2026-11-27): where the objector stops speaking is a known open question; the KJV's colon carries on. Left unquoted,,,
 REV,007.012:002,007.012:023,fix,"audit 2026-11-09: the closing Amen is theirs too (WEB, BSB)",007.012:002,007.012:024,
 GEN,026.028:016,026.029:038,drop,audit 2026-11-09: their oath words become an inner quote of their speech,,,
 GEN,026.028:004,026.028:012,fix,"audit 2026-11-09: ""and we said, Let there be an oath…"" is still the Philistines speaking (WEB)",026.028:004,026.029:038,
@@ -1386,3 +1386,5 @@ ZEC,003.010:009,003.010:023,add,audit 2026-11-09: the Lord's words after the tag
 ZEC,004.007:001,004.007:028,add,audit 2026-11-09: the Lord's words after the tag (WEB),,,2
 ACT,007.049:001,007.050:008,fix,"audit 2026-11-09: ""saith the Lord"" stays outside the inner quote (WEB)",007.049:001,007.049:015,2
 ACT,007.049:019,007.050:008,add,audit 2026-11-09: the Lord's words after the tag (WEB),,,2
+PSA,016.002:010,016.002:019,drop,"contested end (EJ 2026-11-27): the KJV runs one sentence on through v3 (""…extendeth not to thee; But to the saints… my delight.""); modern Bibles end at v2. Left unquoted",,,
+PSA,140.006:006,140.006:009,drop,"contested end (EJ 2026-11-27): ""hear the voice of my supplications, O LORD"" is still addressed to God; ESV quotes the whole verse, NIV only ""Thou art my God"". Left unquoted",,,
