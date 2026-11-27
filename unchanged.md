@@ -183,9 +183,6 @@ both as "he". See [`capitals/review.md`](capitals/review.md).
   - James 2:18. "Yea, a man may say, Thou hast faith, and I have works: shew me thy faith…" Where the
     objector stops speaking is a well-known open question.
 
-  Jesus's words in John 3:16–21 are disputed in the same way, but they keep their quote, because they
-  follow the KJV's own red letters.
-
 ## Layout
 
 Every paragraph, poetry line and stanza break of the Cambridge Paragraph Bible stays in the package.
